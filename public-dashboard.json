@@ -1,56 +1,46 @@
 {
   "title": "Logistics Monitoring Board",
-  "date": "2026-03-19",
-  "last_updated": "2026-03-19 16:34",
+  "date": "2026-03-20",
+  "last_updated": "2026-03-20 08:30",
   "critical_alerts": [
     {
-      "title": "Barcelona rail tunnel shutdown forces extended diversions and disrupts cross‑border services",
-      "summary": "A seven‑week closure of the Rubí tunnel is halting freight movements between Barcelona and France, extending journeys and pushing trains onto longer diversion routes",
-      "source": "myKN Alert",
-      "timestamp": "2026-03-17T10:30:53+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://mykn.kuehne-nagel.com/news/article/barcelona-rail-tunnel-shutdown-forces",
-      "category": "urgent_operational_alerts"
-    },
-    {
-      "title": "Hormuz closure forces costly liner detours as Gulf logistics tighten",
-      "summary": "Vessels diverted from the Strait of Hormuz are converging on alternative ports across Asia and the Middle East, driving congestion and stretching inland transport networks",
-      "source": "myKN Alert",
-      "timestamp": "2026-03-17T09:08:02+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://mykn.kuehne-nagel.com/news/article/hormuz-closure-forces-costly-liner-detours-as",
-      "category": "urgent_operational_alerts"
-    },
-    {
-      "title": "North Europe: Inland Emergency Fuel & Energy Surcharges Introduction",
-      "summary": "North Europe: Inland Emergency Fuel & Energy Surcharges - Introduction At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient.",
+      "title": "Italy: Intermodal transport rate adjustment for Lorenzini and PSA SECH",
+      "summary": "We want to make sure that you keep yourself updated with the latest charges for your preferred origin and destination countries.",
       "source": "Hapag-Lloyd",
-      "timestamp": "2026-03-17T15:00:00+00:00",
+      "timestamp": "2026-03-19T13:05:00+00:00",
       "confidence": "high",
       "tier": "high-trust",
-      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/introduction-of-emergency-fuel---energy-surcharges--inland----no.feed.rss.xml",
+      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/-italy--intermodal-transport-rate-adjustment-to-lorenzini---sech.feed.rss.xml",
       "category": "urgent_operational_alerts"
     },
     {
-      "title": "Portugal & Spain: Inland Emergency Fuel & Energy Surcharges Introduction",
-      "summary": "Portugal & Spain: Inland Emergency Fuel & Energy Surcharges - Introduction At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient",
+      "title": "Italy: Inland Emergency Fuel & Energy Surcharges Introduction",
+      "summary": "Italy: Inland Emergency Fuel & Energy Surcharges - Introduction At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient.",
       "source": "Hapag-Lloyd",
-      "timestamp": "2026-03-17T07:35:00+00:00",
+      "timestamp": "2026-03-19T10:47:00+00:00",
       "confidence": "high",
       "tier": "high-trust",
-      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/introduction-of-emergency-fuel---energy-surcharges--inland-.feed.rss.xml",
+      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/italy---inland-fuel-cost-advisory-.feed.rss.xml",
       "category": "urgent_operational_alerts"
     },
     {
-      "title": "Strait of Hormuz - Situation update 17 March",
-      "summary": "Regional cargo flows shift as carriers reroute and security risks persist",
+      "title": "Port operational updates from around the world (14 - 19 March 2026)",
+      "summary": "Carriers' cargo rerouting in the Middle East causes land transport constraints, and Spain faces a seven‑week closure of the Rubí railway tunnel",
       "source": "myKN Alert",
-      "timestamp": "2026-03-17T13:11:18+00:00",
+      "timestamp": "2026-03-19T15:18:48+00:00",
       "confidence": "high",
       "tier": "high-trust",
-      "link": "https://mykn.kuehne-nagel.com/news/article/strait-of-hormuz--situation-update-17-03-2026",
+      "link": "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-19-03-2026",
+      "category": "urgent_operational_alerts"
+    },
+    {
+      "title": "Lebanon: Update of Payment Terms for Local Surcharges",
+      "summary": "With your cargo planning in mind, please note the following update for shipments related to Lebanon.",
+      "source": "Hapag-Lloyd",
+      "timestamp": "2026-03-18T12:57:00+00:00",
+      "confidence": "high",
+      "tier": "high-trust",
+      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/lebanon--update-of-payment-terms-for-local-surcharges.feed.rss.xml",
       "category": "urgent_operational_alerts"
     }
   ],
@@ -58,51 +48,40 @@
   "developing_signals": [
     {
       "term": "port",
-      "count": 42,
-      "high_trust_count": 6,
+      "count": 22,
+      "high_trust_count": 4,
       "examples": [
-        "Strait of Hormuz - Situation update 17 March",
-        "Barcelona rail tunnel shutdown forces extended diversions and disrupts cross‑border services",
-        "Hormuz closure forces costly liner detours as Gulf logistics tighten"
-      ]
-    },
-    {
-      "term": "rail",
-      "count": 5,
-      "high_trust_count": 3,
-      "examples": [
-        "Barcelona rail tunnel shutdown forces extended diversions and disrupts cross‑border services",
-        "Stolen Cargo Help.",
-        "Japans Pacifist Era Is Ending... and Markets Havent Priced the Second-Order Effects"
-      ]
-    },
-    {
-      "term": "hormuz",
-      "count": 7,
-      "high_trust_count": 2,
-      "examples": [
-        "Strait of Hormuz - Situation update 17 March",
-        "Hormuz closure forces costly liner detours as Gulf logistics tighten",
-        "India- LPG imports and the lesson !"
+        "Port operational updates from around the world (14 - 19 March 2026)",
+        "5 months in as a freight broker and I finally got a real complex load to work on",
+        "Integrated Cargo Systems (ICS)"
       ]
     },
     {
       "term": "surcharge",
-      "count": 5,
+      "count": 3,
       "high_trust_count": 2,
       "examples": [
-        "Catch up on what happened this week in Logistics: March 10-16, 2026",
-        "Is it just me, or is the \"Red Sea surcharge\" becoming the new \"Peak Season\" excuse for everything?",
-        "Do you charge by items' HTS codes or ACE entry lines?"
+        "Simplifying Air Freight from China to Europe, USA & Middle East",
+        "Italy: Inland Emergency Fuel & Energy Surcharges Introduction",
+        "Lebanon: Update of Payment Terms for Local Surcharges"
       ]
     },
     {
-      "term": "congestion",
+      "term": "intermodal",
       "count": 2,
-      "high_trust_count": 1,
+      "high_trust_count": 2,
       "examples": [
-        "Hormuz closure forces costly liner detours as Gulf logistics tighten",
-        "Dry bulk (grains) how do you manage congestion risk upfront?"
+        "Port operational updates from around the world (14 - 19 March 2026)",
+        "Italy: Intermodal transport rate adjustment for Lorenzini and PSA SECH"
+      ]
+    },
+    {
+      "term": "rail",
+      "count": 2,
+      "high_trust_count": 2,
+      "examples": [
+        "Port operational updates from around the world (14 - 19 March 2026)",
+        "Italy: Inland Emergency Fuel & Energy Surcharges Introduction"
       ]
     },
     {
@@ -110,61 +89,71 @@
       "count": 4,
       "high_trust_count": 0,
       "examples": [
-        "Can you people please secure your packages? You cannot ship something that weighs 20 pounds with 1 pathetic piece of tape. Got it?",
-        "Whats the most underestimated part of international product sourcing?",
-        "What should I look for when choosing a trucking company in Calgary?"
+        "Gas Crisis in Hot Forging Components",
+        "Simplifying Air Freight from China to Europe, USA & Middle East",
+        "Shipping and Maneuvering: Docking a 400-Meter Container Ship How Hard Is It Really?"
+      ]
+    },
+    {
+      "term": "hormuz",
+      "count": 4,
+      "high_trust_count": 0,
+      "examples": [
+        "Strait of Hormuz traffic near standstill",
+        "Thoughts on the attacks on South Pars and Ras Laffan why this may prove to be a very large black swan event that lasts a really long time.",
+        "First hand account: Capt in the Hormuz on the hardship of sailors in these times"
       ]
     }
   ],
   "community_watchlist": [
     {
-      "title": "Whats the most underestimated part of international product sourcing?",
-      "summary": "What’s the most underestimated part of international product sourcing?",
+      "title": "Washington Just Declared War on Chinas Shipyards: 3 Stocks That Could Benefit",
+      "summary": "Washington Just Declared War on China’s Shipyards: 3 Stocks That Could Benefit For years, investors have been trained to look for the “next big thing” in software.",
       "source": "Reddit",
-      "timestamp": "2026-03-17T14:53:54+00:00",
+      "timestamp": "2026-03-19T12:44:56+00:00",
       "confidence": "watch",
       "tier": "community",
-      "link": "https://old.reddit.com/r/logistics/comments/1rw8rsg/whats_the_most_underestimated_part_of/",
-      "category": "lower_priority_noise"
-    },
-    {
-      "title": "Catch up on what happened this week in Logistics: March 10-16, 2026",
-      "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week so you're always up to date.",
-      "source": "Reddit",
-      "timestamp": "2026-03-17T19:08:44+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/logistics/comments/1rwg3x2/catch_up_on_what_happened_this_week_in_logistics/",
-      "category": "lower_priority_noise"
-    },
-    {
-      "title": "Are you an American sailor angry about the 60 day Jones Act waiver?",
-      "summary": "Navy veteran and the spouse of a 2/M, and I'm livid by the 60 day Jones Act waiver approved today.",
-      "source": "Reddit",
-      "timestamp": "2026-03-18T21:15:21+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/maritime/comments/1rxgle3/are_you_an_american_sailor_angry_about_the_60_day/",
-      "category": "lower_priority_noise"
-    },
-    {
-      "title": "India- LPG imports and the lesson !",
-      "summary": "Two ships - Shivalik and Nandadevi - has crossed Hormuz to reach India ..",
-      "source": "Reddit",
-      "timestamp": "2026-03-17T13:57:18+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/shipping/comments/1rw798u/india_lpg_imports_and_the_lesson/",
+      "link": "https://old.reddit.com/r/maritime/comments/1rxzfgv/washington_just_declared_war_on_chinas_shipyards/",
       "category": "noteworthy_items_today"
     },
     {
-      "title": "China Pakistan DDP Freight Services Now Open! Full Door-to-Door, All Duties Paid.",
-      "summary": "China → Pakistan DDP Freight Services Now Open!",
+      "title": "Simplifying Air Freight from China to Europe, USA & Middle East",
+      "summary": "I wanted to start a thread to share insights and experiences about air freight services from China to Europe, the US, and the Middle East.",
       "source": "Reddit",
-      "timestamp": "2026-03-17T01:27:40+00:00",
+      "timestamp": "2026-03-19T09:13:55+00:00",
       "confidence": "watch",
       "tier": "community",
-      "link": "https://old.reddit.com/r/freightforwarding/comments/1rvsx6k/china_pakistan_ddp_freight_services_now_open_full/",
+      "link": "https://old.reddit.com/r/freightforwarding/comments/1rxvift/simplifying_air_freight_from_china_to_europe_usa/",
+      "category": "noteworthy_items_today"
+    },
+    {
+      "title": "Thoughts on the attacks on South Pars and Ras Laffan why this may prove to be a very large black swan event that lasts a really long time.",
+      "summary": "The South Pars Gas field in the Persian Gulf is by far the most important natural gas field in the world.",
+      "source": "Reddit",
+      "timestamp": "2026-03-19T10:50:54+00:00",
+      "confidence": "watch",
+      "tier": "community",
+      "link": "https://old.reddit.com/r/supplychain/comments/1rxx5zj/thoughts_on_the_attacks_on_south_pars_and_ras/",
+      "category": "lower_priority_noise"
+    },
+    {
+      "title": "White House suspends the Jones Act for 60 days. Analysts see a gas price impact of 3 cents",
+      "summary": "and Israel’s war against Iran continues to upend energy markets and supply chains worldwide, the Trump administration says it will temporarily waive maritime shipping requirements ",
+      "source": "Reddit",
+      "timestamp": "2026-03-19T16:02:17+00:00",
+      "confidence": "watch",
+      "tier": "community",
+      "link": "https://old.reddit.com/r/maritime/comments/1ry4fmu/white_house_suspends_the_jones_act_for_60_days/",
+      "category": "noteworthy_items_today"
+    },
+    {
+      "title": "Strait of Hormuz traffic near standstill",
+      "summary": "Transit activity through the Strait of Hormuz remains severely constrained, with only four vessel movements recorded over the past two days — 3 crude oil tankers and one LPG carrie",
+      "source": "Reddit",
+      "timestamp": "2026-03-19T16:21:47+00:00",
+      "confidence": "watch",
+      "tier": "community",
+      "link": "https://old.reddit.com/r/maritime/comments/1ry4y7s/strait_of_hormuz_traffic_near_standstill/",
       "category": "lower_priority_noise"
     }
   ]
