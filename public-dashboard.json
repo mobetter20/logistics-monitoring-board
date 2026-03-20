@@ -1,160 +1,194 @@
 {
-  "title": "Logistics Monitoring Board",
-  "date": "2026-03-20",
-  "last_updated": "2026-03-20 08:30",
-  "critical_alerts": [
+  "title": "Internal Logistics Signals Board",
+  "date": "2026-03-21",
+  "last_updated": "2026-03-21 08:31",
+  "source_snapshot": {
+    "total_items": 28,
+    "high_trust": 4,
+    "trade_press": 9,
+    "community": 15
+  },
+  "hot_topics": [
     {
-      "title": "Italy: Intermodal transport rate adjustment for Lorenzini and PSA SECH",
-      "summary": "We want to make sure that you keep yourself updated with the latest charges for your preferred origin and destination countries.",
-      "source": "Hapag-Lloyd",
-      "timestamp": "2026-03-19T13:05:00+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/-italy--intermodal-transport-rate-adjustment-to-lorenzini---sech.feed.rss.xml",
-      "category": "urgent_operational_alerts"
+      "term": "Fuel / energy pressure",
+      "topic_id": "fuel_energy_pressure",
+      "today_count": 8,
+      "baseline_avg": 0,
+      "source_mix": "high-trust, trade-press, community",
+      "examples": [
+        "How Trumps pause of shipping law could hurt U.S.-flag carriers",
+        "Drewry WCI rises 2% to $2,172 as Transpacific rates lead the charge",
+        "MSC announces Emergency Fuel Surcharge for EuropeIndian Ocean and global trades"
+      ],
+      "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+      "internal_angle": "Useful for commercial context when customers start connecting disruption to cost pressure."
     },
     {
-      "title": "Italy: Inland Emergency Fuel & Energy Surcharges Introduction",
-      "summary": "Italy: Inland Emergency Fuel & Energy Surcharges - Introduction At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient.",
-      "source": "Hapag-Lloyd",
-      "timestamp": "2026-03-19T10:47:00+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/italy---inland-fuel-cost-advisory-.feed.rss.xml",
-      "category": "urgent_operational_alerts"
+      "term": "Port / capacity moves",
+      "topic_id": "port_capacity_moves",
+      "today_count": 6,
+      "baseline_avg": 0,
+      "source_mix": "high-trust, trade-press",
+      "examples": [
+        "How Trumps pause of shipping law could hurt U.S.-flag carriers",
+        "Drewry WCI rises 2% to $2,172 as Transpacific rates lead the charge",
+        "DHL expands white-glove logistics for construction of AI data centers"
+      ],
+      "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+      "internal_angle": "Useful when anchoring broader market stories in concrete infrastructure and capacity developments."
     },
     {
-      "title": "Port operational updates from around the world (14 - 19 March 2026)",
-      "summary": "Carriers' cargo rerouting in the Middle East causes land transport constraints, and Spain faces a seven‑week closure of the Rubí railway tunnel",
-      "source": "myKN Alert",
-      "timestamp": "2026-03-19T15:18:48+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-19-03-2026",
-      "category": "urgent_operational_alerts"
-    },
-    {
-      "title": "Lebanon: Update of Payment Terms for Local Surcharges",
-      "summary": "With your cargo planning in mind, please note the following update for shipments related to Lebanon.",
-      "source": "Hapag-Lloyd",
-      "timestamp": "2026-03-18T12:57:00+00:00",
-      "confidence": "high",
-      "tier": "high-trust",
-      "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/03/lebanon--update-of-payment-terms-for-local-surcharges.feed.rss.xml",
-      "category": "urgent_operational_alerts"
+      "term": "Hormuz / Middle East disruption",
+      "topic_id": "hormuz_disruption",
+      "today_count": 5,
+      "baseline_avg": 0,
+      "source_mix": "trade-press, community",
+      "examples": [
+        "How Trumps pause of shipping law could hurt U.S.-flag carriers",
+        "Drewry WCI rises 2% to $2,172 as Transpacific rates lead the charge",
+        "MSC announces Emergency Fuel Surcharge for EuropeIndian Ocean and global trades"
+      ],
+      "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+      "internal_angle": "Useful for customer context, risk conversations, and content tied to disruption knock-on effects."
     }
   ],
-  "operational_watch": [],
-  "developing_signals": [
+  "internal_angles": [
+    "`Fuel / energy pressure`: Useful for commercial context when customers start connecting disruption to cost pressure.",
+    "`Port / capacity moves`: Useful when anchoring broader market stories in concrete infrastructure and capacity developments.",
+    "`Hormuz / Middle East disruption`: Useful for customer context, risk conversations, and content tied to disruption knock-on effects."
+  ],
+  "key_news_radar": [
     {
-      "term": "port",
-      "count": 22,
-      "high_trust_count": 4,
-      "examples": [
-        "Port operational updates from around the world (14 - 19 March 2026)",
-        "5 months in as a freight broker and I finally got a real complex load to work on",
-        "Integrated Cargo Systems (ICS)"
-      ]
+      "title": "How Trumps pause of shipping law could hurt U.S.-flag carriers",
+      "summary": "How Trump’s pause of shipping law could hurt U.S.-flag carriers A U.S.-flag ocean line says Jones Act carriers provide vital, reliable services as President Donald Trump suspended ",
+      "source": "Feeds-3 / 0 Risk",
+      "timestamp": "2026-03-20T19:41:39+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://www.freightwaves.com/news/how-trumps-pause-of-shipping-law-could-hurt-u-s-flag-carriers",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
     },
     {
-      "term": "surcharge",
-      "count": 3,
-      "high_trust_count": 2,
-      "examples": [
-        "Simplifying Air Freight from China to Europe, USA & Middle East",
-        "Italy: Inland Emergency Fuel & Energy Surcharges Introduction",
-        "Lebanon: Update of Payment Terms for Local Surcharges"
-      ]
+      "title": "Drewry WCI rises 2% to $2,172 as Transpacific rates lead the charge",
+      "summary": "Drewry’s World Container Index (WCI) climbed 2% this week to $2,172 per 40-foot container, marking a third consecutive week of gains.",
+      "source": "Feeds-3 / 0 Risk",
+      "timestamp": "2026-03-20T18:29:16+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://container-news.com/drewry-wci-rises-2-to-2172-as-transpacific-rates-lead-the-charge/",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
     },
     {
-      "term": "intermodal",
-      "count": 2,
-      "high_trust_count": 2,
-      "examples": [
-        "Port operational updates from around the world (14 - 19 March 2026)",
-        "Italy: Intermodal transport rate adjustment for Lorenzini and PSA SECH"
-      ]
+      "title": "DHL expands white-glove logistics for construction of AI data centers",
+      "summary": "DHL is expanding its white-glove logistics infrastructure in North America to meet booming demand by tech firms to build the data centers that power artificial intelligence (AI).",
+      "source": "Feeds-3 / 0 Risk",
+      "timestamp": "2026-03-20T22:24:02+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://www.dcvelocity.com/technology/artificial-intelligence/dhl-expands-white-glove-logistics-for-construction-of-ai-data-centers",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
     },
     {
-      "term": "rail",
-      "count": 2,
-      "high_trust_count": 2,
-      "examples": [
-        "Port operational updates from around the world (14 - 19 March 2026)",
-        "Italy: Inland Emergency Fuel & Energy Surcharges Introduction"
-      ]
+      "title": "Fullbays 2026 report: Heavy-duty shops face structural technician shortage",
+      "summary": "Fullbay’s 2026 report: Heavy-duty shops face structural technician shortage NASHVILLE, Tenn.",
+      "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+      "timestamp": "2026-03-20T21:41:03+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://www.freightwaves.com/news/fullbay-2026-heavy-duty-repair-report-technician-shortage",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
     },
     {
-      "term": "delay",
-      "count": 4,
-      "high_trust_count": 0,
-      "examples": [
-        "Gas Crisis in Hot Forging Components",
-        "Simplifying Air Freight from China to Europe, USA & Middle East",
-        "Shipping and Maneuvering: Docking a 400-Meter Container Ship How Hard Is It Really?"
-      ]
+      "title": "MSC announces Emergency Fuel Surcharge for EuropeIndian Ocean and global trades",
+      "summary": "MSC announces Emergency Fuel Surcharge for Europe-Indian Ocean and global trades MSC Mediterranean Shipping Company will introduce an Emergency Fuel Surcharge (EFS) on multiple tra",
+      "source": "Feeds-3 / 0 Risk",
+      "timestamp": "2026-03-20T19:29:10+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://container-news.com/msc-announces-emergency-fuel-surcharge-for-europe-indian-ocean-and-global-trades/",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
     },
     {
-      "term": "hormuz",
-      "count": 4,
-      "high_trust_count": 0,
-      "examples": [
-        "Strait of Hormuz traffic near standstill",
-        "Thoughts on the attacks on South Pars and Ras Laffan why this may prove to be a very large black swan event that lasts a really long time.",
-        "First hand account: Capt in the Hormuz on the hardship of sailors in these times"
-      ]
+      "title": "DEF pump prices, so far, hold steady despite Middle East turmoil",
+      "summary": "When truckers pull in to refuel their vehicles these days, there are two prices that are shocking.",
+      "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+      "timestamp": "2026-03-20T19:41:39+00:00",
+      "confidence": "medium",
+      "tier": "trade-press",
+      "link": "https://www.freightwaves.com/news/def-pump-prices-so-far-hold-steady-despite-middle-east-turmoil",
+      "category": "urgent_operational_alerts",
+      "label": "Operational"
+    },
+    {
+      "title": "Ocean Alliance revises Columbus PNW service rotation",
+      "summary": "The Ocean Alliance is set to revise the port rotation of its Transpacific Columbus PNW service as part of its Day 10 product update, with changes scheduled to take effect in mid-Ap",
+      "source": "Feeds-3 / Port Infrastructure",
+      "timestamp": "2026-03-20T21:28:38+00:00",
+      "confidence": "high",
+      "tier": "high-trust",
+      "link": "https://container-news.com/ocean-alliance-revises-columbus-pnw-service-rotation/",
+      "category": "noteworthy_items_today",
+      "label": "Watch"
+    },
+    {
+      "title": "Fincantieri launches worlds first hydrogen-powered cruise ship Viking Libra",
+      "summary": "Fincantieri launches world’s first hydrogen-powered cruise ship “Viking Libra” Fincantieri has launched the “Viking Libra”, the world’s first hydrogen-powered cruise ship, at its s",
+      "source": "Feeds-3 / Port Infrastructure",
+      "timestamp": "2026-03-20T22:27:45+00:00",
+      "confidence": "high",
+      "tier": "high-trust",
+      "link": "https://container-news.com/fincantieri-launches-worlds-first-hydrogen-powered-cruise-ship-viking-libra/",
+      "category": "noteworthy_items_today",
+      "label": "Watch"
     }
   ],
-  "community_watchlist": [
+  "topic_movement": [
     {
-      "title": "Washington Just Declared War on Chinas Shipyards: 3 Stocks That Could Benefit",
-      "summary": "Washington Just Declared War on China’s Shipyards: 3 Stocks That Could Benefit For years, investors have been trained to look for the “next big thing” in software.",
-      "source": "Reddit",
-      "timestamp": "2026-03-19T12:44:56+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/maritime/comments/1rxzfgv/washington_just_declared_war_on_chinas_shipyards/",
-      "category": "noteworthy_items_today"
+      "term": "Fuel / energy pressure",
+      "today_count": 8,
+      "baseline_avg": 0,
+      "source_mix": "high-trust, trade-press, community"
     },
     {
-      "title": "Simplifying Air Freight from China to Europe, USA & Middle East",
-      "summary": "I wanted to start a thread to share insights and experiences about air freight services from China to Europe, the US, and the Middle East.",
-      "source": "Reddit",
-      "timestamp": "2026-03-19T09:13:55+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/freightforwarding/comments/1rxvift/simplifying_air_freight_from_china_to_europe_usa/",
-      "category": "noteworthy_items_today"
+      "term": "Port / capacity moves",
+      "today_count": 6,
+      "baseline_avg": 0,
+      "source_mix": "high-trust, trade-press"
     },
     {
-      "title": "Thoughts on the attacks on South Pars and Ras Laffan why this may prove to be a very large black swan event that lasts a really long time.",
-      "summary": "The South Pars Gas field in the Persian Gulf is by far the most important natural gas field in the world.",
+      "term": "Hormuz / Middle East disruption",
+      "today_count": 5,
+      "baseline_avg": 0,
+      "source_mix": "trade-press, community"
+    }
+  ],
+  "community_questions": [
+    {
+      "title": "Where can i get Platts Oilgram Bunker report?",
+      "summary": "I usually use https://shipandbunker.com/prices/apac/sea/sg-sin-singapore as it is free.",
       "source": "Reddit",
-      "timestamp": "2026-03-19T10:50:54+00:00",
+      "timestamp": "2026-03-20T19:28:08+00:00",
       "confidence": "watch",
       "tier": "community",
-      "link": "https://old.reddit.com/r/supplychain/comments/1rxx5zj/thoughts_on_the_attacks_on_south_pars_and_ras/",
-      "category": "lower_priority_noise"
+      "link": "https://old.reddit.com/r/maritime/comments/1rz5rdr/where_can_i_get_platts_oilgram_bunker_report/",
+      "category": "lower_priority_noise",
+      "question_signal": "Useful for seeing how practitioners are framing current issues."
     },
     {
-      "title": "White House suspends the Jones Act for 60 days. Analysts see a gas price impact of 3 cents",
-      "summary": "and Israel’s war against Iran continues to upend energy markets and supply chains worldwide, the Trump administration says it will temporarily waive maritime shipping requirements ",
+      "title": "what does this mean?? ive been so confused.",
+      "summary": "IMPORTANT: the package is shipping from china to the U.S.",
       "source": "Reddit",
-      "timestamp": "2026-03-19T16:02:17+00:00",
+      "timestamp": "2026-03-20T20:25:14+00:00",
       "confidence": "watch",
       "tier": "community",
-      "link": "https://old.reddit.com/r/maritime/comments/1ry4fmu/white_house_suspends_the_jones_act_for_60_days/",
-      "category": "noteworthy_items_today"
-    },
-    {
-      "title": "Strait of Hormuz traffic near standstill",
-      "summary": "Transit activity through the Strait of Hormuz remains severely constrained, with only four vessel movements recorded over the past two days — 3 crude oil tankers and one LPG carrie",
-      "source": "Reddit",
-      "timestamp": "2026-03-19T16:21:47+00:00",
-      "confidence": "watch",
-      "tier": "community",
-      "link": "https://old.reddit.com/r/maritime/comments/1ry4y7s/strait_of_hormuz_traffic_near_standstill/",
-      "category": "lower_priority_noise"
+      "link": "https://old.reddit.com/r/shipping/comments/1rz78xb/what_does_this_mean_ive_been_so_confused/",
+      "category": "lower_priority_noise",
+      "question_signal": "Useful for seeing how practitioners are framing current issues."
     }
   ]
 }
