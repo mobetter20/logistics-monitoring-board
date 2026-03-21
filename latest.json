@@ -1,0 +1,372 @@
+{
+  "schema_version": "internal-intelligence/snapshot/v1",
+  "built_at": "2026-03-21T07:04:34+00:00",
+  "requested_date": "2026-03-21",
+  "audience": "internal_team",
+  "guardrails": {
+    "editorial_included": false,
+    "note": "Editorial intelligence is intentionally excluded from the team-facing hub."
+  },
+  "pages": {
+    "home": "index.html",
+    "market_watch": "market-watch.html",
+    "competitor_watch": "competitor-watch.html",
+    "strategy_brief": "strategy-brief.html"
+  },
+  "overview": {
+    "title": "Logistics Signals Board",
+    "requested_date": "2026-03-21",
+    "summary": "Shared internal board for daily logistics and supply-chain news, with separate competitor and weekly strategy briefs.",
+    "latest_updates": [
+      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+      "No competitor change cleared the current importance threshold in the latest monitor run.",
+      "Market watch is currently led by US resin shippers look to tap new customers amid Iran war: The closure of the Strait of Hormuz has cut off a major source of global resin supply, teeing up US production to fill in some of the gap."
+    ],
+    "report_cards": [
+      {
+        "title": "Daily Brief",
+        "cadence": "Daily news brief",
+        "report_label": "2026-03-21",
+        "freshness": "current",
+        "summary": "Daily logistics and supply-chain news, topic clusters, and community questions.",
+        "supporting_note": "1 radar items / 2 active recent days",
+        "artifact_path": "news_pipeline/output/reports/daily-brief-2026-03-21.md",
+        "href": "market-watch.html"
+      },
+      {
+        "title": "Competitor Watch",
+        "cadence": "6 direct competitors",
+        "report_label": "2026-03-21",
+        "freshness": "current",
+        "summary": "Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
+        "supporting_note": "Positioning, product, and announcement changes",
+        "artifact_path": "competitor_monitor/output/reports/competitor-monitor-2026-03-21.md",
+        "href": "competitor-watch.html"
+      },
+      {
+        "title": "Strategy Brief",
+        "cadence": "Weekly strategy brief",
+        "report_label": "2026-W12",
+        "freshness": "current",
+        "summary": "Competitors, adjacent platforms, analyst reports, and macro/regulatory signals.",
+        "supporting_note": "Cross-market weekly read with evidence and optional analyst notes",
+        "artifact_path": "strategic_intelligence/output/weekly-memo-2026-W12.md",
+        "href": "strategy-brief.html"
+      }
+    ],
+    "desk_notes": [
+      "This homepage is the shared daily logistics and supply-chain news board.",
+      "Competitor Watch covers Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
+      "Strategy Brief is the weekly cross-market read across competitors, adjacent platforms, analyst reports, and macro signals."
+    ],
+    "shared_warnings": [
+      "SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html",
+      "DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-ai-trends-and-sustainable-solutions.html"
+    ]
+  },
+  "market_watch": {
+    "title": "Internal Logistics Signals Board",
+    "report_date": "2026-03-21",
+    "last_updated": "2026-03-21 13:11",
+    "freshness": "current",
+    "status_note": "Market watch is led by US resin shippers look to tap new customers amid Iran war.",
+    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 1 trade-press item(s), and 7 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
+    "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
+    "team_notes": [
+      "Current market signals look more contextual than action-driving.",
+      "Lead market story: US resin shippers look to tap new customers amid Iran war.",
+      "2 of the last 3 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+    ],
+    "current_brief": {
+      "report_date": "2026-03-21",
+      "write_now": "No",
+      "highest_confidence_operational_items": "1",
+      "worth_attention_today": "0",
+      "headline": "US resin shippers look to tap new customers amid Iran war",
+      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+    },
+    "active_recent_days": 2,
+    "headline": "US resin shippers look to tap new customers amid Iran war",
+    "key_news_radar": [
+      {
+        "title": "US resin shippers look to tap new customers amid Iran war",
+        "summary": "The closure of the Strait of Hormuz has cut off a major source of global resin supply, teeing up US production to fill in some of the gap.",
+        "source": "Feeds-3 / Trade Tariffs",
+        "timestamp": "2026-03-21T00:11:44+00:00",
+        "confidence": "medium",
+        "link": "https://joc.com/article/us-resin-shippers-look-to-tap-new-customers-amid-iran-war-6190361",
+        "label": "Operational",
+        "question_signal": ""
+      }
+    ],
+    "hot_topics": [],
+    "business_angles": [],
+    "community_questions": [
+      {
+        "title": "Advice on LCL from PT to USA",
+        "summary": "I've been importing goods from Portugal to the US via air freight, with a freight forwarder who uses FedEx.",
+        "source": "Reddit",
+        "timestamp": "2026-03-20T22:46:02+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/logistics/comments/1rzas4o/advice_on_lcl_from_pt_to_usa/",
+        "label": "",
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
+      },
+      {
+        "title": "best way to find rail carriers for midwest to WA, OR, CA and TX and vice versa?",
+        "summary": "what's the best way to find these carriers?",
+        "source": "Reddit",
+        "timestamp": "2026-03-20T23:08:42+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1rzbclf/best_way_to_find_rail_carriers_for_midwest_to_wa/",
+        "label": "",
+        "question_signal": "Shows inland spillover becoming a practical planning question."
+      }
+    ],
+    "recent_history": [
+      {
+        "report_date": "2026-03-21",
+        "write_now": "No",
+        "highest_confidence_operational_items": "1",
+        "worth_attention_today": "0",
+        "headline": "US resin shippers look to tap new customers amid Iran war",
+        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+      },
+      {
+        "report_date": "2026-03-20",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "1",
+        "headline": "Maersk issues Middle East operational update amid Hormuz disruptions; NWSA full exports up 2.2% YTD despite overall volume decline; Qatar LNG damage, Yanbu strikes and Hormuz toll threats deepen shipping crisis",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
+      {
+        "report_date": "2026-03-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "0",
+        "headline": "Barcelona rail tunnel shutdown forces extended diversions and disrupts cross‑border services; Hormuz closure forces costly liner detours as Gulf logistics tighten; North Europe: Inland Emergency Fuel & Energy Surcharges Introduction",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      }
+    ],
+    "source_snapshot": {
+      "total_items": 8,
+      "high_trust": 0,
+      "trade_press": 1,
+      "community": 7
+    },
+    "source_artifacts": [
+      "news_pipeline/output/site/public-dashboard.json",
+      "news_pipeline/output/reports/daily-brief-2026-03-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-21.json"
+    ],
+    "warnings": []
+  },
+  "competitor_watch": {
+    "report_date": "2026-03-21",
+    "run_started_at": "2026-03-21T09:40:39+09:00",
+    "freshness": "current",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
+    "team_notes": [
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Wakeo: 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences..."
+    ],
+    "targets_fetched": 24,
+    "target_count": 24,
+    "important_count": 0,
+    "watch_count": 0,
+    "company_summaries": [
+      {
+        "company": "Project44",
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+      },
+      {
+        "company": "FourKites",
+        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
+      },
+      {
+        "company": "Shippeo",
+        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
+      },
+      {
+        "company": "Transporeon",
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+      },
+      {
+        "company": "Wakeo",
+        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
+      },
+      {
+        "company": "GoComet",
+        "summary": "Current narrative leans toward analytics and decision intelligence, AI and automation, and platform / control tower."
+      }
+    ],
+    "peer_themes": [
+      {
+        "theme": "AI",
+        "count": "3"
+      },
+      {
+        "theme": "automation",
+        "count": "3"
+      },
+      {
+        "theme": "data quality / connectivity",
+        "count": "3"
+      },
+      {
+        "theme": "optimization / procurement",
+        "count": "3"
+      }
+    ],
+    "important_changes": [],
+    "watch_items": [],
+    "recent_signal_history": [
+      {
+        "detected_date": "2026-03-21",
+        "company": "Wakeo",
+        "importance": "minor",
+        "signal_type": "press announcement",
+        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+        "source_url": "https://wakeo.co/news/2025-q3-product-update"
+      }
+    ],
+    "source_artifacts": [
+      "competitor_monitor/output/runs/competitor-monitor-20260321T094039+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-21.md"
+    ],
+    "warnings": []
+  },
+  "strategic_brief": {
+    "week_label": "2026-W12",
+    "week_end_date": "2026-03-21",
+    "freshness": "current",
+    "status_note": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+    "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
+    "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
+    "team_notes": [
+      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
+    ],
+    "executive_takeaways": [
+      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+      "UNCTAD is reinforcing market pressure around policy and trade.",
+      "WTO is reinforcing market pressure around policy and trade."
+    ],
+    "strategic_movements": [
+      "UNCTAD (macro regulatory) is highlighting market pressure around policy and trade.",
+      "WTO (macro regulatory) is highlighting market pressure around policy and trade.",
+      "Gartner (analyst report) is pushing AI positioning with the claimed outcome of reduced manual work.",
+      "Oracle (adjacent category shaper) is pushing AI positioning.",
+      "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
+    ],
+    "team_implications": [
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+    ],
+    "open_questions": [
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "How well do product messaging and customer guidance hold up against macro volatility?"
+    ],
+    "coverage_confidence": "Observed 9/16 configured sources this week. Confidence is reduced by coverage gaps: SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-AI-trends-and-sustainable-solutions.html",
+    "important_signal_count": 8,
+    "active_theses": [
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Macro and policy volatility is becoming a stronger shaping force on buyer expectations and vendor narratives."
+    ],
+    "top_signals": [
+      {
+        "entity_name": "UNCTAD",
+        "source_title": "Review of Maritime Transport 2024 | UN Trade and Development (UNCTAD)",
+        "source_layer": "macro regulatory",
+        "strategic_move": "Macro pressure",
+        "workflow_scope": "policy and trade",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Review of Maritime Transport 2024 | UN Trade and Development (UNCTAD)",
+        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
+        "emerging_motif": "review of maritime transport",
+        "source_url": "https://unctad.org/publication/review-maritime-transport-2024"
+      },
+      {
+        "entity_name": "WTO",
+        "source_title": "WTO Tariff & Trade Data | Reports / Tariff actions",
+        "source_layer": "macro regulatory",
+        "strategic_move": "Macro pressure",
+        "workflow_scope": "policy and trade",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Access official WTO tariff and trade data for over 170 economies. Explore applied tariffs, bound duties, import/export trends, and compare trade relationships with the most detailed global database. Download raw data...",
+        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
+        "emerging_motif": "tariff actions",
+        "source_url": "https://ttd.wto.org/en/reports/tariff-actions"
+      },
+      {
+        "entity_name": "Gartner",
+        "source_title": "Press Release: Gartner Identifies Top Supply Chain Technology Trends for 2025",
+        "source_layer": "analyst report",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Agentic AI, ambient invisible intelligence, and an augmented connected workforce are some of the top supply chain technology trends for 2025, according to Gartner, Inc. Gartner Identifies Top Supply Chain Technology...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-18-gartner-identifies-top-supply-chain-technology-trends-for-2025"
+      },
+      {
+        "entity_name": "Oracle",
+        "source_title": "Transportation Management | Oracle",
+        "source_layer": "adjacent category shaper",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "medium",
+        "evidence_excerpt": "Discover the transportation management system that allows you to easily manage all transportation activity throughout your global supply chain. Transportation Management",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.oracle.com/scm/logistics/transportation-management/"
+      },
+      {
+        "entity_name": "Wakeo",
+        "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Wakeo newsroom announced \"2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...\" -> looks strategically relevant enough to watch 2025...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://wakeo.co/news/2025-q3-product-update"
+      }
+    ],
+    "recent_history": [
+      {
+        "week_label": "2026-W12",
+        "week_end_date": "2026-03-21",
+        "takeaway": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+        "signal_count": "9",
+        "active_thesis_count": "2"
+      }
+    ],
+    "source_artifacts": [
+      "strategic_intelligence/output/weekly-snapshot-2026-W12.json",
+      "strategic_intelligence/output/weekly-memo-2026-W12.md"
+    ],
+    "warnings": [
+      "SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html",
+      "DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-ai-trends-and-sustainable-solutions.html"
+    ]
+  }
+}

@@ -1,29 +1,37 @@
-# Logistics Monitoring Board
+# Logistics Signals Board
 
-Minimal public-facing logistics monitoring board generated from a private local pipeline.
+Low-profile shared site for the team-facing logistics signals board.
 
-This site publishes only public-safe dashboard artifacts:
-- short summaries
-- source labels
-- timestamps
-- confidence/tier
-- links back to original sources
+This site now publishes the board generated from:
 
-It does not publish the private backend pipeline or raw mailbox data.
+- [`/Users/ajin/Documents/New project/internal_intelligence/output`](/Users/ajin/Documents/New project/internal_intelligence/output)
+
+It is designed as a shared reference surface with:
+
+- daily logistics and supply-chain news
+- direct-competitor monitoring
+- a weekly strategy brief
 
 ## Publishing Flow
 
-This repo is the standalone public site layer.
+This repo is the hosted site layer for the shared board.
 
-- the private pipeline generates public-safe dashboard files
-- those files are copied into this repo
-- this repo is then pushed and redeployed by the public host
+- generate the latest board in `internal_intelligence/output`
+- copy the generated site files into this repo
+- push this repo so the hosted URL updates
 
 Expected top-level files:
 
 - `index.html`
-- `public-dashboard.json`
+- `market-watch.html`
+- `competitor-watch.html`
+- `strategy-brief.html`
+- `latest.json`
 
-The private backend workflow lives in a separate repo:
+Legacy file note:
+
+- `public-dashboard.json` may remain during transition from the older news-only board
+
+The source workflow continues to live in:
 
 - `https://github.com/mobetter20/logistics-news-briefing-pipeline`
