@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-21T07:04:34+00:00",
-  "requested_date": "2026-03-21",
+  "built_at": "2026-03-22T02:59:26+00:00",
+  "requested_date": "2026-03-22",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,49 +15,41 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-21",
-    "summary": "Shared internal board for daily logistics and supply-chain news, with separate competitor and weekly strategy briefs.",
+    "requested_date": "2026-03-22",
+    "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
-      "No competitor change cleared the current importance threshold in the latest monitor run.",
-      "Market watch is currently led by US resin shippers look to tap new customers amid Iran war: The closure of the Strait of Hormuz has cut off a major source of global resin supply, teeing up US production to fill in some of the gap."
+      "Lead daily item: US resin shippers look to tap new customers amid Iran war.",
+      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
+      "Current weekly strategy read: Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative."
     ],
     "report_cards": [
       {
-        "title": "Daily Brief",
-        "cadence": "Daily news brief",
+        "title": "Daily Logistics Brief",
+        "cadence": "Daily",
         "report_label": "2026-03-21",
-        "freshness": "current",
-        "summary": "Daily logistics and supply-chain news, topic clusters, and community questions.",
-        "supporting_note": "1 radar items / 2 active recent days",
-        "artifact_path": "news_pipeline/output/reports/daily-brief-2026-03-21.md",
+        "freshness": "1 day behind",
+        "summary": "Current market signals look more contextual than action-driving.",
+        "supporting_note": "Lead item: US resin shippers look to tap new customers amid Iran war",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
-        "cadence": "6 direct competitors",
-        "report_label": "2026-03-21",
+        "cadence": "Reference",
+        "report_label": "2026-03-22",
         "freshness": "current",
-        "summary": "Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
-        "supporting_note": "Positioning, product, and announcement changes",
-        "artifact_path": "competitor_monitor/output/reports/competitor-monitor-2026-03-21.md",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
       {
-        "title": "Strategy Brief",
-        "cadence": "Weekly strategy brief",
+        "title": "Weekly Strategy Brief",
+        "cadence": "Weekly",
         "report_label": "2026-W12",
         "freshness": "current",
-        "summary": "Competitors, adjacent platforms, analyst reports, and macro/regulatory signals.",
-        "supporting_note": "Cross-market weekly read with evidence and optional analyst notes",
-        "artifact_path": "strategic_intelligence/output/weekly-memo-2026-W12.md",
+        "summary": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+        "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
-    ],
-    "desk_notes": [
-      "This homepage is the shared daily logistics and supply-chain news board.",
-      "Competitor Watch covers Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
-      "Strategy Brief is the weekly cross-market read across competitors, adjacent platforms, analyst reports, and macro signals."
     ],
     "shared_warnings": [
       "SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html",
@@ -67,8 +59,8 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-03-21",
-    "last_updated": "2026-03-21 13:11",
-    "freshness": "current",
+    "last_updated": "2026-03-22 08:31",
+    "freshness": "1 day behind",
     "status_note": "Market watch is led by US resin shippers look to tap new customers amid Iran war.",
     "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 1 trade-press item(s), and 7 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
@@ -164,8 +156,8 @@
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-21",
-    "run_started_at": "2026-03-21T09:40:39+09:00",
+    "report_date": "2026-03-22",
+    "run_started_at": "2026-03-22T09:34:57+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -236,8 +228,8 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260321T094039+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-21.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260322T093457+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-22.md"
     ],
     "warnings": []
   },
