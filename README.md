@@ -4,7 +4,7 @@ Low-profile shared site for the team-facing logistics signals board.
 
 This site now publishes the board generated from:
 
-- [`/Users/ajin/Documents/New project/internal_intelligence/output`](/Users/ajin/Documents/New project/internal_intelligence/output)
+- [`../logistics-news-briefing-pipeline/internal_intelligence/output`](../logistics-news-briefing-pipeline/internal_intelligence/output)
 
 It is designed as a shared reference surface with:
 
