@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-24T01:58:33+00:00",
+  "built_at": "2026-03-24T02:07:48+00:00",
   "requested_date": "2026-03-24",
   "audience": "internal_team",
   "guardrails": {
@@ -18,9 +18,9 @@
     "requested_date": "2026-03-24",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Fraud and Loathing in the Mojave Desert.",
-      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: Wakeo is signaling AI positioning around in transit visibility."
+      "Lead daily item: Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
+      "Competitor watch changed: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+      "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
     "report_cards": [
       {
@@ -28,8 +28,8 @@
         "cadence": "Daily",
         "report_label": "2026-03-24",
         "freshness": "current",
-        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Fraud and Loathing in the Mojave Desert",
+        "summary": "Current market signals look more contextual than action-driving.",
+        "supporting_note": "Lead item: Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
         "href": "market-watch.html"
       },
       {
@@ -37,8 +37,8 @@
         "cadence": "Reference",
         "report_label": "2026-03-24",
         "freshness": "current",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "Current competitor posture remains available even in quiet periods.",
+        "summary": "Newest meaningful competitor move: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
       {
@@ -46,163 +46,66 @@
         "cadence": "Weekly",
         "report_label": "2026-W13",
         "freshness": "current",
-        "summary": "Wakeo is signaling AI positioning around in transit visibility.",
+        "summary": "Wakeo is signaling scope expansion around end to end orchestration.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>"
+      "Oracle oracle_tms: offline mode has no previous cached observation",
+      "Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+      "SAP sap_control_tower: offline mode has no previous cached observation",
+      "e2open e2open_connected_supply_chain: offline mode has no previous cached observation",
+      "DHL dhl_trend_radar_2024: offline mode has no previous cached observation",
+      "Gartner gartner_supply_chain_tech_trends_2025: offline mode has no previous cached observation"
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-03-24",
-    "last_updated": "2026-03-24 10:53",
+    "last_updated": "2026-03-24 11:07",
     "freshness": "current",
-    "status_note": "Market watch is led by Fraud and Loathing in the Mojave Desert.",
-    "sparse_explanation": "",
+    "status_note": "Market watch is led by Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
+    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 1 trade-press item(s), and 0 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Fraud and Loathing in the Mojave Desert.",
-      "3 of the last 4 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Current market signals look more contextual than action-driving.",
+      "Lead market story: Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
+      "2 of the last 4 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
       "report_date": "2026-03-24",
-      "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "5",
-      "headline": "Port Houston tonnage rises 4% as officials cut reefer free time; Port of Oakland February volumes declined; Port of Oakland sees February container traffic drop 14.5% over last year",
-      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      "write_now": "No",
+      "highest_confidence_operational_items": "1",
+      "worth_attention_today": "0",
+      "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
     },
-    "active_recent_days": 3,
-    "headline": "Fraud and Loathing in the Mojave Desert",
+    "active_recent_days": 2,
+    "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
     "key_news_radar": [
       {
-        "title": "Fraud and Loathing in the Mojave Desert",
-        "summary": "Walking the rail lines in California’s Mojave Desert reveals the staggering scale of organized cargo theft firsthand.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-24T01:04:07+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/fraud-and-loathing-in-the-mojave-desert",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Port Houston tonnage rises 4% as officials cut reefer free time",
-        "summary": "Port Houston saw steady cargo volumes in February, while commissioners on Monday approved a new tariff rule that shortens free time for refrigerated imports — a move that could tig",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-23T21:01:35+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/port-houston-tonnage-rises-4-as-officials-cut-reefer-free-time",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Port of Oakland February volumes declined",
-        "summary": "The Port of Oakland handled 163,254 TEUs in February 2026, a 14.5% decrease year-on-year and a 16.7% decline from January, as vessel activity contracted due to planned blank sailin",
+        "title": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+        "summary": "A survey of challenges faced by retailers shows that their global logistics and fulfillment costs have risen by over 20% in the last three years, as customers expect faster deliver",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-03-23T21:36:24+00:00",
+        "timestamp": "2026-03-24T01:28:52+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/port-of-oakland-february-volumes-declined/",
+        "link": "https://www.dcvelocity.com/transportation/trucking/last-mile/study-retailers-struggle-to-serve-impatient-consumers-as-fulfillment-costs-rise",
         "label": "Operational",
         "question_signal": ""
-      },
-      {
-        "title": "Port of Oakland sees February container traffic drop 14.5% over last year",
-        "summary": "As the Lunar New Year holiday slowed production across Asia last month, the Port of Oakland saw the number of containers it processed in February drop by 16.7% from January and sin",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-03-23T19:25:32+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/port-of-oakland-sees-february-container-traffic-drop-14-5-over-last-year",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Union Pacific rolls out Trump locomotive, U.S. 250th diesel",
-        "summary": "Union Pacific Railroad unveiled specially-painted locomotives honoring the United States and President Donald Trump as it announced plans to celebrate the U.S.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-23T20:00:42+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/union-pacific-rolls-out-trump-locomotive-u-s-250th-diesel",
-        "label": "Watch",
-        "question_signal": ""
       }
     ],
-    "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      }
-    ],
-    "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      }
-    ],
-    "community_questions": [
-      {
-        "title": "Is it a good or a service? Help!",
-        "summary": "🙈 Hi guys, I have a probably really uncommon customs question and at this point I'm desperate enough to ask reddit.",
-        "source": "Reddit",
-        "timestamp": "2026-03-23T22:19:20+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s1vkaw/is_it_a_good_or_a_service_help/",
-        "label": "",
-        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
-      },
-      {
-        "title": "Are suppliers expected to carry all the risk now?",
-        "summary": "I recently met a fairly well-known faucet company regarding supplying them brass components.",
-        "source": "Reddit",
-        "timestamp": "2026-03-22T15:44:21+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/procurement/comments/1s0oyeo/are_suppliers_expected_to_carry_all_the_risk_now/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "Looking for reliable sea freight from Malaysia? Here's what worked for me.",
-        "summary": "寻找马来西亚可靠的海运服务？分享我的经验！ 📦 Used TNS Logistics for sea freight — rates were much more competitive than other companies I tried 🚢 They handle FCL, LCL, OOG and RoRo shipments — whatever",
-        "source": "Reddit",
-        "timestamp": "2026-03-23T05:45:05+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1s18kcn/looking_for_reliable_sea_freight_from_malaysia/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      }
-    ],
+    "hot_topics": [],
+    "business_angles": [],
+    "community_questions": [],
     "recent_history": [
       {
         "report_date": "2026-03-24",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Port Houston tonnage rises 4% as officials cut reefer free time; Port of Oakland February volumes declined; Port of Oakland sees February container traffic drop 14.5% over last year",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+        "write_now": "No",
+        "highest_confidence_operational_items": "1",
+        "worth_attention_today": "0",
+        "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       },
       {
         "report_date": "2026-03-21",
@@ -230,10 +133,10 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 178,
-      "high_trust": 21,
-      "trade_press": 9,
-      "community": 148
+      "total_items": 1,
+      "high_trust": 0,
+      "trade_press": 1,
+      "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
@@ -245,24 +148,130 @@
   },
   "competitor_watch": {
     "report_date": "2026-03-24",
-    "run_started_at": "2026-03-24T10:33:53+09:00",
+    "run_started_at": "2026-03-24T11:07:12+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Latest lower-signal item came from Wakeo: 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences..."
+      "Newest meaningful competitor move: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "targets_fetched": 0,
+    "targets_fetched": 24,
     "target_count": 24,
-    "important_count": 0,
+    "important_count": 3,
     "watch_count": 0,
-    "company_summaries": [],
-    "peer_themes": [],
-    "important_changes": [],
+    "company_summaries": [
+      {
+        "company": "Project44",
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+      },
+      {
+        "company": "FourKites",
+        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
+      },
+      {
+        "company": "Shippeo",
+        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
+      },
+      {
+        "company": "Transporeon",
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+      },
+      {
+        "company": "Wakeo",
+        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
+      },
+      {
+        "company": "GoComet",
+        "summary": "Current narrative leans toward analytics and decision intelligence, AI and automation, and platform / control tower."
+      }
+    ],
+    "peer_themes": [
+      {
+        "theme": "AI",
+        "count": "3"
+      },
+      {
+        "theme": "automation",
+        "count": "3"
+      },
+      {
+        "theme": "data quality / connectivity",
+        "count": "3"
+      },
+      {
+        "theme": "optimization / procurement",
+        "count": "3"
+      }
+    ],
+    "important_changes": [
+      {
+        "company": "Wakeo",
+        "importance": "important",
+        "summary": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution",
+        "evidence": [
+          "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+          "Paris, France – June 20th, 2024 – Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the acquisition of Veroo Software, a LKW WALTER cutting-edge platform specializing in road transportation management and predictive analytics. This"
+        ]
+      },
+      {
+        "company": "Wakeo",
+        "importance": "important",
+        "summary": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
+        "source_url": "https://wakeo.co/news/wakeo-announces-18-million-in-a-new-funding-round-led-by-statkraft-ventures",
+        "evidence": [
+          "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
+          "Wakeo is a global leader in bringing real-time visibility to multimodal intercontinental transport flows. By leveraging intelligent analytics and predictive capabilities, the platform empowers businesses to boost operational excellence and improve customer satisfaction."
+        ]
+      },
+      {
+        "company": "Wakeo",
+        "importance": "important",
+        "summary": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
+        "source_url": "https://wakeo.co/news/wakeo-enhances-trusted-routes-with-nearby-alternatives",
+        "evidence": [
+          "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
+          "Paris, 24th February 2025 – Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a significant enhancement to its Trusted Routes solution: the Nearby Alternatives feature. This upgrade empowers shippers and freight forwarders to"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-03-24",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution"
+      },
+      {
+        "detected_date": "2026-03-24",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
+        "source_url": "https://wakeo.co/news/wakeo-announces-18-million-in-a-new-funding-round-led-by-statkraft-ventures"
+      },
+      {
+        "detected_date": "2026-03-24",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
+        "source_url": "https://wakeo.co/news/wakeo-enhances-trusted-routes-with-nearby-alternatives"
+      },
       {
         "detected_date": "2026-03-21",
         "company": "Wakeo",
@@ -273,63 +282,60 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260324T103353+0900.json",
-      "/sessions/optimistic-charming-bohr/mnt/New project/work/logistics-news-briefing-pipeline/competitor_monitor/output/reports/competitor-monitor-2026-03-24.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260324T110712+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-24.md"
     ],
-    "warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Solutions page: Network error for https://www.fourkites.com/products: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "FourKites Press releases: Network error for https://www.fourkites.com/press/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Shippeo Homepage: Network error for https://www.shippeo.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Shippeo Platform page: Network error for https://www.shippeo.com/solutions/ecmr: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Shippeo Solutions page: Network error for https://www.shippeo.com/solutions/ocean-visibility: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Shippeo Press releases: Network error for https://www.shippeo.com/resources/explore: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Transporeon Platform page: Network error for https://www.transporeon.com/en_US/platform: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Wakeo Homepage: Network error for https://wakeo.co/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Wakeo Solutions page: Network error for https://wakeo.co/solution/shippers/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "Wakeo Newsroom: Network error for https://wakeo.co/news/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "GoComet Homepage: Network error for https://www.gocomet.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "GoComet Platform page: Network error for https://www.gocomet.com/logistics-control-tower: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "GoComet Solutions page: Network error for https://www.gocomet.com/freight-management-software: <urlopen error Tunnel connection failed: 403 Forbidden>",
-      "GoComet Press releases: Network error for https://www.gocomet.com/sitemap: <urlopen error Tunnel connection failed: 403 Forbidden>"
-    ]
+    "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W13",
     "week_end_date": "2026-03-24",
     "freshness": "current",
-    "status_note": "Wakeo is signaling AI positioning around in transit visibility.",
+    "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Wakeo is signaling AI positioning around in transit visibility.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Wakeo is signaling scope expansion around end to end orchestration.",
+      "Current working thesis: Vendors are broadening the workflow scope they claim to own.",
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
     ],
     "executive_takeaways": [
+      "Wakeo is signaling scope expansion around end to end orchestration.",
       "Wakeo is signaling AI positioning around in transit visibility."
     ],
     "strategic_movements": [
+      "Wakeo (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control.",
       "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 1,
-    "active_theses": [],
+    "coverage_confidence": "Observed 4/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 4,
+    "active_theses": [
+      "Vendors are broadening the workflow scope they claim to own."
+    ],
     "top_signals": [
+      {
+        "entity_name": "Wakeo",
+        "source_title": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "source_layer": "direct competitor",
+        "strategic_move": "Scope expansion",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "greater control",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Wakeo newsroom announced \"Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce...",
+        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
+        "emerging_motif": "unknown",
+        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution"
+      },
       {
         "entity_name": "Wakeo",
         "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
@@ -349,9 +355,9 @@
       {
         "week_label": "2026-W13",
         "week_end_date": "2026-03-24",
-        "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
-        "signal_count": "1",
-        "active_thesis_count": "0"
+        "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
+        "signal_count": "4",
+        "active_thesis_count": "1"
       },
       {
         "week_label": "2026-W12",
