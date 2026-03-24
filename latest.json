@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-22T02:59:26+00:00",
-  "requested_date": "2026-03-22",
+  "built_at": "2026-03-24T01:58:33+00:00",
+  "requested_date": "2026-03-24",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,107 +15,195 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-22",
+    "requested_date": "2026-03-24",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: US resin shippers look to tap new customers amid Iran war.",
+      "Lead daily item: Fraud and Loathing in the Mojave Desert.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative."
+      "Current weekly strategy read: Wakeo is signaling AI positioning around in transit visibility."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-21",
-        "freshness": "1 day behind",
-        "summary": "Current market signals look more contextual than action-driving.",
-        "supporting_note": "Lead item: US resin shippers look to tap new customers amid Iran war",
+        "report_label": "2026-03-24",
+        "freshness": "current",
+        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
+        "supporting_note": "Lead item: Fraud and Loathing in the Mojave Desert",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-22",
+        "report_label": "2026-03-24",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+        "supporting_note": "Current competitor posture remains available even in quiet periods.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W12",
+        "report_label": "2026-W13",
         "freshness": "current",
-        "summary": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+        "summary": "Wakeo is signaling AI positioning around in transit visibility.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html",
-      "DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-ai-trends-and-sustainable-solutions.html"
+      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>"
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-21",
-    "last_updated": "2026-03-22 08:31",
-    "freshness": "1 day behind",
-    "status_note": "Market watch is led by US resin shippers look to tap new customers amid Iran war.",
-    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 1 trade-press item(s), and 7 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
+    "report_date": "2026-03-24",
+    "last_updated": "2026-03-24 10:53",
+    "freshness": "current",
+    "status_note": "Market watch is led by Fraud and Loathing in the Mojave Desert.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals look more contextual than action-driving.",
-      "Lead market story: US resin shippers look to tap new customers amid Iran war.",
-      "2 of the last 3 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Current market signals form a meaningful cluster, but not a single dominant story.",
+      "Lead market story: Fraud and Loathing in the Mojave Desert.",
+      "3 of the last 4 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-21",
-      "write_now": "No",
-      "highest_confidence_operational_items": "1",
-      "worth_attention_today": "0",
-      "headline": "US resin shippers look to tap new customers amid Iran war",
-      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+      "report_date": "2026-03-24",
+      "write_now": "Maybe",
+      "highest_confidence_operational_items": "6",
+      "worth_attention_today": "5",
+      "headline": "Port Houston tonnage rises 4% as officials cut reefer free time; Port of Oakland February volumes declined; Port of Oakland sees February container traffic drop 14.5% over last year",
+      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 2,
-    "headline": "US resin shippers look to tap new customers amid Iran war",
+    "active_recent_days": 3,
+    "headline": "Fraud and Loathing in the Mojave Desert",
     "key_news_radar": [
       {
-        "title": "US resin shippers look to tap new customers amid Iran war",
-        "summary": "The closure of the Strait of Hormuz has cut off a major source of global resin supply, teeing up US production to fill in some of the gap.",
-        "source": "Feeds-3 / Trade Tariffs",
-        "timestamp": "2026-03-21T00:11:44+00:00",
-        "confidence": "medium",
-        "link": "https://joc.com/article/us-resin-shippers-look-to-tap-new-customers-amid-iran-war-6190361",
+        "title": "Fraud and Loathing in the Mojave Desert",
+        "summary": "Walking the rail lines in California’s Mojave Desert reveals the staggering scale of organized cargo theft firsthand.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-24T01:04:07+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/fraud-and-loathing-in-the-mojave-desert",
         "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Port Houston tonnage rises 4% as officials cut reefer free time",
+        "summary": "Port Houston saw steady cargo volumes in February, while commissioners on Monday approved a new tariff rule that shortens free time for refrigerated imports — a move that could tig",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-23T21:01:35+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/port-houston-tonnage-rises-4-as-officials-cut-reefer-free-time",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Port of Oakland February volumes declined",
+        "summary": "The Port of Oakland handled 163,254 TEUs in February 2026, a 14.5% decrease year-on-year and a 16.7% decline from January, as vessel activity contracted due to planned blank sailin",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-03-23T21:36:24+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/port-of-oakland-february-volumes-declined/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Port of Oakland sees February container traffic drop 14.5% over last year",
+        "summary": "As the Lunar New Year holiday slowed production across Asia last month, the Port of Oakland saw the number of containers it processed in February drop by 16.7% from January and sin",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-03-23T19:25:32+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/port-of-oakland-sees-february-container-traffic-drop-14-5-over-last-year",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Union Pacific rolls out Trump locomotive, U.S. 250th diesel",
+        "summary": "Union Pacific Railroad unveiled specially-painted locomotives honoring the United States and President Donald Trump as it announced plans to celebrate the U.S.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-23T20:00:42+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/union-pacific-rolls-out-trump-locomotive-u-s-250th-diesel",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
-    "hot_topics": [],
-    "business_angles": [],
+    "hot_topics": [
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      }
+    ],
+    "business_angles": [
+      {
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` remains active across high-trust, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      }
+    ],
     "community_questions": [
       {
-        "title": "Advice on LCL from PT to USA",
-        "summary": "I've been importing goods from Portugal to the US via air freight, with a freight forwarder who uses FedEx.",
+        "title": "Is it a good or a service? Help!",
+        "summary": "🙈 Hi guys, I have a probably really uncommon customs question and at this point I'm desperate enough to ask reddit.",
         "source": "Reddit",
-        "timestamp": "2026-03-20T22:46:02+00:00",
+        "timestamp": "2026-03-23T22:19:20+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1rzas4o/advice_on_lcl_from_pt_to_usa/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s1vkaw/is_it_a_good_or_a_service_help/",
         "label": "",
         "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
       },
       {
-        "title": "best way to find rail carriers for midwest to WA, OR, CA and TX and vice versa?",
-        "summary": "what's the best way to find these carriers?",
+        "title": "Are suppliers expected to carry all the risk now?",
+        "summary": "I recently met a fairly well-known faucet company regarding supplying them brass components.",
         "source": "Reddit",
-        "timestamp": "2026-03-20T23:08:42+00:00",
+        "timestamp": "2026-03-22T15:44:21+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1rzbclf/best_way_to_find_rail_carriers_for_midwest_to_wa/",
+        "link": "https://old.reddit.com/r/procurement/comments/1s0oyeo/are_suppliers_expected_to_carry_all_the_risk_now/",
         "label": "",
-        "question_signal": "Shows inland spillover becoming a practical planning question."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+      },
+      {
+        "title": "Looking for reliable sea freight from Malaysia? Here's what worked for me.",
+        "summary": "寻找马来西亚可靠的海运服务？分享我的经验！ 📦 Used TNS Logistics for sea freight — rates were much more competitive than other companies I tried 🚢 They handle FCL, LCL, OOG and RoRo shipments — whatever",
+        "source": "Reddit",
+        "timestamp": "2026-03-23T05:45:05+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1s18kcn/looking_for_reliable_sea_freight_from_malaysia/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-03-24",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Port Houston tonnage rises 4% as officials cut reefer free time; Port of Oakland February volumes declined; Port of Oakland sees February container traffic drop 14.5% over last year",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-21",
         "write_now": "No",
@@ -142,79 +230,36 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 8,
-      "high_trust": 0,
-      "trade_press": 1,
-      "community": 7
+      "total_items": 178,
+      "high_trust": 21,
+      "trade_press": 9,
+      "community": 148
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-21.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-21.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-21.json"
+      "news_pipeline/output/reports/daily-brief-2026-03-24.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-24.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-24.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-22",
-    "run_started_at": "2026-03-22T09:34:57+09:00",
+    "report_date": "2026-03-24",
+    "run_started_at": "2026-03-24T10:33:53+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
       "Latest lower-signal item came from Wakeo: 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences..."
     ],
-    "targets_fetched": 24,
+    "targets_fetched": 0,
     "target_count": 24,
     "important_count": 0,
     "watch_count": 0,
-    "company_summaries": [
-      {
-        "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
-      },
-      {
-        "company": "FourKites",
-        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
-      },
-      {
-        "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
-      },
-      {
-        "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
-      },
-      {
-        "company": "Wakeo",
-        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
-      },
-      {
-        "company": "GoComet",
-        "summary": "Current narrative leans toward analytics and decision intelligence, AI and automation, and platform / control tower."
-      }
-    ],
-    "peer_themes": [
-      {
-        "theme": "AI",
-        "count": "3"
-      },
-      {
-        "theme": "automation",
-        "count": "3"
-      },
-      {
-        "theme": "data quality / connectivity",
-        "count": "3"
-      },
-      {
-        "theme": "optimization / procurement",
-        "count": "3"
-      }
-    ],
+    "company_summaries": [],
+    "peer_themes": [],
     "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
@@ -228,106 +273,63 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260322T093457+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260324T103353+0900.json",
+      "/sessions/optimistic-charming-bohr/mnt/New project/work/logistics-news-briefing-pipeline/competitor_monitor/output/reports/competitor-monitor-2026-03-24.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Solutions page: Network error for https://www.fourkites.com/products: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "FourKites Press releases: Network error for https://www.fourkites.com/press/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Shippeo Homepage: Network error for https://www.shippeo.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Shippeo Platform page: Network error for https://www.shippeo.com/solutions/ecmr: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Shippeo Solutions page: Network error for https://www.shippeo.com/solutions/ocean-visibility: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Shippeo Press releases: Network error for https://www.shippeo.com/resources/explore: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Transporeon Platform page: Network error for https://www.transporeon.com/en_US/platform: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Wakeo Homepage: Network error for https://wakeo.co/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Wakeo Solutions page: Network error for https://wakeo.co/solution/shippers/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "Wakeo Newsroom: Network error for https://wakeo.co/news/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "GoComet Homepage: Network error for https://www.gocomet.com/: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "GoComet Platform page: Network error for https://www.gocomet.com/logistics-control-tower: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "GoComet Solutions page: Network error for https://www.gocomet.com/freight-management-software: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "GoComet Press releases: Network error for https://www.gocomet.com/sitemap: <urlopen error Tunnel connection failed: 403 Forbidden>"
+    ]
   },
   "strategic_brief": {
-    "week_label": "2026-W12",
-    "week_end_date": "2026-03-21",
+    "week_label": "2026-W13",
+    "week_end_date": "2026-03-24",
     "freshness": "current",
-    "status_note": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
+    "status_note": "Wakeo is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
+      "Wakeo is signaling AI positioning around in transit visibility.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "executive_takeaways": [
-      "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
-      "UNCTAD is reinforcing market pressure around policy and trade.",
-      "WTO is reinforcing market pressure around policy and trade."
+      "Wakeo is signaling AI positioning around in transit visibility."
     ],
     "strategic_movements": [
-      "UNCTAD (macro regulatory) is highlighting market pressure around policy and trade.",
-      "WTO (macro regulatory) is highlighting market pressure around policy and trade.",
-      "Gartner (analyst report) is pushing AI positioning with the claimed outcome of reduced manual work.",
-      "Oracle (adjacent category shaper) is pushing AI positioning.",
       "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
-      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "How well do product messaging and customer guidance hold up against macro volatility?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
-    "coverage_confidence": "Observed 9/16 configured sources this week. Confidence is reduced by coverage gaps: SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-AI-trends-and-sustainable-solutions.html",
-    "important_signal_count": 8,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "Macro and policy volatility is becoming a stronger shaping force on buyer expectations and vendor narratives."
-    ],
+    "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 1,
+    "active_theses": [],
     "top_signals": [
-      {
-        "entity_name": "UNCTAD",
-        "source_title": "Review of Maritime Transport 2024 | UN Trade and Development (UNCTAD)",
-        "source_layer": "macro regulatory",
-        "strategic_move": "Macro pressure",
-        "workflow_scope": "policy and trade",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Review of Maritime Transport 2024 | UN Trade and Development (UNCTAD)",
-        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
-        "emerging_motif": "review of maritime transport",
-        "source_url": "https://unctad.org/publication/review-maritime-transport-2024"
-      },
-      {
-        "entity_name": "WTO",
-        "source_title": "WTO Tariff & Trade Data | Reports / Tariff actions",
-        "source_layer": "macro regulatory",
-        "strategic_move": "Macro pressure",
-        "workflow_scope": "policy and trade",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Access official WTO tariff and trade data for over 170 economies. Explore applied tariffs, bound duties, import/export trends, and compare trade relationships with the most detailed global database. Download raw data...",
-        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
-        "emerging_motif": "tariff actions",
-        "source_url": "https://ttd.wto.org/en/reports/tariff-actions"
-      },
-      {
-        "entity_name": "Gartner",
-        "source_title": "Press Release: Gartner Identifies Top Supply Chain Technology Trends for 2025",
-        "source_layer": "analyst report",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "reduced manual work",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Agentic AI, ambient invisible intelligence, and an augmented connected workforce are some of the top supply chain technology trends for 2025, according to Gartner, Inc. Gartner Identifies Top Supply Chain Technology...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.gartner.com/en/newsroom/press-releases/2025-03-18-gartner-identifies-top-supply-chain-technology-trends-for-2025"
-      },
-      {
-        "entity_name": "Oracle",
-        "source_title": "Transportation Management | Oracle",
-        "source_layer": "adjacent category shaper",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "medium",
-        "evidence_excerpt": "Discover the transportation management system that allows you to easily manage all transportation activity throughout your global supply chain. Transportation Management",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.oracle.com/scm/logistics/transportation-management/"
-      },
       {
         "entity_name": "Wakeo",
         "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
@@ -345,20 +347,35 @@
     ],
     "recent_history": [
       {
+        "week_label": "2026-W13",
+        "week_end_date": "2026-03-24",
+        "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
+        "signal_count": "1",
+        "active_thesis_count": "0"
+      },
+      {
         "week_label": "2026-W12",
         "week_end_date": "2026-03-21",
-        "takeaway": "Macro pressure is surfacing alongside vendor messaging that centers AI positioning, suggesting market conditions may be reinforcing that narrative.",
-        "signal_count": "9",
-        "active_thesis_count": "2"
+        "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
+        "signal_count": "1",
+        "active_thesis_count": "0"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W12.json",
-      "strategic_intelligence/output/weekly-memo-2026-W12.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W13.json",
+      "strategic_intelligence/output/weekly-memo-2026-W13.md"
     ],
     "warnings": [
-      "SAP sap_control_tower: HTTP 403 for https://www.sap.com/products/scm/control-tower.html",
-      "DHL dhl_trend_radar_2024: Timeout for https://group.dhl.com/en/media-relations/press-releases/2024/dhl-logistics-trend-radar-unveils-emerging-ai-trends-and-sustainable-solutions.html"
+      "Oracle oracle_tms: offline mode has no previous cached observation",
+      "Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+      "SAP sap_control_tower: offline mode has no previous cached observation",
+      "e2open e2open_connected_supply_chain: offline mode has no previous cached observation",
+      "DHL dhl_trend_radar_2024: offline mode has no previous cached observation",
+      "Gartner gartner_supply_chain_tech_trends_2025: offline mode has no previous cached observation",
+      "World Bank world_bank_lpi: offline mode has no previous cached observation",
+      "WTO wto_trade_outlook_2025: offline mode has no previous cached observation",
+      "WTO wto_tariff_tracker: offline mode has no previous cached observation",
+      "UNCTAD unctad_review_maritime_transport_2024: offline mode has no previous cached observation"
     ]
   }
 }
