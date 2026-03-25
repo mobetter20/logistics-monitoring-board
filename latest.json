@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-25T04:21:58+00:00",
+  "built_at": "2026-03-25T04:24:02+00:00",
   "requested_date": "2026-03-25",
   "audience": "internal_team",
   "guardrails": {
@@ -63,7 +63,7 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-03-25",
-    "last_updated": "2026-03-25 13:21",
+    "last_updated": "2026-03-25 13:23",
     "freshness": "current",
     "status_note": "Market watch is led by CN index climbs further as systemic pressure intensifies in container shipping.",
     "sparse_explanation": "",
@@ -253,7 +253,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-03-25",
-    "run_started_at": "2026-03-25T13:21:38+09:00",
+    "run_started_at": "2026-03-25T13:23:24+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -364,7 +364,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260325T132138+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260325T132324+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-03-25.md"
     ],
     "warnings": []
