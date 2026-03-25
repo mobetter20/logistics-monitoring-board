@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-25T04:20:15+00:00",
+  "built_at": "2026-03-25T04:21:58+00:00",
   "requested_date": "2026-03-25",
   "audience": "internal_team",
   "guardrails": {
@@ -19,7 +19,7 @@
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
       "Lead daily item: CN index climbs further as systemic pressure intensifies in container shipping.",
-      "Competitor watch changed: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
     "report_cards": [
@@ -37,7 +37,7 @@
         "cadence": "Reference",
         "report_label": "2026-03-25",
         "freshness": "current",
-        "summary": "Newest meaningful competitor move: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -63,7 +63,7 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-03-25",
-    "last_updated": "2026-03-25 13:19",
+    "last_updated": "2026-03-25 13:21",
     "freshness": "current",
     "status_note": "Market watch is led by CN index climbs further as systemic pressure intensifies in container shipping.",
     "sparse_explanation": "",
@@ -253,18 +253,19 @@
   },
   "competitor_watch": {
     "report_date": "2026-03-25",
-    "run_started_at": "2026-03-25T13:19:46+09:00",
+    "run_started_at": "2026-03-25T13:21:38+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Wakeo: 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences..."
     ],
     "targets_fetched": 24,
     "target_count": 24,
-    "important_count": 3,
+    "important_count": 0,
     "watch_count": 0,
     "company_summaries": [
       {
@@ -310,47 +311,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Wakeo",
-        "importance": "important",
-        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-        "source_url": "https://wakeo.co/news/2025-q3-product-update",
-        "evidence": [
-          "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-          "This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences across the Wakeo platform."
-        ]
-      },
-      {
-        "company": "Wakeo",
-        "importance": "important",
-        "summary": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
-        "source_url": "https://wakeo.co/news/2025-q2-product-update",
-        "evidence": [
-          "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
-          "As part of our carbon emissions module, we have added a new dashboard that allows our customers to get more granular information on carbon emissions for their transport."
-        ]
-      },
-      {
-        "company": "Wakeo",
-        "importance": "important",
-        "summary": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
-        "source_url": "https://wakeo.co/news/wakeo-enhances-trusted-routes-with-nearby-alternatives",
-        "evidence": [
-          "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
-          "Paris, 24th February 2025 – Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a significant enhancement to its Trusted Routes solution: the Nearby Alternatives feature. This upgrade empowers shippers and freight forwarders to"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -403,7 +364,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260325T131946+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260325T132138+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-03-25.md"
     ],
     "warnings": []
