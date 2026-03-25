@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-25T04:24:02+00:00",
-  "requested_date": "2026-03-25",
+  "built_at": "2026-03-25T22:34:30+00:00",
+  "requested_date": "2026-03-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-25",
+    "requested_date": "2026-03-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: CN index climbs further as systemic pressure intensifies in container shipping.",
+      "Lead daily item: Echo Global Logistics expands platform with ITS acquisition.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-25",
+        "report_label": "2026-03-26",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: CN index climbs further as systemic pressure intensifies in container shipping",
+        "supporting_note": "Lead item: Echo Global Logistics expands platform with ITS acquisition",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-25",
+        "report_label": "2026-03-26",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-25",
-    "last_updated": "2026-03-25 13:23",
+    "report_date": "2026-03-26",
+    "last_updated": "2026-03-26 07:33",
     "freshness": "current",
-    "status_note": "Market watch is led by CN index climbs further as systemic pressure intensifies in container shipping.",
+    "status_note": "Market watch is led by Echo Global Logistics expands platform with ITS acquisition.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: CN index climbs further as systemic pressure intensifies in container shipping.",
-      "4 of the last 5 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Lead market story: Echo Global Logistics expands platform with ITS acquisition.",
+      "5 of the last 6 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-25",
+      "report_date": "2026-03-26",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "CN index climbs further as systemic pressure intensifies in container shipping; 3PLs struggle to address shippers tech, service, cost, and data needs; Hub Group gets Nasdaq notice for financial filing delay",
+      "headline": "Echo Global Logistics expands platform with ITS acquisition; Optimizing space and speeding throughput; Federal Judge Denies Latest Administration Challenge",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 4,
-    "headline": "CN index climbs further as systemic pressure intensifies in container shipping",
+    "active_recent_days": 5,
+    "headline": "Echo Global Logistics expands platform with ITS acquisition",
     "key_news_radar": [
       {
-        "title": "CN index climbs further as systemic pressure intensifies in container shipping",
-        "summary": "The CN Index rose again this week, reaching 654, signaling that global container shipping remains deep in the Very High Pressure range.",
+        "title": "Echo Global Logistics expands platform with ITS acquisition",
+        "summary": "Echo Global Logistics announced Wednesday that it has completed the acquisition of ITS Logistics, creating an AI-enabled 3PL with over $5 billion in annual revenue.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-24T17:50:20+00:00",
+        "timestamp": "2026-03-25T17:38:18+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/cn-index-climbs-further-as-systemic-pressure-intensifies-in-container-shipping/",
+        "link": "https://www.freightwaves.com/news/echo-global-logistics-expands-platform-with-its-acquisition",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Hub Group gets Nasdaq notice for financial filing delay",
-        "summary": "Hub Group announced Tuesday that it received a deficiency notice from Nasdaq due to a delay in filing its full-year 2025 financial results, a development the company stated was ant",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-24T23:06:33+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/hub-group-gets-nasdaq-notice-over-financial-filing-delay",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Vena says UP, NS have capacity to handle merger-related growth",
-        "summary": "Union Pacific has enough capacity to handle projected merger-related traffic growth thanks in part to the 24% reduction in active trains on the network since it fully adopted Preci",
+        "title": "Optimizing space and speeding throughput",
+        "summary": "More and more companies are ditching their traditional warehouse storage systems in favor of automated solutions that can both maximize space and speed throughput.",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-24T19:05:29+00:00",
+        "timestamp": "2026-03-25T16:37:24+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/vena-says-up-ns-have-capacity-to-handle-merger-related-growth",
+        "link": "https://www.dcvelocity.com/material-handling/optimizing-space-and-speeding-throughput",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "U.S. rail freight narrowly up despite flat intermodal",
+        "summary": "Chemicals and grain helped offset weaker industrial and intermodal traffic as freight on U.S.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-25T20:37:09+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/u-s-rail-freight-narrowly-up-despite-flat-intermodal",
         "label": "Watch",
         "question_signal": ""
       },
       {
-        "title": "Union Pacific Recognizes CEO Excellence Awards Recipients Who Helped Deliver Historic Year",
-        "summary": "This year, 46 honorees were recognized for rising to meet - and lead through - a period of historic change, advancing Union Pacific’s Safety, Service and Operational Excellence str",
+        "title": "Federal Judge Denies Latest Administration Challenge",
+        "summary": "Liman of the Southern District of New York has been busy lately, deciding cases about the new Congestion Pricing toll that the Metropolitan Transportation Authority (MTA) has been",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-24T15:49:42+00:00",
+        "timestamp": "2026-03-25T17:33:49+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/freight/class-i/union-pacific-recognizes-ceo-excellence-awards-recipients-who-helped-deliver-historic-year/?utm_source=rss&utm_medium=rss&utm_campaign=union-pacific-recognizes-ceo-excellence-awards-recipients-who-helped-deliver-historic-year",
+        "link": "https://www.railwayage.com/passenger/federal-judge-denies-latest-administration-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=federal-judge-denies-latest-administration-challenge",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "3PLs struggle to address shippers tech, service, cost, and data needs",
-        "summary": "3PLs struggle to address shippers’ tech, service, cost, and data needs Operating in a market that’s evolving at a breakneck pace, third-party logistics service providers (3PLs) cer",
+        "title": "UPS retracts driver buyout option in 13 states under union pressure",
+        "summary": "United Parcel Service has notified the Teamsters union that it will withdraw its $150,000 buyout program for parcel and linehaul drivers in 13 central states in response to strong",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-24T16:31:53+00:00",
+        "timestamp": "2026-03-25T20:37:09+00:00",
         "confidence": "medium",
-        "link": "https://www.dcvelocity.com/supply-chain/3pls-struggle-to-address-shippers-tech-service-cost-and-data-needs",
+        "link": "https://www.freightwaves.com/news/ups-retracts-driver-buyout-option-in-13-states-under-union-pressure",
         "label": "Operational",
         "question_signal": ""
       }
@@ -155,47 +155,55 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Catch up on what happened this week in Logistics: March 17-23, 2026",
-        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
+        "title": "Independent customs brokerage in 2026. Is there still a lane, or is it all going integrated?",
+        "summary": "I've been working in the trade/logistics space for a while and I'm seriously considering opening my own customs brokerage.",
         "source": "Reddit",
-        "timestamp": "2026-03-24T17:14:12+00:00",
+        "timestamp": "2026-03-25T04:05:02+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s2jyry/catch_up_on_what_happened_this_week_in_logistics/",
-        "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
-      },
-      {
-        "title": "Shipping from China to Canada? Can help with rates, routing, and coordination",
-        "summary": "Hey everyone, I work in freight forwarding and deal quite a bit with China to Canada shipments, and I keep seeing the same issues come up, so thought I’d share a few that might hel",
-        "source": "Reddit",
-        "timestamp": "2026-03-24T17:57:03+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1s2l6wx/shipping_from_china_to_canada_can_help_with_rates/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s30gm6/independent_customs_brokerage_in_2026_is_there/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Whats the hardest part of calculating landed cost before import?",
-        "summary": "What’s the hardest part of calculating landed cost before import?",
+        "title": "China fulfillment center vs us warehouse, which one actually saves money?",
+        "summary": "Genuinely cannot believe how hard it is to find real numbers so I'm just gonna share mine.",
         "source": "Reddit",
-        "timestamp": "2026-03-25T01:39:17+00:00",
+        "timestamp": "2026-03-25T07:06:32+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1s2xb1r/whats_the_hardest_part_of_calculating_landed_cost/",
+        "link": "https://old.reddit.com/r/logistics/comments/1s33poy/china_fulfillment_center_vs_us_warehouse_which/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Looking for a US customs broker FDA Class II medical device imports from China (Port Miami)",
+        "summary": "Looking for a US customs broker — FDA Class II medical device imports from China (Port Miami) I'm launching a US ecommerce brand importing FDA-regulated electronic devices from She",
+        "source": "Reddit",
+        "timestamp": "2026-03-25T05:52:57+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s32g9i/looking_for_a_us_customs_broker_fda_class_ii/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-03-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Echo Global Logistics expands platform with ITS acquisition; Optimizing space and speeding throughput; Federal Judge Denies Latest Administration Challenge",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-25",
         "write_now": "Maybe",
@@ -238,22 +246,22 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 142,
-      "high_trust": 29,
-      "trade_press": 47,
-      "community": 66
+      "total_items": 135,
+      "high_trust": 26,
+      "trade_press": 22,
+      "community": 87
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-03-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-25",
-    "run_started_at": "2026-03-25T13:23:24+09:00",
+    "report_date": "2026-03-26",
+    "run_started_at": "2026-03-26T07:33:34+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -364,14 +372,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260325T132324+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260326T073334+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-26.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W13",
-    "week_end_date": "2026-03-25",
+    "week_end_date": "2026-03-26",
     "freshness": "current",
     "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
@@ -435,7 +443,7 @@
     "recent_history": [
       {
         "week_label": "2026-W13",
-        "week_end_date": "2026-03-25",
+        "week_end_date": "2026-03-26",
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
         "signal_count": "6",
         "active_thesis_count": "1"
