@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-24T02:07:48+00:00",
-  "requested_date": "2026-03-24",
+  "built_at": "2026-03-25T04:20:15+00:00",
+  "requested_date": "2026-03-25",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,29 +15,29 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-24",
+    "requested_date": "2026-03-25",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
-      "Competitor watch changed: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+      "Lead daily item: CN index climbs further as systemic pressure intensifies in container shipping.",
+      "Competitor watch changed: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
       "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-24",
+        "report_label": "2026-03-25",
         "freshness": "current",
-        "summary": "Current market signals look more contextual than action-driving.",
-        "supporting_note": "Lead item: Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
+        "supporting_note": "Lead item: CN index climbs further as systemic pressure intensifies in container shipping",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-24",
+        "report_label": "2026-03-25",
         "freshness": "current",
-        "summary": "Newest meaningful competitor move: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "summary": "Newest meaningful competitor move: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -62,49 +62,154 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-24",
-    "last_updated": "2026-03-24 11:07",
+    "report_date": "2026-03-25",
+    "last_updated": "2026-03-25 13:19",
     "freshness": "current",
-    "status_note": "Market watch is led by Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
-    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 1 trade-press item(s), and 0 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
+    "status_note": "Market watch is led by CN index climbs further as systemic pressure intensifies in container shipping.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals look more contextual than action-driving.",
-      "Lead market story: Study: retailers struggle to serve impatient consumers as fulfillment costs rise.",
-      "2 of the last 4 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Current market signals form a meaningful cluster, but not a single dominant story.",
+      "Lead market story: CN index climbs further as systemic pressure intensifies in container shipping.",
+      "4 of the last 5 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-24",
-      "write_now": "No",
-      "highest_confidence_operational_items": "1",
-      "worth_attention_today": "0",
-      "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
-      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+      "report_date": "2026-03-25",
+      "write_now": "Maybe",
+      "highest_confidence_operational_items": "6",
+      "worth_attention_today": "5",
+      "headline": "CN index climbs further as systemic pressure intensifies in container shipping; 3PLs struggle to address shippers tech, service, cost, and data needs; Hub Group gets Nasdaq notice for financial filing delay",
+      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 2,
-    "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+    "active_recent_days": 4,
+    "headline": "CN index climbs further as systemic pressure intensifies in container shipping",
     "key_news_radar": [
       {
-        "title": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
-        "summary": "A survey of challenges faced by retailers shows that their global logistics and fulfillment costs have risen by over 20% in the last three years, as customers expect faster deliver",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-03-24T01:28:52+00:00",
+        "title": "CN index climbs further as systemic pressure intensifies in container shipping",
+        "summary": "The CN Index rose again this week, reaching 654, signaling that global container shipping remains deep in the Very High Pressure range.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-24T17:50:20+00:00",
         "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/trucking/last-mile/study-retailers-struggle-to-serve-impatient-consumers-as-fulfillment-costs-rise",
+        "link": "https://container-news.com/cn-index-climbs-further-as-systemic-pressure-intensifies-in-container-shipping/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Hub Group gets Nasdaq notice for financial filing delay",
+        "summary": "Hub Group announced Tuesday that it received a deficiency notice from Nasdaq due to a delay in filing its full-year 2025 financial results, a development the company stated was ant",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-24T23:06:33+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/hub-group-gets-nasdaq-notice-over-financial-filing-delay",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Vena says UP, NS have capacity to handle merger-related growth",
+        "summary": "Union Pacific has enough capacity to handle projected merger-related traffic growth thanks in part to the 24% reduction in active trains on the network since it fully adopted Preci",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-24T19:05:29+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/vena-says-up-ns-have-capacity-to-handle-merger-related-growth",
+        "label": "Watch",
+        "question_signal": ""
+      },
+      {
+        "title": "Union Pacific Recognizes CEO Excellence Awards Recipients Who Helped Deliver Historic Year",
+        "summary": "This year, 46 honorees were recognized for rising to meet - and lead through - a period of historic change, advancing Union Pacific’s Safety, Service and Operational Excellence str",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-24T15:49:42+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/freight/class-i/union-pacific-recognizes-ceo-excellence-awards-recipients-who-helped-deliver-historic-year/?utm_source=rss&utm_medium=rss&utm_campaign=union-pacific-recognizes-ceo-excellence-awards-recipients-who-helped-deliver-historic-year",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "3PLs struggle to address shippers tech, service, cost, and data needs",
+        "summary": "3PLs struggle to address shippers’ tech, service, cost, and data needs Operating in a market that’s evolving at a breakneck pace, third-party logistics service providers (3PLs) cer",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-24T16:31:53+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/supply-chain/3pls-struggle-to-address-shippers-tech-service-cost-and-data-needs",
         "label": "Operational",
         "question_signal": ""
       }
     ],
-    "hot_topics": [],
-    "business_angles": [],
-    "community_questions": [],
+    "hot_topics": [
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      }
+    ],
+    "business_angles": [
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      }
+    ],
+    "community_questions": [
+      {
+        "title": "Catch up on what happened this week in Logistics: March 17-23, 2026",
+        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
+        "source": "Reddit",
+        "timestamp": "2026-03-24T17:14:12+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s2jyry/catch_up_on_what_happened_this_week_in_logistics/",
+        "label": "",
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+      },
+      {
+        "title": "Shipping from China to Canada? Can help with rates, routing, and coordination",
+        "summary": "Hey everyone, I work in freight forwarding and deal quite a bit with China to Canada shipments, and I keep seeing the same issues come up, so thought I’d share a few that might hel",
+        "source": "Reddit",
+        "timestamp": "2026-03-24T17:57:03+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1s2l6wx/shipping_from_china_to_canada_can_help_with_rates/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Whats the hardest part of calculating landed cost before import?",
+        "summary": "What’s the hardest part of calculating landed cost before import?",
+        "source": "Reddit",
+        "timestamp": "2026-03-25T01:39:17+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/maritime/comments/1s2xb1r/whats_the_hardest_part_of_calculating_landed_cost/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      }
+    ],
     "recent_history": [
+      {
+        "report_date": "2026-03-25",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "CN index climbs further as systemic pressure intensifies in container shipping; 3PLs struggle to address shippers tech, service, cost, and data needs; Hub Group gets Nasdaq notice for financial filing delay",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-24",
         "write_now": "No",
-        "highest_confidence_operational_items": "1",
-        "worth_attention_today": "0",
-        "headline": "Study: retailers struggle to serve impatient consumers as fulfillment costs rise",
+        "highest_confidence_operational_items": "3",
+        "worth_attention_today": "1",
+        "headline": "ABP secures offshore wind construction from Port of Lowestoft; STG Logistics Survey: Sourcing diversification, contract flexibility, logistics network changes; Mexicos auto parts sector thinks it will withstand US trade policy instability",
         "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       },
       {
@@ -133,28 +238,28 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 1,
-      "high_trust": 0,
-      "trade_press": 1,
-      "community": 0
+      "total_items": 142,
+      "high_trust": 29,
+      "trade_press": 47,
+      "community": 66
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-24.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-24.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-24.json"
+      "news_pipeline/output/reports/daily-brief-2026-03-25.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-25.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-25.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-24",
-    "run_started_at": "2026-03-24T11:07:12+09:00",
+    "report_date": "2026-03-25",
+    "run_started_at": "2026-03-25T13:19:46+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Wakeo Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+      "Newest meaningful competitor move: Wakeo 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "targets_fetched": 24,
@@ -209,27 +314,27 @@
       {
         "company": "Wakeo",
         "importance": "important",
-        "summary": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
         "signal_type": "press_announcement",
         "page_slug": "press",
-        "source_title": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
-        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution",
+        "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+        "source_url": "https://wakeo.co/news/2025-q3-product-update",
         "evidence": [
-          "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
-          "Paris, France – June 20th, 2024 – Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the acquisition of Veroo Software, a LKW WALTER cutting-edge platform specializing in road transportation management and predictive analytics. This"
+          "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+          "This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences across the Wakeo platform."
         ]
       },
       {
         "company": "Wakeo",
         "importance": "important",
-        "summary": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
+        "summary": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
         "signal_type": "press_announcement",
         "page_slug": "press",
-        "source_title": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
-        "source_url": "https://wakeo.co/news/wakeo-announces-18-million-in-a-new-funding-round-led-by-statkraft-ventures",
+        "source_title": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
+        "source_url": "https://wakeo.co/news/2025-q2-product-update",
         "evidence": [
-          "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
-          "Wakeo is a global leader in bringing real-time visibility to multimodal intercontinental transport flows. By leveraging intelligent analytics and predictive capabilities, the platform empowers businesses to boost operational excellence and improve customer satisfaction."
+          "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
+          "As part of our carbon emissions module, we have added a new dashboard that allows our customers to get more granular information on carbon emissions for their transport."
         ]
       },
       {
@@ -248,6 +353,22 @@
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-03-25",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
+        "source_url": "https://wakeo.co/news/2025-q3-product-update"
+      },
+      {
+        "detected_date": "2026-03-25",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
+        "source_url": "https://wakeo.co/news/2025-q2-product-update"
+      },
       {
         "detected_date": "2026-03-24",
         "company": "Wakeo",
@@ -282,14 +403,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260324T110712+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-24.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260325T131946+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-25.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W13",
-    "week_end_date": "2026-03-24",
+    "week_end_date": "2026-03-25",
     "freshness": "current",
     "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
@@ -313,28 +434,27 @@
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
     ],
-    "coverage_confidence": "Observed 4/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 4,
+    "coverage_confidence": "Observed 6/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 6,
     "active_theses": [
       "Vendors are broadening the workflow scope they claim to own."
     ],
     "top_signals": [
       {
         "entity_name": "Wakeo",
-        "source_title": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
+        "source_title": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
         "source_layer": "direct competitor",
         "strategic_move": "Scope expansion",
         "workflow_scope": "end to end orchestration",
         "claimed_outcome": "greater control",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Wakeo newsroom announced \"Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce...",
+        "evidence_excerpt": "Wakeo newsroom announced \"2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...\" -> signals a broader control tower / platform story...",
         "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
         "emerging_motif": "unknown",
-        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution"
+        "source_url": "https://wakeo.co/news/2025-q2-product-update"
       },
       {
         "entity_name": "Wakeo",
@@ -354,9 +474,9 @@
     "recent_history": [
       {
         "week_label": "2026-W13",
-        "week_end_date": "2026-03-24",
+        "week_end_date": "2026-03-25",
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
-        "signal_count": "4",
+        "signal_count": "6",
         "active_thesis_count": "1"
       },
       {
