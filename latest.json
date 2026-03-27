@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-26T22:34:24+00:00",
-  "requested_date": "2026-03-27",
+  "built_at": "2026-03-27T22:33:12+00:00",
+  "requested_date": "2026-03-28",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-27",
+    "requested_date": "2026-03-28",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo.",
+      "Lead daily item: Shipping Industry Faces Near-Record Public Scrutiny in 2026.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-27",
+        "report_label": "2026-03-28",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo",
+        "supporting_note": "Lead item: Shipping Industry Faces Near-Record Public Scrutiny in 2026",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-27",
+        "report_label": "2026-03-28",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,76 +62,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-27",
-    "last_updated": "2026-03-27 07:33",
+    "report_date": "2026-03-28",
+    "last_updated": "2026-03-28 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo.",
+    "status_note": "Market watch is led by Shipping Industry Faces Near-Record Public Scrutiny in 2026.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo.",
+      "Lead market story: Shipping Industry Faces Near-Record Public Scrutiny in 2026.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-27",
+      "report_date": "2026-03-28",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo; Warehouses face $100K-hour downtime risk as cloud outages mount; USPS to hike prices 8% on April 26 to cope with rising gas prices",
+      "headline": "Shipping Industry Faces Near-Record Public Scrutiny in 2026; WCI rises for fourth straight week to $2,279; Small businesses say tariffs still hurting a year after Liberation Day",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo",
+    "headline": "Shipping Industry Faces Near-Record Public Scrutiny in 2026",
     "key_news_radar": [
       {
-        "title": "Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo",
-        "summary": "Hapag-Lloyd reported solid growth in container volumes in 2025 that were offset by tumbling profits on weaker ocean shipping rates and higher costs.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-26T18:29:02+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/hapag-lloyd-profits-tumbled-in-2025-despite-carrying-more-cargo",
+        "title": "Shipping Industry Faces Near-Record Public Scrutiny in 2026",
+        "summary": "According to Splash247, the shipping sector is currently experiencing a period of exceptionally high public attention.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-03-27T08:12:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/shipping-industry-faces-near-record-public-scrutiny-in-2026/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Imports fall 14.5% y/y at Port of Oakland",
-        "summary": "The Port of Oakland processed 163,254 twenty foot equivalent units (TEUs) in February, down 16.7% from January and 14.5% year-over- year.",
+        "title": "WCI rises for fourth straight week to $2,279",
+        "summary": "Drewry’s World Container Index (WCI) climbed 5% this week to $2,279 per 40-foot container, marking a fourth straight week of increases.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-03-27T17:29:41+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/wci-rises-for-fourth-straight-week-to-2279/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Heres an update about Carrier Haulage Solutions in the Middle East",
+        "summary": "Here’s an update about Carrier Haulage Solutions in the Middle East Following the evolving situation in the region, we would like to provide you with an update on our carrier haula",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-03-27T07:30:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/here-s-an-update-about-carrier-haulage-solutions-in-the-middle-e.feed.rss.xml",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Tight capacity pushes freight rates higher in 2025 Q4 despite soft volumes",
+        "summary": "It is no secret that trucking is the heart of the nation’s freight system, as most products transported within the United States find their way onto trucks.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-03-27T16:47:35+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/sponsored-content/tight-capacity-pushes-freight-rates-higher-in-2025-q4-despite-soft-volumes",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "ADNOC L&S shareholders approve $325 million dividend",
+        "summary": "ADNOC Logistics & Services Plc (ADNOC L&S) shareholders approved the final 2025 dividend of $81.25 million (AED 298.4 million).",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-26T15:29:13+00:00",
+        "timestamp": "2026-03-27T07:23:33+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/imports-fall-14-5-y-y-at-port-of-oakland",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "USPS to hike prices 8% on April 26 to cope with rising gas prices",
-        "summary": "Postal Service plans to temporarily hike its prices by 8% starting April 26 to cope with rising fuel prices, as gasoline and diesel prices continue to rise across the nation in res",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-25T22:38:53+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/trucking/parcel-postal-carriers/usps-to-hike-prices-8-on-april-26-to-cope-with-rising-gas-prices",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "HHLA posts strong 2025 growth despite tax hit and market headwinds",
-        "summary": "HHLA delivered solid operational growth in 2025 despite geopolitical tensions, Red Sea disruptions and US trade policy uncertainty.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-26T14:13:37+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/hhla-posts-strong-2025-growth-despite-tax-hit-and-market-headwinds/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Warehouses face $100K-hour downtime risk as cloud outages mount",
-        "summary": "In the world of warehousing, cloud computing has been a boon — except when an outage hits.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-26T20:30:19+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/warehouses-face-100k-hour-downtime-risk-hybrid-wms",
-        "label": "Operational",
+        "link": "https://container-news.com/adnoc-ls-shareholders-approve-325-million-dividend/",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
@@ -142,15 +142,11 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
@@ -159,11 +155,11 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -173,37 +169,45 @@
     ],
     "community_questions": [
       {
-        "title": "Shipping from China to Middle East is sea freight fully back yet?",
-        "summary": "Shipping from China to Middle East — is sea freight fully back yet?",
+        "title": "Russia to US shipping?",
+        "summary": "I know last year Russia suspended packages being sent to the US, but has there been any recent updates on whether they have started back up or anything of that nature?",
         "source": "Reddit",
-        "timestamp": "2026-03-26T01:49:49+00:00",
+        "timestamp": "2026-03-27T04:10:36+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1s3ucq8/shipping_from_china_to_middle_east_is_sea_freight/",
+        "link": "https://old.reddit.com/r/shipping/comments/1s4twqw/russia_to_us_shipping/",
         "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Freight forwarding professional stuck in India during Iran-UAE conflict should I go back to Dubai or find a job locally? Seeking advice",
-        "summary": "Freight forwarding professional stuck in India during Iran-UAE conflict — should I go back to Dubai or find a job locally?",
+        "title": "China Africa shipping: Hows it really now?",
+        "summary": "China → Africa shipping: How’s it really now?",
         "source": "Reddit",
-        "timestamp": "2026-03-26T15:21:22+00:00",
+        "timestamp": "2026-03-27T16:28:16+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1s4agjv/freight_forwarding_professional_stuck_in_india/",
+        "link": "https://old.reddit.com/r/shipping/comments/1s591qm/china_africa_shipping_hows_it_really_now/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "How to choose a 3pl ecommerce fulfillment service without getting burned",
-        "summary": "I manage ops for a mid size ecommerce brand, like $15M, and at this point I've evaluated more 3pls than I'd like to admit.",
+        "title": "Three co-owners starting a trucking company in Ohio, looking for input on insurance, hiring, and truck selection",
+        "summary": "Figured the best way to get real answers is to lay out where we're at and ask the people who actually know this industry.",
         "source": "Reddit",
-        "timestamp": "2026-03-26T10:34:58+00:00",
+        "timestamp": "2026-03-27T17:47:54+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1s43u7h/how_to_choose_a_3pl_ecommerce_fulfillment_service/",
+        "link": "https://old.reddit.com/r/logistics/comments/1s5baua/three_coowners_starting_a_trucking_company_in/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-03-28",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Shipping Industry Faces Near-Record Public Scrutiny in 2026; WCI rises for fourth straight week to $2,279; Small businesses say tariffs still hurting a year after Liberation Day",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-27",
         "write_now": "Maybe",
@@ -251,33 +255,25 @@
         "worth_attention_today": "1",
         "headline": "Maersk issues Middle East operational update amid Hormuz disruptions; NWSA full exports up 2.2% YTD despite overall volume decline; Qatar LNG damage, Yanbu strikes and Hormuz toll threats deepen shipping crisis",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "5",
-        "worth_attention_today": "0",
-        "headline": "Barcelona rail tunnel shutdown forces extended diversions and disrupts cross‑border services; Hormuz closure forces costly liner detours as Gulf logistics tighten; North Europe: Inland Emergency Fuel & Energy Surcharges Introduction",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 177,
-      "high_trust": 40,
-      "trade_press": 42,
-      "community": 95
+      "total_items": 141,
+      "high_trust": 28,
+      "trade_press": 26,
+      "community": 87
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-27.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-27.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-27.json"
+      "news_pipeline/output/reports/daily-brief-2026-03-28.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-28.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-28.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-27",
-    "run_started_at": "2026-03-27T07:33:27+09:00",
+    "report_date": "2026-03-28",
+    "run_started_at": "2026-03-28T07:32:17+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -388,14 +384,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260327T073327+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-27.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260328T073217+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-28.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W13",
-    "week_end_date": "2026-03-27",
+    "week_end_date": "2026-03-28",
     "freshness": "current",
     "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
@@ -406,23 +402,20 @@
       "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
     ],
     "executive_takeaways": [
-      "Wakeo is signaling scope expansion around end to end orchestration.",
-      "Wakeo is signaling AI positioning around in transit visibility."
+      "Wakeo is signaling scope expansion around end to end orchestration."
     ],
     "strategic_movements": [
-      "Wakeo (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control.",
-      "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
+      "Wakeo (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control."
     ],
     "team_implications": [
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 6/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 6,
+    "coverage_confidence": "Observed 5/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 5,
     "active_theses": [
       "Vendors are broadening the workflow scope they claim to own."
     ],
@@ -440,28 +433,14 @@
         "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
         "emerging_motif": "unknown",
         "source_url": "https://wakeo.co/news/2025-q2-product-update"
-      },
-      {
-        "entity_name": "Wakeo",
-        "source_title": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Wakeo newsroom announced \"2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...\" -> looks strategically relevant enough to watch 2025...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://wakeo.co/news/2025-q3-product-update"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W13",
-        "week_end_date": "2026-03-27",
+        "week_end_date": "2026-03-28",
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
-        "signal_count": "6",
+        "signal_count": "5",
         "active_thesis_count": "1"
       },
       {
