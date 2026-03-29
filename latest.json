@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-28T22:32:15+00:00",
-  "requested_date": "2026-03-29",
+  "built_at": "2026-03-29T22:32:17+00:00",
+  "requested_date": "2026-03-30",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-29",
+    "requested_date": "2026-03-30",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Operational Update: Port of Salalah, Oman - Lisbon Express.",
+      "Lead daily item: Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-29",
+        "report_label": "2026-03-30",
         "freshness": "current",
-        "summary": "Current market signals look more contextual than action-driving.",
-        "supporting_note": "Lead item: Operational Update: Port of Salalah, Oman - Lisbon Express",
+        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
+        "supporting_note": "Lead item: Hapag-Lloyd Profit Falls as Market Conditions Weaken",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-29",
+        "report_label": "2026-03-30",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -44,7 +44,7 @@
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W13",
+        "report_label": "2026-W14",
         "freshness": "current",
         "summary": "Wakeo is signaling scope expansion around end to end orchestration.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
@@ -62,83 +62,83 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-29",
-    "last_updated": "2026-03-29 07:31",
+    "report_date": "2026-03-30",
+    "last_updated": "2026-03-30 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Operational Update: Port of Salalah, Oman - Lisbon Express.",
+    "status_note": "Market watch is led by Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals look more contextual than action-driving.",
-      "Lead market story: Operational Update: Port of Salalah, Oman - Lisbon Express.",
-      "5 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Current market signals form a meaningful cluster, but not a single dominant story.",
+      "Lead market story: Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
+      "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-29",
-      "write_now": "No",
-      "highest_confidence_operational_items": "2",
-      "worth_attention_today": "5",
-      "headline": "Operational Update: Port of Salalah, Oman - Lisbon Express; China opens probes into US trading practices",
-      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+      "report_date": "2026-03-30",
+      "write_now": "Maybe",
+      "highest_confidence_operational_items": "6",
+      "worth_attention_today": "4",
+      "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken; Borderlands Mexico: USMCA review to reshape North American supply chains; Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
+      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 5,
-    "headline": "Operational Update: Port of Salalah, Oman - Lisbon Express",
+    "active_recent_days": 6,
+    "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken",
     "key_news_radar": [
       {
-        "title": "Operational Update: Port of Salalah, Oman - Lisbon Express",
-        "summary": "In the early hours of Saturday, March 28, 2026, a security incident occurred at the Port of Salalah in Oman involving reported drone activity and explosions.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-03-28T10:39:00+00:00",
+        "title": "Hapag-Lloyd Profit Falls as Market Conditions Weaken",
+        "summary": "Hapag-Lloyd reported a sharp decline in earnings for 2025, as falling freight rates and rising operational costs offset strong cargo volumes and improved network performance.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-29T14:00:58+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/operational-update--port-of-salalah--oman---lisbon-express-updat.feed.rss.xml",
+        "link": "https://www.globaltrademag.com/hapag-lloyd-profit-falls-as-market-conditions-weaken/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Marsa Ocean launches new IndiaRed Sea and regional services",
-        "summary": "Marsa Ocean launches new India-Red Sea and regional services Marsa Ocean Shipping has introduced two new services connecting India and the Red Sea region, according to Alphaliner.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-28T14:39:27+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/marsa-ocean-launches-new-india-red-sea-and-regional-services/",
-        "label": "Watch",
+        "title": "Borderlands Mexico: USMCA review to reshape North American supply chains",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-29T11:53:21+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-usmca-review-to-reshape-north-american-supply-chains",
+        "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "DHL and iglo extend frozen food logistics partnership in Germany",
-        "summary": "DHL Supply Chain and iglo Deutschland have extended their long-standing logistics partnership for another five years.",
+        "title": "U.S. Launches New Insurance Program for Strait of Hormuz Shipping",
+        "summary": "Treasury Secretary Scott Bessent said this week that a US insurance program designed to boost shipping through the Strait of Hormuz will begin soon.",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-28T07:36:23+00:00",
+        "timestamp": "2026-03-29T14:00:58+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/dhl-and-iglo-extend-frozen-food-logistics-partnership-in-germany/",
-        "label": "Watch",
+        "link": "https://www.globaltrademag.com/u-s-launches-new-insurance-program-for-strait-of-hormuz-shipping/",
+        "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Flinders Port Holdings commissions barge Wharfside One",
-        "summary": "Flinders Port Holdings has welcomed Wharfside One, a new self-propelled barge commissioned to support waterside maintenance operations across its South Australian port network.",
+        "title": "Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
+        "summary": "Maritime forum deepens port ties between Klaipėda, Lübeck and Hamburg A joint delegation visit organised by Lübecker Hafen-Gesellschaft and Hafen Hamburg Marketing has reinforced c",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-28T01:31:37+00:00",
+        "timestamp": "2026-03-29T02:44:40+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/flinders-port-holdings-commissions-barge-wharfside-one/",
-        "label": "Watch",
+        "link": "https://container-news.com/maritime-forum-deepens-port-ties-between-klaipeda-lubeck-and-hamburg/",
+        "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "IAG Cargo adds St. Louis route, boosts global summer capacity",
-        "summary": "IAG Cargo has announced its summer 2026 schedule, adding a new route between London Heathrow Airport and St.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-28T19:39:38+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/iag-cargo-adds-st-louis-route-boosts-global-summer-capacity/",
-        "label": "Watch",
+        "title": "DEF sensors no longer required on trucks, other diesel equipment: EPA",
+        "summary": "Diesel Exhaust Fluid sensors will no longer be required on equipment that runs on the fuel, following a change in policy announced Friday by the Environmental Protection Agency.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-29T13:54:49+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/def-sensors-no-longer-required-on-trucks-other-diesel-equipment-epa",
+        "label": "Operational",
         "question_signal": ""
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -146,16 +146,16 @@
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -163,43 +163,55 @@
         "summary": ""
       },
       {
-        "title": "`Service / network changes` remains active across high-trust coverage. Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "how to handle suppliers sending low quality shipping documents that cause delays",
-        "summary": "I'm working with a supplier in China who would sometimes send shipping documents with mismarkings on them that cause delays at customs and major headaches for us, to the point wher",
+        "title": "need package by april 2nd, will it arrive on time..??",
+        "summary": "it's been stuck here since the 25th and i'm worried I won't get it by when I need it submitted by /u/Acceptable-Teach-633 [link] [comments]",
         "source": "Reddit",
-        "timestamp": "2026-03-28T02:22:12+00:00",
+        "timestamp": "2026-03-28T22:47:20+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1s5o5dl/how_to_handle_suppliers_sending_low_quality/",
+        "link": "https://old.reddit.com/r/shipping/comments/1s6efzk/need_package_by_april_2nd_will_it_arrive_on_time/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Do you import products from Mexico? I'd love to hear about your experience",
-        "summary": "Hey everyone, I'm building a platform to make it easier to source and import products from Mexico into the US, and I'd love to hear from people who have gone through this process —",
+        "title": "Looking for genuine frieght forwarders to import from China to India",
+        "summary": "Hello people, I have my supplier ready for production but I need to transfer the necessary payments for which I will need some trustworthy agents either in China or India who can h",
         "source": "Reddit",
-        "timestamp": "2026-03-28T01:47:06+00:00",
+        "timestamp": "2026-03-29T03:51:29+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s5ne8p/do_you_import_products_from_mexico_id_love_to/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1s6kwrg/looking_for_genuine_frieght_forwarders_to_import/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Indian logistics SaaS | Bootstrapped | 4.2L MRR | Raising 1.5Cr round 50L committed | Looking for angels/micro-VCs",
-        "summary": "Indian logistics SaaS | Bootstrapped | ₹4.2L MRR | Raising ₹1.5Cr round — ₹50L committed | Looking for angels/micro-VCs Hi there - Founder here.",
+        "title": "Where to dig out stories ? For a ppt presentation",
+        "summary": "I have a ppt assignment coming up where I need to study the supply chain of a company.",
         "source": "Reddit",
-        "timestamp": "2026-03-28T03:46:32+00:00",
+        "timestamp": "2026-03-29T06:25:03+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1s5pvvv/indian_logistics_saas_bootstrapped_42l_mrr/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1s6nnod/where_to_dig_out_stories_for_a_ppt_presentation/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-03-30",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "4",
+        "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken; Borderlands Mexico: USMCA review to reshape North American supply chains; Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-29",
         "write_now": "No",
@@ -247,33 +259,25 @@
         "worth_attention_today": "1",
         "headline": "ABP secures offshore wind construction from Port of Lowestoft; STG Logistics Survey: Sourcing diversification, contract flexibility, logistics network changes; Mexicos auto parts sector thinks it will withstand US trade policy instability",
         "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
-      },
-      {
-        "report_date": "2026-03-21",
-        "write_now": "No",
-        "highest_confidence_operational_items": "1",
-        "worth_attention_today": "0",
-        "headline": "US resin shippers look to tap new customers amid Iran war",
-        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       }
     ],
     "source_snapshot": {
-      "total_items": 63,
-      "high_trust": 10,
-      "trade_press": 5,
-      "community": 48
+      "total_items": 70,
+      "high_trust": 9,
+      "trade_press": 8,
+      "community": 53
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-29.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-29.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-29.json"
+      "news_pipeline/output/reports/daily-brief-2026-03-30.md",
+      "news_pipeline/output/digests/daily-digest-2026-03-30.md",
+      "news_pipeline/output/trends/daily-trends-2026-03-30.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-29",
-    "run_started_at": "2026-03-29T07:31:37+09:00",
+    "report_date": "2026-03-30",
+    "run_started_at": "2026-03-30T07:31:37+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -384,17 +388,17 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260329T073137+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-29.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260330T073137+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-03-30.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W13",
-    "week_end_date": "2026-03-29",
+    "week_label": "2026-W14",
+    "week_end_date": "2026-03-30",
     "freshness": "current",
     "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
-    "sparse_explanation": "This weekly layer is still early-stage. It becomes much more informative after several weeks accumulate, because the system can compare direction over time rather than just summarize one week.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
       "Wakeo is signaling scope expansion around end to end orchestration.",
@@ -436,6 +440,13 @@
     ],
     "recent_history": [
       {
+        "week_label": "2026-W14",
+        "week_end_date": "2026-03-30",
+        "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
+        "signal_count": "5",
+        "active_thesis_count": "1"
+      },
+      {
         "week_label": "2026-W13",
         "week_end_date": "2026-03-29",
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
@@ -451,8 +462,8 @@
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W13.json",
-      "strategic_intelligence/output/weekly-memo-2026-W13.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W14.json",
+      "strategic_intelligence/output/weekly-memo-2026-W14.md"
     ],
     "warnings": [
       "Oracle oracle_tms: offline mode has no previous cached observation",
