@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-31T18:13:15+00:00",
+  "built_at": "2026-03-31T22:32:26+00:00",
   "requested_date": "2026-04-01",
   "audience": "internal_team",
   "guardrails": {
@@ -18,7 +18,7 @@
     "requested_date": "2026-04-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: South Korean-owned U.S. shipyard gets first Navy contract.",
+      "Lead daily item: DP World expands eastern Canada reach.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
@@ -29,7 +29,7 @@
         "report_label": "2026-04-01",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: South Korean-owned U.S. shipyard gets first Navy contract",
+        "supporting_note": "Lead item: DP World expands eastern Canada reach",
         "href": "market-watch.html"
       },
       {
@@ -63,87 +63,79 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-04-01",
-    "last_updated": "2026-04-01 03:12",
+    "last_updated": "2026-04-01 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by South Korean-owned U.S. shipyard gets first Navy contract.",
+    "status_note": "Market watch is led by DP World expands eastern Canada reach.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: South Korean-owned U.S. shipyard gets first Navy contract.",
+      "Lead market story: DP World expands eastern Canada reach.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
       "report_date": "2026-04-01",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "4",
-      "headline": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up; South Korean-owned U.S. shipyard gets first Navy contract; Mandatory Cargo Volume & HS Code Declaration Effective May 2026",
+      "highest_confidence_operational_items": "5",
+      "worth_attention_today": "5",
+      "headline": "DP World expands eastern Canada reach; Salalah disruptions send carriers on Indian trades back to adding Pakistan calls; How Intermodal Protects Against Cargo Theft and Freight Fraud",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "South Korean-owned U.S. shipyard gets first Navy contract",
+    "headline": "DP World expands eastern Canada reach",
     "key_news_radar": [
       {
-        "title": "South Korean-owned U.S. shipyard gets first Navy contract",
-        "summary": "A Philadelphia shipyard owned by a South Korean industrial conglomerate said it has been awarded its first U.S.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-31T16:51:29+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/south-korean-owned-u-s-shipyard-gets-first-navy-contract",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Update - 31 March: Port of Salalah resumes operations following security incident",
-        "summary": "The impacted area was limited, says Maersk, and the port is gradually bringing operations to full capacity",
-        "source": "myKN Alert",
-        "timestamp": "2026-03-30T08:00:43+00:00",
+        "title": "DP World expands eastern Canada reach",
+        "summary": "DP World has opened a new freight forwarding office in Montreal, expanding its Canadian logistics network and strengthening its end-to-end service offerings.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-31T19:49:13+00:00",
         "confidence": "high",
-        "link": "https://mykn.kuehne-nagel.com/news/article/port-of-salalah-suspends-operations-following",
+        "link": "https://www.freightwaves.com/news/dp-world-expands-eastern-canada-reach",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "KLN reports higher core net profit despite revenue dip",
-        "summary": "KLN Logistics Group reported its 2025 results, showing growth in core net profit despite a challenging global environment.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-31T16:48:33+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/kln-reports-higher-core-net-profit-despite-revenue-dip/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up",
-        "summary": "Shipping from Türkiye to US East Coast and Gulf?",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-03-31T06:00:00+00:00",
+        "title": "Port of Barcelona awards Baleria concession for passenger and ro-ro terminal",
+        "summary": "Port of Barcelona awards Baleària concession for passenger and ro-ro terminal The Port of Barcelona Management Board has approved a concession to Baleària for the construction and",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-31T21:50:33+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/shipping-from-tuerkiye-to-us-east-coast-and-gulf--a-pss-is-comin.feed.rss.xml",
+        "link": "https://container-news.com/port-of-barcelona-awards-balearia-concession-for-passenger-and-ro-ro-terminal/",
+        "label": "Watch",
+        "question_signal": ""
+      },
+      {
+        "title": "CN made inaccurate claims on rail merger data: UP exec",
+        "summary": "CN made ‘inaccurate claims’ on rail merger data: UP exec A Union Pacific executive has responded to comments by Canadian National about the planned UP-Norfolk Southern merger, sayi",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-31T18:50:25+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/cn-made-inaccurate-claims-on-rail-merger-data-up-exec",
+        "label": "Watch",
+        "question_signal": ""
+      },
+      {
+        "title": "Salalah disruptions send carriers on Indian trades back to adding Pakistan calls",
+        "summary": "With operations at Salalah suspended on Saturday due to a drone strike, Hapag-Lloyd has positioned its upcoming westbound sailing on the India-USEC “TPI” service to call at Port Qa",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-31T19:04:40+00:00",
+        "confidence": "medium",
+        "link": "https://joc.com/article/salalah-disruptions-send-carriers-on-indian-trades-back-to-adding-pakistan-calls-6195877",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Rystad Energys Beyond Oil: Strait of Hormuz power struggle threatens fertilizer and ammonia trade",
-        "summary": "Rystad Energy’s Beyond Oil: Strait of Hormuz power struggle threatens fertilizer and ammonia trade The trade of global fertilizer and ammonia faces intense pressure due to the effe",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-31T17:30:01+00:00",
-        "confidence": "medium",
-        "link": "https://www.ajot.com/news/rystad-energys-beyond-oil-strait-of-hormuz-power-struggle-threatens-fertilizer-and-ammonia-trade",
+        "title": "How Intermodal Protects Against Cargo Theft and Freight Fraud",
+        "summary": "There's a side of intermodal that rarely gets the attention it deserves: its ability to protect against cargo theft (and freight fraud) in ways truckload simply can't.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-03-31T18:35:31+00:00",
+        "confidence": "high",
+        "link": "https://www.inteklogistics.com/blog/how-intermodal-protects-against-cargo-theft-freight-fraud",
         "label": "Operational",
         "question_signal": ""
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -155,50 +147,42 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is still present across high-trust, community coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "What actually matters when evaluating a China-origin freight partner (beyond reviews)",
-        "summary": "After getting burned by a freight forwarder that looked fine at first but completely failed when space tightened up, I started looking at this a lot more seriously.",
+        "title": "Whats the toughest part of the job on a bad day?",
+        "summary": "What’s the toughest part of the job on a bad day?",
         "source": "Reddit",
-        "timestamp": "2026-03-31T11:55:48+00:00",
+        "timestamp": "2026-03-31T20:02:02+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1s8lb61/what_actually_matters_when_evaluating_a/",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s8ydtb/whats_the_toughest_part_of_the_job_on_a_bad_day/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Catch up on what happened this week in Logistics: March 24-30",
-        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
+        "title": "Bulkloads.com Price Increase?",
+        "summary": "Just found out Bulkloads took away their pricing tool and added $99 a month sub to get it on top of the $75 subscription.",
         "source": "Reddit",
-        "timestamp": "2026-03-31T15:55:38+00:00",
+        "timestamp": "2026-03-31T19:02:09+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1s8re9u/catch_up_on_what_happened_this_week_in_logistics/",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s8woax/bulkloadscom_price_increase/",
         "label": "",
-        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Yard Interview-seeking advice",
-        "summary": "I interviewed as a AB/technician with a newer vessel company: interviewed with the recruiter, engineers, and then the ops manager.",
+        "title": "5106 Delays?",
+        "summary": "Is anyone experiencing a delay with 5106 submissions?",
         "source": "Reddit",
-        "timestamp": "2026-03-30T22:31:46+00:00",
+        "timestamp": "2026-03-31T20:07:39+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1s85khb/yard_interviewseeking_advice/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s8yjqr/5106_delays/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
@@ -207,9 +191,9 @@
       {
         "report_date": "2026-04-01",
         "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "4",
-        "headline": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up; South Korean-owned U.S. shipyard gets first Navy contract; Mandatory Cargo Volume & HS Code Declaration Effective May 2026",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "5",
+        "headline": "DP World expands eastern Canada reach; Salalah disruptions send carriers on Indian trades back to adding Pakistan calls; How Intermodal Protects Against Cargo Theft and Freight Fraud",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       },
       {
@@ -262,10 +246,10 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 96,
-      "high_trust": 5,
-      "trade_press": 39,
-      "community": 52
+      "total_items": 55,
+      "high_trust": 8,
+      "trade_press": 8,
+      "community": 39
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
@@ -277,7 +261,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-04-01",
-    "run_started_at": "2026-04-01T03:12:48+09:00",
+    "run_started_at": "2026-04-01T07:31:46+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -388,7 +372,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260401T031248+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260401T073146+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-04-01.md"
     ],
     "warnings": []
