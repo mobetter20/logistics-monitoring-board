@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-29T22:32:17+00:00",
-  "requested_date": "2026-03-30",
+  "built_at": "2026-03-31T18:11:00+00:00",
+  "requested_date": "2026-04-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,27 +15,27 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-03-30",
+    "requested_date": "2026-04-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
+      "Lead daily item: South Korean-owned U.S. shipyard gets first Navy contract.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: Wakeo is signaling scope expansion around end to end orchestration."
+      "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-03-30",
+        "report_label": "2026-04-01",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Hapag-Lloyd Profit Falls as Market Conditions Weaken",
+        "supporting_note": "Lead item: South Korean-owned U.S. shipyard gets first Navy contract",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-03-30",
+        "report_label": "2026-04-01",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -46,7 +46,7 @@
         "cadence": "Weekly",
         "report_label": "2026-W14",
         "freshness": "current",
-        "summary": "Wakeo is signaling scope expansion around end to end orchestration.",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-03-30",
-    "last_updated": "2026-03-30 07:31",
+    "report_date": "2026-04-01",
+    "last_updated": "2026-04-01 03:10",
     "freshness": "current",
-    "status_note": "Market watch is led by Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
+    "status_note": "Market watch is led by South Korean-owned U.S. shipyard gets first Navy contract.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hapag-Lloyd Profit Falls as Market Conditions Weaken.",
+      "Lead market story: South Korean-owned U.S. shipyard gets first Navy contract.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-03-30",
+      "report_date": "2026-04-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "4",
-      "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken; Borderlands Mexico: USMCA review to reshape North American supply chains; Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
+      "headline": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up; South Korean-owned U.S. shipyard gets first Navy contract; Mandatory Cargo Volume & HS Code Declaration Effective May 2026",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken",
+    "headline": "South Korean-owned U.S. shipyard gets first Navy contract",
     "key_news_radar": [
       {
-        "title": "Hapag-Lloyd Profit Falls as Market Conditions Weaken",
-        "summary": "Hapag-Lloyd reported a sharp decline in earnings for 2025, as falling freight rates and rising operational costs offset strong cargo volumes and improved network performance.",
+        "title": "South Korean-owned U.S. shipyard gets first Navy contract",
+        "summary": "A Philadelphia shipyard owned by a South Korean industrial conglomerate said it has been awarded its first U.S.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-29T14:00:58+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/hapag-lloyd-profit-falls-as-market-conditions-weaken/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Borderlands Mexico: USMCA review to reshape North American supply chains",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-29T11:53:21+00:00",
+        "timestamp": "2026-03-31T16:51:29+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-usmca-review-to-reshape-north-american-supply-chains",
+        "link": "https://www.freightwaves.com/news/south-korean-owned-u-s-shipyard-gets-first-navy-contract",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "U.S. Launches New Insurance Program for Strait of Hormuz Shipping",
-        "summary": "Treasury Secretary Scott Bessent said this week that a US insurance program designed to boost shipping through the Strait of Hormuz will begin soon.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-29T14:00:58+00:00",
+        "title": "Update - 31 March: Port of Salalah resumes operations following security incident",
+        "summary": "The impacted area was limited, says Maersk, and the port is gradually bringing operations to full capacity",
+        "source": "myKN Alert",
+        "timestamp": "2026-03-30T08:00:43+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/u-s-launches-new-insurance-program-for-strait-of-hormuz-shipping/",
+        "link": "https://mykn.kuehne-nagel.com/news/article/port-of-salalah-suspends-operations-following",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
-        "summary": "Maritime forum deepens port ties between Klaipėda, Lübeck and Hamburg A joint delegation visit organised by Lübecker Hafen-Gesellschaft and Hafen Hamburg Marketing has reinforced c",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-29T02:44:40+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/maritime-forum-deepens-port-ties-between-klaipeda-lubeck-and-hamburg/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "DEF sensors no longer required on trucks, other diesel equipment: EPA",
-        "summary": "Diesel Exhaust Fluid sensors will no longer be required on equipment that runs on the fuel, following a change in policy announced Friday by the Environmental Protection Agency.",
+        "title": "KLN reports higher core net profit despite revenue dip",
+        "summary": "KLN Logistics Group reported its 2025 results, showing growth in core net profit despite a challenging global environment.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-29T13:54:49+00:00",
+        "timestamp": "2026-03-31T16:48:33+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/def-sensors-no-longer-required-on-trucks-other-diesel-equipment-epa",
+        "link": "https://container-news.com/kln-reports-higher-core-net-profit-despite-revenue-dip/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up",
+        "summary": "Shipping from Türkiye to US East Coast and Gulf?",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-03-31T06:00:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/03/shipping-from-tuerkiye-to-us-east-coast-and-gulf--a-pss-is-comin.feed.rss.xml",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Rystad Energys Beyond Oil: Strait of Hormuz power struggle threatens fertilizer and ammonia trade",
+        "summary": "Rystad Energy’s Beyond Oil: Strait of Hormuz power struggle threatens fertilizer and ammonia trade The trade of global fertilizer and ammonia faces intense pressure due to the effe",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-03-31T17:30:01+00:00",
+        "confidence": "medium",
+        "link": "https://www.ajot.com/news/rystad-energys-beyond-oil-strait-of-hormuz-power-struggle-threatens-fertilizer-and-ammonia-trade",
         "label": "Operational",
         "question_signal": ""
       }
@@ -150,16 +150,16 @@
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -173,37 +173,53 @@
     ],
     "community_questions": [
       {
-        "title": "need package by april 2nd, will it arrive on time..??",
-        "summary": "it's been stuck here since the 25th and i'm worried I won't get it by when I need it submitted by /u/Acceptable-Teach-633 [link] [comments]",
+        "title": "What actually matters when evaluating a China-origin freight partner (beyond reviews)",
+        "summary": "After getting burned by a freight forwarder that looked fine at first but completely failed when space tightened up, I started looking at this a lot more seriously.",
         "source": "Reddit",
-        "timestamp": "2026-03-28T22:47:20+00:00",
+        "timestamp": "2026-03-31T11:55:48+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1s6efzk/need_package_by_april_2nd_will_it_arrive_on_time/",
+        "link": "https://old.reddit.com/r/logistics/comments/1s8lb61/what_actually_matters_when_evaluating_a/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Looking for genuine frieght forwarders to import from China to India",
-        "summary": "Hello people, I have my supplier ready for production but I need to transfer the necessary payments for which I will need some trustworthy agents either in China or India who can h",
+        "title": "Catch up on what happened this week in Logistics: March 24-30",
+        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
         "source": "Reddit",
-        "timestamp": "2026-03-29T03:51:29+00:00",
+        "timestamp": "2026-03-31T15:55:38+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1s6kwrg/looking_for_genuine_frieght_forwarders_to_import/",
+        "link": "https://old.reddit.com/r/logistics/comments/1s8re9u/catch_up_on_what_happened_this_week_in_logistics/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
       },
       {
-        "title": "Where to dig out stories ? For a ppt presentation",
-        "summary": "I have a ppt assignment coming up where I need to study the supply chain of a company.",
+        "title": "Yard Interview-seeking advice",
+        "summary": "I interviewed as a AB/technician with a newer vessel company: interviewed with the recruiter, engineers, and then the ops manager.",
         "source": "Reddit",
-        "timestamp": "2026-03-29T06:25:03+00:00",
+        "timestamp": "2026-03-30T22:31:46+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1s6nnod/where_to_dig_out_stories_for_a_ppt_presentation/",
+        "link": "https://old.reddit.com/r/maritime/comments/1s85khb/yard_interviewseeking_advice/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "4",
+        "headline": "Shipping from Trkiye to US East Coast and Gulf? A PSS is coming up; South Korean-owned U.S. shipyard gets first Navy contract; Mandatory Cargo Volume & HS Code Declaration Effective May 2026",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
+      {
+        "report_date": "2026-03-31",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "$5.38 Diesel, a War in the Middle East, and a Refinery Fire in Texas. Here Is Your Fuel Survival Plan for the Next 90 Days.; The Broker Offers You Quick Pay and It Sounds Like Free Money. Read This Before You Take It.; Shipping from Pakistan, India and Saudi Arabia to Europe? A price announcement is available",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-03-30",
         "write_now": "Maybe",
@@ -243,41 +259,25 @@
         "worth_attention_today": "5",
         "headline": "Echo Global Logistics expands platform with ITS acquisition; Optimizing space and speeding throughput; Federal Judge Denies Latest Administration Challenge",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-25",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "CN index climbs further as systemic pressure intensifies in container shipping; 3PLs struggle to address shippers tech, service, cost, and data needs; Hub Group gets Nasdaq notice for financial filing delay",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-24",
-        "write_now": "No",
-        "highest_confidence_operational_items": "3",
-        "worth_attention_today": "1",
-        "headline": "ABP secures offshore wind construction from Port of Lowestoft; STG Logistics Survey: Sourcing diversification, contract flexibility, logistics network changes; Mexicos auto parts sector thinks it will withstand US trade policy instability",
-        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       }
     ],
     "source_snapshot": {
-      "total_items": 70,
-      "high_trust": 9,
-      "trade_press": 8,
-      "community": 53
+      "total_items": 96,
+      "high_trust": 5,
+      "trade_press": 39,
+      "community": 52
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-03-30.md",
-      "news_pipeline/output/digests/daily-digest-2026-03-30.md",
-      "news_pipeline/output/trends/daily-trends-2026-03-30.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-03-30",
-    "run_started_at": "2026-03-30T07:31:37+09:00",
+    "report_date": "2026-04-01",
+    "run_started_at": "2026-04-01T03:10:28+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -388,63 +388,45 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260330T073137+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-03-30.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260401T031028+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-01.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W14",
-    "week_end_date": "2026-03-30",
+    "week_end_date": "2026-04-01",
     "freshness": "current",
-    "status_note": "Wakeo is signaling scope expansion around end to end orchestration.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Wakeo is signaling scope expansion around end to end orchestration.",
-      "Current working thesis: Vendors are broadening the workflow scope they claim to own.",
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "executive_takeaways": [
-      "Wakeo is signaling scope expansion around end to end orchestration."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Wakeo (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
-    "coverage_confidence": "Observed 5/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 5,
-    "active_theses": [
-      "Vendors are broadening the workflow scope they claim to own."
-    ],
-    "top_signals": [
-      {
-        "entity_name": "Wakeo",
-        "source_title": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
-        "source_layer": "direct competitor",
-        "strategic_move": "Scope expansion",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "greater control",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Wakeo newsroom announced \"2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...\" -> signals a broader control tower / platform story...",
-        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-        "emerging_motif": "unknown",
-        "source_url": "https://wakeo.co/news/2025-q2-product-update"
-      }
-    ],
+    "coverage_confidence": "Observed 0/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 0,
+    "active_theses": [],
+    "top_signals": [],
     "recent_history": [
       {
         "week_label": "2026-W14",
-        "week_end_date": "2026-03-30",
-        "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
-        "signal_count": "5",
-        "active_thesis_count": "1"
+        "week_end_date": "2026-04-01",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0"
       },
       {
         "week_label": "2026-W13",
