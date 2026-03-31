@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-31T18:11:00+00:00",
+  "built_at": "2026-03-31T18:13:15+00:00",
   "requested_date": "2026-04-01",
   "audience": "internal_team",
   "guardrails": {
@@ -63,7 +63,7 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-04-01",
-    "last_updated": "2026-04-01 03:10",
+    "last_updated": "2026-04-01 03:12",
     "freshness": "current",
     "status_note": "Market watch is led by South Korean-owned U.S. shipyard gets first Navy contract.",
     "sparse_explanation": "",
@@ -277,7 +277,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-04-01",
-    "run_started_at": "2026-04-01T03:10:28+09:00",
+    "run_started_at": "2026-04-01T03:12:48+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -388,7 +388,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260401T031028+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260401T031248+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-04-01.md"
     ],
     "warnings": []
