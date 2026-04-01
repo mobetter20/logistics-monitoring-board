@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-03-31T22:32:26+00:00",
-  "requested_date": "2026-04-01",
+  "built_at": "2026-04-01T23:01:58+00:00",
+  "requested_date": "2026-04-02",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-01",
+    "requested_date": "2026-04-02",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: DP World expands eastern Canada reach.",
+      "Lead daily item: A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-01",
+        "report_label": "2026-04-02",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: DP World expands eastern Canada reach",
+        "supporting_note": "Lead item: A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-01",
+        "report_label": "2026-04-02",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,76 +62,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-01",
-    "last_updated": "2026-04-01 07:31",
+    "report_date": "2026-04-02",
+    "last_updated": "2026-04-02 08:01",
     "freshness": "current",
-    "status_note": "Market watch is led by DP World expands eastern Canada reach.",
+    "status_note": "Market watch is led by A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: DP World expands eastern Canada reach.",
+      "Lead market story: A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-01",
+      "report_date": "2026-04-02",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "5",
+      "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "DP World expands eastern Canada reach; Salalah disruptions send carriers on Indian trades back to adding Pakistan calls; How Intermodal Protects Against Cargo Theft and Freight Fraud",
+      "headline": "A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash; US tariff fight shifts to heavy machinery imported from Mexico; Shipping from North Europe to North America and Mexico? A PSS is coming up",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "DP World expands eastern Canada reach",
+    "headline": "A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash",
     "key_news_radar": [
       {
-        "title": "DP World expands eastern Canada reach",
-        "summary": "DP World has opened a new freight forwarding office in Montreal, expanding its Canadian logistics network and strengthening its end-to-end service offerings.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-31T19:49:13+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/dp-world-expands-eastern-canada-reach",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Port of Barcelona awards Baleria concession for passenger and ro-ro terminal",
-        "summary": "Port of Barcelona awards Baleària concession for passenger and ro-ro terminal The Port of Barcelona Management Board has approved a concession to Baleària for the construction and",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-31T21:50:33+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/port-of-barcelona-awards-balearia-concession-for-passenger-and-ro-ro-terminal/",
-        "label": "Watch",
-        "question_signal": ""
-      },
-      {
-        "title": "CN made inaccurate claims on rail merger data: UP exec",
-        "summary": "CN made ‘inaccurate claims’ on rail merger data: UP exec A Union Pacific executive has responded to comments by Canadian National about the planned UP-Norfolk Southern merger, sayi",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-31T18:50:25+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/cn-made-inaccurate-claims-on-rail-merger-data-up-exec",
-        "label": "Watch",
-        "question_signal": ""
-      },
-      {
-        "title": "Salalah disruptions send carriers on Indian trades back to adding Pakistan calls",
-        "summary": "With operations at Salalah suspended on Saturday due to a drone strike, Hapag-Lloyd has positioned its upcoming westbound sailing on the India-USEC “TPI” service to call at Port Qa",
+        "title": "A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash",
+        "summary": "For this story, the broker is the beginning of the chain that ends with a dead man in Beaumont.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-03-31T19:04:40+00:00",
+        "timestamp": "2026-04-01T19:43:48+00:00",
         "confidence": "medium",
-        "link": "https://joc.com/article/salalah-disruptions-send-carriers-on-indian-trades-back-to-adding-pakistan-calls-6195877",
+        "link": "https://www.freightwaves.com/news/a-moldovan-broker-romanian-carrier-temporary-cdl-driver-and-another-fatal-truck-crash",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "How Intermodal Protects Against Cargo Theft and Freight Fraud",
-        "summary": "There's a side of intermodal that rarely gets the attention it deserves: its ability to protect against cargo theft (and freight fraud) in ways truckload simply can't.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-03-31T18:35:31+00:00",
-        "confidence": "high",
-        "link": "https://www.inteklogistics.com/blog/how-intermodal-protects-against-cargo-theft-freight-fraud",
+        "title": "ICS and ITF urge action on Gulf shipping crisis and seafarer safety",
+        "summary": "The International Chamber of Shipping (ICS) and International Transport Workers’ Federation (ITF) met Gulf State representatives to tackle the shipping crisis in the region.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-01T17:55:16+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/ics-and-itf-urge-action-on-gulf-shipping-crisis-and-seafarer-safety/",
         "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "US tariff fight shifts to heavy machinery imported from Mexico",
+        "summary": "senators are urging the Commerce Department to launch a national security, arguing that offshoring production to Mexico is undermining U.S.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-01T19:43:48+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/us-tariff-fight-shifts-to-heavy-machinery-imported-from-mexico",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "How Carriers Can Prepare for CVSAs International Roadcheck 2026",
+        "summary": "How Carriers Can Prepare for CVSA’s International Roadcheck 2026 The Commercial Vehicle Safety Alliance’s annual International Roadcheck is scheduled for May 12-14, and this year’s",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-01T19:43:48+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/how-carriers-can-prepare-for-cvsas-international-roadcheck-2026",
+        "label": "Watch",
+        "question_signal": ""
+      },
+      {
+        "title": "Iran War: Diesel price surge forces change in U.S. freight markets",
+        "summary": "The cost shock of spiraling diesel prices is tightening freight capacity in American trucking markets as the Iran War enters its second month and maritime traffic through the Strai",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-01T01:32:27+00:00",
+        "confidence": "high",
+        "link": "https://www.dcvelocity.com/transportation/trucking/iran-war-diesel-price-surge-forces-change-in-u-s-freight-markets",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
@@ -142,52 +142,80 @@
       },
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is still present across high-trust, community coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Whats the toughest part of the job on a bad day?",
-        "summary": "What’s the toughest part of the job on a bad day?",
+        "title": "spent 3 months trying to find the actual factory behind a competitor's product. here's what finally worked.",
+        "summary": "I run sourcing for a mid size activewear brand (about $8M annual revenue, nothing crazy).",
         "source": "Reddit",
-        "timestamp": "2026-03-31T20:02:02+00:00",
+        "timestamp": "2026-04-01T16:43:23+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s8ydtb/whats_the_toughest_part_of_the_job_on_a_bad_day/",
+        "link": "https://old.reddit.com/r/procurement/comments/1s9pxbm/spent_3_months_trying_to_find_the_actual_factory/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Why Are My Load Posts Suddenly Getting a Surge of Calls?",
+        "summary": "As you all are aware, covering loads has been rough.",
+        "source": "Reddit",
+        "timestamp": "2026-04-01T00:01:36+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s94jv3/why_are_my_load_posts_suddenly_getting_a_surge_of/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Bulkloads.com Price Increase?",
-        "summary": "Just found out Bulkloads took away their pricing tool and added $99 a month sub to get it on top of the $75 subscription.",
+        "title": "Netparcel scam?",
+        "summary": "I started selling things online and was using PayPal as a way to accept payments and when making my shipping label from Canada to the US I noticed I could use this thing called net",
         "source": "Reddit",
-        "timestamp": "2026-03-31T19:02:09+00:00",
+        "timestamp": "2026-04-01T00:21:46+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1s8woax/bulkloadscom_price_increase/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "5106 Delays?",
-        "summary": "Is anyone experiencing a delay with 5106 submissions?",
-        "source": "Reddit",
-        "timestamp": "2026-03-31T20:07:39+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1s8yjqr/5106_delays/",
+        "link": "https://old.reddit.com/r/shipping/comments/1s950y2/netparcel_scam/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-02",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash; US tariff fight shifts to heavy machinery imported from Mexico; Shipping from North Europe to North America and Mexico? A PSS is coming up",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-01",
         "write_now": "Maybe",
@@ -235,33 +263,25 @@
         "worth_attention_today": "5",
         "headline": "Hapag-Lloyd profits tumbled in 2025 despite carrying more cargo; Warehouses face $100K-hour downtime risk as cloud outages mount; USPS to hike prices 8% on April 26 to cope with rising gas prices",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-26",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Echo Global Logistics expands platform with ITS acquisition; Optimizing space and speeding throughput; Federal Judge Denies Latest Administration Challenge",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 55,
-      "high_trust": 8,
-      "trade_press": 8,
-      "community": 39
+      "total_items": 155,
+      "high_trust": 36,
+      "trade_press": 32,
+      "community": 87
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-01.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-01.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-01.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-02.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-02.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-02.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-01",
-    "run_started_at": "2026-04-01T07:31:46+09:00",
+    "report_date": "2026-04-02",
+    "run_started_at": "2026-04-02T08:01:10+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -372,14 +392,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260401T073146+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-01.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260402T080110+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-02.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W14",
-    "week_end_date": "2026-04-01",
+    "week_end_date": "2026-04-02",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -407,7 +427,7 @@
     "recent_history": [
       {
         "week_label": "2026-W14",
-        "week_end_date": "2026-04-01",
+        "week_end_date": "2026-04-02",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0"
