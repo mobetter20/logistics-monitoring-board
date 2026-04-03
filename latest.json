@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-02T22:32:08+00:00",
-  "requested_date": "2026-04-03",
+  "built_at": "2026-04-03T22:34:07+00:00",
+  "requested_date": "2026-04-04",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-03",
+    "requested_date": "2026-04-04",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Strait of Hormuz closure pushes Asia-US ocean rates up 29%.",
+      "Lead daily item: What your fleet can do about $5.40 diesel fuel today.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-03",
+        "report_label": "2026-04-04",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Strait of Hormuz closure pushes Asia-US ocean rates up 29%",
+        "supporting_note": "Lead item: What your fleet can do about $5.40 diesel fuel today",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-03",
+        "report_label": "2026-04-04",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,76 +62,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-03",
-    "last_updated": "2026-04-03 07:31",
+    "report_date": "2026-04-04",
+    "last_updated": "2026-04-04 07:33",
     "freshness": "current",
-    "status_note": "Market watch is led by Strait of Hormuz closure pushes Asia-US ocean rates up 29%.",
+    "status_note": "Market watch is led by What your fleet can do about $5.40 diesel fuel today.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Strait of Hormuz closure pushes Asia-US ocean rates up 29%.",
+      "Lead market story: What your fleet can do about $5.40 diesel fuel today.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-03",
+      "report_date": "2026-04-04",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Strait of Hormuz closure pushes Asia-US ocean rates up 29%; Iran War: Container spot rates in Middle East region jump 30%; Amtrak, Union Pacific Settle Sunset Limited Dispute (Updated April 2, 2026)",
+      "headline": "What your fleet can do about $5.40 diesel fuel today; French container ship first major carrier to exit Strait of Hormuz; APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Strait of Hormuz closure pushes Asia-US ocean rates up 29%",
+    "headline": "What your fleet can do about $5.40 diesel fuel today",
     "key_news_radar": [
       {
-        "title": "Strait of Hormuz closure pushes Asia-US ocean rates up 29%",
-        "summary": "The effects of the Iran war are being felt across the global supply chain, as container rates rise sharply on vital headhaul trade routes including to the United States, an analyst",
+        "title": "What your fleet can do about $5.40 diesel fuel today",
+        "summary": "The United States is the most energy-rich nation on the planet.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-02T17:02:55+00:00",
+        "timestamp": "2026-04-03T15:52:33+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/strait-of-hormuz-closure-pushes-asia-us-ocean-rates-up-29",
+        "link": "https://www.freightwaves.com/news/what-your-fleet-can-do-about-5-40-diesel-fuel-today",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "ONE introduces inland fuel charge for Latin America trades",
-        "summary": "Ocean Network Express (ONE) has announced the implementation of an Inland Fuel Charge (IFL / IFD) for inland transportation across Latin America, citing ongoing disruptions in glob",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-02T19:55:25+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/one-introduces-inland-fuel-charge-for-latin-america-trades/",
+        "title": "French container ship first major carrier to exit Strait of Hormuz",
+        "summary": "A French-operated container ship became the first vessel of a major liner to exit the Strait of Hormuz since Iran asserted control of the gateway to the Persian Gulf.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-03T17:50:43+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/french-container-ship-first-major-carrier-to-exit-strait-of-hormuz",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Iran War: Container spot rates in Middle East region jump 30%",
-        "summary": "Spot rates for ocean container shipping are up by more than 30% since the end of February on routes with direct exposure to the Middle East disruption caused by the U.S.",
+        "title": "APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
+        "summary": "APM Terminals has completed a $73 million upgrade of its Pier 400 terminal at the Port of Los Angeles, effectively doubling its capacity, the company has announced.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-01T22:27:24+00:00",
+        "timestamp": "2026-04-03T19:49:36+00:00",
         "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/iran-war-container-spot-rates-in-middle-east-region-jump-30",
+        "link": "https://www.freightwaves.com/news/apm-terminals-wraps-up-73m-rail-expansion-at-port-of-los-angeles",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "MSC updates emergency fuel surcharge for AsiaNorth America trades",
-        "summary": "MSC updates emergency fuel surcharge for Asia-North America trades MSC Mediterranean Shipping Company has announced an updated Emergency Fuel Surcharge (EFS) for shipments from Asi",
+        "title": "Volvo Pushes new VNR as U.S. tractor fleet nears 7-Year average age",
+        "summary": "Volvo Trucks North America is pushing hard into the regional trucking market with its new VNR series, betting that an aging national fleet and record diesel prices will drive carri",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-02T15:57:25+00:00",
+        "timestamp": "2026-04-03T19:49:36+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/msc-updates-emergency-fuel-surcharge-for-asia-north-america-trades/",
+        "link": "https://www.freightwaves.com/news/new-volvo-vnr",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Transit Briefs: SEPTA, Amtrak",
-        "summary": "SEPTA Pictured is the interior of the Bombardier-Built EXO cars that will soon be making their way into SEPTA Regional Rail service.",
+        "title": "Truck transportation jobs running at an 8-year low: BLS",
+        "summary": "There haven’t been this few workers in the truck transportation sector of the Bureau of Labor Statistics’ employment data since the end of 2017.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-02T16:33:00+00:00",
+        "timestamp": "2026-04-03T15:52:33+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/passenger/transit-briefs-septa-amtrak/?utm_source=rss&utm_medium=rss&utm_campaign=transit-briefs-septa-amtrak",
-        "label": "Operational",
+        "link": "https://www.freightwaves.com/news/truck-transportation-jobs-running-at-an-8-year-low-bls",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
@@ -147,27 +147,19 @@
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -177,37 +169,45 @@
     ],
     "community_questions": [
       {
-        "title": "How are you building supply chain resilience as an SMB right now?",
-        "summary": "Hi all I'm new to importing (running a small e-com brand, ~$3k/month revenue) and trying to figure out how to make my supply chain less fragile.",
+        "title": "NASA FIRMS Sat data appears to show two thermal anomalies in the Strait of Hormuz near the Omani coast",
+        "summary": "NASA FIRMS satellite data appears to show two thermal anomalies in the Strait of Hormuz near the Omani coast as on 3rd April 26, image acquired this morning at 09:30 Iran local tim",
         "source": "Reddit",
-        "timestamp": "2026-04-02T05:41:45+00:00",
+        "timestamp": "2026-04-03T13:59:56+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sa8w4w/how_are_you_building_supply_chain_resilience_as/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "Cheapest way to ship 18 boxes from Austin > Chicago?? ($1.5k budget, flexible timing)",
-        "summary": "Cheapest way to ship 18 boxes from Austin —> Chicago??",
-        "source": "Reddit",
-        "timestamp": "2026-04-02T06:19:49+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sa9jrp/cheapest_way_to_ship_18_boxes_from_austin_chicago/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "With the US-Iran ceasefire rumors flying, what happens if the war actually continues? A look into the \"Hungerwinter of '26/'27\"",
-        "summary": "There’s been a massive amount of noise over the last few days about a potential US-Iran ceasefire.",
-        "source": "Reddit",
-        "timestamp": "2026-04-02T08:29:20+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sabmw0/with_the_usiran_ceasefire_rumors_flying_what/",
+        "link": "https://old.reddit.com/r/maritime/comments/1sbeedm/nasa_firms_sat_data_appears_to_show_two_thermal/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+      },
+      {
+        "title": "How can I set up global swag fulfillment for our remote workforce?",
+        "summary": "We’ve been trying to figure out how to handle global swag fulfillment for our remote team, and it’s been more complicated than expected.",
+        "source": "Reddit",
+        "timestamp": "2026-04-03T11:04:57+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/logistics/comments/1sbaixq/how_can_i_set_up_global_swag_fulfillment_for_our/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "usps addressee unknown what to do?",
+        "summary": "i ordered something off mercari the other day and it was supposed to be delivered on wednesday (april 1st) but it got returned to the seller because of “unknown addressee”, which i",
+        "source": "Reddit",
+        "timestamp": "2026-04-03T00:07:14+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/shipping/comments/1say6dh/usps_addressee_unknown_what_to_do/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-04",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "What your fleet can do about $5.40 diesel fuel today; French container ship first major carrier to exit Strait of Hormuz; APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-03",
         "write_now": "Maybe",
@@ -255,33 +255,25 @@
         "worth_attention_today": "5",
         "headline": "Operational Update: Port of Salalah, Oman - Lisbon Express; China opens probes into US trading practices",
         "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
-      },
-      {
-        "report_date": "2026-03-28",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Shipping Industry Faces Near-Record Public Scrutiny in 2026; WCI rises for fourth straight week to $2,279; Small businesses say tariffs still hurting a year after Liberation Day",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 138,
-      "high_trust": 30,
-      "trade_press": 33,
-      "community": 75
+      "total_items": 117,
+      "high_trust": 24,
+      "trade_press": 27,
+      "community": 66
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-03.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-03.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-03.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-04.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-04.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-04.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-03",
-    "run_started_at": "2026-04-03T07:31:23+09:00",
+    "report_date": "2026-04-04",
+    "run_started_at": "2026-04-04T07:33:11+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -381,25 +373,17 @@
         "signal_type": "press announcement",
         "summary": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
         "source_url": "https://wakeo.co/news/wakeo-enhances-trusted-routes-with-nearby-alternatives"
-      },
-      {
-        "detected_date": "2026-03-21",
-        "company": "Wakeo",
-        "importance": "minor",
-        "signal_type": "press announcement",
-        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-        "source_url": "https://wakeo.co/news/2025-q3-product-update"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260403T073123+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-03.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260404T073311+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-04.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W14",
-    "week_end_date": "2026-04-03",
+    "week_end_date": "2026-04-04",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -427,7 +411,7 @@
     "recent_history": [
       {
         "week_label": "2026-W14",
-        "week_end_date": "2026-04-03",
+        "week_end_date": "2026-04-04",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0"
