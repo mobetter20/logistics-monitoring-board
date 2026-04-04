@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-03T22:34:07+00:00",
-  "requested_date": "2026-04-04",
+  "built_at": "2026-04-04T22:32:25+00:00",
+  "requested_date": "2026-04-05",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-04",
+    "requested_date": "2026-04-05",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: What your fleet can do about $5.40 diesel fuel today.",
+      "Lead daily item: Maersk again turned down on request to fast-track emergency fuel surcharge.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-04",
+        "report_label": "2026-04-05",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: What your fleet can do about $5.40 diesel fuel today",
+        "supporting_note": "Lead item: Maersk again turned down on request to fast-track emergency fuel surcharge",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-04",
+        "report_label": "2026-04-05",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,76 +62,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-04",
-    "last_updated": "2026-04-04 07:33",
+    "report_date": "2026-04-05",
+    "last_updated": "2026-04-05 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by What your fleet can do about $5.40 diesel fuel today.",
+    "status_note": "Market watch is led by Maersk again turned down on request to fast-track emergency fuel surcharge.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: What your fleet can do about $5.40 diesel fuel today.",
-      "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Lead market story: Maersk again turned down on request to fast-track emergency fuel surcharge.",
+      "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-04",
+      "report_date": "2026-04-05",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "5",
-      "headline": "What your fleet can do about $5.40 diesel fuel today; French container ship first major carrier to exit Strait of Hormuz; APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
+      "highest_confidence_operational_items": "4",
+      "worth_attention_today": "2",
+      "headline": "Maersk again turned down on request to fast-track emergency fuel surcharge; Supreme Court Overturns Major Tariff Initiative, Orders $166 Billion Refund; NX Taiwan opens high-tech focused warehouse in Kaohsiung",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 6,
-    "headline": "What your fleet can do about $5.40 diesel fuel today",
+    "active_recent_days": 7,
+    "headline": "Maersk again turned down on request to fast-track emergency fuel surcharge",
     "key_news_radar": [
       {
-        "title": "What your fleet can do about $5.40 diesel fuel today",
-        "summary": "The United States is the most energy-rich nation on the planet.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-03T15:52:33+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/what-your-fleet-can-do-about-5-40-diesel-fuel-today",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "French container ship first major carrier to exit Strait of Hormuz",
-        "summary": "A French-operated container ship became the first vessel of a major liner to exit the Strait of Hormuz since Iran asserted control of the gateway to the Persian Gulf.",
+        "title": "Maersk again turned down on request to fast-track emergency fuel surcharge",
+        "summary": "The Federal Maritime Commission for the second time in a month denied Maersk’s request to waive the notice period to implement an emergency fuel surcharge the carrier says it urgen",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-03T17:50:43+00:00",
+        "timestamp": "2026-04-03T23:45:53+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/french-container-ship-first-major-carrier-to-exit-strait-of-hormuz",
+        "link": "https://www.freightwaves.com/news/maersk-again-turned-down-on-emergency-fuel-surcharge-waiver",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
-        "summary": "APM Terminals has completed a $73 million upgrade of its Pier 400 terminal at the Port of Los Angeles, effectively doubling its capacity, the company has announced.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-03T19:49:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/apm-terminals-wraps-up-73m-rail-expansion-at-port-of-los-angeles",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Volvo Pushes new VNR as U.S. tractor fleet nears 7-Year average age",
-        "summary": "Volvo Trucks North America is pushing hard into the regional trucking market with its new VNR series, betting that an aging national fleet and record diesel prices will drive carri",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-03T19:49:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/new-volvo-vnr",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Truck transportation jobs running at an 8-year low: BLS",
-        "summary": "There haven’t been this few workers in the truck transportation sector of the Bureau of Labor Statistics’ employment data since the end of 2017.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-03T15:52:33+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/truck-transportation-jobs-running-at-an-8-year-low-bls",
+        "title": "Rail and truck data highlight a strong industrial economy",
+        "summary": "freight railroads delivered one of their strongest performances in years during March 2026, signaling that the goods-producing economy is regaining meaningful momentum across multi",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-04T17:40:57+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/rail-and-truck-data-highlight-a-strong-industrial-economy",
         "label": "Watch",
+        "question_signal": ""
+      },
+      {
+        "title": "NX Taiwan opens high-tech focused warehouse in Kaohsiung",
+        "summary": "NX Taiwan has opened its new Kaohsiung NEXT12 Warehouse to support the growing logistics needs of the region’s high-tech industries, including semiconductors and AIoT.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-04T19:08:16+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/nx-taiwan-opens-high-tech-focused-warehouse-in-kaohsiung/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "FMC again rejects Maersk petition to waive notice period for emergency fuel surcharge",
+        "summary": "The unanimous decision prevents the carrier from immediately implementing the fee, which is meant to help recoup fuel costs on US trades that have been driven higher due to the war",
+        "source": "Feeds-3 / Rates Costs",
+        "timestamp": "2026-04-03T23:04:50+00:00",
+        "confidence": "medium",
+        "link": "https://joc.com/article/fmc-again-rejects-maersk-petition-to-waive-notice-period-for-emergency-fuel-surcharge-6199261",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Supreme Court Overturns Major Tariff Initiative, Orders $166 Billion Refund",
+        "summary": "According to a report from Fox Business, the Supreme Court has invalidated many of the sweeping global tariffs implemented one year ago.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-04T09:00:04+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/supreme-court-overturns-major-tariff-initiative-orders-166-billion-refund/",
+        "label": "Operational",
         "question_signal": ""
       }
     ],
@@ -139,67 +139,55 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "NASA FIRMS Sat data appears to show two thermal anomalies in the Strait of Hormuz near the Omani coast",
-        "summary": "NASA FIRMS satellite data appears to show two thermal anomalies in the Strait of Hormuz near the Omani coast as on 3rd April 26, image acquired this morning at 09:30 Iran local tim",
+        "title": "April 6 is less than 48 hours away. So what actually happens when the deadline hits",
+        "summary": "Trump's ultimatum to Iran: open the Strait of Hormuz or the power grid gets destroyed.",
         "source": "Reddit",
-        "timestamp": "2026-04-03T13:59:56+00:00",
+        "timestamp": "2026-04-04T16:58:41+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1sbeedm/nasa_firms_sat_data_appears_to_show_two_thermal/",
+        "link": "https://old.reddit.com/r/maritime/comments/1scefw4/april_6_is_less_than_48_hours_away_so_what/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       },
       {
-        "title": "How can I set up global swag fulfillment for our remote workforce?",
-        "summary": "We’ve been trying to figure out how to handle global swag fulfillment for our remote team, and it’s been more complicated than expected.",
+        "title": "Anyone been through operational chaos in a small freight forwarding company? How did you get out of it?",
+        "summary": "I'm running a decades-old small freight forwarding operation and I'm at a point where I need to be honest with myself: we've outgrown our own infrastructure and it's starting to co",
         "source": "Reddit",
-        "timestamp": "2026-04-03T11:04:57+00:00",
+        "timestamp": "2026-04-04T15:50:13+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sbaixq/how_can_i_set_up_global_swag_fulfillment_for_our/",
-        "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
-      },
-      {
-        "title": "usps addressee unknown what to do?",
-        "summary": "i ordered something off mercari the other day and it was supposed to be delivered on wednesday (april 1st) but it got returned to the seller because of “unknown addressee”, which i",
-        "source": "Reddit",
-        "timestamp": "2026-04-03T00:07:14+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1say6dh/usps_addressee_unknown_what_to_do/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1sccovu/anyone_been_through_operational_chaos_in_a_small/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+      },
+      {
+        "title": "People who passed (or are trying to pass) the LCB whats the truth no one admits?",
+        "summary": "People who passed (or are trying to pass) the LCB what’s the truth no one admits?",
+        "source": "Reddit",
+        "timestamp": "2026-04-04T18:28:15+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1scgrwh/people_who_passed_or_are_trying_to_pass_the_lcb/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-05",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "4",
+        "worth_attention_today": "2",
+        "headline": "Maersk again turned down on request to fast-track emergency fuel surcharge; Supreme Court Overturns Major Tariff Initiative, Orders $166 Billion Refund; NX Taiwan opens high-tech focused warehouse in Kaohsiung",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-04",
         "write_now": "Maybe",
@@ -247,33 +235,25 @@
         "worth_attention_today": "4",
         "headline": "Hapag-Lloyd Profit Falls as Market Conditions Weaken; Borderlands Mexico: USMCA review to reshape North American supply chains; Maritime forum deepens port ties between Klaipda, Lbeck and Hamburg",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-29",
-        "write_now": "No",
-        "highest_confidence_operational_items": "2",
-        "worth_attention_today": "5",
-        "headline": "Operational Update: Port of Salalah, Oman - Lisbon Express; China opens probes into US trading practices",
-        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       }
     ],
     "source_snapshot": {
-      "total_items": 117,
-      "high_trust": 24,
-      "trade_press": 27,
-      "community": 66
+      "total_items": 65,
+      "high_trust": 8,
+      "trade_press": 3,
+      "community": 54
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-04.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-04.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-04.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-05.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-05.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-05.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-04",
-    "run_started_at": "2026-04-04T07:33:11+09:00",
+    "report_date": "2026-04-05",
+    "run_started_at": "2026-04-05T07:31:38+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -376,14 +356,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260404T073311+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-04.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260405T073138+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-05.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W14",
-    "week_end_date": "2026-04-04",
+    "week_end_date": "2026-04-05",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -411,7 +391,7 @@
     "recent_history": [
       {
         "week_label": "2026-W14",
-        "week_end_date": "2026-04-04",
+        "week_end_date": "2026-04-05",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0"
