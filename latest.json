@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-05T22:32:33+00:00",
-  "requested_date": "2026-04-06",
+  "built_at": "2026-04-06T22:59:28+00:00",
+  "requested_date": "2026-04-07",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-06",
+    "requested_date": "2026-04-07",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: Tariff pressure shows up in customs data across North America.",
+      "Lead daily item: Truckload carrier earnings: Will Q1 mark the end of struggles?.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-06",
+        "report_label": "2026-04-07",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Borderlands Mexico: Tariff pressure shows up in customs data across North America",
+        "supporting_note": "Lead item: Truckload carrier earnings: Will Q1 mark the end of struggles?",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-06",
+        "report_label": "2026-04-07",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,132 +62,140 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-06",
-    "last_updated": "2026-04-06 07:31",
+    "report_date": "2026-04-07",
+    "last_updated": "2026-04-07 07:58",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: Tariff pressure shows up in customs data across North America.",
+    "status_note": "Market watch is led by Truckload carrier earnings: Will Q1 mark the end of struggles?.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: Tariff pressure shows up in customs data across North America.",
+      "Lead market story: Truckload carrier earnings: Will Q1 mark the end of struggles?.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-06",
+      "report_date": "2026-04-07",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "4",
-      "worth_attention_today": "1",
-      "headline": "Borderlands Mexico: Tariff pressure shows up in customs data across North America; WCI holds steady at $2,287 as carriers push for bunker surcharges; The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What Februarys Data Is Telling Us.",
+      "highest_confidence_operational_items": "6",
+      "worth_attention_today": "5",
+      "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?; Montreal port chief exits after just two years on the job; UPS to cap driver buyouts at 7,500 after Teamster pushback",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: Tariff pressure shows up in customs data across North America",
+    "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: Tariff pressure shows up in customs data across North America",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-05T13:39:22+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-tariff-pressure-shows-up-in-customs-data-across-north-america",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What Februarys Data Is Telling Us.",
-        "summary": "The Two Materials That Predict Freight Demand Both Just Posted Gains.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-05T16:38:27+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/the-two-materials-that-predict-freight-demand-both-just-posted-gains-here-is-what-februarys-data-is-telling-us",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "WCI holds steady at $2,287 as carriers push for bunker surcharges",
-        "summary": "Drewry’s World Container Index (WCI) remained flat this week at $2,287 per 40-foot container, with rates holding steady on both Asia-Europe and Transpacific trades, according to Dr",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-05T12:20:22+00:00",
+        "title": "Truckload carrier earnings: Will Q1 mark the end of struggles?",
+        "summary": "The first quarter could mark the last round of bad earnings reports from truckload carriers as supply has meaningfully contracted and demand is emerging from a three-year-plus down",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-06T19:27:48+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/wci-holds-steady-at-2287-as-carriers-push-for-bunker-surcharges/",
+        "link": "https://www.freightwaves.com/news/truckload-carrier-earnings-will-q1-mark-the-end-of-struggles",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Somaliland under import crisis despite Berberas boom",
-        "summary": "Somaliland under import crisis despite Berbera’s boom UAE port investment generates revenue while population suffers inflation from Red Sea disruptions unrecognized status blocks c",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-05T10:17:40+00:00",
+        "title": "Montreal port chief exits after just two years on the job",
+        "summary": "The chief executive of the Port of Montreal has parted ways with the eastern Canadian gateway after just two years on the job, amid soaring cost estimates for a major new container",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-06T19:27:48+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/somaliland-under-import-crisis-despite-berberas-boom/",
+        "link": "https://www.freightwaves.com/news/montreal-port-chief-exits-after-just-two-years-on-the-job",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Ningbo Ocean Shipping approves vessel and equipment investment",
-        "summary": "The Board of Ningbo Ocean Shipping (NBOSCO) has authorized a significant capital investment program to expand its fleet and container inventory.",
+        "title": "Readers Speak: Middle East tensions to impact shipping for months",
+        "summary": "Industry sees prolonged disruption as the most likely scenario Ongoing instability across key maritime corridors continues to shape expectations in the container shipping industry.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-06T07:40:14+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/readers-speak-middle-east-tensions-to-impact-shipping-for-months/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Buy Instagram Views: Complete Guide to Boosting Your Video Engagement",
+        "summary": "Trusted Providers for Buying Instagram Views When it comes to buying Instagram views, selecting a reliable provider is crucial for ensuring authentic engagement and account safety.",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-05T08:17:12+00:00",
+        "timestamp": "2026-04-06T07:40:14+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/ningbo-ocean-shipping-approves-vessel-and-equipment-investment/",
-        "label": "Watch",
+        "link": "https://container-news.com/buy-instagram-views-complete-guide-to-boosting-your-video-engagement/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "UPS to cap driver buyouts at 7,500 after Teamster pushback",
+        "summary": "UPS has reached an agreement with the Teamsters union to cap its voluntary buyout program at 7,500 drivers, with selections based on seniority, in exchange for being able to offer",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-06T01:36:12+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/ups-to-cap-driver-buyouts-at-7500-after-teamster-pushback",
+        "label": "Operational",
         "question_signal": ""
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "How to automate repetitive/boring tasks for free (no catch)",
-        "summary": "I’m a freelancer focused on AI automation.",
+        "title": "Whats the most annoying part of managing logistics operations?",
+        "summary": "What’s the most annoying part of managing logistics operations?",
         "source": "Reddit",
-        "timestamp": "2026-04-05T11:32:31+00:00",
+        "timestamp": "2026-04-06T14:08:26+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sd1b34/how_to_automate_repetitiveboring_tasks_for_free/",
+        "link": "https://old.reddit.com/r/shipping/comments/1sdzwf3/whats_the_most_annoying_part_of_managing/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "How are shipping routes to the middle east now?",
-        "summary": "Wondering if there are consistent delays/impact on container shipments from the USA to the middle east due to the current situation, in particular shipments from the USA to the UAE",
+        "title": "If strait of hormuz passes from Iran and Oman, how come Iran exercise significant control over the entire waterway in Strait?",
+        "summary": "During wartime, why can't ships simply pass from the passage of Oman's side of Hormuz?",
         "source": "Reddit",
-        "timestamp": "2026-04-05T10:35:39+00:00",
+        "timestamp": "2026-04-06T07:56:07+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sd0c36/how_are_shipping_routes_to_the_middle_east_now/",
+        "link": "https://old.reddit.com/r/maritime/comments/1sdsil4/if_strait_of_hormuz_passes_from_iran_and_oman_how/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       },
       {
-        "title": "What's the most frustrating part of your cold chain monitoring workflow?",
-        "summary": "honest question - how broken is cold chain monitoring in 2026?",
+        "title": "How are brokers handling the IEEPA refund requests from importers? CBP still hasn't set up the ACE process.",
+        "summary": "Curious what others are seeing on the ground.",
         "source": "Reddit",
-        "timestamp": "2026-04-04T22:23:37+00:00",
+        "timestamp": "2026-04-06T11:36:35+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1scml7h/whats_the_most_frustrating_part_of_your_cold/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sdwcg4/how_are_brokers_handling_the_ieepa_refund/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-07",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?; Montreal port chief exits after just two years on the job; UPS to cap driver buyouts at 7,500 after Teamster pushback",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-06",
         "write_now": "Maybe",
@@ -235,33 +243,25 @@
         "worth_attention_today": "5",
         "headline": "DP World expands eastern Canada reach; Salalah disruptions send carriers on Indian trades back to adding Pakistan calls; How Intermodal Protects Against Cargo Theft and Freight Fraud",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-03-31",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "$5.38 Diesel, a War in the Middle East, and a Refinery Fire in Texas. Here Is Your Fuel Survival Plan for the Next 90 Days.; The Broker Offers You Quick Pay and It Sounds Like Free Money. Read This Before You Take It.; Shipping from Pakistan, India and Saudi Arabia to Europe? A price announcement is available",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 53,
-      "high_trust": 4,
-      "trade_press": 2,
-      "community": 47
+      "total_items": 116,
+      "high_trust": 18,
+      "trade_press": 31,
+      "community": 67
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-06.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-06.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-06.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-07.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-07.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-07.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-06",
-    "run_started_at": "2026-04-06T07:31:38+09:00",
+    "report_date": "2026-04-07",
+    "run_started_at": "2026-04-07T07:58:45+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -339,23 +339,7 @@
         "source_url": "https://wakeo.co/news/2025-q2-product-update"
       },
       {
-        "detected_date": "2026-03-24",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the...",
-        "source_url": "https://wakeo.co/news/wakeo-acquires-lkw-walter-technology-expanding-its-supply-chain-visibility-solution"
-      },
-      {
-        "detected_date": "2026-03-24",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the...",
-        "source_url": "https://wakeo.co/news/wakeo-announces-18-million-in-a-new-funding-round-led-by-statkraft-ventures"
-      },
-      {
-        "detected_date": "2026-03-24",
+        "detected_date": "2026-03-25",
         "company": "Wakeo",
         "importance": "important",
         "signal_type": "press announcement",
@@ -364,14 +348,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260406T073138+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-06.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260407T075845+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-07.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W15",
-    "week_end_date": "2026-04-06",
+    "week_end_date": "2026-04-07",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -399,7 +383,7 @@
     "recent_history": [
       {
         "week_label": "2026-W15",
-        "week_end_date": "2026-04-06",
+        "week_end_date": "2026-04-07",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0"
