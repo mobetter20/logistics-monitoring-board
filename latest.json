@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-06T22:59:28+00:00",
-  "requested_date": "2026-04-07",
+  "built_at": "2026-04-07T22:32:49+00:00",
+  "requested_date": "2026-04-08",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,29 +15,29 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-07",
+    "requested_date": "2026-04-08",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Truckload carrier earnings: Will Q1 mark the end of struggles?.",
-      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Lead daily item: Mexico freight disruption lingers as truckers strike fractures.",
+      "Competitor watch changed: Project44 Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
+      "Current weekly strategy read: Project44 is reinforcing a quality connectivity language suggests motif through AI positioning."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-07",
+        "report_label": "2026-04-08",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Truckload carrier earnings: Will Q1 mark the end of struggles?",
+        "supporting_note": "Lead item: Mexico freight disruption lingers as truckers strike fractures",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-07",
+        "report_label": "2026-04-08",
         "freshness": "current",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -46,7 +46,7 @@
         "cadence": "Weekly",
         "report_label": "2026-W15",
         "freshness": "current",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "summary": "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-07",
-    "last_updated": "2026-04-07 07:58",
+    "report_date": "2026-04-08",
+    "last_updated": "2026-04-08 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Truckload carrier earnings: Will Q1 mark the end of struggles?.",
+    "status_note": "Market watch is led by Mexico freight disruption lingers as truckers strike fractures.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Truckload carrier earnings: Will Q1 mark the end of struggles?.",
+      "Lead market story: Mexico freight disruption lingers as truckers strike fractures.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-07",
+      "report_date": "2026-04-08",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?; Montreal port chief exits after just two years on the job; UPS to cap driver buyouts at 7,500 after Teamster pushback",
+      "headline": "Mexico freight disruption lingers as truckers strike fractures; Trump budget boosts military shipbuilding by 242% to $65.8 billion; TD Cowen 1Q26 Rail Preview, Quarterly Rail Survey",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?",
+    "headline": "Mexico freight disruption lingers as truckers strike fractures",
     "key_news_radar": [
       {
-        "title": "Truckload carrier earnings: Will Q1 mark the end of struggles?",
-        "summary": "The first quarter could mark the last round of bad earnings reports from truckload carriers as supply has meaningfully contracted and demand is emerging from a three-year-plus down",
+        "title": "Mexico freight disruption lingers as truckers strike fractures",
+        "summary": "Mexico freight disruption lingers as truckers’ strike fractures Mexico’s nationwide trucker and farmer strike stretched into a second day Tuesday, with ongoing highway blockades, m",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-06T19:27:48+00:00",
+        "timestamp": "2026-04-07T16:25:30+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/truckload-carrier-earnings-will-q1-mark-the-end-of-struggles",
+        "link": "https://www.freightwaves.com/news/mexico-freight-disruption-lingers-as-truckers-strike-fractures",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Montreal port chief exits after just two years on the job",
-        "summary": "The chief executive of the Port of Montreal has parted ways with the eastern Canadian gateway after just two years on the job, amid soaring cost estimates for a major new container",
+        "title": "TD Cowen 1Q26 Rail Preview, Quarterly Rail Survey",
+        "summary": "Class I rail estimates ahead of earnings; severe weather to begin 1Q26 and a diesel squeeze to end it will limit the better-than-expected rail volumes YTD.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-06T19:27:48+00:00",
+        "timestamp": "2026-04-07T18:45:10+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/montreal-port-chief-exits-after-just-two-years-on-the-job",
+        "link": "https://www.railwayage.com/freight/class-i/td-cowen-1q26-rail-preview-quarterly-rail-survey/?utm_source=rss&utm_medium=rss&utm_campaign=td-cowen-1q26-rail-preview-quarterly-rail-survey",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Readers Speak: Middle East tensions to impact shipping for months",
-        "summary": "Industry sees prolonged disruption as the most likely scenario Ongoing instability across key maritime corridors continues to shape expectations in the container shipping industry.",
+        "title": "Trump budget boosts military shipbuilding by 242% to $65.8 billion",
+        "summary": "The American shipbuilding revival will start with battleships.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-06T07:40:14+00:00",
+        "timestamp": "2026-04-07T18:25:48+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/readers-speak-middle-east-tensions-to-impact-shipping-for-months/",
+        "link": "https://www.freightwaves.com/news/trump-budget-boosts-military-shipbuilding-by-242-to-65-8-billion",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Buy Instagram Views: Complete Guide to Boosting Your Video Engagement",
-        "summary": "Trusted Providers for Buying Instagram Views When it comes to buying Instagram views, selecting a reliable provider is crucial for ensuring authentic engagement and account safety.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-06T07:40:14+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/buy-instagram-views-complete-guide-to-boosting-your-video-engagement/",
+        "title": "Freight market sees Covid-era extremes return",
+        "summary": "A monthly survey of supply chain managers showed extreme capacity tightening and rate growth across the freight market in March, a dynamic last seen at “the height of the Covid era",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-07T16:25:30+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/freight-market-sees-covid-era-extremes-return",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "UPS to cap driver buyouts at 7,500 after Teamster pushback",
-        "summary": "UPS has reached an agreement with the Teamsters union to cap its voluntary buyout program at 7,500 drivers, with selections based on seniority, in exchange for being able to offer",
+        "title": "Best month in years marks broad US rail recovery",
+        "summary": "railroads in March signaled that the goods economy is finding solid footing after an extended period of uneven performance.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-06T01:36:12+00:00",
+        "timestamp": "2026-04-07T16:25:30+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/ups-to-cap-driver-buyouts-at-7500-after-teamster-pushback",
+        "link": "https://www.freightwaves.com/news/best-month-in-years-marks-broad-us-rail-recovery",
         "label": "Operational",
         "question_signal": ""
       }
@@ -138,7 +138,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -147,47 +147,55 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Whats the most annoying part of managing logistics operations?",
-        "summary": "What’s the most annoying part of managing logistics operations?",
+        "title": "How to reduce lead time in your supply chain when you manufacture overseas?",
+        "summary": "That's how long it took our finished product to go from \"done at the factory\" to \"live on shopify.\" Production was only 2 to 3 weeks of that.",
         "source": "Reddit",
-        "timestamp": "2026-04-06T14:08:26+00:00",
+        "timestamp": "2026-04-07T13:40:08+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sdzwf3/whats_the_most_annoying_part_of_managing/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sewb1f/how_to_reduce_lead_time_in_your_supply_chain_when/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "If strait of hormuz passes from Iran and Oman, how come Iran exercise significant control over the entire waterway in Strait?",
-        "summary": "During wartime, why can't ships simply pass from the passage of Oman's side of Hormuz?",
+        "title": "Catch up on what happened this week in Logistics: March 31-April 6",
+        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
         "source": "Reddit",
-        "timestamp": "2026-04-06T07:56:07+00:00",
+        "timestamp": "2026-04-07T15:19:32+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1sdsil4/if_strait_of_hormuz_passes_from_iran_and_oman_how/",
+        "link": "https://old.reddit.com/r/logistics/comments/1sez01i/catch_up_on_what_happened_this_week_in_logistics/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       },
       {
-        "title": "How are brokers handling the IEEPA refund requests from importers? CBP still hasn't set up the ACE process.",
-        "summary": "Curious what others are seeing on the ground.",
+        "title": "How are you actually vetting China freight forwarders beyond quoted rates?",
+        "summary": "I’m genuinely curious how people here vet freight forwarders, because I feel like way too many conversations just revolve around quoted rates, which honestly seems like one of the",
         "source": "Reddit",
-        "timestamp": "2026-04-06T11:36:35+00:00",
+        "timestamp": "2026-04-07T09:41:29+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sdwcg4/how_are_brokers_handling_the_ieepa_refund/",
+        "link": "https://old.reddit.com/r/logistics/comments/1serajq/how_are_you_actually_vetting_china_freight/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-08",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Mexico freight disruption lingers as truckers strike fractures; Trump budget boosts military shipbuilding by 242% to $65.8 billion; TD Cowen 1Q26 Rail Preview, Quarterly Rail Survey",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-07",
         "write_now": "Maybe",
@@ -235,45 +243,36 @@
         "worth_attention_today": "5",
         "headline": "A Moldovan broker, Romanian carrier, temporary CDL driver and another fatal truck crash; US tariff fight shifts to heavy machinery imported from Mexico; Shipping from North Europe to North America and Mexico? A PSS is coming up",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-01",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "5",
-        "worth_attention_today": "5",
-        "headline": "DP World expands eastern Canada reach; Salalah disruptions send carriers on Indian trades back to adding Pakistan calls; How Intermodal Protects Against Cargo Theft and Freight Fraud",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 116,
-      "high_trust": 18,
-      "trade_press": 31,
-      "community": 67
+      "total_items": 151,
+      "high_trust": 3,
+      "trade_press": 59,
+      "community": 89
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-07.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-07.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-07.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-08.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-08.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-08.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-07",
-    "run_started_at": "2026-04-07T07:58:45+09:00",
+    "report_date": "2026-04-08",
+    "run_started_at": "2026-04-08T07:32:10+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Wakeo: 2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences..."
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "targets_fetched": 24,
     "target_count": 24,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
     "company_summaries": [
       {
@@ -319,73 +318,86 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
+        "evidence": [
+          "project44 launches Network Operations Agent to maintain visibility compliance and improve data accuracy"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
       {
-        "detected_date": "2026-03-25",
-        "company": "Wakeo",
+        "detected_date": "2026-04-08",
+        "company": "Project44",
         "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences...",
-        "source_url": "https://wakeo.co/news/2025-q3-product-update"
-      },
-      {
-        "detected_date": "2026-03-25",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:...",
-        "source_url": "https://wakeo.co/news/2025-q2-product-update"
-      },
-      {
-        "detected_date": "2026-03-25",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
-        "source_url": "https://wakeo.co/news/wakeo-enhances-trusted-routes-with-nearby-alternatives"
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
+        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260407T075845+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-07.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260408T073210+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-08.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W15",
-    "week_end_date": "2026-04-07",
+    "week_end_date": "2026-04-08",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 0/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 0,
+    "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language -> suggests a shift from visibility toward AI-led execution and decision support project44 launches Network...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "quality connectivity language suggests",
+        "source_url": "https://www.project44.com/"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W15",
-        "week_end_date": "2026-04-07",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-04-08",
+        "takeaway": "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning.",
+        "signal_count": "1",
         "active_thesis_count": "0"
       },
       {
