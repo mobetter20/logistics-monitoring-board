@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-08T22:57:43+00:00",
-  "requested_date": "2026-04-09",
+  "built_at": "2026-04-09T22:33:15+00:00",
+  "requested_date": "2026-04-10",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,29 +15,29 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-09",
+    "requested_date": "2026-04-10",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting.",
-      "Competitor watch changed: Project44 Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+      "Lead daily item: Project44 unveils fleet of AI agents at customer event Decision44.",
+      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-09",
+        "report_label": "2026-04-10",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting",
+        "supporting_note": "Lead item: Project44 unveils fleet of AI agents at customer event Decision44",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-09",
+        "report_label": "2026-04-10",
         "freshness": "current",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-09",
-    "last_updated": "2026-04-09 07:56",
+    "report_date": "2026-04-10",
+    "last_updated": "2026-04-10 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting.",
+    "status_note": "Market watch is led by Project44 unveils fleet of AI agents at customer event Decision44.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting.",
+      "Lead market story: Project44 unveils fleet of AI agents at customer event Decision44.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-09",
+      "report_date": "2026-04-10",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting; Adapting, Evolving to Serve a Changing Market; Trump announces two-week ceasefire with Iran tied to Hormuz reopening",
+      "headline": "Project44 unveils fleet of AI agents at customer event Decision44; Bunker market reverses as ceasefire triggers price correction; FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting",
+    "headline": "Project44 unveils fleet of AI agents at customer event Decision44",
     "key_news_radar": [
       {
-        "title": "Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting",
-        "summary": "Delay is no longer a neutral choice.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-08T17:19:30+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/tariffs-and-geopolitics-are-driving-supply-chain-shifts-but-not-all-ceos-are-acting/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Trump announces two-week ceasefire with Iran tied to Hormuz reopening",
-        "summary": "President Donald Trump has announced a two-week ceasefire agreement with Iran, linking the deal to the immediate and secure reopening of the Strait of Hormuz.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-08T07:04:43+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/trump-announces-two-week-ceasefire-with-iran-tied-to-hormuz-reopening/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Strait of Hormuz Traffic Remains Low Under Iranian Control in 2026",
-        "summary": "Data from maritime consultancy Windward indicates a slight uptick in vessel movements through the Strait of Hormuz, though volumes remain far below pre-conflict levels.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-08T17:19:30+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/strait-of-hormuz-traffic-remains-low-under-iranian-control-in-2026/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Houthi Threat to Red Sea Shipping Risks Global Energy Supply, May Trigger Multinational Naval Response",
-        "summary": "According to a report from The Maritime Executive, Houthi forces have signaled a readiness to resume attacks on commercial vessels in the Red Sea and Gulf of Aden.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-08T17:19:30+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/houthi-threat-to-red-sea-shipping-risks-global-energy-supply-may-trigger-multinational-naval-response/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Adapting, Evolving to Serve a Changing Market",
-        "summary": "The expansion advances Greenbrier’s broader strategy of targeted vertical integration and footprint flexibility, ensuring that production capacity can be shifted or scaled as marke",
+        "title": "Project44 unveils fleet of AI agents at customer event Decision44",
+        "summary": "On April 9, 2026, Project44 CEO Jett McCandless stood before customers at the company’s Decision44 event and delivered a sweeping history lesson that doubled as a mission statement",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-08T18:37:08+00:00",
+        "timestamp": "2026-04-09T19:29:00+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/financeleasing/adapting-evolving-to-serve-a-changing-market/?utm_source=rss&utm_medium=rss&utm_campaign=adapting-evolving-to-serve-a-changing-market",
+        "link": "https://www.freightwaves.com/news/project44-unveils-fleet-of-ai-agents-at-customer-event-decision44",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "New business: South Carolina rail route will see first trains since 2012",
+        "summary": "Palmetto Railways is reactivating operations on its 40-mile Salkehatchie Subdivision, a former short line through Hampton and Colleton counties in southwestern South Carolina that",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-09T17:27:50+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/new-business-south-carolina-rail-route-will-see-first-trains-since-2012",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Bunker market reverses as ceasefire triggers price correction",
+        "summary": "The upward trajectory of bunker prices, driven by escalating tensions in the Middle East, reversed sharply on April 8 following reports of a two-week ceasefire.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-09T19:35:09+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/bunker-market-reverses-as-ceasefire-triggers-price-correction/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Delivering for the Nation, 199 Years and Counting",
+        "summary": "LEADERSHIP PERSPEFCTIVES, RAILWAY AGE APRIL 2026 ISSUE: Freight rail—approaching its own milestone anniversary with next year’s bicentennial, nearly as old as the nation itself—rem",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-09T16:26:06+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/regulatory/delivering-for-the-nation-199-years-and-counting/?utm_source=rss&utm_medium=rss&utm_campaign=delivering-for-the-nation-199-years-and-counting",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
+        "summary": "The Federal Aviation Administration has certified Mammoth Freighters LLC, a startup aerospace firm backed by Fortress Investment Group, to convert Boeing 777-200 Long-Range passeng",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-08T22:26:53+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/faa-approves-1st-boeing-777-200-passenger-to-freighter-conversion",
         "label": "Operational",
         "question_signal": ""
       }
@@ -142,11 +142,11 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
@@ -155,51 +155,55 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` remains active across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "As an importer who uses FedEx for brokerage, should I be taking any steps currently to ensure an IEEPA refund?",
-        "summary": "All of my customs invoices show FedEx Logistics Inc as the IOR, with my company as the ultimate consignee.",
+        "title": "When a sourcing agent also wants to be the freight forwarder and customs broker, is that efficiency or too much concentration of control?",
+        "summary": "I’ve been seeing more cases where the same party helps source the product, manages freight forwarding, and also gets involved in customs.",
         "source": "Reddit",
-        "timestamp": "2026-04-08T14:17:40+00:00",
+        "timestamp": "2026-04-09T01:24:33+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sfu5xn/as_an_importer_who_uses_fedex_for_brokerage/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1sgboxz/when_a_sourcing_agent_also_wants_to_be_the/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Why hasnt anyone successfully created an alternative to the Strait of Hormuz?",
-        "summary": "Why hasn’t anyone successfully created an alternative to the Strait of Hormuz?",
+        "title": "6 months job hunting, only 1 interview. What am I doing wrong? Non-traditional professional (long sorry)",
+        "summary": "So I got degrees in Food Scienxe and Microbiology BS in 2022.",
         "source": "Reddit",
-        "timestamp": "2026-04-08T12:01:37+00:00",
+        "timestamp": "2026-04-09T18:26:25+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1sfqt9i/why_hasnt_anyone_successfully_created_an/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sgxwl7/6_months_job_hunting_only_1_interview_what_am_i/",
         "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Looking for a cheap DDP maritime freight forwarder for Brazil (maximum $800 CBM).",
-        "summary": "Hello, I am a Brazilian entrepreneur starting a multi-platform e-commerce operation (TikTok Shop, Mercado Livre, and Shopee) and seeking a long-term partnership with a reliable sou",
+        "title": "Slow shipping from Japan?",
+        "summary": "I'm curious, has anyone else recently been waiting longer for a package from Japan to the EU?",
         "source": "Reddit",
-        "timestamp": "2026-04-08T10:42:07+00:00",
+        "timestamp": "2026-04-09T13:31:01+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1sfp7r6/looking_for_a_cheap_ddp_maritime_freight/",
+        "link": "https://old.reddit.com/r/shipping/comments/1sgpph9/slow_shipping_from_japan/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-10",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Project44 unveils fleet of AI agents at customer event Decision44; Bunker market reverses as ceasefire triggers price correction; FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-09",
         "write_now": "Maybe",
@@ -247,44 +251,37 @@
         "worth_attention_today": "5",
         "headline": "What your fleet can do about $5.40 diesel fuel today; French container ship first major carrier to exit Strait of Hormuz; APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-03",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Strait of Hormuz closure pushes Asia-US ocean rates up 29%; Iran War: Container spot rates in Middle East region jump 30%; Amtrak, Union Pacific Settle Sunset Limited Dispute (Updated April 2, 2026)",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 151,
-      "high_trust": 32,
-      "trade_press": 23,
-      "community": 96
+      "total_items": 160,
+      "high_trust": 24,
+      "trade_press": 34,
+      "community": 102
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-09.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-09.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-09.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-10.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-10.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-10.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-09",
-    "run_started_at": "2026-04-09T07:56:39+09:00",
+    "report_date": "2026-04-10",
+    "run_started_at": "2026-04-10T07:32:14+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging"
     ],
     "targets_fetched": 24,
     "target_count": 24,
-    "important_count": 3,
+    "important_count": 0,
     "watch_count": 0,
     "company_summaries": [
       {
@@ -330,47 +327,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Your Supply Chain at Work",
-          "Decision Intelligence that orchestrates AI agents to detect, decide, and act in real time."
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger visibility, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced procurement and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger visibility, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced procurement and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "Manufacturing",
-          "Life Sciences"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/platform/",
-        "evidence": [
-          "40% improvement",
-          "60% reduction"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -407,14 +364,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260409T075639+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-09.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260410T073214+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-10.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W15",
-    "week_end_date": "2026-04-09",
+    "week_end_date": "2026-04-10",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -436,8 +393,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 4/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
     "important_signal_count": 4,
@@ -463,7 +419,7 @@
     "recent_history": [
       {
         "week_label": "2026-W15",
-        "week_end_date": "2026-04-09",
+        "week_end_date": "2026-04-10",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
         "active_thesis_count": "1"
