@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-09T22:33:15+00:00",
-  "requested_date": "2026-04-10",
+  "built_at": "2026-04-10T22:33:13+00:00",
+  "requested_date": "2026-04-11",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-10",
+    "requested_date": "2026-04-11",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Project44 unveils fleet of AI agents at customer event Decision44.",
+      "Lead daily item: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-10",
+        "report_label": "2026-04-11",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Project44 unveils fleet of AI agents at customer event Decision44",
+        "supporting_note": "Lead item: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-10",
+        "report_label": "2026-04-11",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-10",
-    "last_updated": "2026-04-10 07:32",
+    "report_date": "2026-04-11",
+    "last_updated": "2026-04-11 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Project44 unveils fleet of AI agents at customer event Decision44.",
+    "status_note": "Market watch is led by Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Project44 unveils fleet of AI agents at customer event Decision44.",
+      "Lead market story: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-10",
+      "report_date": "2026-04-11",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Project44 unveils fleet of AI agents at customer event Decision44; Bunker market reverses as ceasefire triggers price correction; FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
+      "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices; How AI Agents in Delivery and Transportation Are Transforming Logistics; MPAs Contrecur Terminal Project Advances",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Project44 unveils fleet of AI agents at customer event Decision44",
+    "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
     "key_news_radar": [
       {
-        "title": "Project44 unveils fleet of AI agents at customer event Decision44",
-        "summary": "On April 9, 2026, Project44 CEO Jett McCandless stood before customers at the company’s Decision44 event and delivered a sweeping history lesson that doubled as a mission statement",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-09T19:29:00+00:00",
+        "title": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
+        "summary": "According to a report from Freightwaves, a proposed plan by Oman and Iran to institute permanent tolls for vessels transiting the Strait of Hormuz could add approximately one dolla",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-10T08:27:01+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/project44-unveils-fleet-of-ai-agents-at-customer-event-decision44",
+        "link": "https://www.globaltrademag.com/strait-of-hormuz-tolls-and-ceasefire-reshape-global-shipping-and-oil-prices/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "New business: South Carolina rail route will see first trains since 2012",
-        "summary": "Palmetto Railways is reactivating operations on its 40-mile Salkehatchie Subdivision, a former short line through Hampton and Colleton counties in southwestern South Carolina that",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-09T17:27:50+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-business-south-carolina-rail-route-will-see-first-trains-since-2012",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Bunker market reverses as ceasefire triggers price correction",
-        "summary": "The upward trajectory of bunker prices, driven by escalating tensions in the Middle East, reversed sharply on April 8 following reports of a two-week ceasefire.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-09T19:35:09+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/bunker-market-reverses-as-ceasefire-triggers-price-correction/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Delivering for the Nation, 199 Years and Counting",
-        "summary": "LEADERSHIP PERSPEFCTIVES, RAILWAY AGE APRIL 2026 ISSUE: Freight rail—approaching its own milestone anniversary with next year’s bicentennial, nearly as old as the nation itself—rem",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-09T16:26:06+00:00",
+        "title": "How AI Agents in Delivery and Transportation Are Transforming Logistics",
+        "summary": "The logistics industry has always been running on narrow margins, extremely tight timeframes, and a seemingly endless number of variables.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-10T08:27:01+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/regulatory/delivering-for-the-nation-199-years-and-counting/?utm_source=rss&utm_medium=rss&utm_campaign=delivering-for-the-nation-199-years-and-counting",
+        "link": "https://www.globaltrademag.com/how-ai-agents-in-delivery-and-transportation-are-transforming-logistics/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
-        "summary": "The Federal Aviation Administration has certified Mammoth Freighters LLC, a startup aerospace firm backed by Fortress Investment Group, to convert Boeing 777-200 Long-Range passeng",
+        "title": "EV Realty opens major truck charging hub in San Bernardino",
+        "summary": "EV Realty opened its flagship multi-fleet truck charging hub in San Bernardino on Thursday, bringing 76 high-power charging ports and 9.9 MW of grid capacity online in one of the n",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-08T22:26:53+00:00",
+        "timestamp": "2026-04-10T01:32:52+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/faa-approves-1st-boeing-777-200-passenger-to-freighter-conversion",
+        "link": "https://www.freightwaves.com/news/ev-realty-opens-major-truck-charging-hub-san-bernardino",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Truck fleet, capacity, rates & outlook - Intermodal Logistics Podcast",
+        "summary": "The trucking market has seen no shortage of activity of late, so we are bringing back a familiar voice on The Intermodal Logistics Podcast to help make sense of it all.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-10T14:51:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.inteklogistics.com/blog/truck-fleet-capacity-rates-outlook-intermodal-logistics-podcast",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "MPAs Contrecur Terminal Project Advances",
+        "summary": "MPA’s Contrecœur Terminal Project Advances The Canada Infrastructure Bank (CIB) on April 8 reported loaning C$1.16 billion to the Montréal Port Authority (MPA) for the Contrecoeur",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-10T15:14:28+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/intermodal/mpas-contrecoeur-terminal-project-advances/?utm_source=rss&utm_medium=rss&utm_campaign=mpas-contrecoeur-terminal-project-advances",
         "label": "Operational",
         "question_signal": ""
       }
@@ -142,16 +142,28 @@
       },
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -159,43 +171,51 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` remains active across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "When a sourcing agent also wants to be the freight forwarder and customs broker, is that efficiency or too much concentration of control?",
-        "summary": "I’ve been seeing more cases where the same party helps source the product, manages freight forwarding, and also gets involved in customs.",
+        "title": "Im a marine engineer working offshore heres what people dont tell you",
+        "summary": "I’m a marine engineer working offshore — here’s what people don’t tell you I’m a marine engineer working offshore.",
         "source": "Reddit",
-        "timestamp": "2026-04-09T01:24:33+00:00",
+        "timestamp": "2026-04-10T21:01:29+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1sgboxz/when_a_sourcing_agent_also_wants_to_be_the/",
-        "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
-      },
-      {
-        "title": "6 months job hunting, only 1 interview. What am I doing wrong? Non-traditional professional (long sorry)",
-        "summary": "So I got degrees in Food Scienxe and Microbiology BS in 2022.",
-        "source": "Reddit",
-        "timestamp": "2026-04-09T18:26:25+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sgxwl7/6_months_job_hunting_only_1_interview_what_am_i/",
+        "link": "https://old.reddit.com/r/maritime/comments/1shz3uh/im_a_marine_engineer_working_offshore_heres_what/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Slow shipping from Japan?",
-        "summary": "I'm curious, has anyone else recently been waiting longer for a package from Japan to the EU?",
+        "title": "With all the issues happening in the Middle East and from what the mainstream news is saying, where are the posts of supply chain failures?",
+        "summary": "I watch this sub as a heads up and I still haven’t really seen posts of people saying they can’t get fertilizer shipments etc.",
         "source": "Reddit",
-        "timestamp": "2026-04-09T13:31:01+00:00",
+        "timestamp": "2026-04-10T01:35:43+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sgpph9/slow_shipping_from_japan/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sh8ruc/with_all_the_issues_happening_in_the_middle_east/",
+        "label": "",
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+      },
+      {
+        "title": "Is spare parts inventory visibility across sites is also a problem for you?",
+        "summary": "​ Feels like this is still a mess in a lot of places.",
+        "source": "Reddit",
+        "timestamp": "2026-04-10T02:21:06+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sh9s5q/is_spare_parts_inventory_visibility_across_sites/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-11",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices; How AI Agents in Delivery and Transportation Are Transforming Logistics; MPAs Contrecur Terminal Project Advances",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-10",
         "write_now": "Maybe",
@@ -243,33 +263,25 @@
         "worth_attention_today": "2",
         "headline": "Maersk again turned down on request to fast-track emergency fuel surcharge; Supreme Court Overturns Major Tariff Initiative, Orders $166 Billion Refund; NX Taiwan opens high-tech focused warehouse in Kaohsiung",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-04",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "What your fleet can do about $5.40 diesel fuel today; French container ship first major carrier to exit Strait of Hormuz; APM Terminals wraps up $73M rail expansion at Port of Los Angeles",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 160,
-      "high_trust": 24,
-      "trade_press": 34,
-      "community": 102
+      "total_items": 133,
+      "high_trust": 4,
+      "trade_press": 55,
+      "community": 74
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-10.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-10.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-10.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-11.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-11.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-11.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-10",
-    "run_started_at": "2026-04-10T07:32:14+09:00",
+    "report_date": "2026-04-11",
+    "run_started_at": "2026-04-11T07:32:25+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -364,14 +376,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260410T073214+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-10.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260411T073225+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-11.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W15",
-    "week_end_date": "2026-04-10",
+    "week_end_date": "2026-04-11",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -419,7 +431,7 @@
     "recent_history": [
       {
         "week_label": "2026-W15",
-        "week_end_date": "2026-04-10",
+        "week_end_date": "2026-04-11",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
         "active_thesis_count": "1"
