@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-10T22:33:13+00:00",
-  "requested_date": "2026-04-11",
+  "built_at": "2026-04-11T22:32:33+00:00",
+  "requested_date": "2026-04-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-11",
+    "requested_date": "2026-04-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
+      "Lead daily item: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-11",
+        "report_label": "2026-04-12",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
+        "supporting_note": "Lead item: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-11",
+        "report_label": "2026-04-12",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,84 +62,80 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-11",
-    "last_updated": "2026-04-11 07:32",
+    "report_date": "2026-04-12",
+    "last_updated": "2026-04-12 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
+    "status_note": "Market watch is led by Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices.",
+      "Lead market story: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-11",
+      "report_date": "2026-04-12",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "5",
-      "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices; How AI Agents in Delivery and Transportation Are Transforming Logistics; MPAs Contrecur Terminal Project Advances",
+      "highest_confidence_operational_items": "5",
+      "worth_attention_today": "3",
+      "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets; Circle and Setramar launch digital logistics project in Ravenna; The Strait of Hormuz has entered a new phase of its administered closure",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
+    "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
     "key_news_radar": [
       {
-        "title": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices",
-        "summary": "According to a report from Freightwaves, a proposed plan by Oman and Iran to institute permanent tolls for vessels transiting the Strait of Hormuz could add approximately one dolla",
+        "title": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
+        "summary": "Container freight rates recorded a modest increase this week, as rising fuel costs and ongoing uncertainty surrounding the Strait of Hormuz continue to influence pricing across maj",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-10T08:27:01+00:00",
+        "timestamp": "2026-04-11T11:30:44+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/strait-of-hormuz-tolls-and-ceasefire-reshape-global-shipping-and-oil-prices/",
+        "link": "https://www.globaltrademag.com/freight-rates-tick-up-as-fuel-pressures-and-hormuz-tensions-reshape-shipping-markets/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "How AI Agents in Delivery and Transportation Are Transforming Logistics",
-        "summary": "The logistics industry has always been running on narrow margins, extremely tight timeframes, and a seemingly endless number of variables.",
+        "title": "The Strait of Hormuz has entered a new phase of its administered closure",
+        "summary": "A two-week US-Iran ceasefire has cracked open the Strait of Hormuz but 800 trapped vessels, a degraded Iranian command structure, and a bilateral agreement that both sides are read",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-11T20:58:10+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/the-strait-of-hormuz-has-entered-a-new-phase-of-its-administered-closure/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Circle and Setramar launch digital logistics project in Ravenna",
+        "summary": "Circle Group and Setramar Group have launched a joint project to digitalize terminal and logistics operations at the Port of Ravenna.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-11T12:01:16+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/circle-and-setramar-launch-digital-logistics-project-in-ravenna/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Port of Los Angeles Secures $70M Federal Funding for Infrastructure",
+        "summary": "Army Corps of Engineers has directed approximately $70 million to the Port of Los Angeles, according to FreightWaves.",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-10T08:27:01+00:00",
+        "timestamp": "2026-04-11T08:29:49+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/how-ai-agents-in-delivery-and-transportation-are-transforming-logistics/",
+        "link": "https://www.globaltrademag.com/port-of-los-angeles-secures-70m-federal-funding-for-infrastructure/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "EV Realty opens major truck charging hub in San Bernardino",
-        "summary": "EV Realty opened its flagship multi-fleet truck charging hub in San Bernardino on Thursday, bringing 76 high-power charging ports and 9.9 MW of grid capacity online in one of the n",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-10T01:32:52+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/ev-realty-opens-major-truck-charging-hub-san-bernardino",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Truck fleet, capacity, rates & outlook - Intermodal Logistics Podcast",
-        "summary": "The trucking market has seen no shortage of activity of late, so we are bringing back a familiar voice on The Intermodal Logistics Podcast to help make sense of it all.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-10T14:51:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.inteklogistics.com/blog/truck-fleet-capacity-rates-outlook-intermodal-logistics-podcast",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "MPAs Contrecur Terminal Project Advances",
-        "summary": "MPA’s Contrecœur Terminal Project Advances The Canada Infrastructure Bank (CIB) on April 8 reported loaning C$1.16 billion to the Montréal Port Authority (MPA) for the Contrecoeur",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-10T15:14:28+00:00",
-        "confidence": "medium",
-        "link": "https://www.railwayage.com/intermodal/mpas-contrecoeur-terminal-project-advances/?utm_source=rss&utm_medium=rss&utm_campaign=mpas-contrecoeur-terminal-project-advances",
-        "label": "Operational",
+        "title": "Multiple owners place new container vessel orders",
+        "summary": "Several shipowners have placed newbuilding orders for container vessels across Chinese shipyards, reflecting continued investment in feeder and mid-sized tonnage, according to Dyna",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-11T18:58:55+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/multiple-owners-place-new-container-vessel-orders/",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
@@ -150,24 +146,24 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -177,37 +173,45 @@
     ],
     "community_questions": [
       {
-        "title": "Im a marine engineer working offshore heres what people dont tell you",
-        "summary": "I’m a marine engineer working offshore — here’s what people don’t tell you I’m a marine engineer working offshore.",
+        "title": "Whats your go-to excuse when everything is delayed?",
+        "summary": "What’s your go-to excuse when everything is delayed?",
         "source": "Reddit",
-        "timestamp": "2026-04-10T21:01:29+00:00",
+        "timestamp": "2026-04-11T20:12:24+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1shz3uh/im_a_marine_engineer_working_offshore_heres_what/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sitla8/whats_your_goto_excuse_when_everything_is_delayed/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "With all the issues happening in the Middle East and from what the mainstream news is saying, where are the posts of supply chain failures?",
-        "summary": "I watch this sub as a heads up and I still haven’t really seen posts of people saying they can’t get fertilizer shipments etc.",
+        "title": "Would a minor in supply chain mean anything?",
+        "summary": "I'm a first year general business student, and I'm supposed to declare my major and minor next semester.",
         "source": "Reddit",
-        "timestamp": "2026-04-10T01:35:43+00:00",
+        "timestamp": "2026-04-10T21:31:42+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sh8ruc/with_all_the_issues_happening_in_the_middle_east/",
-        "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
-      },
-      {
-        "title": "Is spare parts inventory visibility across sites is also a problem for you?",
-        "summary": "​ Feels like this is still a mess in a lot of places.",
-        "source": "Reddit",
-        "timestamp": "2026-04-10T02:21:06+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sh9s5q/is_spare_parts_inventory_visibility_across_sites/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1shzw2f/would_a_minor_in_supply_chain_mean_anything/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+      },
+      {
+        "title": "why aren't y'all raking it in?",
+        "summary": "I'm not a customs broker, but I've been charged $100 to $150 per entry, and based on a little research, it seems like each entry takes 5 to 15 minutes.",
+        "source": "Reddit",
+        "timestamp": "2026-04-10T22:57:15+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1si1zja/why_arent_yall_raking_it_in/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "3",
+        "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets; Circle and Setramar launch digital logistics project in Ravenna; The Strait of Hormuz has entered a new phase of its administered closure",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-11",
         "write_now": "Maybe",
@@ -255,33 +259,25 @@
         "worth_attention_today": "1",
         "headline": "Borderlands Mexico: Tariff pressure shows up in customs data across North America; WCI holds steady at $2,287 as carriers push for bunker surcharges; The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What Februarys Data Is Telling Us.",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "4",
-        "worth_attention_today": "2",
-        "headline": "Maersk again turned down on request to fast-track emergency fuel surcharge; Supreme Court Overturns Major Tariff Initiative, Orders $166 Billion Refund; NX Taiwan opens high-tech focused warehouse in Kaohsiung",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 133,
-      "high_trust": 4,
-      "trade_press": 55,
-      "community": 74
+      "total_items": 65,
+      "high_trust": 6,
+      "trade_press": 3,
+      "community": 56
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-11",
-    "run_started_at": "2026-04-11T07:32:25+09:00",
+    "report_date": "2026-04-12",
+    "run_started_at": "2026-04-12T07:31:52+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -376,14 +372,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260411T073225+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260412T073152+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W15",
-    "week_end_date": "2026-04-11",
+    "week_end_date": "2026-04-12",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -431,7 +427,7 @@
     "recent_history": [
       {
         "week_label": "2026-W15",
-        "week_end_date": "2026-04-11",
+        "week_end_date": "2026-04-12",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
         "active_thesis_count": "1"
