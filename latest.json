@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-11T22:32:33+00:00",
-  "requested_date": "2026-04-12",
+  "built_at": "2026-04-12T22:32:52+00:00",
+  "requested_date": "2026-04-13",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-12",
+    "requested_date": "2026-04-13",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
+      "Lead daily item: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-12",
+        "report_label": "2026-04-13",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
+        "supporting_note": "Lead item: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-12",
+        "report_label": "2026-04-13",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -44,7 +44,7 @@
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W15",
+        "report_label": "2026-W16",
         "freshness": "current",
         "summary": "Project44 is signaling AI positioning around procurement and tendering.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
@@ -62,76 +62,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-12",
-    "last_updated": "2026-04-12 07:31",
+    "report_date": "2026-04-13",
+    "last_updated": "2026-04-13 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
+    "status_note": "Market watch is led by Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets.",
+      "Lead market story: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-12",
+      "report_date": "2026-04-13",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "5",
-      "worth_attention_today": "3",
-      "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets; Circle and Setramar launch digital logistics project in Ravenna; The Strait of Hormuz has entered a new phase of its administered closure",
+      "worth_attention_today": "5",
+      "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook; Borderlands Mexico: China automakers gain ground as U.S. exports soften; MSC extends emergency fuel surcharge amid global fuel market disruption",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
+    "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
     "key_news_radar": [
       {
-        "title": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets",
-        "summary": "Container freight rates recorded a modest increase this week, as rising fuel costs and ongoing uncertainty surrounding the Strait of Hormuz continue to influence pricing across maj",
+        "title": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
+        "summary": "container import volumes are coming under increasing pressure from trade policy shifts and higher fuel costs, even as tensions involving Iran have yet to significantly disrupt carg",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-11T11:30:44+00:00",
+        "timestamp": "2026-04-12T08:31:27+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/freight-rates-tick-up-as-fuel-pressures-and-hormuz-tensions-reshape-shipping-markets/",
+        "link": "https://www.globaltrademag.com/tariffs-and-rising-fuel-prices-weigh-on-u-s-import-outlook/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "The Strait of Hormuz has entered a new phase of its administered closure",
-        "summary": "A two-week US-Iran ceasefire has cracked open the Strait of Hormuz but 800 trapped vessels, a degraded Iranian command structure, and a bilateral agreement that both sides are read",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-11T20:58:10+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/the-strait-of-hormuz-has-entered-a-new-phase-of-its-administered-closure/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Circle and Setramar launch digital logistics project in Ravenna",
-        "summary": "Circle Group and Setramar Group have launched a joint project to digitalize terminal and logistics operations at the Port of Ravenna.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-11T12:01:16+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/circle-and-setramar-launch-digital-logistics-project-in-ravenna/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Port of Los Angeles Secures $70M Federal Funding for Infrastructure",
-        "summary": "Army Corps of Engineers has directed approximately $70 million to the Port of Los Angeles, according to FreightWaves.",
+        "title": "MSC extends emergency fuel surcharge amid global fuel market disruption",
+        "summary": "MSC Mediterranean Shipping Company has announced the extension of its Emergency Fuel Surcharge (EFS) through April 30, 2026, citing ongoing disruption in the global fuel market lin",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-11T08:29:49+00:00",
+        "timestamp": "2026-04-12T16:01:21+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/port-of-los-angeles-secures-70m-federal-funding-for-infrastructure/",
+        "link": "https://container-news.com/msc-extends-emergency-fuel-surcharge-amid-global-fuel-market-disruption/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Multiple owners place new container vessel orders",
-        "summary": "Several shipowners have placed newbuilding orders for container vessels across Chinese shipyards, reflecting continued investment in feeder and mid-sized tonnage, according to Dyna",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-11T18:58:55+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/multiple-owners-place-new-container-vessel-orders/",
-        "label": "Watch",
+        "title": "Borderlands Mexico: China automakers gain ground as U.S. exports soften",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-12T12:40:28+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-china-automakers-gain-ground-as-u-s-exports-soften",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Produce seasons prodigal return",
+        "summary": "Produce season’s prodigal return Chart of the Week: Reefer rejection rate - Fresno, USDA Produce spot rate, TRAC reefer spot rate - Fresno to Chicago, SONAR: STRIR.FAT, AGRATE.FATC",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-12T01:37:07+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/produce-seasons-prodigal-return",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "News in Brief podcast | Week 15 2026 | Ceasefire, capacity crunch and freight cost still up",
+        "summary": "After a two-week break, The Loadstar’s News in Brief returns with a major geopolitical development at the top of the agenda: a fragile two-week ceasefire between the US and Iran, a",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-12T16:10:19+00:00",
+        "confidence": "medium",
+        "link": "https://theloadstar.com/news-in-brief-podcast-week-15-2026-ceasefire-capacity-crunch-and-freight-cost-still-up/",
+        "label": "Operational",
         "question_signal": ""
       }
     ],
@@ -143,67 +143,59 @@
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
-        "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Whats your go-to excuse when everything is delayed?",
-        "summary": "What’s your go-to excuse when everything is delayed?",
+        "title": "Hey guys, can I ship to a forwarding services warehouse in another country and pay the customs clearance fees for the shipping carrier like UPS, DHL, or FedEx online on their website, or will that not work?",
+        "summary": "submitted by /u/Few_Passenger_3404 [link] [comments]",
         "source": "Reddit",
-        "timestamp": "2026-04-11T20:12:24+00:00",
+        "timestamp": "2026-04-12T04:14:16+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sitla8/whats_your_goto_excuse_when_everything_is_delayed/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "Would a minor in supply chain mean anything?",
-        "summary": "I'm a first year general business student, and I'm supposed to declare my major and minor next semester.",
-        "source": "Reddit",
-        "timestamp": "2026-04-10T21:31:42+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1shzw2f/would_a_minor_in_supply_chain_mean_anything/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
-      },
-      {
-        "title": "why aren't y'all raking it in?",
-        "summary": "I'm not a customs broker, but I've been charged $100 to $150 per entry, and based on a little research, it seems like each entry takes 5 to 15 minutes.",
-        "source": "Reddit",
-        "timestamp": "2026-04-10T22:57:15+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1si1zja/why_arent_yall_raking_it_in/",
+        "link": "https://old.reddit.com/r/shipping/comments/1sj4a9a/hey_guys_can_i_ship_to_a_forwarding_services/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Exported industrial equipment and heavy machinery from Nhava Sheva India to Oakland USA here is how we loaded and secured the cargo",
+        "summary": "We just completed an FCL export of industrial equipment and heavy machinery from JNPT, Nhava Sheva to Oakland, USA.The cargo was loaded in trestle boxes, stretch wrapped for full p",
+        "source": "Reddit",
+        "timestamp": "2026-04-12T06:37:02+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/logistics/comments/1sj6xc6/exported_industrial_equipment_and_heavy_machinery/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Feeling Stuck in Data Center Procurement Need advice",
+        "summary": "Feeling Stuck in Data Center Procurement —Need advice Mechanical Engineer with over 2 years of experience in data center construction procurement in the Middle East, along with an",
+        "source": "Reddit",
+        "timestamp": "2026-04-12T10:52:01+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sjbbvd/feeling_stuck_in_data_center_procurement_need/",
+        "label": "",
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-13",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "5",
+        "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook; Borderlands Mexico: China automakers gain ground as U.S. exports soften; MSC extends emergency fuel surcharge amid global fuel market disruption",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-12",
         "write_now": "Maybe",
@@ -251,33 +243,25 @@
         "worth_attention_today": "5",
         "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?; Montreal port chief exits after just two years on the job; UPS to cap driver buyouts at 7,500 after Teamster pushback",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-06",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "4",
-        "worth_attention_today": "1",
-        "headline": "Borderlands Mexico: Tariff pressure shows up in customs data across North America; WCI holds steady at $2,287 as carriers push for bunker surcharges; The Two Materials That Predict Freight Demand Both Just Posted Gains. Here Is What Februarys Data Is Telling Us.",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 65,
-      "high_trust": 6,
-      "trade_press": 3,
-      "community": 56
+      "total_items": 66,
+      "high_trust": 7,
+      "trade_press": 8,
+      "community": 51
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-12.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-12.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-12.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-13.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-13.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-13.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-12",
-    "run_started_at": "2026-04-12T07:31:52+09:00",
+    "report_date": "2026-04-13",
+    "run_started_at": "2026-04-13T07:32:13+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -372,14 +356,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260412T073152+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-12.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260413T073213+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-13.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W15",
-    "week_end_date": "2026-04-12",
+    "week_label": "2026-W16",
+    "week_end_date": "2026-04-13",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -426,6 +410,13 @@
     ],
     "recent_history": [
       {
+        "week_label": "2026-W16",
+        "week_end_date": "2026-04-13",
+        "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
+        "signal_count": "4",
+        "active_thesis_count": "1"
+      },
+      {
         "week_label": "2026-W15",
         "week_end_date": "2026-04-12",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
@@ -445,18 +436,11 @@
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
         "signal_count": "5",
         "active_thesis_count": "1"
-      },
-      {
-        "week_label": "2026-W12",
-        "week_end_date": "2026-03-21",
-        "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
-        "signal_count": "1",
-        "active_thesis_count": "0"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W15.json",
-      "strategic_intelligence/output/weekly-memo-2026-W15.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W16.json",
+      "strategic_intelligence/output/weekly-memo-2026-W16.md"
     ],
     "warnings": [
       "Oracle oracle_tms: offline mode has no previous cached observation",
