@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-12T22:32:52+00:00",
-  "requested_date": "2026-04-13",
+  "built_at": "2026-04-13T22:54:30+00:00",
+  "requested_date": "2026-04-14",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-13",
+    "requested_date": "2026-04-14",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
+      "Lead daily item: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
@@ -26,16 +26,16 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-13",
+        "report_label": "2026-04-14",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
+        "supporting_note": "Lead item: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-13",
+        "report_label": "2026-04-14",
         "freshness": "current",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-13",
-    "last_updated": "2026-04-13 07:32",
+    "report_date": "2026-04-14",
+    "last_updated": "2026-04-14 07:53",
     "freshness": "current",
-    "status_note": "Market watch is led by Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
+    "status_note": "Market watch is led by Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook.",
+      "Lead market story: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-13",
+      "report_date": "2026-04-14",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "5",
+      "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook; Borderlands Mexico: China automakers gain ground as U.S. exports soften; MSC extends emergency fuel surcharge amid global fuel market disruption",
+      "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment; Crane Worldwide Logistics expands into Spain through acquisition; MSC launches Phoenix service",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
+    "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
     "key_news_radar": [
       {
-        "title": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook",
-        "summary": "container import volumes are coming under increasing pressure from trade policy shifts and higher fuel costs, even as tensions involving Iran have yet to significantly disrupt carg",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-12T08:31:27+00:00",
+        "title": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
+        "summary": "Mexico climbed from 25th to 19th place in Kearney’s 2026 Foreign Direct Investment (FDI) Confidence Index, marking one of the largest gains globally alongside Singapore, as investo",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-13T17:41:43+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/tariffs-and-rising-fuel-prices-weigh-on-u-s-import-outlook/",
+        "link": "https://www.freightwaves.com/news/mexico-fdi-ranking-jumps-in-2026-as-nearshoring-boosts-investment",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "MSC extends emergency fuel surcharge amid global fuel market disruption",
-        "summary": "MSC Mediterranean Shipping Company has announced the extension of its Emergency Fuel Surcharge (EFS) through April 30, 2026, citing ongoing disruption in the global fuel market lin",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-12T16:01:21+00:00",
+        "title": "MSC launches Phoenix service",
+        "summary": "Mediterranean Shipping Company has launched its long-delayed Phoenix service, establishing a new connection between key ports in the Mediterranean and the Far East.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-13T16:16:53+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/msc-extends-emergency-fuel-surcharge-amid-global-fuel-market-disruption/",
+        "link": "https://container-news.com/msc-launches-phoenix-service/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Borderlands Mexico: China automakers gain ground as U.S. exports soften",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-12T12:40:28+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-china-automakers-gain-ground-as-u-s-exports-soften",
-        "label": "Operational",
+        "title": "Container Payment Portal (CPP) Update",
+        "summary": "Dear Customer, We’re pleased to share that Hapag-Lloyd’s Container Payment Portal (CPP), powered by PayCargo and Gnosis Freight, has already successfully launched at the following",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-13T14:00:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/01/container-payment-portal--cpp--update-7.feed.rss.xml",
+        "label": "Watch",
         "question_signal": ""
       },
       {
-        "title": "Produce seasons prodigal return",
-        "summary": "Produce season’s prodigal return Chart of the Week: Reefer rejection rate - Fresno, USDA Produce spot rate, TRAC reefer spot rate - Fresno to Chicago, SONAR: STRIR.FAT, AGRATE.FATC",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-12T01:37:07+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/produce-seasons-prodigal-return",
-        "label": "Operational",
+        "title": "MSC restructures Albatros service",
+        "summary": "Mediterranean Shipping Company has revised its Albatros service, removing its round-the-world configuration following recent network adjustments, according to DynaLiners.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-13T20:18:57+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/msc-restructures-albatros-service/",
+        "label": "Watch",
         "question_signal": ""
       },
       {
-        "title": "News in Brief podcast | Week 15 2026 | Ceasefire, capacity crunch and freight cost still up",
-        "summary": "After a two-week break, The Loadstar’s News in Brief returns with a major geopolitical development at the top of the agenda: a fragile two-week ceasefire between the US and Iran, a",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-12T16:10:19+00:00",
-        "confidence": "medium",
-        "link": "https://theloadstar.com/news-in-brief-podcast-week-15-2026-ceasefire-capacity-crunch-and-freight-cost-still-up/",
+        "title": "Crane Worldwide Logistics expands into Spain through acquisition",
+        "summary": "Crane Worldwide Logistics has expanded its operational footprint in Europe with the acquisition of Blue Cargo, a small freight forwarder in Spain, the Houston-based company announc",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-13T15:39:12+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/crane-worldwide-logistics-expands-into-spain-through-acquisition",
         "label": "Operational",
         "question_signal": ""
       }
@@ -142,52 +142,76 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Service / network changes` remains active across high-trust, trade-press coverage. Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Hey guys, can I ship to a forwarding services warehouse in another country and pay the customs clearance fees for the shipping carrier like UPS, DHL, or FedEx online on their website, or will that not work?",
-        "summary": "submitted by /u/Few_Passenger_3404 [link] [comments]",
+        "title": "what features would your megayacht have ?",
+        "summary": "so you wake up tomorrow and your a billionaire...",
         "source": "Reddit",
-        "timestamp": "2026-04-12T04:14:16+00:00",
+        "timestamp": "2026-04-12T22:00:22+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sj4a9a/hey_guys_can_i_ship_to_a_forwarding_services/",
+        "link": "https://old.reddit.com/r/maritime/comments/1sjs0o4/what_features_would_your_megayacht_have/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Exported industrial equipment and heavy machinery from Nhava Sheva India to Oakland USA here is how we loaded and secured the cargo",
-        "summary": "We just completed an FCL export of industrial equipment and heavy machinery from JNPT, Nhava Sheva to Oakland, USA.The cargo was loaded in trestle boxes, stretch wrapped for full p",
+        "title": "Is load checking for fuel tankers usually manual?",
+        "summary": "Hello everyone :) Not sure how many tanker drivers are here (and I guess US vs EU might be different), but I wanted to ask something out of curiosity I’m in EU (Greece) and my wife",
         "source": "Reddit",
-        "timestamp": "2026-04-12T06:37:02+00:00",
+        "timestamp": "2026-04-12T23:52:37+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sj6xc6/exported_industrial_equipment_and_heavy_machinery/",
+        "link": "https://old.reddit.com/r/logistics/comments/1sjuo2e/is_load_checking_for_fuel_tankers_usually_manual/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
       },
       {
-        "title": "Feeling Stuck in Data Center Procurement Need advice",
-        "summary": "Feeling Stuck in Data Center Procurement —Need advice Mechanical Engineer with over 2 years of experience in data center construction procurement in the Middle East, along with an",
+        "title": "Best way to ship item from Canada to Germany? Newbie question",
+        "summary": "I've got two big and heavy loudspeakers that I'd like to ship from Toronto, Canada, to Germany.",
         "source": "Reddit",
-        "timestamp": "2026-04-12T10:52:01+00:00",
+        "timestamp": "2026-04-13T02:18:55+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sjbbvd/feeling_stuck_in_data_center_procurement_need/",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1sjxver/best_way_to_ship_item_from_canada_to_germany/",
         "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-14",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment; Crane Worldwide Logistics expands into Spain through acquisition; MSC launches Phoenix service",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-13",
         "write_now": "Maybe",
@@ -235,33 +259,25 @@
         "worth_attention_today": "5",
         "headline": "Mexico freight disruption lingers as truckers strike fractures; Trump budget boosts military shipbuilding by 242% to $65.8 billion; TD Cowen 1Q26 Rail Preview, Quarterly Rail Survey",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-07",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Truckload carrier earnings: Will Q1 mark the end of struggles?; Montreal port chief exits after just two years on the job; UPS to cap driver buyouts at 7,500 after Teamster pushback",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 66,
-      "high_trust": 7,
-      "trade_press": 8,
-      "community": 51
+      "total_items": 107,
+      "high_trust": 19,
+      "trade_press": 34,
+      "community": 54
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-13.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-13.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-13.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-14.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-14.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-14.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-13",
-    "run_started_at": "2026-04-13T07:32:13+09:00",
+    "report_date": "2026-04-14",
+    "run_started_at": "2026-04-14T07:53:51+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -356,14 +372,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260413T073213+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-13.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260414T075351+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-14.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-13",
+    "week_end_date": "2026-04-14",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -411,7 +427,7 @@
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-13",
+        "week_end_date": "2026-04-14",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
         "active_thesis_count": "1"
