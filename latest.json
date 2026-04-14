@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-14T01:50:10+00:00",
-  "requested_date": "2026-04-14",
+  "built_at": "2026-04-14T22:33:55+00:00",
+  "requested_date": "2026-04-15",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": true,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-14",
+    "requested_date": "2026-04-15",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
+      "Lead daily item: California regulators have started a regulatory push on diesel TRU emissions.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
     ],
@@ -26,18 +26,18 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-14",
+        "report_label": "2026-04-15",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
+        "supporting_note": "Lead item: California regulators have started a regulatory push on diesel TRU emissions",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-14",
+        "report_label": "2026-04-15",
         "freshness": "current",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "summary": "Closest current peer watch item: Shippeo Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -62,75 +62,75 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-14",
-    "last_updated": "2026-04-14 07:53",
+    "report_date": "2026-04-15",
+    "last_updated": "2026-04-15 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
+    "status_note": "Market watch is led by California regulators have started a regulatory push on diesel TRU emissions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Mexico FDI ranking jumps in 2026 as nearshoring boosts investment.",
+      "Lead market story: California regulators have started a regulatory push on diesel TRU emissions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-14",
+      "report_date": "2026-04-15",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment; Crane Worldwide Logistics expands into Spain through acquisition; MSC launches Phoenix service",
+      "headline": "California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
+    "headline": "California regulators have started a regulatory push on diesel TRU emissions",
     "key_news_radar": [
       {
-        "title": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment",
-        "summary": "Mexico climbed from 25th to 19th place in Kearney’s 2026 Foreign Direct Investment (FDI) Confidence Index, marking one of the largest gains globally alongside Singapore, as investo",
+        "title": "California regulators have started a regulatory push on diesel TRU emissions",
+        "summary": "A crackdown on diesel-powered transport refrigerated units (TRUs) in California has apparently begun without a formal announcement, as this small part of mostly sidelined Californi",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-13T17:41:43+00:00",
+        "timestamp": "2026-04-14T12:56:35+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/mexico-fdi-ranking-jumps-in-2026-as-nearshoring-boosts-investment",
+        "link": "https://www.freightwaves.com/news/california-regulators-have-started-a-regulatory-push-on-diesel-tru-emissions",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "MSC launches Phoenix service",
-        "summary": "Mediterranean Shipping Company has launched its long-delayed Phoenix service, establishing a new connection between key ports in the Mediterranean and the Far East.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-13T16:16:53+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/msc-launches-phoenix-service/",
+        "title": "U.S.-Mexico trade hits $73B in February as border capacity tightens",
+        "summary": "Mexico remained the United States’ largest trading partner in February, totaling $73.2 billion in two-way commerce, highlighting the durability of cross-border supply chains despit",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-14T15:52:20+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/u-s-mexico-trade-hits-73b-in-february-as-border-capacity-tightens",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Container Payment Portal (CPP) Update",
-        "summary": "Dear Customer, We’re pleased to share that Hapag-Lloyd’s Container Payment Portal (CPP), powered by PayCargo and Gnosis Freight, has already successfully launched at the following",
+        "title": "Australia, New Zealand: Introduction of Emergency Fuel Surcharges (Inland Trucking, Waterway, Combined Rail)",
+        "summary": "At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient.",
         "source": "Hapag-Lloyd",
-        "timestamp": "2026-04-13T14:00:00+00:00",
+        "timestamp": "2026-04-14T06:45:00+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/01/container-payment-portal--cpp--update-7.feed.rss.xml",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/04/australia--new-zealand--introduction-of-emergency-fuel-surcharge.feed.rss.xml",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "TD Cowen NEARS Conference Takeaways",
+        "summary": "At the April Northeast Association of Rail Shippers (NEARS) Conference, Union Pacific reiterated long-term short line partnerships and interchange choice, likely a key STB focus.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-14T15:22:21+00:00",
+        "confidence": "high",
+        "link": "https://www.railwayage.com/freight/class-i/td-cowen-nears-conference-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=td-cowen-nears-conference-takeaways",
         "label": "Watch",
         "question_signal": ""
       },
       {
-        "title": "MSC restructures Albatros service",
-        "summary": "Mediterranean Shipping Company has revised its Albatros service, removing its round-the-world configuration following recent network adjustments, according to DynaLiners.",
+        "title": "Readers Speak: Uncertainty clouds return to Strait of Hormuz",
+        "summary": "Uncertainty shapes industry sentiment Recent vessel transits through the Strait of Hormuz have raised questions about whether container carriers are beginning to return.",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-13T20:18:57+00:00",
+        "timestamp": "2026-04-14T07:26:23+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/msc-restructures-albatros-service/",
-        "label": "Watch",
-        "question_signal": ""
-      },
-      {
-        "title": "Crane Worldwide Logistics expands into Spain through acquisition",
-        "summary": "Crane Worldwide Logistics has expanded its operational footprint in Europe with the acquisition of Blue Cargo, a small freight forwarder in Spain, the Houston-based company announc",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-13T15:39:12+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/crane-worldwide-logistics-expands-into-spain-through-acquisition",
+        "link": "https://container-news.com/readers-speak-uncertainty-clouds-return-to-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": ""
       }
@@ -138,15 +138,15 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -155,15 +155,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press, community coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Service / network changes` remains active across high-trust, trade-press coverage. Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -173,37 +173,45 @@
     ],
     "community_questions": [
       {
-        "title": "what features would your megayacht have ?",
-        "summary": "so you wake up tomorrow and your a billionaire...",
+        "title": "Catch up on what happened this week in Logistics: April 7-13",
+        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
         "source": "Reddit",
-        "timestamp": "2026-04-12T22:00:22+00:00",
+        "timestamp": "2026-04-14T16:04:59+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1sjs0o4/what_features_would_your_megayacht_have/",
+        "link": "https://old.reddit.com/r/logistics/comments/1sld1b9/catch_up_on_what_happened_this_week_in_logistics/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Is load checking for fuel tankers usually manual?",
-        "summary": "Hello everyone :) Not sure how many tanker drivers are here (and I guess US vs EU might be different), but I wanted to ask something out of curiosity I’m in EU (Greece) and my wife",
+        "title": "Looking for a cheap DDP freight forwarder for Brazil.",
+        "summary": "Hello, My name is Karina, I am based in Brazil and currently operating with a growing client base focused on imports from China.",
         "source": "Reddit",
-        "timestamp": "2026-04-12T23:52:37+00:00",
+        "timestamp": "2026-04-13T22:08:07+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sjuo2e/is_load_checking_for_fuel_tankers_usually_manual/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1skpqhq/looking_for_a_cheap_ddp_freight_forwarder_for/",
         "label": "",
-        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Best way to ship item from Canada to Germany? Newbie question",
-        "summary": "I've got two big and heavy loudspeakers that I'd like to ship from Toronto, Canada, to Germany.",
+        "title": "How long before contingency surcharge and other surcharges are removed?",
+        "summary": "from your experience, how long does it take for the surcharges to go significantly down after the situation settles down and shipping routes in Hormuz are cleared?",
         "source": "Reddit",
-        "timestamp": "2026-04-13T02:18:55+00:00",
+        "timestamp": "2026-04-14T13:51:39+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1sjxver/best_way_to_ship_item_from_canada_to_germany/",
+        "link": "https://old.reddit.com/r/shipping/comments/1sl9c17/how_long_before_contingency_surcharge_and_other/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-15",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-14",
         "write_now": "Maybe",
@@ -251,46 +259,37 @@
         "worth_attention_today": "5",
         "headline": "Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting; Adapting, Evolving to Serve a Changing Market; Trump announces two-week ceasefire with Iran tied to Hormuz reopening",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-08",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Mexico freight disruption lingers as truckers strike fractures; Trump budget boosts military shipbuilding by 242% to $65.8 billion; TD Cowen 1Q26 Rail Preview, Quarterly Rail Survey",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 107,
-      "high_trust": 19,
-      "trade_press": 34,
-      "community": 54
+      "total_items": 174,
+      "high_trust": 42,
+      "trade_press": 43,
+      "community": 89
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-14.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-14.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-14.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-15.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-15.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-15.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-14",
-    "run_started_at": "2026-04-14T07:53:51+09:00",
+    "report_date": "2026-04-15",
+    "run_started_at": "2026-04-15T07:32:46+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging"
+      "Closest current peer watch item: Shippeo Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "targets_fetched": 24,
     "target_count": 24,
     "important_count": 0,
-    "watch_count": 0,
+    "watch_count": 1,
     "company_summaries": [
       {
         "company": "Project44",
@@ -302,7 +301,7 @@
       },
       {
         "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and AI and automation."
       },
       {
         "company": "Transporeon",
@@ -320,11 +319,11 @@
     "peer_themes": [
       {
         "theme": "AI",
-        "count": "3"
+        "count": "4"
       },
       {
         "theme": "automation",
-        "count": "3"
+        "count": "4"
       },
       {
         "theme": "data quality / connectivity",
@@ -336,8 +335,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Shippeo",
+        "importance": "watch",
+        "summary": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars",
+        "evidence": [
+          "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+          "Looking ahead, Mars plans to leverage this visibility to tackle Scope 3 transport emissions, using Shippeo’s data to calculate carbon footprints with greater fuel accuracy. Having established a strong foundation, Mars and Shippeo are working closely to evolve their visibility cap"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-04-15",
+        "company": "Shippeo",
+        "importance": "watch",
+        "signal_type": "press announcement",
+        "summary": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars"
+      },
       {
         "detected_date": "2026-04-09",
         "company": "Project44",
@@ -372,14 +393,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260414T075351+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-14.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260415T073246+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-15.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-14",
+    "week_end_date": "2026-04-15",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -391,11 +412,13 @@
     ],
     "executive_takeaways": [
       "Project44 is signaling AI positioning around procurement and tendering.",
-      "Project44 is reinforcing a quality connectivity language suggests motif through AI positioning."
+      "Project44 is reinforcing a optimization procurement execution and motif through AI positioning.",
+      "Shippeo is signaling AI positioning around in transit visibility."
     ],
     "strategic_movements": [
       "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work."
+      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
+      "Shippeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
@@ -422,12 +445,26 @@
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://www.project44.com/"
+      },
+      {
+        "entity_name": "Shippeo",
+        "source_title": "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026\" -> suggests...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-14",
+        "week_end_date": "2026-04-15",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
         "active_thesis_count": "1"
@@ -472,14 +509,14 @@
     ]
   },
   "editorial_brief": {
-    "date": "2026-04-14",
-    "push_brief": "**Editorial Brief — Mon Apr 14**\n\n**-> Insert: Updated carrier surcharge roundup.**\nMSC extended EFS through Apr 30 (signal from yesterday, trade-press confirmed). Your Apr 7 surcharge update scored 69.74 perf with 41 clicks and 1 commercial — second-best performing post this month. The original EFS roundup format scored 76.79 with 7,900 views. No surcharge roundup is in the scheduled queue. This is the single highest-ROI publish this cycle.\n*Suggested slot: Wednesday Apr 16, 7:00 AM (replace the India Cabotage post).*\n\n**-> Rearrange: Drop today's dual Hormuz publish to one.**\nTwo Hormuz posts are scheduled today (7:00 AM + 3:00 PM) — both on the same topic cluster, same day, violating the 3-day stacking rule and the 1/day cadence target. Hormuz has 14 mapped posts with historical perf of 39.23 — below the surcharge roundup (76.79) and below even the Singapore bunker post (69.16). Keep \"Hormuz After the Ceasefire\" (more specific, carrier-by-carrier angle). Move \"3.3 Containers In\" to next week or cut it.\n\n**-> Accelerate: MSC carrier tracking guide.**\nThe carrier guide series is 12+ days overdue against its 10-14 day cadence target. MSC has a live news hook (EFS extension). No carrier guide is anywhere in the 42-post scheduled queue. If the MSC guide draft exists, slot it for Friday Apr 18. If not, prioritize drafting it this week.\n\n**-> Hold: Inland/intermodal spillover as standalone post.**\nThe pipeline ranks this #1 today (65.74, 5 signals), but source mix is only high-trust + trade-press with no community corroboration. Historical perf for inland topics is 41.33 — moderate. The better use of these signals is as supporting context inside the surcharge roundup or the MSC guide. Wait for stronger evidence before a standalone publish.\n\n**-> Flag: May schedule has 7 company strategy posts in 18 days.**\nNike (May 2), Zara (May 9), IKEA (May 12), Toyota (May 15), Apple (May 16), LEGO (May 17), Amazon (May 20). Registry says max 1/week in low-traffic slots. Apple-LEGO-Amazon on consecutive days May 16-17-20 is a problem. Spread these out and backfill primary slots with Tier 1 carrier/tracking content.\n\n**Content mix check:** Last 14 days: ~10 reactive, 1 PCI, 1 evergreen, 2 compliance, 2 other. Reactive share is ~63%, target is 10-15%. The surcharge roundup (data-driven) and MSC guide (evergreen) this week would improve the ratio toward 50:25:25.\n\n**Cadence note:** Last 7 days averaged 1.1 posts/day — on target. But the schedule has 2/day for 8 of the next 14 days. Reduce to 1/day to hold the cadence.\n\n**Subscriber watch:** -300 over 90 days (-100/month). Declining. The 1/day cadence reduction and Tier 1 content shift are the intervention — maintain both.\n",
-    "planning_brief": "# Weekly Editorial Plan — Apr 14-20, 2026\n\n## Current Schedule (from WordPress)\n\n| Day | Scheduled Post | Slot | Recommendation |\n|-----|---------------|------|----------------|\n| Mon Apr 14 | Hormuz After the Ceasefire: Carrier-by-Carrier Status and the Three Barriers That Haven't Moved | 7:00 AM | Keep |\n| Mon Apr 14 | 3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop | 3:00 PM | **Move to next week or cut.** 2nd Hormuz post same day violates stacking + cadence rules. |\n| Tue Apr 15 | The FMC Can Now Treat High Freight Rates as Evidence of Bad Faith. What the Refusal-to-Deal Ruling Means for Shippers. | 7:00 AM | Keep (Tier 2 regulation, timely) |\n| Tue Apr 15 | API vs Manual: How Automation Reduces ETA Discrepancies | 3:00 PM | **Move to next week.** Violates 1/day cadence. Tier 1 content but no urgency — holds well. |\n| Wed Apr 16 | India Cabotage Rollback Delayed, Salalah Disrupted, Karachi Rising | 7:00 AM | **Replace with surcharge roundup.** India cabotage is Tier 3 reactive with no strong hook. Surcharge roundup is Tier 1 with live MSC EFS hook. |\n| Thu Apr 17 | — | — | empty |\n| Thu Apr 17 | Why Logistics Teams Decide to Switch Visibility Platforms | 3:00 PM | **Move to morning slot.** This is Tier 2 buyer/decision content — deserves a primary slot per registry. |\n| Fri Apr 18 | — | — | empty |\n| Sat Apr 19 | — | — | empty |\n| Sun Apr 20 | IMO Net-Zero Framework: When Carbon Becomes a Scheduling Constraint | 7:00 AM | Keep (weekend evergreen) |\n| Sun Apr 20 | HS Codes, Cargo Descriptions, and Manifest Data | 3:00 PM | **Move to Mon Apr 21.** Violates 1/day cadence on a weekend. |\n\n## Recommended Revised Schedule\n\n| Day | Post | Type | Why |\n|-----|------|------|-----|\n| Mon Apr 14 AM | Hormuz After the Ceasefire: Carrier-by-Carrier Status... | Reactive (Tier 3) | Already scheduled, specific angle, keep as-is. Drop the 3 PM Hormuz post. |\n| Tue Apr 15 AM | FMC Refusal-to-Deal Ruling | Regulation (Tier 2) | Timely regulatory hook. Drop the 3 PM API vs Manual post to next week. |\n| **Wed Apr 16 AM** | **Carrier Surcharge Roundup: April 2026 Update** | **Data/Tier 1** | MSC EFS extension is today's hook. Format scored 76.79 perf. Replaces India cabotage. |\n| Thu Apr 17 AM | Why Logistics Teams Decide to Switch Visibility Platforms | Buyer guide (Tier 2) | Moved from 3 PM to morning primary slot. Decision-maker content. |\n| **Fri Apr 18 AM** | **MSC Container Tracking Guide** | **Evergreen/Tier 1** | Carrier guide series is 12+ days overdue. MSC EFS extension gives a timely intro hook. |\n| Sat Apr 19 | — | Buffer | Keep empty for breaking news. |\n| Sun Apr 20 AM | IMO Net-Zero Framework | Regulation (Tier 2) | Weekend slot, evergreen angle. |\n\n## Topic-by-Topic Verdicts\n\n### 1. Carrier surcharge roundup — WRITE (Gold slot)\n- **Evidence:** MSC EFS extension signal (trade-press, Apr 13). Format history: 76.79 perf, 7,900 views. April update already at 69.74 perf, 41 clicks, 1 commercial.\n- **Angle:** Don't just list surcharges. Lead with \"what changed since the April 7 update\" and end with \"what to expect through May.\" Include MSC EFS extension through Apr 30, and check status of ONE, Maersk, CMA CGM, Hapag-Lloyd.\n- **Timing:** This week. The MSC EFS extension is the hook. Delaying loses the news peg.\n- **Format:** Data table + carrier-by-carrier status. Proven format.\n\n### 2. MSC carrier tracking guide — WRITE (Silver slot)\n- **Evidence:** Carrier guide series cadence is overdue (12+ days). MSC has a live news hook. Registry marks this as high priority with 4 corrections to apply.\n- **Angle:** Standard carrier guide format. Use the EFS extension as the opening context hook.\n- **Timing:** Friday, so readers searching MSC news this week find the guide too.\n\n### 3. Inland / intermodal spillover — HOLD\n- **Evidence:** Pipeline rank #1 (65.74), 5 signals, high-trust + trade-press only. Historical perf 41.33.\n- **Condition to reconsider:** If a community or high-trust source publishes a specific inland cost impact figure or a concrete routing change tied to nearshoring. The Mexico FDI signal is interesting but too macro for a standalone operator brief.\n- **Absorb signals into:** The surcharge roundup can reference inland cost pass-through as a secondary angle.\n\n### 4. Hormuz / Middle East disruption — HOLD (beyond today's scheduled post)\n- **Evidence:** 14 signals today but heavy community-led (0 high-trust, 4 trade-press, 5 community per 7-day report). 14 mapped posts, historical perf 39.23. Already have the ceasefire post publishing today.\n- **Condition to reconsider:** If a high-trust source (Lloyd's List, container-news editorial, Alphaliner) publishes verified commercial terms of the ceasefire or confirmed routing changes.\n\n### 5. Service / network changes — HOLD (monitor)\n- **Evidence:** Score 65.09, only 2 signals. No mapped post history — whitespace opportunity. MSC Phoenix service launch is specific.\n- **Condition to reconsider:** If more service changes cluster this week (2+ additional signals). Could fold the MSC Phoenix service into the MSC carrier guide as a freshness hook.\n\n### 6. Fuel / energy pressure — SKIP as standalone\n- **Evidence:** 8 signals, score 60.76, historical perf 37.23. ExxonMobil Nigeria deepwater signal is interesting but too upstream for the operator audience.\n- **Absorb into:** The surcharge roundup covers the cost-impact angle directly. The fuel signals are better used as supporting context there.\n\n### 7. Port / capacity moves — SKIP as standalone\n- **Evidence:** 6 signals, score 62.97, historical perf 29.28. Topic may be saturated (recent post flagged).\n- **Absorb into:** Supporting context for the surcharge roundup.\n\n## News-Timing Analysis\n\nThe dominant signal cluster this week is **fuel/surcharges + Hormuz** — it has appeared in the top-3 signals for 7 consecutive days per the rolling report. But the specific sub-angle has been migrating:\n\n- **Apr 7-10:** Hormuz ceasefire, bunker fuel pressure, diesel spike\n- **Apr 11-13:** Fuel surcharge extensions (MSC EFS), tariff + fuel compounding\n- **Apr 14:** Nearshoring/FDI (Mexico), MSC service launch, continuing EFS extension\n\nThe signal is moving from \"geopolitical event\" toward \"cost impact on operations.\" The surcharge roundup answers the cost question directly — it's the right format for where the audience's attention is now.\n\n**Fading:** Inland/intermodal spillover signal count dropped from 7 appearances in 7 days to only 5 signals today with no community corroboration.\n\n**Emerging:** Service/network changes (MSC Phoenix service) is a whitespace opportunity but only 2 signals — not enough for a standalone yet.\n\n## Content Mix Assessment\n\n| Type | Target | Last 14 days | This week (recommended) |\n|------|--------|-------------|------------------------|\n| Carrier/tracking operational | 30-40% | ~6% (1/16) | 40% (2/5: surcharge roundup + MSC guide) |\n| Evergreen guides & reference | 20-25% | ~6% (1/16) | 20% (1/5: MSC guide) |\n| Decision frameworks / buyer | 10-15% | 0% | 20% (1/5: visibility platforms) |\n| Regulation/compliance | 10-15% | ~13% (2/16) | 20% (1/5: FMC ruling) |\n| Reactive news/market | 10-15% | ~63% (10/16) | 20% (1/5: Hormuz ceasefire) |\n\nThe recommended schedule dramatically improves the mix. Reactive drops from 63% to 20%. Tier 1 content goes from 6% to 40%.\n\n## Series Pipeline Status\n\n- **Carrier guide series:** 12+ days since last publish. MSC guide is next priority with live news hook. **Overdue.**\n- **Glossary:** Batch 1 (25 terms) — session prompt complete, production TBD. No glossary publish since Mar 30 (Milestones Dictionary).\n- **PCI report:** Last publish Apr 9. Biweekly cycle — next report expected around Apr 23.\n",
-    "content_pack": "# Gold Slot Content Pack — Apr 14, 2026\n\n## Topic: Carrier Surcharge Roundup — April 2026 Update\n\n### Title Options\n\n1. **April 2026 Emergency Fuel Surcharge Update: MSC Extends, Others Hold — What Shippers Should Expect Through May**\n   *Best fit for evidence strength. Data-led, specific carriers named, forward-looking.*\n\n2. **Carrier Fuel Surcharges After the MSC Extension: Current Status Across the Top 5 and What Changed Since March**\n   *Comparison angle. Good for readers checking multiple carriers.*\n\n3. **MSC Extended EFS Through April 30. Here Is Where Every Major Carrier Stands on Fuel Surcharges Right Now.**\n   *News-hook-led. Works if publishing within 48 hours of the MSC announcement.*\n\n4. **The April Surcharge Landscape: Which Carriers Extended, Which Paused, and What the Pattern Tells You About May**\n   *Pattern-analysis angle. Good if the data supports a clear trend narrative.*\n\n### Angle & Reader Promise\n\n**Question this post answers:** Which carriers currently have active emergency fuel surcharges, what changed since the March roundup, and what should shippers expect through May?\n\n**Reader promise:** After reading, a freight forwarder or import ops manager will know:\n- Which specific carriers (MSC, ONE, Maersk, CMA CGM, Hapag-Lloyd) have active EFS and at what rates\n- What changed since the March 2026 roundup (which surcharges were extended, introduced, or dropped)\n- Whether the surcharge trend is escalating, stable, or de-escalating\n- What this means for their procurement planning through May\n\nThis is NOT market commentary. It's an operational reference: \"look up the number, plan accordingly.\"\n\n### Timing Case\n\nPublish **Wednesday Apr 16** — 3 days after the MSC EFS extension announcement (Apr 13, container-news, trade-press). The signal is fresh but not breaking news, giving time to verify status across all 5 carriers.\n\n**Why not wait:** The April 7 surcharge post is already 9 days old. The MSC extension changes the landscape. Delaying to next week loses the news peg and lets the April 7 post age past usefulness.\n\n**Why not today:** Need to verify current surcharge status for ONE, Maersk, CMA CGM, and Hapag-Lloyd. The March roundup is the baseline — the update needs to show what's different.\n\n### Key Claims\n\n- **MSC extended EFS through April 30, 2026** — Source: \"MSC extends emergency fuel surcharge amid global fuel market disruption\" (container-news, trade-press, Apr 12). High confidence.\n- **The fuel market disruption is linked to Hormuz-adjacent energy flow disruptions** — Source: multiple signals across the 7-day window (fuel/energy pressure cluster, 8 signals). Moderate confidence — the causal link is stated by MSC but the underlying disruption trajectory is debated.\n- **Previous EFS roundup format is the highest-performing content type** — Source: performance analogs show 76.79 perf score, 7,900 views for the original roundup. The April 7 update scored 69.74 with 41 clicks and 1 commercial click. High confidence.\n- **Diesel prices hit $5.37, reshaping U.S. freight** — Source: \"Diesel Was Supposed to Drop in 2026\" post (Apr 10, trade-press derived). Use as supporting context for inland cost impact.\n- **Singapore bunker supply under pressure** — Source: Singapore bunker post (Apr 8). The bunker supply angle connects fuel surcharges to vessel scheduling constraints. This post scored 69.16 with 5 commercial clicks — highest commercial click rate in the dataset.\n\n**Claims needing verification before publish:**\n- Current EFS/surcharge status for ONE, Maersk, CMA CGM, Hapag-Lloyd (check carrier advisory pages directly)\n- Whether any carrier has announced surcharge changes since Apr 7\n\n### Section-Level Outline\n\n**1. What Changed Since the March Roundup**\n- MSC EFS extension through Apr 30 (the hook)\n- Brief timeline: when each carrier last announced surcharge changes\n- Supported by: MSC EFS signal, fuel/energy pressure cluster\n\n**2. Carrier-by-Carrier Surcharge Status (Data Table)**\n- Table: Carrier | Surcharge Type | Status | Effective Through | Rate/Range\n- Cover: MSC, ONE, Maersk, CMA CGM, Hapag-Lloyd\n- This is the core reference value — the reason readers bookmark this format\n- Supported by: requires direct carrier advisory verification (Phase 2 web research)\n\n**3. Why Surcharges Are Staying Elevated**\n- Hormuz disruption → bunker supply pressure → carrier cost recovery\n- Singapore bunker signal as supporting evidence\n- Diesel $5.37 as inland dimension\n- Supported by: Hormuz signals (14 today), fuel/energy signals (8 today), Singapore bunker post\n\n**4. What This Means for May Planning**\n- Are surcharges likely to extend, increase, or wind down?\n- What procurement teams should factor into Q2 forecasts\n- The trajectory matters more than the snapshot — frame it forward\n- Supported by: signal trajectory analysis (fuel cluster has been in top-3 for 7 consecutive days)\n\n**5. What to Monitor Next**\n- Next carrier advisory dates\n- Hormuz ceasefire terms (if they firm up, bunker pressure may ease)\n- Produce season impact on inland fuel demand\n- Supported by: Hormuz signals, produce season signal\n\n### Anti-Patterns\n\n- **This is NOT another \"Fuel Pressure Is Back\" post** (published recently, scored 27.15 — well below average). The roundup format outperforms the editorial/opinion format on this topic by 2.8x.\n- **This is NOT another Hormuz geopolitical piece.** The surcharge roundup mentions Hormuz as context for why surcharges exist, not as the story itself.\n- **This is NOT a repeat of the April 7 update.** The hook is MSC's extension announcement. The new data point justifies the update. Lead with what changed, not with background.\n- Differentiate from: \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 38.66 perf) — that post was editorial/analysis. This is a data reference.\n\n### Internal Link Targets\n\n- **Emergency Fuel Surcharges in April 2026: What Changed Since March** (Apr 7) — link as \"our previous update\" for continuity\n- **ONE, Maersk, CMA CGM, Hapag-Lloyd, and MSC Emergency Fuel Surcharge Updates** (Mar 12) — link as \"the original March roundup\"\n- **Singapore Bunker Fuel Supply Is Under Pressure** (Apr 8) — link from the bunker context section\n- **MSC Container Tracking Guide** (if published by Friday) — cross-link from the MSC section\n\n### CTA Placement Guidance\n\nThe natural CTA bridge is between sections 4 and 5: after explaining what this means for May planning, offer the operational tool that helps manage the cost impact.\n\n**CTA direction:** \"If you're tracking containers across carriers with different surcharge regimes, Tradlinx consolidates carrier data so your team can see cost impact at the shipment level.\"\n\nPlace as a boxed callout between \"What This Means for May Planning\" and \"What to Monitor Next\" — the reader is in planning mode at that point and the tool offer fits naturally.\n\n### Competitor Gap\n\nPer competitor monitor (Apr 14):\n- **Project44:** Pushing AI and procurement positioning. No visible surcharge-specific content.\n- **FourKites:** Focused on execution workflow and analytics. No fuel/surcharge coverage detected.\n- **Shippeo, Transporeon, Wakeo, GoComet:** No surcharge or carrier cost content detected.\n\nThis is a genuine whitespace: none of the 6 tracked competitors are publishing carrier-specific surcharge data. This content type is defensible because it requires carrier-by-carrier operational knowledge that platform competitors don't produce.\n",
+    "date": "2026-04-15",
+    "push_brief": null,
+    "planning_brief": null,
+    "content_pack": null,
     "source_artifacts": [
-      "editorial_intelligence/output/push-briefs/push-brief-2026-04-14.md",
-      "editorial_intelligence/output/planning-briefs/planning-brief-2026-04-14.md",
-      "editorial_intelligence/output/gold-context/content-pack-2026-04-14.md"
+      "",
+      "",
+      ""
     ]
   }
 }
