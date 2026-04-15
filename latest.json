@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-14T22:33:55+00:00",
-  "requested_date": "2026-04-15",
+  "built_at": "2026-04-15T22:53:06+00:00",
+  "requested_date": "2026-04-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": true,
@@ -15,29 +15,29 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-15",
+    "requested_date": "2026-04-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: California regulators have started a regulatory push on diesel TRU emissions.",
+      "Lead daily item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: Project44 is signaling AI positioning around procurement and tendering."
+      "Current weekly strategy read: Shippeo is signaling AI positioning around in transit visibility."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-15",
+        "report_label": "2026-04-16",
         "freshness": "current",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: California regulators have started a regulatory push on diesel TRU emissions",
+        "supporting_note": "Lead item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-15",
+        "report_label": "2026-04-16",
         "freshness": "current",
-        "summary": "Closest current peer watch item: Shippeo Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
         "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
         "href": "competitor-watch.html"
       },
@@ -46,7 +46,7 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
-        "summary": "Project44 is signaling AI positioning around procurement and tendering.",
+        "summary": "Shippeo is signaling AI positioning around in transit visibility.",
         "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
         "href": "strategy-brief.html"
       }
@@ -62,84 +62,80 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-15",
-    "last_updated": "2026-04-15 07:32",
+    "report_date": "2026-04-16",
+    "last_updated": "2026-04-16 07:52",
     "freshness": "current",
-    "status_note": "Market watch is led by California regulators have started a regulatory push on diesel TRU emissions.",
+    "status_note": "Market watch is led by Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: California regulators have started a regulatory push on diesel TRU emissions.",
+      "Lead market story: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
-      "report_date": "2026-04-15",
+      "report_date": "2026-04-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway",
+      "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "California regulators have started a regulatory push on diesel TRU emissions",
+    "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
     "key_news_radar": [
       {
-        "title": "California regulators have started a regulatory push on diesel TRU emissions",
-        "summary": "A crackdown on diesel-powered transport refrigerated units (TRUs) in California has apparently begun without a formal announcement, as this small part of mostly sidelined Californi",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-14T12:56:35+00:00",
+        "title": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
+        "summary": "Ceasefire talks that potentially could have yielded at least a partial reopening of the Strait of Hormuz quickly collapsed late last week and moved in the opposite direction, with",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T04:44:28+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/california-regulators-have-started-a-regulatory-push-on-diesel-tru-emissions",
+        "link": "https://container-news.com/freightos-weekly-update-transatlantic-ocean-rates-spike-as-surcharges-take-effect/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "U.S.-Mexico trade hits $73B in February as border capacity tightens",
-        "summary": "Mexico remained the United States’ largest trading partner in February, totaling $73.2 billion in two-way commerce, highlighting the durability of cross-border supply chains despit",
+        "title": "TFI subsidiary TA Dedicated acquires Triangle Warehouse",
+        "summary": "TA Dedicated announced that it has acquired fellow Minneapolis-based company Triangle Warehouse.",
         "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-14T15:52:20+00:00",
+        "timestamp": "2026-04-15T17:39:33+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/u-s-mexico-trade-hits-73b-in-february-as-border-capacity-tightens",
+        "link": "https://www.freightwaves.com/news/tfi-subsidiary-ta-dedicated-acquires-triangle-warehouse",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Australia, New Zealand: Introduction of Emergency Fuel Surcharges (Inland Trucking, Waterway, Combined Rail)",
-        "summary": "At Hapag-Lloyd, we continuously strive to keep your inland logistics reliable, transparent, and efficient.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-04-14T06:45:00+00:00",
-        "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/04/australia--new-zealand--introduction-of-emergency-fuel-surcharge.feed.rss.xml",
+        "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
+        "summary": "Trucking rate indexes surged in the first quarter, propelled by a spike in diesel fuel prices amid dwindling truckload capacity.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-14T22:46:16+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "TD Cowen NEARS Conference Takeaways",
-        "summary": "At the April Northeast Association of Rail Shippers (NEARS) Conference, Union Pacific reiterated long-term short line partnerships and interchange choice, likely a key STB focus.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-14T15:22:21+00:00",
-        "confidence": "high",
-        "link": "https://www.railwayage.com/freight/class-i/td-cowen-nears-conference-takeaways/?utm_source=rss&utm_medium=rss&utm_campaign=td-cowen-nears-conference-takeaways",
-        "label": "Watch",
+        "title": "STB Eyes Changes to Ex Parte Regs",
+        "summary": "The Surface Transportation Board (STB) is considering changes to its ex parte regulations that would “improve stakeholder engagement, facilitate well-informed decision-making, and",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T16:27:27+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/regulatory/stb-eyes-changes-to-ex-parte-regs/?utm_source=rss&utm_medium=rss&utm_campaign=stb-eyes-changes-to-ex-parte-regs",
+        "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Readers Speak: Uncertainty clouds return to Strait of Hormuz",
-        "summary": "Uncertainty shapes industry sentiment Recent vessel transits through the Strait of Hormuz have raised questions about whether container carriers are beginning to return.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-14T07:26:23+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/readers-speak-uncertainty-clouds-return-to-strait-of-hormuz/",
+        "title": "In-House Fleet vs. Outsourced Medical Courier: The Economics Labs Keep Getting Wrong",
+        "summary": "Most laboratories that run their own courier fleet believe it is cheaper than outsourcing.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T07:46:47+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/in-house-fleet-vs-outsourced-medical-courier-the-economics-labs-keep-getting-wrong/",
         "label": "Operational",
         "question_signal": ""
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -150,20 +146,28 @@
       },
       {
         "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -173,37 +177,45 @@
     ],
     "community_questions": [
       {
-        "title": "Catch up on what happened this week in Logistics: April 7-13",
-        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
+        "title": "What to look for in a Customs Broker",
+        "summary": "We've grown to the point where I think we need our own customs broker.",
         "source": "Reddit",
-        "timestamp": "2026-04-14T16:04:59+00:00",
+        "timestamp": "2026-04-15T14:36:38+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1sld1b9/catch_up_on_what_happened_this_week_in_logistics/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm7wwn/what_to_look_for_in_a_customs_broker/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Looking for a cheap DDP freight forwarder for Brazil.",
-        "summary": "Hello, My name is Karina, I am based in Brazil and currently operating with a growing client base focused on imports from China.",
+        "title": "Air freight rates from India to USA up 60% and to Europe up 80% what exporters need to know right now",
+        "summary": "Air freight rates out of India have surged significantly in recent weeks driven by the Middle East conflict and rising jet fuel costs.",
         "source": "Reddit",
-        "timestamp": "2026-04-13T22:08:07+00:00",
+        "timestamp": "2026-04-15T06:09:41+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1skpqhq/looking_for_a_cheap_ddp_freight_forwarder_for/",
-        "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
-      },
-      {
-        "title": "How long before contingency surcharge and other surcharges are removed?",
-        "summary": "from your experience, how long does it take for the surcharges to go significantly down after the situation settles down and shipping routes in Hormuz are cleared?",
-        "source": "Reddit",
-        "timestamp": "2026-04-14T13:51:39+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sl9c17/how_long_before_contingency_surcharge_and_other/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1slxo8w/air_freight_rates_from_india_to_usa_up_60_and_to/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+      },
+      {
+        "title": "Anyone know what is going on with CBSA?",
+        "summary": "For the last week or so, Canada Customs seems to be experiencing delays for a good part of the day, preventing notification of status of submissions.",
+        "source": "Reddit",
+        "timestamp": "2026-04-15T15:46:25+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm9vlq/anyone_know_what_is_going_on_with_cbsa/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-15",
         "write_now": "Maybe",
@@ -251,45 +263,38 @@
         "worth_attention_today": "5",
         "headline": "Project44 unveils fleet of AI agents at customer event Decision44; Bunker market reverses as ceasefire triggers price correction; FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Tariffs and Geopolitics Are Driving Supply Chain Shifts, but Not All CEOs Are Acting; Adapting, Evolving to Serve a Changing Market; Trump announces two-week ceasefire with Iran tied to Hormuz reopening",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 174,
-      "high_trust": 42,
-      "trade_press": 43,
-      "community": 89
+      "total_items": 143,
+      "high_trust": 24,
+      "trade_press": 26,
+      "community": 93
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-15",
-    "run_started_at": "2026-04-15T07:32:46+09:00",
+    "report_date": "2026-04-16",
+    "run_started_at": "2026-04-16T07:52:13+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Shippeo Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026"
     ],
     "targets_fetched": 24,
     "target_count": 24,
     "important_count": 0,
-    "watch_count": 1,
+    "watch_count": 0,
     "company_summaries": [
       {
         "company": "Project44",
@@ -335,21 +340,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Shippeo",
-        "importance": "watch",
-        "summary": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
-        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars",
-        "evidence": [
-          "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
-          "Looking ahead, Mars plans to leverage this visibility to tackle Scope 3 transport emissions, using Shippeo’s data to calculate carbon footprints with greater fuel accuracy. Having established a strong foundation, Mars and Shippeo are working closely to evolve their visibility cap"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-04-15",
@@ -393,59 +384,39 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260415T073246+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260416T075213+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-16.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-15",
+    "week_end_date": "2026-04-16",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
+    "status_note": "Shippeo is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around procurement and tendering.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Shippeo is signaling AI positioning around in transit visibility.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around procurement and tendering.",
-      "Project44 is reinforcing a optimization procurement execution and motif through AI positioning.",
       "Shippeo is signaling AI positioning around in transit visibility."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
       "Shippeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 4/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 4,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
+    "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
+    "important_signal_count": 1,
+    "active_theses": [],
     "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "reduced manual work",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
-      },
       {
         "entity_name": "Shippeo",
         "source_title": "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
@@ -464,10 +435,10 @@
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-15",
-        "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
-        "signal_count": "4",
-        "active_thesis_count": "1"
+        "week_end_date": "2026-04-16",
+        "takeaway": "Shippeo is signaling AI positioning around in transit visibility.",
+        "signal_count": "1",
+        "active_thesis_count": "0"
       },
       {
         "week_label": "2026-W15",
@@ -509,7 +480,7 @@
     ]
   },
   "editorial_brief": {
-    "date": "2026-04-15",
+    "date": "2026-04-16",
     "push_brief": null,
     "planning_brief": null,
     "content_pack": null,
