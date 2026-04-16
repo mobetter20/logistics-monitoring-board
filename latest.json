@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T19:14:21+00:00",
+  "built_at": "2026-04-16T22:34:22+00:00",
   "requested_date": "2026-04-17",
   "audience": "internal_team",
   "guardrails": {
@@ -18,9 +18,9 @@
     "requested_date": "2026-04-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
+      "Lead daily item: Bunker market stabilizes as prices extend downward correction.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
@@ -40,7 +40,7 @@
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,25 +48,31 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling unknown around unknown.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
-    "shared_warnings": []
+    "shared_warnings": [
+      "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
+      "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
+      "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
+    ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-04-17",
-    "last_updated": "2026-04-17 02:06",
+    "last_updated": "2026-04-17 07:33",
     "freshness": "current",
-    "status_note": "Market watch is led by Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
+    "status_note": "Market watch is led by Bunker market stabilizes as prices extend downward correction.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
+      "Lead market story: Bunker market stabilizes as prices extend downward correction.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
@@ -76,59 +82,59 @@
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
+      "headline": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026; Expansion near a four-year high - March 2026 Logistics Managers Index; 3PL vs In-House Logistics: Which Model Works Best Today?",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
+    "headline": "Bunker market stabilizes as prices extend downward correction",
     "key_news_radar": [
       {
-        "title": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
-        "summary": "Ceasefire talks that potentially could have yielded at least a partial reopening of the Strait of Hormuz quickly collapsed late last week and moved in the opposite direction, with",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T04:44:28+00:00",
+        "title": "Bunker market stabilizes as prices extend downward correction",
+        "summary": "Since the announcement of the ceasefire in the Middle East on April 8, the global bunker market has entered a phase of temporary stabilization, accompanied by a moderate downward c",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-16T18:15:00+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/freightos-weekly-update-transatlantic-ocean-rates-spike-as-surcharges-take-effect/",
+        "link": "https://container-news.com/bunker-market-stabilizes-as-prices-extend-downward-correction/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
-        "summary": "Trucking rate indexes surged in the first quarter, propelled by a spike in diesel fuel prices amid dwindling truckload capacity.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-14T22:46:16+00:00",
+        "title": "Expansion near a four-year high - March 2026 Logistics Managers Index",
+        "summary": "While the freight market is certainly short of humming along for all, the March Logistics Managers' Index (LMI) shows some pretty clear signs of strength.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-16T15:51:19+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2",
+        "link": "https://www.inteklogistics.com/blog/expansion-at-four-year-high-march-2026-logistics-managers-index-lmi",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Rails Imperative: Building Resilience and Value",
-        "summary": "Rail’s Imperative: Building Resilience and Value Network velocity, equipment reliability, and capital efficiency now matter more than fleet size alone.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-14T17:22:53+00:00",
+        "title": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026",
+        "summary": "According to Chemical Engineering, achieving a sustainable supply chain requires combining multiple elements rather than relying on a single component.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-16T08:07:58+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/mechanical/freight-cars/rails-imperative-building-resilience-and-value/?utm_source=rss&utm_medium=rss&utm_campaign=rails-imperative-building-resilience-and-value",
+        "link": "https://www.globaltrademag.com/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "In-House Fleet vs. Outsourced Medical Courier: The Economics Labs Keep Getting Wrong",
-        "summary": "Most laboratories that run their own courier fleet believe it is cheaper than outsourcing.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T07:46:47+00:00",
+        "title": "3PL vs In-House Logistics: Which Model Works Best Today?",
+        "summary": "Quick Answer Choosing between third-party logistics and managing operations internally depends on your business size, growth stage, and operational priorities.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-16T09:09:46+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/in-house-fleet-vs-outsourced-medical-courier-the-economics-labs-keep-getting-wrong/",
+        "link": "https://container-news.com/3pl-vs-in-house-logistics-choosing-the-right-model-in-2026/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "STB Eyes Changes to Ex Parte Regs",
-        "summary": "The Surface Transportation Board (STB) is considering changes to its ex parte regulations that would “improve stakeholder engagement, facilitate well-informed decision-making, and",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T16:27:27+00:00",
+        "title": "J.B. Hunt says TL inflection structural, not temporary",
+        "summary": "Hunt says TL inflection ‘structural,’ not temporary Executives at J.B.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-16T15:49:55+00:00",
         "confidence": "medium",
-        "link": "https://www.railwayage.com/regulatory/stb-eyes-changes-to-ex-parte-regs/?utm_source=rss&utm_medium=rss&utm_campaign=stb-eyes-changes-to-ex-parte-regs",
+        "link": "https://www.freightwaves.com/news/j-b-hunt-says-tl-inflection-is-structural-not-temporary",
         "label": "Operational",
         "question_signal": ""
       }
@@ -137,10 +143,6 @@
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -161,46 +163,42 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
         "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "What to look for in a Customs Broker",
-        "summary": "We've grown to the point where I think we need our own customs broker.",
+        "title": "UK to USA - Instant tea confiscated by TSA, could I ship it instead?",
+        "summary": "My wife and I are long distance UK and USA.",
         "source": "Reddit",
-        "timestamp": "2026-04-15T14:36:38+00:00",
+        "timestamp": "2026-04-16T06:18:48+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm7wwn/what_to_look_for_in_a_customs_broker/",
+        "link": "https://old.reddit.com/r/shipping/comments/1smvbpj/uk_to_usa_instant_tea_confiscated_by_tsa_could_i/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
       },
       {
-        "title": "Air freight rates from India to USA up 60% and to Europe up 80% what exporters need to know right now",
-        "summary": "Air freight rates out of India have surged significantly in recent weeks driven by the Middle East conflict and rising jet fuel costs.",
+        "title": "Sea Freight vs Air Freight how Indian exporters should decide with rates surging in 2026",
+        "summary": "With air freight rates from India jumping 60 to 80% recently due to Middle East conflict and fuel costs, I wanted to share a simple decision framework for exporters.",
         "source": "Reddit",
-        "timestamp": "2026-04-15T06:09:41+00:00",
+        "timestamp": "2026-04-16T06:01:01+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1slxo8w/air_freight_rates_from_india_to_usa_up_60_and_to/",
+        "link": "https://old.reddit.com/r/logistics/comments/1smuzwv/sea_freight_vs_air_freight_how_indian_exporters/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       },
       {
-        "title": "How are smaller 3PL teams handling quoting workflows today?",
-        "summary": "I’ve been looking into how quoting is handled across smaller freight brokerages (especially teams without heavy TMS integrations), and I’m trying to check a few assumptions.",
+        "title": "What is Amazon pick and pack vs what a 3PL does and the questions nobody answered clearly after every thread I could find",
+        "summary": "Most posts give a five-word answer or sound like a vendor wrote them.",
         "source": "Reddit",
-        "timestamp": "2026-04-15T16:13:25+00:00",
+        "timestamp": "2026-04-16T07:03:46+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1smans8/how_are_smaller_3pl_teams_handling_quoting/",
+        "link": "https://old.reddit.com/r/logistics/comments/1smw3yo/what_is_amazon_pick_and_pack_vs_what_a_3pl_does/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
@@ -211,7 +209,7 @@
         "write_now": "Maybe",
         "highest_confidence_operational_items": "6",
         "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
+        "headline": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026; Expansion near a four-year high - March 2026 Logistics Managers Index; 3PL vs In-House Logistics: Which Model Works Best Today?",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       },
       {
@@ -264,10 +262,10 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 210,
-      "high_trust": 29,
-      "trade_press": 63,
-      "community": 118
+      "total_items": 136,
+      "high_trust": 44,
+      "trade_press": 31,
+      "community": 61
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
@@ -279,7 +277,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-04-17",
-    "run_started_at": "2026-04-17T04:13:23+09:00",
+    "run_started_at": "2026-04-17T07:33:34+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -287,15 +285,15 @@
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging"
+      "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "8 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -344,6 +342,14 @@
     "watch_items": [],
     "recent_signal_history": [
       {
+        "detected_date": "2026-04-17",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-04-09",
         "company": "Project44",
         "importance": "important",
@@ -377,7 +383,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260417T041323+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260417T073334+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-04-17.md"
     ],
     "warnings": []
@@ -386,48 +392,75 @@
     "week_label": "2026-W16",
     "week_end_date": "2026-04-17",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 17/17 watch sources this week. Reference coverage is 2/2. Watch coverage is complete, so confidence is mainly limited by the early-stage heuristic model and how much actually changed.",
-    "coverage_summary": "Observed 17/17 watch sources this week. Nothing meaningful crossed the current strategic threshold.",
-    "watch_gap_notes": [],
+    "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "watch_gap_notes": [
+      "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
+      "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
+      "Logistics Managers' Index managers index is not seeded yet, so live watch coverage is incomplete this week.",
+      "Cass freight index is not seeded yet, so live watch coverage is incomplete this week.",
+      "WTO tariff tracker is not seeded yet, so live watch coverage is incomplete this week.",
+      "USTR latest press is not seeded yet, so live watch coverage is incomplete this week.",
+      "OFAC recent actions is not seeded yet, so live watch coverage is incomplete this week.",
+      "BIS news updates is not seeded yet, so live watch coverage is incomplete this week.",
+      "CBP csms is not seeded yet, so live watch coverage is incomplete this week.",
+      "Panama Canal advisory is not seeded yet, so live watch coverage is incomplete this week.",
+      "Port of Los Angeles operations is not seeded yet, so live watch coverage is incomplete this week."
+    ],
     "coverage_background_notes": [],
-    "setup_debt_note": "",
-    "watch_source_observed": 17,
+    "setup_debt_note": "2 reference sources still need initial snapshots. Treat that as setup debt rather than a fresh strategic issue.",
+    "watch_source_observed": 6,
     "watch_source_total": 17,
-    "reference_source_observed": 2,
+    "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor). All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W16",
         "week_end_date": "2026-04-17",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "takeaway": "Project44 is signaling unknown around unknown.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
-        "observed_source_count": "17",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "observed_source_count": "6",
         "total_source_count": "17"
       },
       {
@@ -465,6 +498,20 @@
       "strategic_intelligence/output/weekly-snapshot-2026-W16.json",
       "strategic_intelligence/output/weekly-memo-2026-W16.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
+      "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
+      "World Bank world_bank_lpi: offline mode has no previous cached observation",
+      "Watch coverage gap for WTO wto_tariff_tracker: no seeded offline snapshot yet",
+      "Watch coverage gap for USTR ustr_latest_press: no seeded offline snapshot yet",
+      "Watch coverage gap for OFAC ofac_recent_actions: no seeded offline snapshot yet",
+      "Watch coverage gap for BIS bis_news_updates: no seeded offline snapshot yet",
+      "Watch coverage gap for CBP cbp_csms: no seeded offline snapshot yet",
+      "Watch coverage gap for Panama Canal panama_canal_advisory: no seeded offline snapshot yet",
+      "Watch coverage gap for Port of Los Angeles port_of_los_angeles_operations: no seeded offline snapshot yet",
+      "UNCTAD unctad_review_maritime_transport: offline mode has no previous cached observation"
+    ]
   }
 }
