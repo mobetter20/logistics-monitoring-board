@@ -1,11 +1,11 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T04:25:07+00:00",
-  "requested_date": "2026-04-16",
+  "built_at": "2026-04-16T17:07:59+00:00",
+  "requested_date": "2026-04-17",
   "audience": "internal_team",
   "guardrails": {
-    "editorial_included": true,
-    "note": "Editorial briefs (push brief, planning brief, gold slot content pack) are included in the board."
+    "editorial_included": false,
+    "note": "Editorial intelligence is intentionally excluded from the shared board."
   },
   "pages": {
     "home": "index.html",
@@ -15,32 +15,32 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-16",
+    "requested_date": "2026-04-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: First look: J.B. Hunt Q1 earnings.",
+      "Lead daily item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Weekly takeaway changed."
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-16",
+        "report_label": "2026-04-17",
         "freshness": "current",
         "change_label": "Lead story changed",
-        "summary": "Current market signals look more contextual than action-driving.",
+        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
         "supporting_note": "The lead item changed versus the prior brief.",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-16",
+        "report_label": "2026-04-17",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,68 +48,172 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
-        "change_label": "Weekly takeaway changed",
-        "summary": "Shippeo is signaling AI positioning around in transit visibility.",
-        "supporting_note": "The top weekly read differs from the prior weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Shippeo is signaling AI positioning around procurement and tendering.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
-    "shared_warnings": [
-      "Strategy reference layer still has 10 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
-    ]
+    "shared_warnings": []
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-16",
-    "last_updated": "2026-04-16 10:22",
+    "report_date": "2026-04-17",
+    "last_updated": "2026-04-17 02:06",
     "freshness": "current",
-    "status_note": "Market watch is led by First look: J.B. Hunt Q1 earnings.",
-    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 2 trade-press item(s), and 6 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
+    "status_note": "Market watch is led by Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals look more contextual than action-driving.",
-      "Lead market story: First look: J.B. Hunt Q1 earnings.",
+      "Current market signals form a meaningful cluster, but not a single dominant story.",
+      "Lead market story: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-16",
-      "write_now": "No",
-      "highest_confidence_operational_items": "1",
-      "worth_attention_today": "0",
-      "headline": "First look: J.B. Hunt Q1 earnings",
-      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
+      "report_date": "2026-04-17",
+      "write_now": "Maybe",
+      "highest_confidence_operational_items": "6",
+      "worth_attention_today": "5",
+      "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
+      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "First look: J.B. Hunt Q1 earnings",
+    "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
     "key_news_radar": [
       {
-        "title": "First look: J.B. Hunt Q1 earnings",
-        "summary": "Hunt Transport Services beat first-quarter expectations on Wednesday after the market closed.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-15T22:42:26+00:00",
+        "title": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
+        "summary": "Ceasefire talks that potentially could have yielded at least a partial reopening of the Strait of Hormuz quickly collapsed late last week and moved in the opposite direction, with",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T04:44:28+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/first-look-j-b-hunt-q1-earnings-2",
+        "link": "https://container-news.com/freightos-weekly-update-transatlantic-ocean-rates-spike-as-surcharges-take-effect/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
+        "summary": "Trucking rate indexes surged in the first quarter, propelled by a spike in diesel fuel prices amid dwindling truckload capacity.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-14T22:46:16+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "Rails Imperative: Building Resilience and Value",
+        "summary": "Rail’s Imperative: Building Resilience and Value Network velocity, equipment reliability, and capital efficiency now matter more than fleet size alone.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-14T17:22:53+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/mechanical/freight-cars/rails-imperative-building-resilience-and-value/?utm_source=rss&utm_medium=rss&utm_campaign=rails-imperative-building-resilience-and-value",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "In-House Fleet vs. Outsourced Medical Courier: The Economics Labs Keep Getting Wrong",
+        "summary": "Most laboratories that run their own courier fleet believe it is cheaper than outsourcing.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T07:46:47+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/in-house-fleet-vs-outsourced-medical-courier-the-economics-labs-keep-getting-wrong/",
+        "label": "Operational",
+        "question_signal": ""
+      },
+      {
+        "title": "STB Eyes Changes to Ex Parte Regs",
+        "summary": "The Surface Transportation Board (STB) is considering changes to its ex parte regulations that would “improve stakeholder engagement, facilitate well-informed decision-making, and",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-15T16:27:27+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/regulatory/stb-eyes-changes-to-ex-parte-regs/?utm_source=rss&utm_medium=rss&utm_campaign=stb-eyes-changes-to-ex-parte-regs",
         "label": "Operational",
         "question_signal": ""
       }
     ],
-    "hot_topics": [],
-    "business_angles": [],
+    "hot_topics": [
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+      }
+    ],
+    "business_angles": [
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "summary": ""
+      }
+    ],
     "community_questions": [
       {
-        "title": "EMS delay?",
-        "summary": "I am located in Singapore so all my previous parcel from Tokyo would take an average of 2 - 3 days to reach me but i am not sure why this time round, it has been stuck at dispatch",
+        "title": "What to look for in a Customs Broker",
+        "summary": "We've grown to the point where I think we need our own customs broker.",
         "source": "Reddit",
-        "timestamp": "2026-04-16T00:45:58+00:00",
+        "timestamp": "2026-04-15T14:36:38+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1smoedv/ems_delay/",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm7wwn/what_to_look_for_in_a_customs_broker/",
         "label": "",
-        "question_signal": "Shows a live practitioner question worth monitoring."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Air freight rates from India to USA up 60% and to Europe up 80% what exporters need to know right now",
+        "summary": "Air freight rates out of India have surged significantly in recent weeks driven by the Middle East conflict and rising jet fuel costs.",
+        "source": "Reddit",
+        "timestamp": "2026-04-15T06:09:41+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1slxo8w/air_freight_rates_from_india_to_usa_up_60_and_to/",
+        "label": "",
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+      },
+      {
+        "title": "How are smaller 3PL teams handling quoting workflows today?",
+        "summary": "I’ve been looking into how quoting is handled across smaller freight brokerages (especially teams without heavy TMS integrations), and I’m trying to check a few assumptions.",
+        "source": "Reddit",
+        "timestamp": "2026-04-15T16:13:25+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/supplychain/comments/1smans8/how_are_smaller_3pl_teams_handling_quoting/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-17",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-16",
         "write_now": "No",
@@ -157,33 +261,25 @@
         "worth_attention_today": "5",
         "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices; How AI Agents in Delivery and Transportation Are Transforming Logistics; MPAs Contrecur Terminal Project Advances",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-10",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Project44 unveils fleet of AI agents at customer event Decision44; Bunker market reverses as ceasefire triggers price correction; FAA approves 1st Boeing 777-200 passenger-to-freighter conversion",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 9,
-      "high_trust": 1,
-      "trade_press": 2,
-      "community": 6
+      "total_items": 210,
+      "high_trust": 29,
+      "trade_press": 63,
+      "community": 118
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-16.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-16.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-16.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-17.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-17.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-17.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-16",
-    "run_started_at": "2026-04-16T10:22:41+09:00",
+    "report_date": "2026-04-17",
+    "run_started_at": "2026-04-17T02:07:11+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -191,15 +287,15 @@
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026"
+      "Latest lower-signal item came from Shippeo: Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
-    "targets_fetched": 24,
-    "target_count": 24,
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "targets_fetched": 28,
+    "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -248,12 +344,28 @@
     "watch_items": [],
     "recent_signal_history": [
       {
-        "detected_date": "2026-04-15",
+        "detected_date": "2026-04-17",
         "company": "Shippeo",
-        "importance": "watch",
+        "importance": "important",
         "signal_type": "press announcement",
-        "summary": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
-        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars"
+        "summary": "Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read",
+        "source_url": "https://www.shippeo.com/resources/explore/blog-newsletter/addressing-driver-shortages-in-the-uk-and-beyond-the-role-of-real-time-visibility"
+      },
+      {
+        "detected_date": "2026-04-17",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
+        "detected_date": "2026-04-17",
+        "company": "FourKites",
+        "importance": "minor",
+        "signal_type": "press announcement",
+        "summary": "FourKites press releases announced \"Why Work With Us Prevent stockouts, delays, and excess costs by leveraging the world’s largest real-time network.",
+        "source_url": "https://www.fourkites.com/about/why-work-with-us/"
       },
       {
         "detected_date": "2026-04-09",
@@ -278,122 +390,129 @@
         "signal_type": "website change",
         "summary": "Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging",
         "source_url": "https://www.project44.com/platform/"
-      },
-      {
-        "detected_date": "2026-04-08",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260416T102241+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-16.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260417T020711+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-17.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-16",
+    "week_end_date": "2026-04-17",
     "freshness": "current",
-    "status_note": "Shippeo is signaling AI positioning around in transit visibility.",
+    "status_note": "Shippeo is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Shippeo is signaling AI positioning around in transit visibility.",
+      "Shippeo is signaling AI positioning around procurement and tendering.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Weekly takeaway changed",
-    "change_detail": "The top weekly read differs from the prior weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Shippeo is signaling AI positioning around in transit visibility."
+      "Shippeo is signaling AI positioning around procurement and tendering.",
+      "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "Shippeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility."
+      "Shippeo (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of better visibility.",
+      "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
-    "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-    "important_signal_count": 1,
+    "coverage_confidence": "Observed 17/17 watch sources this week. Reference coverage is 2/2. Watch coverage is complete, so confidence is mainly limited by the early-stage heuristic model and how much actually changed.",
+    "coverage_summary": "Observed 17/17 watch sources this week.",
+    "watch_gap_notes": [],
+    "coverage_background_notes": [],
+    "setup_debt_note": "",
+    "watch_source_observed": 17,
+    "watch_source_total": 17,
+    "reference_source_observed": 2,
+    "reference_source_total": 2,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
       {
         "entity_name": "Shippeo",
-        "source_title": "Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026",
+        "source_title": "Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
+        "workflow_scope": "procurement and tendering",
         "claimed_outcome": "better visibility",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026\" -> suggests...",
+        "evidence_excerpt": "Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read\" -> suggests scope expansion into pre-shipment planning or...",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.shippeo.com/resources/explore/customer-stories/mars"
+        "source_url": "https://www.shippeo.com/resources/explore/blog-newsletter/addressing-driver-shortages-in-the-uk-and-beyond-the-role-of-real-time-visibility"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice.",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice. All Systems Operational",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-16",
-        "takeaway": "Shippeo is signaling AI positioning around in transit visibility.",
-        "signal_count": "1",
-        "active_thesis_count": "0"
+        "week_end_date": "2026-04-17",
+        "takeaway": "Shippeo is signaling AI positioning around procurement and tendering.",
+        "signal_count": "2",
+        "active_thesis_count": "0",
+        "signal_signature": "Shippeo|direct_competitor|product_update|0428991c6041fd2803e85c1faa9dc763fbc69bf0 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "observed_source_count": "17",
+        "total_source_count": "17"
       },
       {
         "week_label": "2026-W15",
         "week_end_date": "2026-04-12",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "4",
-        "active_thesis_count": "1"
+        "active_thesis_count": "1",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support || Project44|direct_competitor|ai_positioning|Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language -> suggests a shift from visibility toward AI-led execution and decision support || Project44|direct_competitor|ai_positioning|Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging -> suggests expansion beyond tracking into procurement or optimization || Project44|direct_competitor|ai_positioning|Project44 solutions page added stronger visibility, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced procurement and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
+        "observed_source_count": "4",
+        "total_source_count": "16"
       },
       {
         "week_label": "2026-W14",
         "week_end_date": "2026-04-05",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
-        "active_thesis_count": "0"
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "0",
+        "total_source_count": "16"
       },
       {
         "week_label": "2026-W13",
         "week_end_date": "2026-03-29",
         "takeaway": "Wakeo is signaling scope expansion around end to end orchestration.",
         "signal_count": "5",
-        "active_thesis_count": "1"
+        "active_thesis_count": "1",
+        "signal_signature": "Wakeo|direct_competitor|scope_expansion|2025 Q2 Product Update This quarter, our product and engineering teams worked hard on making your life easier when using our platform:... || Wakeo|direct_competitor|scope_expansion|2025 Q3 Product Update This quarter, we’ve focused on delivering greater visibility, smarter insights, and smoother user experiences... || Wakeo|direct_competitor|scope_expansion|Wakeo Acquires LKW WALTER technology, Expanding its Supply Chain Visibility Solution Wakeo, a leading provider of real-time supply chain visibility solutions, is delighted to announce the... || Wakeo|direct_competitor|scope_expansion|Wakeo Announces €18 Million in a New Funding Round Led by Statkraft Ventures Wakeo, the Market-Leading platform for intercontinental real-time visibility, announced today the... || Wakeo|direct_competitor|scope_expansion|Wakeo Enhances Trusted Routes with Nearby Alternatives Wakeo, the Market-Leading platform for overseas real-time visibility, is proud to announce the launch of a...",
+        "observed_source_count": "5",
+        "total_source_count": "16"
       }
     ],
     "source_artifacts": [
       "strategic_intelligence/output/weekly-snapshot-2026-W16.json",
       "strategic_intelligence/output/weekly-memo-2026-W16.md"
     ],
-    "warnings": [
-      "Oracle oracle_tms: offline mode has no previous cached observation",
-      "Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-      "SAP sap_control_tower: offline mode has no previous cached observation",
-      "e2open e2open_connected_supply_chain: offline mode has no previous cached observation",
-      "DHL dhl_trend_radar_2024: offline mode has no previous cached observation",
-      "Gartner gartner_supply_chain_tech_trends_2025: offline mode has no previous cached observation",
-      "World Bank world_bank_lpi: offline mode has no previous cached observation",
-      "WTO wto_trade_outlook_2025: offline mode has no previous cached observation",
-      "WTO wto_tariff_tracker: offline mode has no previous cached observation",
-      "UNCTAD unctad_review_maritime_transport_2024: offline mode has no previous cached observation"
-    ]
-  },
-  "editorial_brief": {
-    "date": "2026-04-16",
-    "push_brief": "**Editorial Brief — Thursday 2026-04-16**\n\n**-> Insert: Q2 freight cost assumptions brief — LTL surge and yield discipline.**\nSupply chain visibility / tech is the top-ranked topic today (score 62.14, 3 signals from high-trust and trade-press sources). The anchor signal is \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2.\" The productive angle is not another volatility recap — it is a procurement and planning checklist: which surcharge, routing, and rate assumptions are now wrong, and what managers should verify before the next cycle. \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views) and \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) confirm strong audience appetite for this exact cost-intelligence framing. The schedule has no reactive post between today's India Cabotage piece and the Hapag-Lloyd financial brief on Apr 22 — Apr 18 is open.\n*Suggested slot: Friday April 18.*\n\n**-> Hold: Inland / intermodal spillover.**\nThe STB regulatory signal is real (13 signals today, score 54.48, historical performance score 38.48), but \"Three Carriers Activate New Surcharges April 18\" (Apr 14) and \"Emergency Fuel Surcharges in April 2026\" (Apr 7, 44 clicks this week) both recently covered inland cost pressure in adjacent ways. The STB proceeding has no outcome yet. Hold until the ruling moves or a concrete rate or routing impact emerges that isn't a replay of the surcharge cluster.\n\n**-> Check: April 17 has three posts queued.**\n\"Why Logistics Teams Decide to Switch Visibility Platforms,\" \"Booking vs Bill of Lading vs Container Number,\" and \"How MSC Container Tracking Actually Works\" are all scheduled for Apr 17. All three are tracking or evergreen posts with no news hook. Consider moving one — \"Booking vs BL vs Container Number\" is the best candidate — to Apr 18 or Apr 19 to free the Apr 18 slot for the reactive insert above and reduce same-day stacking.\n\n**-> Note: April 21 also has three posts queued.**\n\"3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop,\" \"The Same Event, Twelve Different Names,\" and \"Why Carrier Tracking Sites Disagree\" are all on Apr 21. All evergreen or series posts. No urgent reason to reschedule, but worth distributing to Apr 20 if that slot is light.\n\n**Content mix check:** The next seven days are weighted heavily toward evergreen tracking guides and carrier series posts. News-reactive content is thin — only today's India Cabotage piece and the Apr 22 Hapag-Lloyd financial brief. Inserting the LTL assumptions post on Apr 18 would rebalance slightly toward reactive coverage.\n**Cadence note:** Observed cadence is 1.0 posts/day over the last 7 days and 1.1/day over the last 14 days; the current schedule reflects similar volume.\n**Subscriber note:** No subscriber data available in current snapshot.\n",
-    "planning_brief": "# Planning Brief — 2026-04-16\n\n## Current Schedule (Apr 16–22)\n\n| Date | Title | Type | Recommendation |\n|------|-------|------|----------------|\n| Apr 16 | India Cabotage Rollback Delayed, Salalah Disrupted, Karachi Rising | Reactive / Global Watch | Keep — live news hook, no conflict |\n| Apr 17 | Why Logistics Teams Decide to Switch Visibility Platforms | Evergreen / Authority | Keep |\n| Apr 17 | Booking vs Bill of Lading vs Container Number | Evergreen / Reference | Move to Apr 18 or 19 — three posts on one day, all tracking-adjacent |\n| Apr 17 | How MSC Container Tracking Actually Works | Carrier Guide / Series | Keep — ongoing series momentum |\n| Apr 18 | *(open)* | — | Insert reactive LTL assumptions post (see below) |\n| Apr 19 | Apple's Supply Chain Risk Design | Tracking Success / Evergreen | Keep — no conflict, good evergreen slot |\n| Apr 20 | HS Codes, Cargo Descriptions, and Manifest Data: Three Compliance Deadlines | Compliance / Reference | Keep |\n| Apr 21 | 3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop | Reactive / Analysis | Keep — Hormuz equipment story is still live |\n| Apr 21 | The Same Event, Twelve Different Names: How Ocean Carriers Label Milestones | Reference / Tracking | Consider moving to Apr 20 to thin out the Apr 21 stack |\n| Apr 21 | Why Carrier Tracking Sites Disagree | Evergreen / Reference | Keep if Apr 21 stack stays; move if Apr 20 opens |\n| Apr 22 | Hapag-Lloyd Carried 8% More Cargo but Profit Fell 62% | Reactive / Financial | Keep — strong news hook, performance analogs suggest this format works |\n| Apr 22 | Zero-Inquiry Operations for Freight Forwarders & 3PLs | Evergreen / Playbook | Keep |\n\n## Recommended Revised Schedule (Apr 16–22)\n\n| Date | Post | Type | Reasoning |\n|------|------|------|-----------|\n| Apr 16 | India Cabotage Rollback Delayed, Salalah Disrupted, Karachi Rising | Reactive | As scheduled — live hook |\n| Apr 17 | Why Logistics Teams Decide to Switch Visibility Platforms | Evergreen | As scheduled |\n| Apr 17 | How MSC Container Tracking Actually Works | Carrier series | As scheduled |\n| Apr 18 | **[NEW] LTL Rate Surge and Yield Discipline: Q2 Freight Cost Assumptions to Re-Check** | Reactive / Decision-support | Highest-signal topic today (score 62.14, high-trust + trade-press); Apr 18 surcharges just took effect |\n| Apr 18 | Booking vs Bill of Lading vs Container Number | Evergreen / Reference | Moved from Apr 17 to reduce same-day stacking |\n| Apr 19 | Apple's Supply Chain Risk Design | Tracking Success | As scheduled |\n| Apr 20 | HS Codes, Cargo Descriptions, and Manifest Data | Compliance | As scheduled |\n| Apr 20 | The Same Event, Twelve Different Names | Reference | Moved from Apr 21 to thin that day's stack |\n| Apr 21 | 3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop | Reactive | As scheduled |\n| Apr 21 | Why Carrier Tracking Sites Disagree | Evergreen | As scheduled |\n| Apr 22 | Hapag-Lloyd Carried 8% More Cargo but Profit Fell 62% | Reactive / Financial | As scheduled |\n| Apr 22 | Zero-Inquiry Operations for Freight Forwarders & 3PLs | Evergreen | As scheduled |\n\n---\n\n## Topic-by-Topic Verdicts\n\n### 1. Supply chain visibility / tech — WRITE\n- **Score:** 62.14 | **Signals:** 3 | **Sources:** high-trust, trade-press\n- **Historical:** 47 mapped posts, historical performance score 19.36 (consistent coverage base)\n- **Evidence:** \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2\"\n- **Recency:** \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) and \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views) show this audience engages with freight cost intelligence. Both are close enough to show appetite but different enough in angle — those posts announced costs; this post re-examines planning assumptions.\n- **Angle seed:** Q2 procurement and rate assumptions to re-examine given yield discipline + fuel surge. Checklist format (which lanes, which contracts, which surcharge reserves).\n- **Timing case:** April 18 surcharges are now live. Planning cycles are recalibrating. Window is this week.\n- **Format:** 600–900 word decision brief with a numbered checklist section. Avoid rate table format (covered Apr 14).\n\n### 2. Service / network changes — WRITE (short format)\n- **Score:** 61.61 | **Signals:** 4 | **Sources:** trade-press only\n- **Historical:** No prior mapped post history — opportunity to establish coverage\n- **Evidence:** Kaleris launches AI Gate automation for faster yard operations; Verified Carrier launches verified pickup, closing critical gap in freight fraud prevention\n- **Risk:** Trade-press only — no high-trust confirmation. No outcome data for this topic yet.\n- **Angle seed:** \"What changed in logistics software last week\" — two distinct tech moves (yard automation, freight fraud verification). Frame as the second-order operating implication, not a product launch echo.\n- **Timing:** Not urgent. Could run Apr 23–25 as a lighter standalone brief or absorbed into a weekly roundup.\n- **What would strengthen this:** High-trust source coverage of either Kaleris or Verified Carrier outcomes.\n\n### 3. Port / capacity moves — HOLD\n- **Score:** 58.56 | **Signals:** 9 | **Sources:** high-trust, trade-press, community\n- **Historical:** 23 mapped posts, historical performance score 28.89\n- **Evidence:** \"Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect\"\n- **Risk:** \"Port Congestion Index: Global Snapshot, Mar 23 – Apr 5, 2026\" published Apr 9 (22,700 views). The Transatlantic rate spike is real but Freightos is trade-press; no high-trust independent confirmation of a structural port/capacity shift.\n- **Hold until:** Additional high-trust signal on Transatlantic capacity constraint, OR until the next Port Congestion Index data window (see Series Gaps below).\n\n### 4. Tariff / customs execution — HOLD\n- **Score:** 55.38 | **Signals:** 14 | **Sources:** high-trust, trade-press, community (community-led)\n- **Historical:** 19 mapped posts, historical performance score 23.38\n- **Evidence:** Freightos Transatlantic rate spike is the primary anchor — but it's also driving Port / capacity moves signals. Signal overlap.\n- **Risk:** Community-led signals with limited high-trust confirmation. \"Two New Section 301 Investigations, 60+ Countries, and a July Deadline\" published Apr 13 (22,400 views) — that post likely absorbed the high-intent audience for this topic this week.\n- **Hold until:** A distinct tariff/customs story emerges with high-trust sourcing, or the Section 301 July deadline approaches with new developments.\n\n### 5. Inland / intermodal spillover — HOLD\n- **Score:** 54.48 | **Signals:** 13 | **Sources:** high-trust, trade-press, community\n- **Historical:** 6 mapped posts, historical performance score 38.48 (good when it lands)\n- **Evidence:** \"STB Eyes Changes to Ex Parte Regs\"\n- **Risk:** \"Three Carriers Activate New Surcharges April 18\" (Apr 14) and \"Emergency Fuel Surcharges in April 2026\" (Apr 7, 44 clicks this week) both recently covered inland cost pressure. The STB proceeding has no ruling yet — the signal is anticipatory, not outcome-based.\n- **Hold until:** STB issues a ruling or releases a proposal, OR a concrete inland rate/routing impact with outcome data from high-trust sources.\n\n---\n\n## News-Timing Analysis\n\n**Peaking:** LTL rate surge driven by yield discipline and fuel price. High-trust sourcing. Story is in its operational phase — surcharges have taken effect, planning assumptions are at risk. Strongest week to publish a decision-support brief is this one (Apr 16–18).\n\n**Stable:** Hormuz equipment imbalance and cargo flow effects. The Apr 21 scheduled post (\"3.3 Containers In, 1 Container Out\") is well-positioned — the story is active and not yet over-covered. Competitor landscape shows no competitors covering this specific operational angle.\n\n**Emerging:** Transatlantic rate spike (Freightos). Limited high-trust sourcing today; watch for confirming signals next 3–5 days. Could support a Port / capacity moves piece by Apr 21–23 if confirmed.\n\n**Fading / absorbed:** Tariff and Section 301 coverage. The Apr 13 post covered that ground well. Watch for new Section 301 developments approaching the July deadline for a re-entry point.\n\n---\n\n## Series Gaps\n\n**Carrier tracking guide series:** MSC is scheduled for Apr 17. CMA CGM follows on May 11, Hapag-Lloyd Jun 15, ONE Jun 7, Evergreen Jun 1, HMM Jun 29, OOCL Jun 28, Maersk Jul 6, Wan Hai Aug 9, COSCO May 25. The series appears well-sequenced. No gap in the near term.\n\n**Port Congestion Index:** Last published Apr 9 (covering Mar 23 – Apr 5). No next PCI post is scheduled. If the series runs every ~2 weeks, the next data window (Apr 6–19) could support a PCI report publishing around Apr 21–23. Worth checking whether pipeline data is ready for a new PCI snapshot.\n\n**Tracking Success case studies:** Nike published Apr 13 (1,244 views, 58 clicks — top click performer this week). Apple is scheduled Apr 19. After Apple: Tesla (Apr 25), LEGO (May 17), IKEA (May 12), Amazon (May 20), Zara (May 9), Toyota (May 15), Nike (Zara, etc.). Series is active and well-planned. No gap.\n\n**Compliance / reference:** \"HS Codes, Cargo Descriptions, and Manifest Data\" is scheduled Apr 20. No other compliance-adjacent pieces in the near-term schedule. The ICS2 piece was published Apr 3 and the Telex Release piece is on Apr 23 — good spacing.\n",
-    "content_pack": "# Gold Slot Content Pack — 2026-04-16\n\n**Topic:** Supply chain visibility / tech\n**Score:** 62.14 | **Signals today:** 3 | **Sources:** high-trust, trade-press\n**Recommended slot:** Friday April 18\n\n---\n\n## Title Options\n\n1. **LTL Rates Hit New Q2 Highs on Yield Discipline and Fuel. Here Are the Planning Assumptions Now at Risk.**\n2. **Fuel Surge + Yield Discipline: The Two Forces Repricing LTL in Q2 and What Your Team Should Re-Check**\n3. **Which Freight Cost Assumptions Are Wrong Now: A Q2 Recalibration Checklist**\n4. **LTL Is Repricing in Q2. Here Is What to Verify Before Your Next Planning Cycle.**\n\n*Preference note: Title 1 and 4 follow the established high-traffic pattern seen in \"Diesel Was Supposed to Drop in 2026\" and \"Three Carriers Activate New Surcharges April 18.\" Title 3 takes a more search-oriented, decision-framing angle.*\n\n---\n\n## Angle & Reader Promise\n\n**What question does this post answer?**\n\"LTL rates just hit new Q2 highs, and the April 18 surcharges from multiple carriers are now live. Which of my team's existing cost, routing, and procurement assumptions are wrong because of this — and what do I check before we get to the next cycle?\"\n\n**What will the reader know or be able to do after reading?**\n- Understand the two distinct mechanisms driving cost (yield discipline = carrier pricing behavior; fuel surge = input cost) and why they interact\n- Identify which assumption categories carry the most risk right now: contracted rates vs. spot gaps, surcharge reserves, mode selection thresholds, order cycle timing\n- Have a concrete, short checklist of what to verify this week — specific enough to act on without requiring deep analysis\n\n**This is a decision-support brief, not a rate announcement.** The post earns its place by helping managers take a specific action — not by retelling what happened.\n\n---\n\n## Timing Case\n\nThree high-trust and trade-press signals today confirm LTL rates are at new Q2 highs, driven by yield discipline and fuel price surge (score 62.14). The fuel and surcharge story has been building since \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) and \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views). As of April 18, those surcharges are live. The story has entered its operational phase: costs are set, and planning assumptions made in Q1 are now exposed. A decision-support brief that helps managers re-examine assumptions is maximally useful this week — before the next planning cycle runs on stale numbers.\n\nPerformance analogs with similar framing:\n- Port Congestion Briefing — Week of 8–14 March 2026: score 59.1, 7,400 views\n- Arrival Compression After Diversions: score 53.57, 6,100 views\n- Emergency Fuel Surcharges in April 2026: 44 clicks in 7 days (top click performer)\n\n---\n\n## Key Claims\n\n| Claim | Signal source | Source tier | Notes |\n|-------|--------------|-------------|-------|\n| LTL rates are at new Q2 highs | \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2\" | High-trust, trade-press | Primary anchor signal — confirmed across two tiers |\n| Yield discipline is a carrier pricing posture, not just market reaction | Same signal | High-trust | Distinguishes this from a simple demand shock |\n| Diesel is at $5.37/gallon — above prior-year planning assumptions | \"Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37.\" (Apr 10, published) | Blog post citing prior data | Cite as established context, link internally |\n| Multiple carriers activated new surcharges effective April 18 | \"Three Carriers Activate New Surcharges April 18\" (Apr 14, published) | Blog post, trade-press sourced | Link internally; do not re-table the rates |\n| Transatlantic ocean rates are spiking alongside LTL | \"Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect\" | Trade-press | Secondary supporting signal — use to show cross-modal breadth, not as a primary claim |\n| Community signals are active on tariff/customs (14 signals) | Pipeline signal data | Community | **Flag: limited high-trust confirmation** — do not treat as primary evidence |\n\n---\n\n## Section-Level Outline\n\n### Section 1: What changed since Q1 planning\n*~150 words*\nBrief framing: What rate environment did most logistics teams price into their Q2 models? What is the environment now? The gap between those two is what this post addresses. Reference the fuel price trajectory (diesel at $5.37, expected to drop) and the yield discipline shift among LTL carriers. Do not open with a rate table — open with the planning decision at risk.\n\n### Section 2: Two distinct drivers — yield discipline vs. fuel surge\n*~150 words*\nSeparate the two mechanisms explicitly:\n- **Yield discipline**: Carriers are choosing not to fill trucks at margin-diluting rates. This is a structural pricing behavior, not just demand pressure. It means spot rates and contract-to-spot gaps behave differently than in a demand-driven surge.\n- **Fuel price surge**: Diesel at $5.37 is above what most fuel escalator clauses anticipated. Surcharges activated Apr 18 are a direct pass-through.\nExplain why both stacking matters for cost modeling — they reinforce each other.\n\n### Section 3: Which assumption categories carry the most risk\n*~200 words*\nOrganized by function:\n- **Contracted rates vs. spot**: If contract rates were locked before yield discipline hardened, spot premiums may now exceed your buffer assumptions.\n- **Surcharge reserves**: April 18 surcharges from multiple carriers are now live — are they in your landed cost model?\n- **Mode selection thresholds**: If LTL economics have shifted, the LTL vs. FTL vs. parcel breakeven has moved. Teams using Q1 thresholds may be routing to higher cost modes.\n- **Order cycle timing**: Longer transit times or capacity constraints may be affecting whether expedite decisions still pencil out.\n\n### Section 4: What to verify this week — checklist\n*~150 words*\nConcrete, short. Numbered list. Examples:\n1. Pull the contract-to-spot gap on your top 5 LTL lanes — has the spread widened since January?\n2. Confirm April 18 surcharges are reflected in your landed cost calculations\n3. Check whether your fuel escalator clause has triggered — and what the next threshold is\n4. Review LTL/FTL/parcel mode decisions on lanes over 500 lbs — the breakeven has likely shifted\n5. Flag any inbound shipments whose transit assumptions were set pre-April\n\n### Section 5: Where this is heading in Q2\n*~100 words*\nObservable signal direction — not a forecast. The transatlantic rate spike (Freightos, trade-press) suggests cross-modal pressure isn't confined to land. The STB regulatory signal on ex parte proceedings may affect intermodal pricing further out. Watch the Freightos data and STB proceedings. Frame as \"what to monitor,\" not a prediction.\n\n---\n\n## Anti-Patterns\n\n**This is NOT another freight cost announcement.**\n- Do not replay \"Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37.\" (Apr 10) — that post broke the fuel story\n- Do not replay \"Three Carriers Activate New Surcharges April 18. Here's the Updated Rate Table.\" (Apr 14) — that post announced the surcharges\n- Do not open with a rate number — open with the planning decision\n- Do not use the word \"spike\" in the headline — it signals volatility recap, not decision support\n- Do not conclude with a generic \"monitor the situation\" paragraph — conclude with a specific action\n\n---\n\n## Internal Link Targets\n\n| Post | How to use |\n|------|-----------|\n| Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37. Here Is How That Is Reshaping U.S. Freight. (Apr 10) | Context on fuel price trajectory — link in Section 1 or 2 |\n| Three Carriers Activate New Surcharges April 18. Here's the Updated Rate Table. (Apr 14) | Reference for surcharge details — link in Section 3, not to re-table rates |\n| Emergency Fuel Surcharges in April 2026: What Changed Since March and Where the Inland Cost Wave Fits Next (Apr 7) | Prior EFS coverage — link as historical context |\n| Port Congestion Index: Global Snapshot, Mar 23 – Apr 5, 2026 (Apr 9) | If Section 5 touches port-side capacity, link here |\n\n---\n\n## Competitor Gap\n\n**Project44** made significant homepage, solutions, and platform page updates on Apr 9 — all leaning into AI/automation, optimization/procurement, and analytics. Their framing is platform-level and generic (\"decision intelligence\") rather than mode-specific or operationally grounded. No indication they are covering the LTL yield discipline / fuel surcharge decision-support angle.\n\n**Shippeo** published a customer story (Mars France, unverified claims) — visibility proof, not cost intelligence.\n\n**Wakeo, FourKites, Transporeon, GoComet:** No activity on LTL rate or fuel surcharge decision content in the signal log.\n\n**Gap:** No competitor in the monitor is publishing the specific angle of \"which Q2 planning assumptions are now wrong and what to verify.\" Tradlinx can occupy this ground this week with a post that is more operationally specific than anything in the competitor feed.\n",
-    "source_artifacts": [
-      "editorial_intelligence/output/push-briefs/push-brief-2026-04-16.md",
-      "editorial_intelligence/output/planning-briefs/planning-brief-2026-04-16.md",
-      "editorial_intelligence/output/gold-context/content-pack-2026-04-16.md"
-    ]
+    "warnings": []
   }
 }
