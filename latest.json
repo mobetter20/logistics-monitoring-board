@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T04:01:20+00:00",
+  "built_at": "2026-04-16T04:03:15+00:00",
   "requested_date": "2026-04-16",
   "audience": "internal_team",
   "guardrails": {
@@ -30,7 +30,7 @@
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals look more contextual than action-driving.",
-        "supporting_note": "The lead item shifted from California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway to First look: J.B. Hunt Q1 earnings.",
+        "supporting_note": "The lead item changed versus the prior brief.",
         "href": "market-watch.html"
       },
       {
@@ -50,7 +50,7 @@
         "freshness": "current",
         "change_label": "Weekly takeaway changed",
         "summary": "Shippeo is signaling AI positioning around in transit visibility.",
-        "supporting_note": "The top weekly read moved away from Project44 is signaling AI positioning around procurement and tendering..",
+        "supporting_note": "The top weekly read differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -77,7 +77,7 @@
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
-    "change_detail": "The lead item shifted from California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway to First look: J.B. Hunt Q1 earnings.",
+    "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
       "report_date": "2026-04-16",
       "write_now": "No",
@@ -311,7 +311,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Weekly takeaway changed",
-    "change_detail": "The top weekly read moved away from Project44 is signaling AI positioning around procurement and tendering..",
+    "change_detail": "The top weekly read differs from the prior weekly run.",
     "executive_takeaways": [
       "Shippeo is signaling AI positioning around in transit visibility."
     ],
