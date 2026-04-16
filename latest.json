@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T17:07:59+00:00",
+  "built_at": "2026-04-16T19:14:21+00:00",
   "requested_date": "2026-04-17",
   "audience": "internal_team",
   "guardrails": {
@@ -20,7 +20,7 @@
     "latest_updates": [
       "Lead daily item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
@@ -40,7 +40,7 @@
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Shippeo is signaling AI positioning around procurement and tendering.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -279,7 +279,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-04-17",
-    "run_started_at": "2026-04-17T02:07:11+09:00",
+    "run_started_at": "2026-04-17T04:13:23+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -287,15 +287,15 @@
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read"
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "8 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -344,30 +344,6 @@
     "watch_items": [],
     "recent_signal_history": [
       {
-        "detected_date": "2026-04-17",
-        "company": "Shippeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read",
-        "source_url": "https://www.shippeo.com/resources/explore/blog-newsletter/addressing-driver-shortages-in-the-uk-and-beyond-the-role-of-real-time-visibility"
-      },
-      {
-        "detected_date": "2026-04-17",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-04-17",
-        "company": "FourKites",
-        "importance": "minor",
-        "signal_type": "press announcement",
-        "summary": "FourKites press releases announced \"Why Work With Us Prevent stockouts, delays, and excess costs by leveraging the world’s largest real-time network.",
-        "source_url": "https://www.fourkites.com/about/why-work-with-us/"
-      },
-      {
         "detected_date": "2026-04-09",
         "company": "Project44",
         "importance": "important",
@@ -390,10 +366,18 @@
         "signal_type": "website change",
         "summary": "Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging",
         "source_url": "https://www.project44.com/platform/"
+      },
+      {
+        "detected_date": "2026-04-08",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger visibility, AI and automation, and data quality / connectivity language",
+        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260417T020711+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260417T041323+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-04-17.md"
     ],
     "warnings": []
@@ -402,32 +386,29 @@
     "week_label": "2026-W16",
     "week_end_date": "2026-04-17",
     "freshness": "current",
-    "status_note": "Shippeo is signaling AI positioning around procurement and tendering.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Shippeo is signaling AI positioning around procurement and tendering.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Shippeo is signaling AI positioning around procurement and tendering.",
-      "Project44 is signaling AI positioning around unknown."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Shippeo (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of better visibility.",
-      "Project44 (direct competitor) is pushing AI positioning."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 17/17 watch sources this week. Reference coverage is 2/2. Watch coverage is complete, so confidence is mainly limited by the early-stage heuristic model and how much actually changed.",
-    "coverage_summary": "Observed 17/17 watch sources this week.",
+    "coverage_summary": "Observed 17/17 watch sources this week. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [],
     "coverage_background_notes": [],
     "setup_debt_note": "",
@@ -435,46 +416,17 @@
     "watch_source_total": 17,
     "reference_source_observed": 2,
     "reference_source_total": 2,
-    "important_signal_count": 2,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Shippeo",
-        "source_title": "Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Shippeo press releases announced \"Blog Addressing driver shortages in the UK and beyond: the role of real-time visibility August 6, 2021 5 min read\" -> suggests scope expansion into pre-shipment planning or...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.shippeo.com/resources/explore/blog-newsletter/addressing-driver-shortages-in-the-uk-and-beyond-the-role-of-real-time-visibility"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice.",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page lists scheduled maintenance: Scheduled Maintenance Notice. All Systems Operational",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
       {
         "week_label": "2026-W16",
         "week_end_date": "2026-04-17",
-        "takeaway": "Shippeo is signaling AI positioning around procurement and tendering.",
-        "signal_count": "2",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
         "active_thesis_count": "0",
-        "signal_signature": "Shippeo|direct_competitor|product_update|0428991c6041fd2803e85c1faa9dc763fbc69bf0 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_signature": "",
         "observed_source_count": "17",
         "total_source_count": "17"
       },
