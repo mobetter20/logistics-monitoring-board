@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-15T22:53:06+00:00",
+  "built_at": "2026-04-16T01:23:39+00:00",
   "requested_date": "2026-04-16",
   "audience": "internal_team",
   "guardrails": {
@@ -18,7 +18,7 @@
     "requested_date": "2026-04-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
+      "Lead daily item: First look: J.B. Hunt Q1 earnings.",
       "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
       "Current weekly strategy read: Shippeo is signaling AI positioning around in transit visibility."
     ],
@@ -28,8 +28,8 @@
         "cadence": "Daily",
         "report_label": "2026-04-16",
         "freshness": "current",
-        "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "Lead item: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
+        "summary": "Current market signals look more contextual than action-driving.",
+        "supporting_note": "Lead item: First look: J.B. Hunt Q1 earnings",
         "href": "market-watch.html"
       },
       {
@@ -63,158 +63,60 @@
   "market_watch": {
     "title": "Internal Logistics Signals Board",
     "report_date": "2026-04-16",
-    "last_updated": "2026-04-16 07:52",
+    "last_updated": "2026-04-16 10:22",
     "freshness": "current",
-    "status_note": "Market watch is led by Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
-    "sparse_explanation": "",
+    "status_note": "Market watch is led by First look: J.B. Hunt Q1 earnings.",
+    "sparse_explanation": "This view is thin today because the upstream daily watch elevated only 1 radar item(s), 2 trade-press item(s), and 6 community item(s). The recent 7-day history below is meant to preserve context without lowering the threshold.",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
-      "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect.",
-      "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Current market signals look more contextual than action-driving.",
+      "Lead market story: First look: J.B. Hunt Q1 earnings.",
+      "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "current_brief": {
       "report_date": "2026-04-16",
-      "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "5",
-      "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
-      "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      "write_now": "No",
+      "highest_confidence_operational_items": "1",
+      "worth_attention_today": "0",
+      "headline": "First look: J.B. Hunt Q1 earnings",
+      "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
     },
-    "active_recent_days": 7,
-    "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
+    "active_recent_days": 6,
+    "headline": "First look: J.B. Hunt Q1 earnings",
     "key_news_radar": [
       {
-        "title": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect",
-        "summary": "Ceasefire talks that potentially could have yielded at least a partial reopening of the Strait of Hormuz quickly collapsed late last week and moved in the opposite direction, with",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T04:44:28+00:00",
+        "title": "First look: J.B. Hunt Q1 earnings",
+        "summary": "Hunt Transport Services beat first-quarter expectations on Wednesday after the market closed.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-15T22:42:26+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/freightos-weekly-update-transatlantic-ocean-rates-spike-as-surcharges-take-effect/",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "TFI subsidiary TA Dedicated acquires Triangle Warehouse",
-        "summary": "TA Dedicated announced that it has acquired fellow Minneapolis-based company Triangle Warehouse.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-15T17:39:33+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/tfi-subsidiary-ta-dedicated-acquires-triangle-warehouse",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Yield discipline, fuel price surge driving LTL rates to new highs in Q2",
-        "summary": "Trucking rate indexes surged in the first quarter, propelled by a spike in diesel fuel prices amid dwindling truckload capacity.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-14T22:46:16+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/price-discipline-fuel-surge-to-push-ltl-rates-to-record-in-q2",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "STB Eyes Changes to Ex Parte Regs",
-        "summary": "The Surface Transportation Board (STB) is considering changes to its ex parte regulations that would “improve stakeholder engagement, facilitate well-informed decision-making, and",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T16:27:27+00:00",
-        "confidence": "medium",
-        "link": "https://www.railwayage.com/regulatory/stb-eyes-changes-to-ex-parte-regs/?utm_source=rss&utm_medium=rss&utm_campaign=stb-eyes-changes-to-ex-parte-regs",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "In-House Fleet vs. Outsourced Medical Courier: The Economics Labs Keep Getting Wrong",
-        "summary": "Most laboratories that run their own courier fleet believe it is cheaper than outsourcing.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-15T07:46:47+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/in-house-fleet-vs-outsourced-medical-courier-the-economics-labs-keep-getting-wrong/",
+        "link": "https://www.freightwaves.com/news/first-look-j-b-hunt-q1-earnings-2",
         "label": "Operational",
         "question_signal": ""
       }
     ],
-    "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      }
-    ],
-    "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
-        "summary": ""
-      }
-    ],
+    "hot_topics": [],
+    "business_angles": [],
     "community_questions": [
       {
-        "title": "What to look for in a Customs Broker",
-        "summary": "We've grown to the point where I think we need our own customs broker.",
+        "title": "EMS delay?",
+        "summary": "I am located in Singapore so all my previous parcel from Tokyo would take an average of 2 - 3 days to reach me but i am not sure why this time round, it has been stuck at dispatch",
         "source": "Reddit",
-        "timestamp": "2026-04-15T14:36:38+00:00",
+        "timestamp": "2026-04-16T00:45:58+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm7wwn/what_to_look_for_in_a_customs_broker/",
+        "link": "https://old.reddit.com/r/shipping/comments/1smoedv/ems_delay/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
-      },
-      {
-        "title": "Air freight rates from India to USA up 60% and to Europe up 80% what exporters need to know right now",
-        "summary": "Air freight rates out of India have surged significantly in recent weeks driven by the Middle East conflict and rising jet fuel costs.",
-        "source": "Reddit",
-        "timestamp": "2026-04-15T06:09:41+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1slxo8w/air_freight_rates_from_india_to_usa_up_60_and_to/",
-        "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
-      },
-      {
-        "title": "Anyone know what is going on with CBSA?",
-        "summary": "For the last week or so, Canada Customs seems to be experiencing delays for a good part of the day, preventing notification of status of submissions.",
-        "source": "Reddit",
-        "timestamp": "2026-04-15T15:46:25+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sm9vlq/anyone_know_what_is_going_on_with_cbsa/",
-        "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows a live practitioner question worth monitoring."
       }
     ],
     "recent_history": [
       {
         "report_date": "2026-04-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect; Yield discipline, fuel price surge driving LTL rates to new highs in Q2; STB Eyes Changes to Ex Parte Regs",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+        "write_now": "No",
+        "highest_confidence_operational_items": "1",
+        "worth_attention_today": "0",
+        "headline": "First look: J.B. Hunt Q1 earnings",
+        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       },
       {
         "report_date": "2026-04-15",
@@ -266,10 +168,10 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 143,
-      "high_trust": 24,
-      "trade_press": 26,
-      "community": 93
+      "total_items": 9,
+      "high_trust": 1,
+      "trade_press": 2,
+      "community": 6
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
@@ -281,7 +183,7 @@
   },
   "competitor_watch": {
     "report_date": "2026-04-16",
-    "run_started_at": "2026-04-16T07:52:13+09:00",
+    "run_started_at": "2026-04-16T10:22:41+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -384,7 +286,7 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260416T075213+0900.json",
+      "competitor_monitor/output/runs/competitor-monitor-20260416T102241+0900.json",
       "competitor_monitor/output/reports/competitor-monitor-2026-04-16.md"
     ],
     "warnings": []
@@ -410,8 +312,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 1/16 configured sources this week. Confidence is reduced by coverage gaps: Oracle oracle_tms: offline mode has no previous cached observation Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
     "important_signal_count": 1,
@@ -481,13 +382,13 @@
   },
   "editorial_brief": {
     "date": "2026-04-16",
-    "push_brief": null,
-    "planning_brief": null,
-    "content_pack": null,
+    "push_brief": "**Editorial Brief — Thursday 2026-04-16**\n\n**-> Insert: Q2 freight cost assumptions brief — LTL surge and yield discipline.**\nSupply chain visibility / tech is the top-ranked topic today (score 62.14, 3 signals from high-trust and trade-press sources). The anchor signal is \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2.\" The productive angle is not another volatility recap — it is a procurement and planning checklist: which surcharge, routing, and rate assumptions are now wrong, and what managers should verify before the next cycle. \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views) and \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) confirm strong audience appetite for this exact cost-intelligence framing. The schedule has no reactive post between today's India Cabotage piece and the Hapag-Lloyd financial brief on Apr 22 — Apr 18 is open.\n*Suggested slot: Friday April 18.*\n\n**-> Hold: Inland / intermodal spillover.**\nThe STB regulatory signal is real (13 signals today, score 54.48, historical performance score 38.48), but \"Three Carriers Activate New Surcharges April 18\" (Apr 14) and \"Emergency Fuel Surcharges in April 2026\" (Apr 7, 44 clicks this week) both recently covered inland cost pressure in adjacent ways. The STB proceeding has no outcome yet. Hold until the ruling moves or a concrete rate or routing impact emerges that isn't a replay of the surcharge cluster.\n\n**-> Check: April 17 has three posts queued.**\n\"Why Logistics Teams Decide to Switch Visibility Platforms,\" \"Booking vs Bill of Lading vs Container Number,\" and \"How MSC Container Tracking Actually Works\" are all scheduled for Apr 17. All three are tracking or evergreen posts with no news hook. Consider moving one — \"Booking vs BL vs Container Number\" is the best candidate — to Apr 18 or Apr 19 to free the Apr 18 slot for the reactive insert above and reduce same-day stacking.\n\n**-> Note: April 21 also has three posts queued.**\n\"3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop,\" \"The Same Event, Twelve Different Names,\" and \"Why Carrier Tracking Sites Disagree\" are all on Apr 21. All evergreen or series posts. No urgent reason to reschedule, but worth distributing to Apr 20 if that slot is light.\n\n**Content mix check:** The next seven days are weighted heavily toward evergreen tracking guides and carrier series posts. News-reactive content is thin — only today's India Cabotage piece and the Apr 22 Hapag-Lloyd financial brief. Inserting the LTL assumptions post on Apr 18 would rebalance slightly toward reactive coverage.\n**Cadence note:** Observed cadence is 1.0 posts/day over the last 7 days and 1.1/day over the last 14 days; the current schedule reflects similar volume.\n**Subscriber note:** No subscriber data available in current snapshot.\n",
+    "planning_brief": "# Planning Brief — 2026-04-16\n\n## Current Schedule (Apr 16–22)\n\n| Date | Title | Type | Recommendation |\n|------|-------|------|----------------|\n| Apr 16 | India Cabotage Rollback Delayed, Salalah Disrupted, Karachi Rising | Reactive / Global Watch | Keep — live news hook, no conflict |\n| Apr 17 | Why Logistics Teams Decide to Switch Visibility Platforms | Evergreen / Authority | Keep |\n| Apr 17 | Booking vs Bill of Lading vs Container Number | Evergreen / Reference | Move to Apr 18 or 19 — three posts on one day, all tracking-adjacent |\n| Apr 17 | How MSC Container Tracking Actually Works | Carrier Guide / Series | Keep — ongoing series momentum |\n| Apr 18 | *(open)* | — | Insert reactive LTL assumptions post (see below) |\n| Apr 19 | Apple's Supply Chain Risk Design | Tracking Success / Evergreen | Keep — no conflict, good evergreen slot |\n| Apr 20 | HS Codes, Cargo Descriptions, and Manifest Data: Three Compliance Deadlines | Compliance / Reference | Keep |\n| Apr 21 | 3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop | Reactive / Analysis | Keep — Hormuz equipment story is still live |\n| Apr 21 | The Same Event, Twelve Different Names: How Ocean Carriers Label Milestones | Reference / Tracking | Consider moving to Apr 20 to thin out the Apr 21 stack |\n| Apr 21 | Why Carrier Tracking Sites Disagree | Evergreen / Reference | Keep if Apr 21 stack stays; move if Apr 20 opens |\n| Apr 22 | Hapag-Lloyd Carried 8% More Cargo but Profit Fell 62% | Reactive / Financial | Keep — strong news hook, performance analogs suggest this format works |\n| Apr 22 | Zero-Inquiry Operations for Freight Forwarders & 3PLs | Evergreen / Playbook | Keep |\n\n## Recommended Revised Schedule (Apr 16–22)\n\n| Date | Post | Type | Reasoning |\n|------|------|------|-----------|\n| Apr 16 | India Cabotage Rollback Delayed, Salalah Disrupted, Karachi Rising | Reactive | As scheduled — live hook |\n| Apr 17 | Why Logistics Teams Decide to Switch Visibility Platforms | Evergreen | As scheduled |\n| Apr 17 | How MSC Container Tracking Actually Works | Carrier series | As scheduled |\n| Apr 18 | **[NEW] LTL Rate Surge and Yield Discipline: Q2 Freight Cost Assumptions to Re-Check** | Reactive / Decision-support | Highest-signal topic today (score 62.14, high-trust + trade-press); Apr 18 surcharges just took effect |\n| Apr 18 | Booking vs Bill of Lading vs Container Number | Evergreen / Reference | Moved from Apr 17 to reduce same-day stacking |\n| Apr 19 | Apple's Supply Chain Risk Design | Tracking Success | As scheduled |\n| Apr 20 | HS Codes, Cargo Descriptions, and Manifest Data | Compliance | As scheduled |\n| Apr 20 | The Same Event, Twelve Different Names | Reference | Moved from Apr 21 to thin that day's stack |\n| Apr 21 | 3.3 Containers In, 1 Container Out: How Hormuz Broke the Equipment Loop | Reactive | As scheduled |\n| Apr 21 | Why Carrier Tracking Sites Disagree | Evergreen | As scheduled |\n| Apr 22 | Hapag-Lloyd Carried 8% More Cargo but Profit Fell 62% | Reactive / Financial | As scheduled |\n| Apr 22 | Zero-Inquiry Operations for Freight Forwarders & 3PLs | Evergreen | As scheduled |\n\n---\n\n## Topic-by-Topic Verdicts\n\n### 1. Supply chain visibility / tech — WRITE\n- **Score:** 62.14 | **Signals:** 3 | **Sources:** high-trust, trade-press\n- **Historical:** 47 mapped posts, historical performance score 19.36 (consistent coverage base)\n- **Evidence:** \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2\"\n- **Recency:** \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) and \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views) show this audience engages with freight cost intelligence. Both are close enough to show appetite but different enough in angle — those posts announced costs; this post re-examines planning assumptions.\n- **Angle seed:** Q2 procurement and rate assumptions to re-examine given yield discipline + fuel surge. Checklist format (which lanes, which contracts, which surcharge reserves).\n- **Timing case:** April 18 surcharges are now live. Planning cycles are recalibrating. Window is this week.\n- **Format:** 600–900 word decision brief with a numbered checklist section. Avoid rate table format (covered Apr 14).\n\n### 2. Service / network changes — WRITE (short format)\n- **Score:** 61.61 | **Signals:** 4 | **Sources:** trade-press only\n- **Historical:** No prior mapped post history — opportunity to establish coverage\n- **Evidence:** Kaleris launches AI Gate automation for faster yard operations; Verified Carrier launches verified pickup, closing critical gap in freight fraud prevention\n- **Risk:** Trade-press only — no high-trust confirmation. No outcome data for this topic yet.\n- **Angle seed:** \"What changed in logistics software last week\" — two distinct tech moves (yard automation, freight fraud verification). Frame as the second-order operating implication, not a product launch echo.\n- **Timing:** Not urgent. Could run Apr 23–25 as a lighter standalone brief or absorbed into a weekly roundup.\n- **What would strengthen this:** High-trust source coverage of either Kaleris or Verified Carrier outcomes.\n\n### 3. Port / capacity moves — HOLD\n- **Score:** 58.56 | **Signals:** 9 | **Sources:** high-trust, trade-press, community\n- **Historical:** 23 mapped posts, historical performance score 28.89\n- **Evidence:** \"Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect\"\n- **Risk:** \"Port Congestion Index: Global Snapshot, Mar 23 – Apr 5, 2026\" published Apr 9 (22,700 views). The Transatlantic rate spike is real but Freightos is trade-press; no high-trust independent confirmation of a structural port/capacity shift.\n- **Hold until:** Additional high-trust signal on Transatlantic capacity constraint, OR until the next Port Congestion Index data window (see Series Gaps below).\n\n### 4. Tariff / customs execution — HOLD\n- **Score:** 55.38 | **Signals:** 14 | **Sources:** high-trust, trade-press, community (community-led)\n- **Historical:** 19 mapped posts, historical performance score 23.38\n- **Evidence:** Freightos Transatlantic rate spike is the primary anchor — but it's also driving Port / capacity moves signals. Signal overlap.\n- **Risk:** Community-led signals with limited high-trust confirmation. \"Two New Section 301 Investigations, 60+ Countries, and a July Deadline\" published Apr 13 (22,400 views) — that post likely absorbed the high-intent audience for this topic this week.\n- **Hold until:** A distinct tariff/customs story emerges with high-trust sourcing, or the Section 301 July deadline approaches with new developments.\n\n### 5. Inland / intermodal spillover — HOLD\n- **Score:** 54.48 | **Signals:** 13 | **Sources:** high-trust, trade-press, community\n- **Historical:** 6 mapped posts, historical performance score 38.48 (good when it lands)\n- **Evidence:** \"STB Eyes Changes to Ex Parte Regs\"\n- **Risk:** \"Three Carriers Activate New Surcharges April 18\" (Apr 14) and \"Emergency Fuel Surcharges in April 2026\" (Apr 7, 44 clicks this week) both recently covered inland cost pressure. The STB proceeding has no ruling yet — the signal is anticipatory, not outcome-based.\n- **Hold until:** STB issues a ruling or releases a proposal, OR a concrete inland rate/routing impact with outcome data from high-trust sources.\n\n---\n\n## News-Timing Analysis\n\n**Peaking:** LTL rate surge driven by yield discipline and fuel price. High-trust sourcing. Story is in its operational phase — surcharges have taken effect, planning assumptions are at risk. Strongest week to publish a decision-support brief is this one (Apr 16–18).\n\n**Stable:** Hormuz equipment imbalance and cargo flow effects. The Apr 21 scheduled post (\"3.3 Containers In, 1 Container Out\") is well-positioned — the story is active and not yet over-covered. Competitor landscape shows no competitors covering this specific operational angle.\n\n**Emerging:** Transatlantic rate spike (Freightos). Limited high-trust sourcing today; watch for confirming signals next 3–5 days. Could support a Port / capacity moves piece by Apr 21–23 if confirmed.\n\n**Fading / absorbed:** Tariff and Section 301 coverage. The Apr 13 post covered that ground well. Watch for new Section 301 developments approaching the July deadline for a re-entry point.\n\n---\n\n## Series Gaps\n\n**Carrier tracking guide series:** MSC is scheduled for Apr 17. CMA CGM follows on May 11, Hapag-Lloyd Jun 15, ONE Jun 7, Evergreen Jun 1, HMM Jun 29, OOCL Jun 28, Maersk Jul 6, Wan Hai Aug 9, COSCO May 25. The series appears well-sequenced. No gap in the near term.\n\n**Port Congestion Index:** Last published Apr 9 (covering Mar 23 – Apr 5). No next PCI post is scheduled. If the series runs every ~2 weeks, the next data window (Apr 6–19) could support a PCI report publishing around Apr 21–23. Worth checking whether pipeline data is ready for a new PCI snapshot.\n\n**Tracking Success case studies:** Nike published Apr 13 (1,244 views, 58 clicks — top click performer this week). Apple is scheduled Apr 19. After Apple: Tesla (Apr 25), LEGO (May 17), IKEA (May 12), Amazon (May 20), Zara (May 9), Toyota (May 15), Nike (Zara, etc.). Series is active and well-planned. No gap.\n\n**Compliance / reference:** \"HS Codes, Cargo Descriptions, and Manifest Data\" is scheduled Apr 20. No other compliance-adjacent pieces in the near-term schedule. The ICS2 piece was published Apr 3 and the Telex Release piece is on Apr 23 — good spacing.\n",
+    "content_pack": "# Gold Slot Content Pack — 2026-04-16\n\n**Topic:** Supply chain visibility / tech\n**Score:** 62.14 | **Signals today:** 3 | **Sources:** high-trust, trade-press\n**Recommended slot:** Friday April 18\n\n---\n\n## Title Options\n\n1. **LTL Rates Hit New Q2 Highs on Yield Discipline and Fuel. Here Are the Planning Assumptions Now at Risk.**\n2. **Fuel Surge + Yield Discipline: The Two Forces Repricing LTL in Q2 and What Your Team Should Re-Check**\n3. **Which Freight Cost Assumptions Are Wrong Now: A Q2 Recalibration Checklist**\n4. **LTL Is Repricing in Q2. Here Is What to Verify Before Your Next Planning Cycle.**\n\n*Preference note: Title 1 and 4 follow the established high-traffic pattern seen in \"Diesel Was Supposed to Drop in 2026\" and \"Three Carriers Activate New Surcharges April 18.\" Title 3 takes a more search-oriented, decision-framing angle.*\n\n---\n\n## Angle & Reader Promise\n\n**What question does this post answer?**\n\"LTL rates just hit new Q2 highs, and the April 18 surcharges from multiple carriers are now live. Which of my team's existing cost, routing, and procurement assumptions are wrong because of this — and what do I check before we get to the next cycle?\"\n\n**What will the reader know or be able to do after reading?**\n- Understand the two distinct mechanisms driving cost (yield discipline = carrier pricing behavior; fuel surge = input cost) and why they interact\n- Identify which assumption categories carry the most risk right now: contracted rates vs. spot gaps, surcharge reserves, mode selection thresholds, order cycle timing\n- Have a concrete, short checklist of what to verify this week — specific enough to act on without requiring deep analysis\n\n**This is a decision-support brief, not a rate announcement.** The post earns its place by helping managers take a specific action — not by retelling what happened.\n\n---\n\n## Timing Case\n\nThree high-trust and trade-press signals today confirm LTL rates are at new Q2 highs, driven by yield discipline and fuel price surge (score 62.14). The fuel and surcharge story has been building since \"Diesel Was Supposed to Drop in 2026\" (Apr 10, 22,500 views) and \"Three Carriers Activate New Surcharges April 18\" (Apr 14, 22,100 views). As of April 18, those surcharges are live. The story has entered its operational phase: costs are set, and planning assumptions made in Q1 are now exposed. A decision-support brief that helps managers re-examine assumptions is maximally useful this week — before the next planning cycle runs on stale numbers.\n\nPerformance analogs with similar framing:\n- Port Congestion Briefing — Week of 8–14 March 2026: score 59.1, 7,400 views\n- Arrival Compression After Diversions: score 53.57, 6,100 views\n- Emergency Fuel Surcharges in April 2026: 44 clicks in 7 days (top click performer)\n\n---\n\n## Key Claims\n\n| Claim | Signal source | Source tier | Notes |\n|-------|--------------|-------------|-------|\n| LTL rates are at new Q2 highs | \"Yield discipline, fuel price surge driving LTL rates to new highs in Q2\" | High-trust, trade-press | Primary anchor signal — confirmed across two tiers |\n| Yield discipline is a carrier pricing posture, not just market reaction | Same signal | High-trust | Distinguishes this from a simple demand shock |\n| Diesel is at $5.37/gallon — above prior-year planning assumptions | \"Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37.\" (Apr 10, published) | Blog post citing prior data | Cite as established context, link internally |\n| Multiple carriers activated new surcharges effective April 18 | \"Three Carriers Activate New Surcharges April 18\" (Apr 14, published) | Blog post, trade-press sourced | Link internally; do not re-table the rates |\n| Transatlantic ocean rates are spiking alongside LTL | \"Freightos Weekly Update: Transatlantic ocean rates spike as surcharges take effect\" | Trade-press | Secondary supporting signal — use to show cross-modal breadth, not as a primary claim |\n| Community signals are active on tariff/customs (14 signals) | Pipeline signal data | Community | **Flag: limited high-trust confirmation** — do not treat as primary evidence |\n\n---\n\n## Section-Level Outline\n\n### Section 1: What changed since Q1 planning\n*~150 words*\nBrief framing: What rate environment did most logistics teams price into their Q2 models? What is the environment now? The gap between those two is what this post addresses. Reference the fuel price trajectory (diesel at $5.37, expected to drop) and the yield discipline shift among LTL carriers. Do not open with a rate table — open with the planning decision at risk.\n\n### Section 2: Two distinct drivers — yield discipline vs. fuel surge\n*~150 words*\nSeparate the two mechanisms explicitly:\n- **Yield discipline**: Carriers are choosing not to fill trucks at margin-diluting rates. This is a structural pricing behavior, not just demand pressure. It means spot rates and contract-to-spot gaps behave differently than in a demand-driven surge.\n- **Fuel price surge**: Diesel at $5.37 is above what most fuel escalator clauses anticipated. Surcharges activated Apr 18 are a direct pass-through.\nExplain why both stacking matters for cost modeling — they reinforce each other.\n\n### Section 3: Which assumption categories carry the most risk\n*~200 words*\nOrganized by function:\n- **Contracted rates vs. spot**: If contract rates were locked before yield discipline hardened, spot premiums may now exceed your buffer assumptions.\n- **Surcharge reserves**: April 18 surcharges from multiple carriers are now live — are they in your landed cost model?\n- **Mode selection thresholds**: If LTL economics have shifted, the LTL vs. FTL vs. parcel breakeven has moved. Teams using Q1 thresholds may be routing to higher cost modes.\n- **Order cycle timing**: Longer transit times or capacity constraints may be affecting whether expedite decisions still pencil out.\n\n### Section 4: What to verify this week — checklist\n*~150 words*\nConcrete, short. Numbered list. Examples:\n1. Pull the contract-to-spot gap on your top 5 LTL lanes — has the spread widened since January?\n2. Confirm April 18 surcharges are reflected in your landed cost calculations\n3. Check whether your fuel escalator clause has triggered — and what the next threshold is\n4. Review LTL/FTL/parcel mode decisions on lanes over 500 lbs — the breakeven has likely shifted\n5. Flag any inbound shipments whose transit assumptions were set pre-April\n\n### Section 5: Where this is heading in Q2\n*~100 words*\nObservable signal direction — not a forecast. The transatlantic rate spike (Freightos, trade-press) suggests cross-modal pressure isn't confined to land. The STB regulatory signal on ex parte proceedings may affect intermodal pricing further out. Watch the Freightos data and STB proceedings. Frame as \"what to monitor,\" not a prediction.\n\n---\n\n## Anti-Patterns\n\n**This is NOT another freight cost announcement.**\n- Do not replay \"Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37.\" (Apr 10) — that post broke the fuel story\n- Do not replay \"Three Carriers Activate New Surcharges April 18. Here's the Updated Rate Table.\" (Apr 14) — that post announced the surcharges\n- Do not open with a rate number — open with the planning decision\n- Do not use the word \"spike\" in the headline — it signals volatility recap, not decision support\n- Do not conclude with a generic \"monitor the situation\" paragraph — conclude with a specific action\n\n---\n\n## Internal Link Targets\n\n| Post | How to use |\n|------|-----------|\n| Diesel Was Supposed to Drop in 2026. Instead It Hit $5.37. Here Is How That Is Reshaping U.S. Freight. (Apr 10) | Context on fuel price trajectory — link in Section 1 or 2 |\n| Three Carriers Activate New Surcharges April 18. Here's the Updated Rate Table. (Apr 14) | Reference for surcharge details — link in Section 3, not to re-table rates |\n| Emergency Fuel Surcharges in April 2026: What Changed Since March and Where the Inland Cost Wave Fits Next (Apr 7) | Prior EFS coverage — link as historical context |\n| Port Congestion Index: Global Snapshot, Mar 23 – Apr 5, 2026 (Apr 9) | If Section 5 touches port-side capacity, link here |\n\n---\n\n## Competitor Gap\n\n**Project44** made significant homepage, solutions, and platform page updates on Apr 9 — all leaning into AI/automation, optimization/procurement, and analytics. Their framing is platform-level and generic (\"decision intelligence\") rather than mode-specific or operationally grounded. No indication they are covering the LTL yield discipline / fuel surcharge decision-support angle.\n\n**Shippeo** published a customer story (Mars France, unverified claims) — visibility proof, not cost intelligence.\n\n**Wakeo, FourKites, Transporeon, GoComet:** No activity on LTL rate or fuel surcharge decision content in the signal log.\n\n**Gap:** No competitor in the monitor is publishing the specific angle of \"which Q2 planning assumptions are now wrong and what to verify.\" Tradlinx can occupy this ground this week with a post that is more operationally specific than anything in the competitor feed.\n",
     "source_artifacts": [
-      "",
-      "",
-      ""
+      "editorial_intelligence/output/push-briefs/push-brief-2026-04-16.md",
+      "editorial_intelligence/output/planning-briefs/planning-brief-2026-04-16.md",
+      "editorial_intelligence/output/gold-context/content-pack-2026-04-16.md"
     ]
   }
 }
