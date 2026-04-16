@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T01:23:39+00:00",
+  "built_at": "2026-04-16T04:01:20+00:00",
   "requested_date": "2026-04-16",
   "audience": "internal_team",
   "guardrails": {
@@ -19,8 +19,8 @@
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
       "Lead daily item: First look: J.B. Hunt Q1 earnings.",
-      "Competitor watch is currently quiet at the important-change threshold, but baseline posture remains available.",
-      "Current weekly strategy read: Shippeo is signaling AI positioning around in transit visibility."
+      "Competitor watch: Baseline unchanged.",
+      "Weekly strategy: Weekly takeaway changed."
     ],
     "report_cards": [
       {
@@ -28,8 +28,9 @@
         "cadence": "Daily",
         "report_label": "2026-04-16",
         "freshness": "current",
+        "change_label": "Lead story changed",
         "summary": "Current market signals look more contextual than action-driving.",
-        "supporting_note": "Lead item: First look: J.B. Hunt Q1 earnings",
+        "supporting_note": "The lead item shifted from California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway to First look: J.B. Hunt Q1 earnings.",
         "href": "market-watch.html"
       },
       {
@@ -37,8 +38,9 @@
         "cadence": "Reference",
         "report_label": "2026-04-16",
         "freshness": "current",
+        "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -46,8 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
+        "change_label": "Weekly takeaway changed",
         "summary": "Shippeo is signaling AI positioning around in transit visibility.",
-        "supporting_note": "Cross-market read across competitors, adjacent platforms, analyst reports, and macro signals.",
+        "supporting_note": "The top weekly read moved away from Project44 is signaling AI positioning around procurement and tendering..",
         "href": "strategy-brief.html"
       }
     ],
@@ -73,6 +76,8 @@
       "Lead market story: First look: J.B. Hunt Q1 earnings.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
+    "change_label": "Lead story changed",
+    "change_detail": "The lead item shifted from California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway to First look: J.B. Hunt Q1 earnings.",
     "current_brief": {
       "report_date": "2026-04-16",
       "write_now": "No",
@@ -193,10 +198,13 @@
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
       "Latest lower-signal item came from Shippeo: Shippeo press releases announced \"Customer story The Power of Proof: How Mars France Saved Millions in Unverified Claims Leveraging trusted visibility to contest 75% of retailer penalties. April 14, 2026"
     ],
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 24,
     "target_count": 24,
     "important_count": 0,
     "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -302,6 +310,8 @@
       "Shippeo is signaling AI positioning around in transit visibility.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
+    "change_label": "Weekly takeaway changed",
+    "change_detail": "The top weekly read moved away from Project44 is signaling AI positioning around procurement and tendering..",
     "executive_takeaways": [
       "Shippeo is signaling AI positioning around in transit visibility."
     ],
