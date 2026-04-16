@@ -1,6 +1,6 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T04:03:15+00:00",
+  "built_at": "2026-04-16T04:25:07+00:00",
   "requested_date": "2026-04-16",
   "audience": "internal_team",
   "guardrails": {
@@ -55,12 +55,7 @@
       }
     ],
     "shared_warnings": [
-      "Oracle oracle_tms: offline mode has no previous cached observation",
-      "Kinaxis kinaxis_maestro: offline mode has no previous cached observation",
-      "SAP sap_control_tower: offline mode has no previous cached observation",
-      "e2open e2open_connected_supply_chain: offline mode has no previous cached observation",
-      "DHL dhl_trend_radar_2024: offline mode has no previous cached observation",
-      "Gartner gartner_supply_chain_tech_trends_2025: offline mode has no previous cached observation"
+      "Strategy reference layer still has 10 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
