@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-16T22:34:22+00:00",
-  "requested_date": "2026-04-17",
+  "built_at": "2026-04-17T22:34:45+00:00",
+  "requested_date": "2026-04-18",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-17",
+    "requested_date": "2026-04-18",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Bunker market stabilizes as prices extend downward correction.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Lead daily item: New York to lose $73 million playing licensing games with the Duffy.",
+      "Competitor watch: Watch-level movement detected.",
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-17",
+        "report_label": "2026-04-18",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-17",
+        "report_label": "2026-04-18",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W16",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around unknown.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,77 +64,77 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-17",
-    "last_updated": "2026-04-17 07:33",
+    "report_date": "2026-04-18",
+    "last_updated": "2026-04-18 07:33",
     "freshness": "current",
-    "status_note": "Market watch is led by Bunker market stabilizes as prices extend downward correction.",
+    "status_note": "Market watch is led by New York to lose $73 million playing licensing games with the Duffy.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Bunker market stabilizes as prices extend downward correction.",
+      "Lead market story: New York to lose $73 million playing licensing games with the Duffy.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-17",
+      "report_date": "2026-04-18",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026; Expansion near a four-year high - March 2026 Logistics Managers Index; 3PL vs In-House Logistics: Which Model Works Best Today?",
+      "headline": "New York to lose $73 million playing licensing games with the Duffy; Logistics layoffs top 800 as contracts unwind across trucking, warehousing; Canada Post mobilizes to end home delivery, close post offices",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Bunker market stabilizes as prices extend downward correction",
+    "headline": "New York to lose $73 million playing licensing games with the Duffy",
     "key_news_radar": [
       {
-        "title": "Bunker market stabilizes as prices extend downward correction",
-        "summary": "Since the announcement of the ceasefire in the Middle East on April 8, the global bunker market has entered a phase of temporary stabilization, accompanied by a moderate downward c",
+        "title": "New York to lose $73 million playing licensing games with the Duffy",
+        "summary": "Transportation Secretary Sean Duffy announced today that FMCSA is formally withholding $73,502,543 from the state of New York after the state failed to complete required corrective",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-16T18:15:00+00:00",
+        "timestamp": "2026-04-17T00:54:39+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/bunker-market-stabilizes-as-prices-extend-downward-correction/",
+        "link": "https://www.freightwaves.com/news/new-york-to-lose-73-million-playing-licensing-games-with-the-duffy",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Expansion near a four-year high - March 2026 Logistics Managers Index",
-        "summary": "While the freight market is certainly short of humming along for all, the March Logistics Managers' Index (LMI) shows some pretty clear signs of strength.",
+        "title": "Logistics layoffs top 800 as contracts unwind across trucking, warehousing",
+        "summary": "More layoffs have hit supply chain-related companies across the United States, signaling that while trucking spot market conditions have stabilized in some lanes, contract freight",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-16T15:51:19+00:00",
+        "timestamp": "2026-04-17T14:59:15+00:00",
         "confidence": "medium",
-        "link": "https://www.inteklogistics.com/blog/expansion-at-four-year-high-march-2026-logistics-managers-index-lmi",
+        "link": "https://www.freightwaves.com/news/logistics-layoffs-top-800-as-contracts-unwind-across-trucking-warehousing",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026",
-        "summary": "According to Chemical Engineering, achieving a sustainable supply chain requires combining multiple elements rather than relying on a single component.",
+        "title": "Iran opens Strait of Hormuz to commercial shipping during ceasefire",
+        "summary": "Iran has announced that commercial vessels will be allowed to transit through the Strait of Hormuz for the duration of the ceasefire in Lebanon, marking a significant development f",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-16T08:07:58+00:00",
+        "timestamp": "2026-04-17T14:31:46+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/how-chemical-logistics-providers-build-sustainable-supply-chains-in-2026/",
+        "link": "https://container-news.com/iran-opens-strait-of-hormuz-to-commercial-shipping-during-ceasefire/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "3PL vs In-House Logistics: Which Model Works Best Today?",
-        "summary": "Quick Answer Choosing between third-party logistics and managing operations internally depends on your business size, growth stage, and operational priorities.",
+        "title": "Canada Post mobilizes to end home delivery, close post offices",
+        "summary": "Canada Post on Thursday said it has started preliminary work to end home delivery and rationalize its retail network, part of a broad operational restructuring aimed at turning aro",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-16T09:09:46+00:00",
+        "timestamp": "2026-04-17T14:59:15+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/3pl-vs-in-house-logistics-choosing-the-right-model-in-2026/",
+        "link": "https://www.freightwaves.com/postalmag/postal-news/canada-post-mobilizes-to-end-home-delivery-close-post-offices/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "J.B. Hunt says TL inflection structural, not temporary",
-        "summary": "Hunt says TL inflection ‘structural,’ not temporary Executives at J.B.",
+        "title": "USPS imposes strict May 1 deadline on non-domiciled CDL drivers for mail transport",
+        "summary": "Postal Service has drawn a hard line on driver eligibility for its massive linehaul network.",
         "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-16T15:49:55+00:00",
+        "timestamp": "2026-04-17T16:56:30+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/j-b-hunt-says-tl-inflection-is-structural-not-temporary",
+        "link": "https://www.freightwaves.com/news/usps-imposes-strict-may-1-deadline-on-non-domiciled-cdl-drivers-for-mail-transport",
         "label": "Operational",
         "question_signal": ""
       }
@@ -142,68 +142,80 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "UK to USA - Instant tea confiscated by TSA, could I ship it instead?",
-        "summary": "My wife and I are long distance UK and USA.",
+        "title": "India Dubai 40' container: what's actually working with the Hormuz mess?",
+        "summary": "India → Dubai 40' container: what's actually working with the Hormuz mess?",
         "source": "Reddit",
-        "timestamp": "2026-04-16T06:18:48+00:00",
+        "timestamp": "2026-04-17T10:16:35+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1smvbpj/uk_to_usa_instant_tea_confiscated_by_tsa_could_i/",
-        "label": "",
-        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
-      },
-      {
-        "title": "Sea Freight vs Air Freight how Indian exporters should decide with rates surging in 2026",
-        "summary": "With air freight rates from India jumping 60 to 80% recently due to Middle East conflict and fuel costs, I wanted to share a simple decision framework for exporters.",
-        "source": "Reddit",
-        "timestamp": "2026-04-16T06:01:01+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1smuzwv/sea_freight_vs_air_freight_how_indian_exporters/",
+        "link": "https://old.reddit.com/r/logistics/comments/1snwu1l/india_dubai_40_container_whats_actually_working/",
         "label": "",
         "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
       },
       {
-        "title": "What is Amazon pick and pack vs what a 3PL does and the questions nobody answered clearly after every thread I could find",
-        "summary": "Most posts give a five-word answer or sound like a vendor wrote them.",
+        "title": "Is the real problem in import/export happening before shipping even starts?",
+        "summary": "I’ve been trying to understand how import/export actually works in practice, and something keeps coming up.",
         "source": "Reddit",
-        "timestamp": "2026-04-16T07:03:46+00:00",
+        "timestamp": "2026-04-17T17:43:55+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1smw3yo/what_is_amazon_pick_and_pack_vs_what_a_3pl_does/",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1so82iw/is_the_real_problem_in_importexport_happening/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+      },
+      {
+        "title": "Anyone else feel like reading every policy update yourself is becoming its own risk?",
+        "summary": "I think the only responsible way to stay on top of trade policy changes was to read everything myself.",
+        "source": "Reddit",
+        "timestamp": "2026-04-17T09:53:26+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1snwf8r/anyone_else_feel_like_reading_every_policy_update/",
+        "label": "",
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-18",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "New York to lose $73 million playing licensing games with the Duffy; Logistics layoffs top 800 as contracts unwind across trucking, warehousing; Canada Post mobilizes to end home delivery, close post offices",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-17",
         "write_now": "Maybe",
@@ -251,48 +263,39 @@
         "worth_attention_today": "3",
         "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets; Circle and Setramar launch digital logistics project in Ravenna; The Strait of Hormuz has entered a new phase of its administered closure",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-11",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Strait of Hormuz Tolls and Ceasefire Reshape Global Shipping and Oil Prices; How AI Agents in Delivery and Transportation Are Transforming Logistics; MPAs Contrecur Terminal Project Advances",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 136,
-      "high_trust": 44,
-      "trade_press": 31,
-      "community": 61
+      "total_items": 128,
+      "high_trust": 26,
+      "trade_press": 32,
+      "community": 70
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-17.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-17.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-17.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-18.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-18.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-18.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-17",
-    "run_started_at": "2026-04-17T07:33:34+09:00",
+    "report_date": "2026-04-18",
+    "run_started_at": "2026-04-18T07:33:44+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor)."
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -339,8 +342,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational",
+          "CMA CGM Digital Factory - Scheduled Maintenance"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-04-18",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-04-17",
         "company": "Project44",
@@ -383,38 +408,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260417T073334+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-17.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260418T073344+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-18.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-17",
+    "week_end_date": "2026-04-18",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around unknown.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around unknown."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -434,32 +459,17 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor).",
-        "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor). All Systems Operational",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-17",
-        "takeaway": "Project44 is signaling unknown around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-04-18",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
