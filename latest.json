@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-17T22:34:45+00:00",
-  "requested_date": "2026-04-18",
+  "built_at": "2026-04-18T22:37:44+00:00",
+  "requested_date": "2026-04-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-18",
+    "requested_date": "2026-04-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: New York to lose $73 million playing licensing games with the Duffy.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: US pressure intensifies against Sea Lead Shipping.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-18",
+        "report_label": "2026-04-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-18",
+        "report_label": "2026-04-19",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,78 +64,78 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-18",
-    "last_updated": "2026-04-18 07:33",
+    "report_date": "2026-04-19",
+    "last_updated": "2026-04-19 07:36",
     "freshness": "current",
-    "status_note": "Market watch is led by New York to lose $73 million playing licensing games with the Duffy.",
+    "status_note": "Market watch is led by US pressure intensifies against Sea Lead Shipping.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: New York to lose $73 million playing licensing games with the Duffy.",
+      "Lead market story: US pressure intensifies against Sea Lead Shipping.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-18",
+      "report_date": "2026-04-19",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
-      "worth_attention_today": "5",
-      "headline": "New York to lose $73 million playing licensing games with the Duffy; Logistics layoffs top 800 as contracts unwind across trucking, warehousing; Canada Post mobilizes to end home delivery, close post offices",
+      "highest_confidence_operational_items": "5",
+      "worth_attention_today": "3",
+      "headline": "US pressure intensifies against Sea Lead Shipping; Shipping between Far East and Europe? A price announcement is available; Descartes: global trade is focused on risk management amid Middle East tensions",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "New York to lose $73 million playing licensing games with the Duffy",
+    "headline": "US pressure intensifies against Sea Lead Shipping",
     "key_news_radar": [
       {
-        "title": "New York to lose $73 million playing licensing games with the Duffy",
-        "summary": "Transportation Secretary Sean Duffy announced today that FMCSA is formally withholding $73,502,543 from the state of New York after the state failed to complete required corrective",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-17T00:54:39+00:00",
+        "title": "US pressure intensifies against Sea Lead Shipping",
+        "summary": "government has significantly escalated its legal and regulatory actions against Singapore-based container line Sea Lead Shipping, alleging that the company served as a critical com",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-18T04:41:32+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/new-york-to-lose-73-million-playing-licensing-games-with-the-duffy",
+        "link": "https://container-news.com/us-pressure-intensifies-against-sea-lead-shipping/",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Logistics layoffs top 800 as contracts unwind across trucking, warehousing",
-        "summary": "More layoffs have hit supply chain-related companies across the United States, signaling that while trucking spot market conditions have stabilized in some lanes, contract freight",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-17T14:59:15+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/logistics-layoffs-top-800-as-contracts-unwind-across-trucking-warehousing",
+        "title": "Descartes: global trade is focused on risk management amid Middle East tensions",
+        "summary": "Global supply chain planning remains centered on risk management and flexibility amid elevated volatility and unpredictability, according to a monthly report on logistics metrics f",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-18T17:03:07+00:00",
+        "confidence": "high",
+        "link": "https://www.dcvelocity.com/supply-chain/other-services/global-logistics/descartes-global-trade-is-focused-on-risk-management-amid-middle-east-tensions",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Iran opens Strait of Hormuz to commercial shipping during ceasefire",
-        "summary": "Iran has announced that commercial vessels will be allowed to transit through the Strait of Hormuz for the duration of the ceasefire in Lebanon, marking a significant development f",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-17T14:31:46+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/iran-opens-strait-of-hormuz-to-commercial-shipping-during-ceasefire/",
+        "title": "Shipping between Far East and Europe? A price announcement is available",
+        "summary": "Our ocean tariff rates for Freight of All Kinds (FAK) between Far East and Europe will increase.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-17T14:03:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/04/shipping-between-far-east-and-europe--a-price-announcement-is-av.feed.rss.xml",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Canada Post mobilizes to end home delivery, close post offices",
-        "summary": "Canada Post on Thursday said it has started preliminary work to end home delivery and rationalize its retail network, part of a broad operational restructuring aimed at turning aro",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-17T14:59:15+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/postalmag/postal-news/canada-post-mobilizes-to-end-home-delivery-close-post-offices/",
-        "label": "Operational",
+        "title": "GT Lines adds second ChinaKhor Fakkan service",
+        "summary": "GT Lines adds second China-Khor Fakkan service GT Lines, part of Gulftainer, is expanding its network with the introduction of a second service linking China and Khor Fakkan, accor",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-18T02:40:34+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/gt-lines-adds-second-china-khor-fakkan-service/",
+        "label": "Watch",
         "question_signal": ""
       },
       {
-        "title": "USPS imposes strict May 1 deadline on non-domiciled CDL drivers for mail transport",
-        "summary": "Postal Service has drawn a hard line on driver eligibility for its massive linehaul network.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-17T16:56:30+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/usps-imposes-strict-may-1-deadline-on-non-domiciled-cdl-drivers-for-mail-transport",
-        "label": "Operational",
+        "title": "UAFL adds Sohar call to Middle East Express service",
+        "summary": "United Africa Feeder Lines is expanding its Middle East Express (MEX) service with the addition of Sohar to its rotation, enhancing connectivity across the Middle East, Indian Subc",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-18T20:52:21+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/uafl-adds-sohar-call-to-middle-east-express-service/",
+        "label": "Watch",
         "question_signal": ""
       }
     ],
@@ -146,11 +146,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -163,11 +163,11 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -177,37 +177,45 @@
     ],
     "community_questions": [
       {
-        "title": "India Dubai 40' container: what's actually working with the Hormuz mess?",
-        "summary": "India → Dubai 40' container: what's actually working with the Hormuz mess?",
+        "title": "How much will it approximately be getting a DVD sent from USA to UK?",
+        "summary": "So basically I've bought a 4K steelbook from Ebay costing around £70 and the seller has charged a £30 shipping fee (£100 total) I understand for me to receive my package I'll proba",
         "source": "Reddit",
-        "timestamp": "2026-04-17T10:16:35+00:00",
+        "timestamp": "2026-04-18T17:41:17+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1snwu1l/india_dubai_40_container_whats_actually_working/",
-        "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
-      },
-      {
-        "title": "Is the real problem in import/export happening before shipping even starts?",
-        "summary": "I’ve been trying to understand how import/export actually works in practice, and something keeps coming up.",
-        "source": "Reddit",
-        "timestamp": "2026-04-17T17:43:55+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1so82iw/is_the_real_problem_in_importexport_happening/",
+        "link": "https://old.reddit.com/r/shipping/comments/1sp458u/how_much_will_it_approximately_be_getting_a_dvd/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
       },
       {
-        "title": "Anyone else feel like reading every policy update yourself is becoming its own risk?",
-        "summary": "I think the only responsible way to stay on top of trade policy changes was to read everything myself.",
+        "title": "YANWEN shipping. Fellow Filipinos. Is this package lost? Cn to ph",
+        "summary": "It says end of tracking and the last update is last week.",
         "source": "Reddit",
-        "timestamp": "2026-04-17T09:53:26+00:00",
+        "timestamp": "2026-04-18T00:31:23+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1snwf8r/anyone_else_feel_like_reading_every_policy_update/",
+        "link": "https://old.reddit.com/r/shipping/comments/1soilk9/yanwen_shipping_fellow_filipinos_is_this_package/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
+      },
+      {
+        "title": "Taking NCBFAA CCS soon how strict is the proctoring?",
+        "summary": "Taking NCBFAA CCS soon — how strict is the proctoring?",
+        "source": "Reddit",
+        "timestamp": "2026-04-18T07:44:14+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sor7mi/taking_ncbfaa_ccs_soon_how_strict_is_the/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "5",
+        "worth_attention_today": "3",
+        "headline": "US pressure intensifies against Sea Lead Shipping; Shipping between Far East and Europe? A price announcement is available; Descartes: global trade is focused on risk management amid Middle East tensions",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-18",
         "write_now": "Maybe",
@@ -255,48 +263,41 @@
         "worth_attention_today": "5",
         "headline": "Tariffs and Rising Fuel Prices Weigh on U.S. Import Outlook; Borderlands Mexico: China automakers gain ground as U.S. exports soften; MSC extends emergency fuel surcharge amid global fuel market disruption",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "5",
-        "worth_attention_today": "3",
-        "headline": "Freight Rates Tick Up as Fuel Pressures and Hormuz Tensions Reshape Shipping Markets; Circle and Setramar launch digital logistics project in Ravenna; The Strait of Hormuz has entered a new phase of its administered closure",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 128,
-      "high_trust": 26,
-      "trade_press": 32,
-      "community": 70
+      "total_items": 58,
+      "high_trust": 14,
+      "trade_press": 6,
+      "community": 38
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-18",
-    "run_started_at": "2026-04-18T07:33:44+09:00",
+    "report_date": "2026-04-19",
+    "run_started_at": "2026-04-19T07:36:31+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page returned to all systems operational."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -342,21 +343,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational",
-          "CMA CGM Digital Factory - Scheduled Maintenance"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-04-18",
@@ -408,14 +395,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260418T073344+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260419T073631+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-19.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W16",
-    "week_end_date": "2026-04-18",
+    "week_end_date": "2026-04-19",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -465,7 +452,7 @@
     "recent_history": [
       {
         "week_label": "2026-W16",
-        "week_end_date": "2026-04-18",
+        "week_end_date": "2026-04-19",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
