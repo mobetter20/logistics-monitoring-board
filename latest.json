@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-19T22:33:18+00:00",
-  "requested_date": "2026-04-20",
+  "built_at": "2026-04-20T22:42:35+00:00",
+  "requested_date": "2026-04-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-20",
+    "requested_date": "2026-04-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Same direction as the prior run."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-20",
+        "report_label": "2026-04-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-20",
+        "report_label": "2026-04-21",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance).",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,78 +64,78 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-20",
-    "last_updated": "2026-04-20 07:32",
+    "report_date": "2026-04-21",
+    "last_updated": "2026-04-21 07:41",
     "freshness": "current",
-    "status_note": "Market watch is led by Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims.",
+    "status_note": "Market watch is led by AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims.",
+      "Lead market story: AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-20",
+      "report_date": "2026-04-21",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "5",
+      "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Building Resilient Supply Chains Amid Geopolitical Disruptions and Trade Uncertainty; Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims; Borderlands Mexico: Truck exports to U.S. fall in March",
+      "headline": "AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report; Motor carriers, 3PLs persevere with sustainability programs as government mandates are scaled back or rescinded; Ecuador: Inland Emergency Fuel & Energy Surcharges Introduction",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims",
+    "headline": "AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report",
     "key_news_radar": [
       {
-        "title": "Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims",
-        "summary": "Shipping Industry Warns Hormuz Is Far From ‘Open’ Despite Official Claims Global shipping bodies are pushing back against claims that the Strait of Hormuz has reopened, cautioning",
+        "title": "AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report",
+        "summary": "AI continues to drive major disruptions in supply chain field, according to MHI’s Annual Industry Report Artificial intelligence (AI) is rewiring the way the supply chain operates,",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-19T08:27:05+00:00",
+        "timestamp": "2026-04-20T17:11:46+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/shipping-industry-warns-hormuz-is-far-from-open-despite-official-claims/",
+        "link": "https://www.dcvelocity.com/technology/ai-continues-to-drive-major-disruptions-in-supply-chain-field-according-to-mhis-annual-industry-report",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Building Resilient Supply Chains Amid Geopolitical Disruptions and Trade Uncertainty",
-        "summary": "Global supply chains are facing increasing pressure due to geopolitical disruptions and rising trade uncertainty.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-19T08:27:05+00:00",
+        "title": "Motor carriers, 3PLs persevere with sustainability programs as government mandates are scaled back or rescinded",
+        "summary": "Sustainability initiatives have been part and parcel of corporate business strategies for over a decade.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-20T17:11:46+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/building-resilient-supply-chains-amid-geopolitical-disruptions-and-trade-uncertainty/",
+        "link": "https://www.dcvelocity.com/supply-chain/other-services/green-logistics/motor-carriers-3pls-persevere-with-sustainability-programs-as-government-mandates-are-scaled-back-or-rescinded",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Borderlands Mexico: Truck exports to U.S. fall in March",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-19T13:03:49+00:00",
+        "title": "Ecuador: Inland Emergency Fuel & Energy Surcharges Introduction",
+        "summary": "Ecuador: Inland Emergency Fuel & Energy Surcharges - Introduction We continuously strive to keep your inland logistics reliable, transparent, and efficient.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-19T12:24:00+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-truck-exports-to-u-s-fall-in-march",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/04/ecuador--inland-emergency-fuel---energy-surcharges---introductio.feed.rss.xml",
         "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "News in Brief podcast | Week 16 2026 | Fuel surcharges, contract advice, and IEEPA refunds",
-        "summary": "This week’s News in Brief takes stock of a fragile pause in Middle East tensions, as the US-Iran ceasefire enters its second week.",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-19T16:04:34+00:00",
-        "confidence": "high",
-        "link": "https://theloadstar.com/news-in-brief-podcast-week-16-2026-fuel-surcharges-contract-advice-and-ieepa-refunds/",
-        "label": "Watch",
+        "title": "Readers Speak: U.S. blockade seen as regional shipping disruption",
+        "summary": "Strong consensus on regional impact The U.S.",
+        "source": "Feeds-3 / 0 Risk",
+        "timestamp": "2026-04-20T06:02:14+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/readers-speak-u-s-blockade-seen-as-regional-shipping-disruption/",
+        "label": "Operational",
         "question_signal": ""
       },
       {
-        "title": "Iran War: expensive oil drives rising inflation in U.S.",
-        "summary": "Skyrocketing fuel prices driven up by supply chain side-effects of the Iran War contributed 25% of the sharp increase in the rising inflation rate here in the U.S., according to da",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-18T17:03:07+00:00",
+        "title": "Emergency Operations Charge (EOO/EOD) for Third-Party Feeder Services in the Caribbean and South America",
+        "summary": "Due to ongoing geopolitical developments, fuel prices have increased significantly, impacting feeder operations provided by third-party service providers, including feeder vessels",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-20T16:10:00+00:00",
         "confidence": "high",
-        "link": "https://www.dcvelocity.com/transportation/trucking/iran-war-expensive-oil-drives-rising-inflation-in-u-s",
-        "label": "Watch",
+        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/04/emergency-operations-charge--eoo-eod--for-third-party-feeder-ser.feed.rss.xml",
+        "label": "Operational",
         "question_signal": ""
       }
     ],
@@ -146,32 +146,28 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -181,37 +177,45 @@
     ],
     "community_questions": [
       {
-        "title": "Advice",
-        "summary": "Hi, I have been recently offered a job for Production Team Lead.",
+        "title": "Has anyone else dealt with legal threats from shipyards for pointing out build issues?. My experience with Azimut",
+        "summary": "I work as an independent yacht broker.",
         "source": "Reddit",
-        "timestamp": "2026-04-18T19:39:28+00:00",
+        "timestamp": "2026-04-19T12:58:15+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sp781g/advice/",
+        "link": "https://old.reddit.com/r/maritime/comments/1spsahw/has_anyone_else_dealt_with_legal_threats_from/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       },
       {
-        "title": "Why are there suddenly so many tankers clustered around Bandar Abbas / the Strait of Hormuz and hardly anyone is talking about it?",
-        "summary": "I’m tracking vessels like Derafsh, Burgan, Antrix, Delvar, Dawn and others all packed into a relatively tight area.",
+        "title": "27M considering supply chain vs accounting convince me why I should or shouldnt go into supply chain",
+        "summary": "27M considering supply chain vs accounting — convince me why I should or shouldn’t go into supply chain I’m 27 and planning to go back to school, trying to decide between Supply Ch",
         "source": "Reddit",
-        "timestamp": "2026-04-19T11:29:47+00:00",
+        "timestamp": "2026-04-19T22:39:29+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1spqfty/why_are_there_suddenly_so_many_tankers_clustered/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1sq7fi7/27m_considering_supply_chain_vs_accounting/",
         "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved."
       },
       {
-        "title": "OS on Ro-Ro thinking about moving to offshore rigger. Worth it?",
-        "summary": "OS on Ro-Ro — thinking about moving to offshore rigger.",
+        "title": "Deck cadet whit 38 years old???",
+        "summary": "Hello, I would greatly appreciate your help.",
         "source": "Reddit",
-        "timestamp": "2026-04-18T13:27:20+00:00",
+        "timestamp": "2026-04-20T00:00:31+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1soxn1h/os_on_roro_thinking_about_moving_to_offshore/",
+        "link": "https://old.reddit.com/r/maritime/comments/1sq9a4f/deck_cadet_whit_38_years_old/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms."
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report; Motor carriers, 3PLs persevere with sustainability programs as government mandates are scaled back or rescinded; Ecuador: Inland Emergency Fuel & Energy Surcharges Introduction",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-20",
         "write_now": "Maybe",
@@ -259,52 +263,44 @@
         "worth_attention_today": "5",
         "headline": "California regulators have started a regulatory push on diesel TRU emissions; U.S.-Mexico trade hits $73B in February as border capacity tightens; Georgia Tech Research confirms Port of Savannah as most cost-effective gateway",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Mexico FDI ranking jumps in 2026 as nearshoring boosts investment; Crane Worldwide Logistics expands into Spain through acquisition; MSC launches Phoenix service",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 95,
-      "high_trust": 14,
-      "trade_press": 5,
-      "community": 76
+      "total_items": 115,
+      "high_trust": 25,
+      "trade_press": 15,
+      "community": 75
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-20",
-    "run_started_at": "2026-04-20T07:32:24+09:00",
+    "report_date": "2026-04-21",
+    "run_started_at": "2026-04-21T07:41:26+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance).",
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
-    "watch_count": 0,
+    "important_count": 0,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -345,22 +341,21 @@
         "count": "3"
       }
     ],
-    "important_changes": [
+    "important_changes": [],
+    "watch_items": [
       {
         "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance).",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance).",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "Service Under Maintenance",
-          "Booking API (under maintenance)"
+          "All Systems Operational"
         ]
       }
     ],
-    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-04-20",
@@ -412,14 +407,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260420T073224+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260421T074126+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-21.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W17",
-    "week_end_date": "2026-04-20",
+    "week_end_date": "2026-04-21",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -431,13 +426,16 @@
     "change_label": "Same direction as the prior run",
     "change_detail": "The weekly takeaway is broadly unchanged versus the prior run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around procurement and tendering."
+      "Project44 is signaling AI positioning around procurement and tendering.",
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering."
+      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering.",
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
@@ -464,7 +462,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
       {
@@ -480,16 +478,30 @@
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W17",
-        "week_end_date": "2026-04-20",
+        "week_end_date": "2026-04-21",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
-        "signal_count": "1",
+        "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
