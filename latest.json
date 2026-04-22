@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-21T22:33:49+00:00",
-  "requested_date": "2026-04-22",
+  "built_at": "2026-04-22T22:49:10+00:00",
+  "requested_date": "2026-04-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-22",
+    "requested_date": "2026-04-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Trans-Pacific container rates rise, but theres a catch.",
+      "Lead daily item: What Network Downtime Really Costs Manufacturers.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Same direction as the prior run."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-22",
+        "report_label": "2026-04-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-22",
+        "report_label": "2026-04-23",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,154 +64,174 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-22",
-    "last_updated": "2026-04-22 07:32",
+    "report_date": "2026-04-23",
+    "last_updated": "2026-04-23 07:48",
     "freshness": "current",
-    "status_note": "Market watch is led by Trans-Pacific container rates rise, but theres a catch.",
+    "status_note": "Market watch is led by What Network Downtime Really Costs Manufacturers.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Trans-Pacific container rates rise, but theres a catch.",
-      "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Lead market story: What Network Downtime Really Costs Manufacturers.",
+      "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-22",
+      "report_date": "2026-04-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Your Truck Is Getting More Expensive to Fix. Here Is the Data on Why and What to Do Before It Gets Worse.; Temporary Suspension of our JD2 & JD3 services; After CBS report, C.H. Robinson seeks to deflect safety responsibility to FMCSA",
+      "headline": "What Network Downtime Really Costs Manufacturers; Cargo theft remains major global supply chain risk; North Europe: Emergency Operations Charge (EOO/EOD) for Third-Party Feeder Services",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 6,
-    "headline": "Trans-Pacific container rates rise, but theres a catch",
+    "active_recent_days": 7,
+    "headline": "What Network Downtime Really Costs Manufacturers",
     "key_news_radar": [
       {
-        "title": "Trans-Pacific container rates rise, but theres a catch",
-        "summary": "Trans-Pacific container rates rise, but there’s a catch While the Strait of Hormuz remains a cynosure for global shipping, container rates on the benchmark Asia-U.S.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-21T20:54:54+00:00",
+        "title": "What Network Downtime Really Costs Manufacturers",
+        "summary": "A parts supplier outside Detroit runs its production line around the clock.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-22T21:49:43+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/trans-pacific-container-rates-rise-but-theres-a-catch",
+        "link": "https://www.freightwaves.com/news/what-network-downtime-really-costs-manufacturers",
         "label": "Operational",
-        "question_signal": ""
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       },
       {
-        "title": "Your Truck Is Getting More Expensive to Fix. Here Is the Data on Why and What to Do Before It Gets Worse.",
-        "summary": "Your Truck Is Getting More Expensive to Fix.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-21T21:56:19+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/your-truck-is-getting-more-expensive-to-fix-here-is-the-data-on-why-and-what-to-do-before-it-gets-worse",
-        "label": "Operational",
-        "question_signal": ""
-      },
-      {
-        "title": "Temporary Suspension of our JD2 & JD3 services",
-        "summary": "If you are shipping via the Red Sea, please note the following update, which may affect your cargo planning.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-04-21T13:00:00+00:00",
+        "title": "Gunfire and gridlock choke Hormuz",
+        "summary": "The shadow of the 1970s oil embargo has returned to haunt the global economy, but with a modern, more violent twist.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-22T07:39:31+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/04/temporary-suspension-of-our-jd2---jd3-services.feed.rss.xml",
+        "link": "https://splash247.com/gunfire-and-gridlock-choke-hormuz/",
         "label": "Operational",
-        "question_signal": ""
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       },
       {
-        "title": "After CBS report, C.H. Robinson seeks to deflect safety responsibility to FMCSA",
-        "summary": "After arguing the issue of broker liability before the highest court in the land, C.H.",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-20T19:10:21+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/after-cbs-report-c-h-robinson-seeks-to-deflect-safety-responsibility-to-fmcsa",
+        "title": "North Europe: Emergency Operations Charge (EOO/EOD) for Third-Party Feeder Services",
+        "summary": "Due to ongoing geopolitical developments, fuel prices have increased significantly, impacting feeder operations provided by third-party service providers.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-22T12:07:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/04/emergency-operations-charge--eoo-eod--for-third-party-feeder-ser0.feed.rss.xml",
         "label": "Operational",
-        "question_signal": ""
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       },
       {
-        "title": "Gemini to suspend two more Middle East shuttles in May due to war",
-        "summary": "Hapag-Lloyd said the changes “reflect the consolidation of capacity into alternative services to ensure continued reliable coverage in the region.\"",
-        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-04-21T17:33:04+00:00",
-        "confidence": "medium",
-        "link": "https://joc.com/article/gemini-to-suspend-two-more-middle-east-shuttles-in-may-due-to-war-6207529",
+        "title": "Container spot rates into Jeddah taper off as Gulf landbridge routes bed in",
+        "summary": "With vessel security around the Strait of Hormuz continuing to fluctuate, Gulf container import supply chains routed through bypass ports and connected by landbridges look set to b",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-22T17:03:44+00:00",
+        "confidence": "high",
+        "link": "https://theloadstar.com/container-spot-rates-into-jeddah-taper-off-as-gulf-landbridge-routes-bed-in/",
         "label": "Operational",
-        "question_signal": ""
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Italy: Update on Inland Emergency Fuel & Energy Surcharges",
+        "summary": "With reference to our previous announcement, please note that we will increase the Inland Fuel Floater (Diesel) for applicable inland services in Italy.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-04-22T10:04:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/04/italy---diesel-surcharge-local-update.feed.rss.xml",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press, community coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "Catch up on what happened this week in Logistics: April 14-20",
-        "summary": "Hey everyone, If it's your first time reading one of my posts, I break down the top logistics news from the past week, so you're always up to date.",
+        "title": "Partnering with Non-WCA freight forwarders as a WCA holder company?",
+        "summary": "I’m an Indian working with a Chinese freight forwarding company, and I’ve been thinking about a business model that could help smaller forwarders/importers who don’t have access to",
         "source": "Reddit",
-        "timestamp": "2026-04-21T21:05:30+00:00",
+        "timestamp": "2026-04-22T07:22:53+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1ss0sbv/catch_up_on_what_happened_this_week_in_logistics/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1sseb2y/partnering_with_nonwca_freight_forwarders_as_a/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions.",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       },
       {
-        "title": "Five surcharges Indian exporters are paying right now in April 2026 and most do not know what they are",
-        "summary": "With freight rates already elevated due to Red Sea and Strait of Hormuz disruptions, Indian exporters are facing an additional layer of surcharges on top of base freight rates that",
+        "title": "Any freight brokers here who got CTPAT certified? Need real insights.",
+        "summary": "Hey everyone, I’m a freight broker (non-asset, no trucks/warehouses) and currently working on applying for Customs Trade Partnership Against Terrorism (CTPAT).",
         "source": "Reddit",
-        "timestamp": "2026-04-21T10:14:55+00:00",
+        "timestamp": "2026-04-21T21:25:10+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1srjfl5/five_surcharges_indian_exporters_are_paying_right/",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1ss1brj/any_freight_brokers_here_who_got_ctpat_certified/",
         "label": "",
-        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions.",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       },
       {
-        "title": "Looking for reliable customs broker in Manzanillo (works with freight forwarders)",
-        "summary": "Hey everyone, I’m a US-based freight forwarder operating out of Texas, and I have a client looking to start routing shipments through Manzanillo, MX.",
+        "title": "Does anyone have experience with customs clearance?",
+        "summary": "My package arrived at Vienna Airport on Monday, April 20th.",
         "source": "Reddit",
-        "timestamp": "2026-04-21T17:50:35+00:00",
+        "timestamp": "2026-04-22T18:58:27+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/CustomsBroker/comments/1srv7tx/looking_for_reliable_customs_broker_in_manzanillo/",
+        "link": "https://old.reddit.com/r/shipping/comments/1ssusgp/does_anyone_have_experience_with_customs_clearance/",
         "label": "",
-        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions."
+        "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions.",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "What Network Downtime Really Costs Manufacturers; Cargo theft remains major global supply chain risk; North Europe: Emergency Operations Charge (EOO/EOD) for Third-Party Feeder Services",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-22",
         "write_now": "Maybe",
@@ -259,33 +279,25 @@
         "worth_attention_today": "5",
         "headline": "How Chemical Logistics Providers Build Sustainable Supply Chains in 2026; Expansion near a four-year high - March 2026 Logistics Managers Index; 3PL vs In-House Logistics: Which Model Works Best Today?",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-16",
-        "write_now": "No",
-        "highest_confidence_operational_items": "1",
-        "worth_attention_today": "0",
-        "headline": "First look: J.B. Hunt Q1 earnings",
-        "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
       }
     ],
     "source_snapshot": {
-      "total_items": 205,
-      "high_trust": 12,
-      "trade_press": 74,
-      "community": 119
+      "total_items": 149,
+      "high_trust": 37,
+      "trade_press": 34,
+      "community": 78
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-22",
-    "run_started_at": "2026-04-22T07:32:59+09:00",
+    "report_date": "2026-04-23",
+    "run_started_at": "2026-04-23T07:48:02+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -296,12 +308,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -372,41 +384,17 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-04-09",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-04-09",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger visibility, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced procurement and analytics messaging",
-        "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-04-09",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger optimization / procurement and analytics and decision intelligence language and introduced procurement, routing / optimization, and analytics messaging",
-        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260422T073259+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260423T074802+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W17",
-    "week_end_date": "2026-04-22",
+    "week_end_date": "2026-04-23",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -488,7 +476,7 @@
     "recent_history": [
       {
         "week_label": "2026-W17",
-        "week_end_date": "2026-04-22",
+        "week_end_date": "2026-04-23",
         "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
         "signal_count": "2",
         "active_thesis_count": "0",
