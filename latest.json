@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-24T23:10:12+00:00",
-  "requested_date": "2026-04-25",
+  "built_at": "2026-04-25T22:33:48+00:00",
+  "requested_date": "2026-04-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-25",
+    "requested_date": "2026-04-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Port of Antwerp-Bruges first quarter throughput declines.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: AsiaEurope Container Rates Slide as Iran Conflict Impact Fades.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Same direction as the prior run."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-25",
+        "report_label": "2026-04-26",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-25",
+        "report_label": "2026-04-26",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,52 +49,52 @@
         "report_label": "2026-W17",
         "freshness": "current",
         "change_label": "Same direction as the prior run",
-        "summary": "Project44 is signaling AI positioning around procurement and tendering.",
+        "summary": "Project44 is signaling AI positioning around unknown.",
         "supporting_note": "The weekly takeaway is broadly unchanged versus the prior run.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
+      "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-25",
-    "last_updated": "2026-04-25 08:09",
+    "report_date": "2026-04-26",
+    "last_updated": "2026-04-26 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Port of Antwerp-Bruges first quarter throughput declines.",
+    "status_note": "Market watch is led by AsiaEurope Container Rates Slide as Iran Conflict Impact Fades.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Port of Antwerp-Bruges first quarter throughput declines.",
+      "Lead market story: AsiaEurope Container Rates Slide as Iran Conflict Impact Fades.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-25",
+      "report_date": "2026-04-26",
       "write_now": "Maybe",
-      "highest_confidence_operational_items": "6",
+      "highest_confidence_operational_items": "4",
       "worth_attention_today": "5",
-      "headline": "Port of Antwerp-Bruges first quarter throughput declines; Iran Seizes Two Ships in Strait of Hormuz, Escalating Maritime Standoff with US; IMO Chief Condemns Strait of Hormuz Attacks and Ship Seizures",
+      "headline": "AsiaEurope Container Rates Slide as Iran Conflict Impact Fades; Who Qualifies for Tariff Refunds through the New CAPE Portal?; Norfolk Southern earnings slip as winter weather impacts rail volume",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Port of Antwerp-Bruges first quarter throughput declines",
+    "headline": "AsiaEurope Container Rates Slide as Iran Conflict Impact Fades",
     "key_news_radar": [
       {
-        "title": "Port of Antwerp-Bruges first quarter throughput declines",
-        "summary": "The Port of Antwerp-Bruges handled 65.5 million tonnes of maritime cargo in the first quarter of 2026, a 3.2% decrease compared to the same period in 2025.",
+        "title": "AsiaEurope Container Rates Slide as Iran Conflict Impact Fades",
+        "summary": "Asia-Europe Container Rates Slide as Iran Conflict Impact Fades Container freight rates on the key Asia-Europe lanes are retreating back to pre-conflict levels, as supply chains st",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-24T20:07:11+00:00",
+        "timestamp": "2026-04-25T09:07:16+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/port-of-antwerp-bruges-first-quarter-throughput-declines/",
+        "link": "https://www.globaltrademag.com/asia-europe-container-rates-slide-as-iran-conflict-impact-fades/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -102,12 +102,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Iran Seizes Two Ships in Strait of Hormuz, Escalating Maritime Standoff with US",
-        "summary": "On Wednesday, Iran opened fire on three vessels navigating the Strait of Hormuz and commandeered two of them, escalating its campaign in this crucial maritime corridor.",
+        "title": "Norfolk Southern earnings slip as winter weather impacts rail volume",
+        "summary": "Norfolk Southern reported slightly lower first-quarter earnings on Friday morning as harsh winter weather took a toll on volume in February and fuel prices jumped in March.",
         "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-24T21:04:27+00:00",
+        "timestamp": "2026-04-25T02:31:53+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/iran-seizes-two-ships-in-strait-of-hormuz-escalating-maritime-standoff-with-us/",
+        "link": "https://www.freightwaves.com/news/norfolk-southern-earnings-slip-as-winter-weather-impacts-rail-volume",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -115,38 +115,38 @@
         "confirmed_by": []
       },
       {
-        "title": "Middle East: Emergency Operations Charge (EOO/EOD) for Third-Party Feeder Services",
-        "summary": "Due to ongoing geopolitical developments, fuel prices have increased significantly, impacting feeder operations provided by third-party service providers.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-04-23T15:14:00+00:00",
+        "title": "Record operating income, revenue for Union Pacific in Q1",
+        "summary": "Union Pacific reported record first-quarter financial results despite carrying slightly less freight than a year ago.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-25T02:31:53+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/04/middle-east--emergency-operations-charge--eoo-eod--for-third-par.feed.rss.xml",
-        "label": "Operational",
+        "link": "https://www.freightwaves.com/news/record-operating-income-revenue-for-union-pacific-in-q1",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "IMO Chief Condemns Strait of Hormuz Attacks and Ship Seizures",
-        "summary": "The leader of the International Maritime Organization has voiced alarm over the worsening security conditions in the Strait of Hormuz, following an incident where Iran’s Revolution",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-24T21:04:27+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/imo-chief-condemns-strait-of-hormuz-attacks-and-ship-seizures/",
-        "label": "Operational",
+        "title": "PortSide Stories: Ningbo-Zhoushan",
+        "summary": "PortSide Stories: Ningbo-Zhoushan China’s Industrial Gateway to the World The Port of Ningbo-Zhoushan sits on China’s eastern coastline.",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-25T10:54:33+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/portside-stories-ningbo-zhoushan/",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "First look: Covenant flags March rebound after soft Q1 earnings",
-        "summary": "Covenant Logistics Group reported weaker-than-expected first-quarter 2026 earnings as severe winter weather and higher fuel costs weighed on performance, though improving freight t",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-23T22:43:10+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/first-look-covenant-flags-march-rebound-after-soft-q1",
+        "title": "Who Qualifies for Tariff Refunds through the New CAPE Portal?",
+        "summary": "The Supreme Court ruled in February that the Federal Government had illegally collected tariffs from importers in the United States using the International Emergency Economic Power",
+        "source": "Feeds-3 / Port Infrastructure",
+        "timestamp": "2026-04-25T09:07:16+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/who-qualifies-for-tariff-refunds-through-the-new-cape-portal/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -155,10 +155,6 @@
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -170,26 +166,22 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press, community coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [
       {
-        "title": "How do you guys manage client expectations when cargo gets offloaded at transit hubs?",
-        "summary": "Hi everyone, I’m an air freight forwarder and I’ve been running into a recurring challenge that I’m sure many of you face.",
+        "title": "Looking for professional feedback: Could a lightweight \"Admin-to-Member\" status overlay help reduce check-call friction?",
+        "summary": "Hey r/logistics, I’m an indie developer looking for some professional insight from people who manage fleets or coordinate dispatch.",
         "source": "Reddit",
-        "timestamp": "2026-04-24T09:48:06+00:00",
+        "timestamp": "2026-04-25T21:16:22+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/freightforwarding/comments/1sub3gm/how_do_you_guys_manage_client_expectations_when/",
+        "link": "https://old.reddit.com/r/logistics/comments/1svo7qv/looking_for_professional_feedback_could_a/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
         "source_id": "",
@@ -197,33 +189,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Shipment stuck at DHL Cincinnati Hub since February, Government Order status, FDA Form 2877, nobody will help, desperate for advice",
-        "summary": "I've been dealing with this nightmare since December 2025 and I'm completely out of options.",
+        "title": "Junior in a low-maturity Indirect Sourcing team (Space/Defense) - being asked to define my own role. Which direction is most future-proof?",
+        "summary": "Background: I’m the most junior member on a small (~5 person) Indirect Sourcing team in highly scaling aerospace & defense company.",
         "source": "Reddit",
-        "timestamp": "2026-04-24T14:24:52+00:00",
+        "timestamp": "2026-04-25T13:19:45+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1suh8ps/shipment_stuck_at_dhl_cincinnati_hub_since/",
+        "link": "https://old.reddit.com/r/procurement/comments/1svc0wr/junior_in_a_lowmaturity_indirect_sourcing_team/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Protests/520(d)s Filed for IEEPA; How to Handle with CAPE - Phase 1 and 2",
+        "summary": "We’ve got a few protests and 520(d)s lodged specifically for IEEPA tariffs.",
+        "source": "Reddit",
+        "timestamp": "2026-04-24T22:10:21+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/CustomsBroker/comments/1sutvai/protests520ds_filed_for_ieepa_how_to_handle_with/",
         "label": "",
         "question_signal": "Shows practical cost or compliance confusion that could turn into customer questions.",
-        "source_id": "",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Third party logistics ontario when you're shipping to both canada and the US, how do people structure this",
-        "summary": "Trying to figure out the right 3PL setup for an ontario brand that has meaningful volume on both sides of the border The hybrid model keeps coming up, ontario based fulfillment for",
-        "source": "Reddit",
-        "timestamp": "2026-04-24T05:31:42+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1su6okr/third_party_logistics_ontario_when_youre_shipping/",
-        "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
         "source_id": "",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "4",
+        "worth_attention_today": "5",
+        "headline": "AsiaEurope Container Rates Slide as Iran Conflict Impact Fades; Who Qualifies for Tariff Refunds through the New CAPE Portal?; Norfolk Southern earnings slip as winter weather impacts rail volume",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-25",
         "write_now": "Maybe",
@@ -271,53 +271,109 @@
         "worth_attention_today": "5",
         "headline": "Building Resilient Supply Chains Amid Geopolitical Disruptions and Trade Uncertainty; Shipping Industry Warns Hormuz Is Far From Open Despite Official Claims; Borderlands Mexico: Truck exports to U.S. fall in March",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "5",
-        "worth_attention_today": "3",
-        "headline": "US pressure intensifies against Sea Lead Shipping; Shipping between Far East and Europe? A price announcement is available; Descartes: global trade is focused on risk management amid Middle East tensions",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 120,
-      "high_trust": 9,
-      "trade_press": 51,
-      "community": 60
+      "total_items": 80,
+      "high_trust": 12,
+      "trade_press": 4,
+      "community": 64
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-25",
-    "run_started_at": "2026-04-25T08:09:59+09:00",
+    "report_date": "2026-04-26",
+    "run_started_at": "2026-04-26T07:32:52+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance)."
+      "Newest meaningful competitor move: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
-    "targets_fetched": 0,
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
-    "company_summaries": [],
-    "peer_themes": [],
-    "important_changes": [],
+    "last_signal_label": "Today",
+    "company_summaries": [
+      {
+        "company": "Project44",
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+      },
+      {
+        "company": "FourKites",
+        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
+      },
+      {
+        "company": "Shippeo",
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and AI and automation."
+      },
+      {
+        "company": "Transporeon",
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+      },
+      {
+        "company": "Wakeo",
+        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
+      },
+      {
+        "company": "GoComet",
+        "summary": "Current narrative leans toward analytics and decision intelligence, AI and automation, and platform / control tower."
+      }
+    ],
+    "peer_themes": [
+      {
+        "theme": "AI",
+        "count": "4"
+      },
+      {
+        "theme": "automation",
+        "count": "4"
+      },
+      {
+        "theme": "data quality / connectivity",
+        "count": "3"
+      },
+      {
+        "theme": "optimization / procurement",
+        "count": "3"
+      }
+    ],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-04-26",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-04-20",
         "company": "Project44",
@@ -344,59 +400,30 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260425T080959+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260426T073252+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-26.md"
     ],
-    "warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Release notes: Network error for https://developers.project44.com/release-notes: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Solutions page: Network error for https://www.fourkites.com/products: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Press releases: Network error for https://www.fourkites.com/press/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Status page: Network error for https://status.fourkites.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Homepage: Network error for https://www.shippeo.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Platform page: Network error for https://www.shippeo.com/solutions/ecmr: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Solutions page: Network error for https://www.shippeo.com/solutions/ocean-visibility: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Press releases: Network error for https://www.shippeo.com/resources/explore: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Platform page: Network error for https://www.transporeon.com/en_US/platform: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Status page: Network error for https://transporeon.statuspage.io/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Homepage: Network error for https://wakeo.co/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Solutions page: Network error for https://wakeo.co/solution/shippers/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Newsroom: Network error for https://wakeo.co/news/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Homepage: Network error for https://www.gocomet.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Platform page: Network error for https://www.gocomet.com/logistics-control-tower: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Solutions page: Network error for https://www.gocomet.com/freight-management-software: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Press releases: Network error for https://www.gocomet.com/sitemap: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    ]
+    "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W17",
-    "week_end_date": "2026-04-25",
+    "week_end_date": "2026-04-26",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
+    "status_note": "Project44 is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around procurement and tendering.",
+      "Project44 is signaling AI positioning around unknown.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Same direction as the prior run",
     "change_detail": "The weekly takeaway is broadly unchanged versus the prior run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around procurement and tendering.",
+      "Project44 is signaling AI positioning around unknown.",
       "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering.",
+      "Project44 (direct competitor) is pushing AI positioning.",
       "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
@@ -404,7 +431,8 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -432,14 +460,14 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance).",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
+        "workflow_scope": "unknown",
         "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows degraded services: Booking API (under maintenance) and Documents API (under maintenance). Service Under Maintenance",
+        "evidence_excerpt": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance). Service Under Maintenance",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
@@ -462,8 +490,8 @@
     "recent_history": [
       {
         "week_label": "2026-W17",
-        "week_end_date": "2026-04-25",
-        "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
+        "week_end_date": "2026-04-26",
+        "takeaway": "Project44 is signaling AI positioning around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
         "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
