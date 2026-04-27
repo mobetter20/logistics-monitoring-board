@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-26T22:32:38+00:00",
-  "requested_date": "2026-04-27",
+  "built_at": "2026-04-27T22:59:51+00:00",
+  "requested_date": "2026-04-28",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-27",
+    "requested_date": "2026-04-28",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Imports sitting out the freight market flip.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why..",
+      "Competitor watch: Watch-level movement detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-27",
+        "report_label": "2026-04-28",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-27",
+        "report_label": "2026-04-28",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W18",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling unknown around unknown.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-27",
-    "last_updated": "2026-04-27 07:31",
+    "report_date": "2026-04-28",
+    "last_updated": "2026-04-28 07:58",
     "freshness": "current",
-    "status_note": "Market watch is led by Imports sitting out the freight market flip.",
+    "status_note": "Market watch is led by The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why..",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Imports sitting out the freight market flip.",
+      "Lead market story: The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why..",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-27",
+      "report_date": "2026-04-28",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
-      "worth_attention_today": "2",
-      "headline": "Imports sitting out the freight market flip; World Container Index declines again as weak demand pressures freight rates; Borderlands Mexico: Texas cargo theft falls, but organized crime grows",
+      "worth_attention_today": "5",
+      "headline": "The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why.; Import Demand and Inventory Trends Reshape Freight Market in 2026; Strait of Hormuz Traffic Near Complete Halt Amid US-Iran Standoff",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Imports sitting out the freight market flip",
+    "headline": "The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why.",
     "key_news_radar": [
       {
-        "title": "Imports sitting out the freight market flip",
-        "summary": "Chart of the Week: Inbound Ocean TEUs Volume Index - USA SONAR: IOTI.USA Seasonality view So far, import demand has been a relative non-factor in the recent domestic freight market",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-26T01:32:30+00:00",
+        "title": "The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why.",
+        "summary": "The Iran conflict sent Asia-US shipping rates soaring thousands of miles away.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-27T17:50:53+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/imports-sitting-out-the-freight-market-flip",
+        "link": "https://www.freightwaves.com/news/the-iran-conflict-sent-asia-us-shipping-rates-soaring-thousands-of-miles-away-heres-why",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -102,12 +102,12 @@
         "confirmed_by": []
       },
       {
-        "title": "World Container Index declines again as weak demand pressures freight rates",
-        "summary": "The Drewry World Container Index (WCI) recorded its second consecutive weekly decline, falling by 1% to $2,232 per 40ft container on April 23, 2026, as market conditions remain und",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-26T09:39:11+00:00",
+        "title": "Import Demand and Inventory Trends Reshape Freight Market in 2026",
+        "summary": "Import demand has not been a primary driver of the recent turbulence in the domestic freight market, unlike the pandemic-era cyclical tightening.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-27T18:55:44+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/world-container-index-declines-again-as-weak-demand-pressures-freight-rates/",
+        "link": "https://www.globaltrademag.com/import-demand-and-inventory-trends-reshape-freight-market-in-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -115,38 +115,38 @@
         "confirmed_by": []
       },
       {
-        "title": "Panama Canal sees rising demand and higher traffic in first half of FY2026",
-        "summary": "The Panama Canal reported increased vessel transits and cargo volumes during the first half of fiscal year 2026, reflecting stronger demand and shifting dynamics in global maritime",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-26T16:40:00+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/panama-canal-sees-rising-demand-and-higher-traffic-in-first-half-of-fy2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "News in Brief podcast | Week 17 2026 | Strait uncertainty, shifting capacity and steep surcharges",
-        "summary": "This week’s News in Brief returns to the ongoing uncertainty in the Middle East, as a ceasefire extension fails to reopen the Strait of Hormuz - leaving carriers scrambling for alt",
-        "source": "Feeds-3 / Port Infrastructure",
-        "timestamp": "2026-04-26T16:04:28+00:00",
-        "confidence": "high",
-        "link": "https://theloadstar.com/news-in-brief-podcast-week-17-2026-strait-uncertainty-shifting-capacity-and-steep-surcharges/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Borderlands Mexico: Texas cargo theft falls, but organized crime grows",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "Feeds-3 / 0 Risk",
-        "timestamp": "2026-04-26T12:37:27+00:00",
+        "title": "Strait of Hormuz Traffic Near Complete Halt Amid US-Iran Standoff",
+        "summary": "Vessel movement through the Strait of Hormuz has essentially ground to a halt, with no indication from either Iran or the United States that they intend to relax their respective m",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-27T18:55:44+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-texas-cargo-theft-falls-but-organized-crime-grows",
+        "link": "https://www.globaltrademag.com/strait-of-hormuz-traffic-near-complete-halt-amid-us-iran-standoff/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "RUN Conference Roundup",
+        "summary": "The Rail Users’ Network (RUN) held its semiannual spring conference online on Friday afternoon, April 24.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-27T17:46:45+00:00",
+        "confidence": "medium",
+        "link": "https://www.railwayage.com/passenger/intercity/run-conference-roundup/?utm_source=rss&utm_medium=rss&utm_campaign=run-conference-roundup",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Readers Speak: Strait of Hormuz seen as functionally closed",
+        "summary": "Uncertainty and restriction dominate industry sentiment Conflicting signals around the Strait of Hormuz continue to shape industry perception.",
+        "source": "Feeds-2 / S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-04-27T06:45:54+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/readers-speak-strait-of-hormuz-seen-as-functionally-closed/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "",
@@ -157,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press, community coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press, community coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press, community coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -192,12 +192,25 @@
     ],
     "community_questions": [
       {
-        "title": "Nobody talks about how shippers are setting drivers up to fail.",
-        "summary": "Today I was literally packing up for the day when a client called desperate for an urgent restack.",
+        "title": "starting data analysis basics course online...any advice?",
+        "summary": "I'm procurement, I took the CPIM part1 course and I'm kinda lost, don't know what will help me develop my skills in my career in supply chain so I'm starting a data analysis course",
         "source": "Reddit",
-        "timestamp": "2026-04-26T00:21:59+00:00",
+        "timestamp": "2026-04-26T22:34:53+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/FreightBrokers/comments/1svshq0/nobody_talks_about_how_shippers_are_setting/",
+        "link": "https://old.reddit.com/r/supplychain/comments/1swls5k/starting_data_analysis_basics_course_onlineany/",
+        "label": "",
+        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
+        "source_id": "",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Best way for smaller brokerage to offer competitive rail rates to its customers?",
+        "summary": "we do not want to ask JB Hunt or Hub Group for rail service because I am 100% sure they’ll eventually back solicit lol What is a smart and long term plan for a small brokerage to s",
+        "source": "Reddit",
+        "timestamp": "2026-04-27T02:39:51+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/FreightBrokers/comments/1swr4oc/best_way_for_smaller_brokerage_to_offer/",
         "label": "",
         "question_signal": "Shows inland spillover becoming a practical planning question.",
         "source_id": "",
@@ -205,25 +218,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Looking for tips to implement AI (Copilot/Gemini) into my day to day",
-        "summary": "I am an account manager for a large North American intermodal carrier - basically manage the complete transportation lifecycle for various customers.",
+        "title": "does anyone actually have clean lead data?",
+        "summary": "Half my time is just trying to figure out who the hell i’m even dealing with company name comes in → no context google it → 5 similar companies linkedin → outdated or wrong people",
         "source": "Reddit",
-        "timestamp": "2026-04-26T02:10:00+00:00",
+        "timestamp": "2026-04-27T06:41:21+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/logistics/comments/1svurd7/looking_for_tips_to_implement_ai_copilotgemini/",
-        "label": "",
-        "question_signal": "Shows inland spillover becoming a practical planning question.",
-        "source_id": "",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The worst kind of supply chain failure. How do you think something like this happens?",
-        "summary": "submitted by /u/jaiagreen [link] [comments]",
-        "source": "Reddit",
-        "timestamp": "2026-04-26T08:16:37+00:00",
-        "confidence": "watch",
-        "link": "https://old.reddit.com/r/supplychain/comments/1sw1owt/the_worst_kind_of_supply_chain_failure_how_do_you/",
+        "link": "https://old.reddit.com/r/freightforwarding/comments/1swvtjg/does_anyone_actually_have_clean_lead_data/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
         "source_id": "",
@@ -232,6 +232,14 @@
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-28",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "The Iran conflict sent Asia-US shipping rates soaring thousands of miles away. Heres why.; Import Demand and Inventory Trends Reshape Freight Market in 2026; Strait of Hormuz Traffic Near Complete Halt Amid US-Iran Standoff",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-27",
         "write_now": "Maybe",
@@ -279,53 +287,44 @@
         "worth_attention_today": "5",
         "headline": "Your Truck Is Getting More Expensive to Fix. Here Is the Data on Why and What to Do Before It Gets Worse.; Temporary Suspension of our JD2 & JD3 services; After CBS report, C.H. Robinson seeks to deflect safety responsibility to FMCSA",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-21",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "AI continues to drive major disruptions in supply chain field, according to MHIs Annual Industry Report; Motor carriers, 3PLs persevere with sustainability programs as government mandates are scaled back or rescinded; Ecuador: Inland Emergency Fuel & Energy Surcharges Introduction",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 52,
-      "high_trust": 8,
-      "trade_press": 4,
-      "community": 40
+      "total_items": 127,
+      "high_trust": 6,
+      "trade_press": 57,
+      "community": 64
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-27.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-27.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-27.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-28.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-28.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-28.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-27",
-    "run_started_at": "2026-04-27T07:31:51+09:00",
+    "report_date": "2026-04-28",
+    "run_started_at": "2026-04-28T07:58:57+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance)."
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -367,7 +366,21 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational",
+          "Upcoming Change: FedEx Freight (LTL) Services Migration"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-04-26",
@@ -403,38 +416,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260427T073151+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-27.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260428T075857+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-28.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W18",
-    "week_end_date": "2026-04-27",
+    "week_end_date": "2026-04-28",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -454,17 +467,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W18",
-        "week_end_date": "2026-04-27",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-04-28",
+        "takeaway": "Project44 is signaling unknown around unknown.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
