@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-28T22:32:12+00:00",
-  "requested_date": "2026-04-29",
+  "built_at": "2026-04-29T22:32:13+00:00",
+  "requested_date": "2026-04-30",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,32 +15,32 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-29",
+    "requested_date": "2026-04-30",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hormuz crisis puts Middle Eastern land corridors under pressure.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Hormuz crisis weighs on air cargo in March 2026.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-29",
+        "report_label": "2026-04-30",
         "freshness": "current",
-        "change_label": "Similar posture to the prior brief",
+        "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
-        "supporting_note": "The market posture is broadly similar to the last run, with Hormuz crisis puts Middle Eastern land corridors under pressure; The Hormuz crisis can benefit European logistics; Hormuz closure keeps freight markets elevated still setting the tone.",
+        "supporting_note": "The lead item changed versus the prior brief.",
         "href": "market-watch.html"
       },
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-29",
+        "report_label": "2026-04-30",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W18",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around unknown.",
+        "summary": "Project44 is signaling unknown around in transit visibility.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,36 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-29",
-    "last_updated": "2026-04-29 07:31",
+    "report_date": "2026-04-30",
+    "last_updated": "2026-04-30 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Hormuz crisis puts Middle Eastern land corridors under pressure.",
+    "status_note": "Market watch is led by Hormuz crisis weighs on air cargo in March 2026.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hormuz crisis puts Middle Eastern land corridors under pressure."
+      "Lead market story: Hormuz crisis weighs on air cargo in March 2026.",
+      "2 of the last 2 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
-    "change_label": "Similar posture to the prior brief",
-    "change_detail": "The market posture is broadly similar to the last run, with Hormuz crisis puts Middle Eastern land corridors under pressure; The Hormuz crisis can benefit European logistics; Hormuz closure keeps freight markets elevated still setting the tone.",
+    "change_label": "Lead story changed",
+    "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-29",
+      "report_date": "2026-04-30",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Hormuz crisis puts Middle Eastern land corridors under pressure; The Hormuz crisis can benefit European logistics; Hormuz closure keeps freight markets elevated",
+      "headline": "Hormuz crisis weighs on air cargo in March 2026; Transport and logistics news - 29 April 2026; Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 1,
-    "headline": "Hormuz crisis puts Middle Eastern land corridors under pressure",
+    "active_recent_days": 2,
+    "headline": "Hormuz crisis weighs on air cargo in March 2026",
     "key_news_radar": [
       {
-        "title": "Hormuz crisis puts Middle Eastern land corridors under pressure",
-        "summary": "The crisis affecting Middle Eastern maritime routes, caused by the closure of the Strait of Hormuz and risks around the Bab el-Mandeb Strait, is shifting a growing share of traffic",
+        "title": "Hormuz crisis weighs on air cargo in March 2026",
+        "summary": "IATA (International Air Transport Association) has released its data on global air cargo transport for March 2026, reporting a 4.8% year-on-year contraction in demand, measured in",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-04-28T14:47:22+00:00",
+        "timestamp": "2026-04-29T14:21:03+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/hormuz-crisis-puts-middle-eastern-land-corridors-under-pressure/",
+        "link": "https://www.trasportoeuropa.it/english/hormuz-crisis-weighs-on-air-cargo-in-march-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -101,12 +102,12 @@
         "confirmed_by": []
       },
       {
-        "title": "The Hormuz crisis can benefit European logistics",
-        "summary": "In 2026, traffic through the Strait of Hormuz has on some days almost fallen to zero, turning one of the world’s most important maritime corridors into a near-permanent bottleneck,",
+        "title": "Transport and logistics news - 29 April 2026",
+        "summary": "CMA CGM prepares another Indian-flagged vessel CMA CGM is preparing to register the CMA CGM Semarang, a 2007 feeder containership of about 2,700 TEU, under the Indian flag.",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-04-28T11:35:40+00:00",
+        "timestamp": "2026-04-29T17:38:33+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/the-hormuz-crisis-can-benefit-european-logistics/",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-29-april-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -114,12 +115,25 @@
         "confirmed_by": []
       },
       {
-        "title": "Hormuz closure keeps freight markets elevated",
-        "summary": "Strait of Hormuz closure is keeping fuel costs elevated, supporting ocean freight rates even during the seasonal demand lull, though pricing remains below peaks seen during the Red",
+        "title": "Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
+        "summary": "Increased fuel costs from the Strait of Hormuz closure continues to keep container rates elevated during the post-Lunar New Year, pre-peak season, low demand season for ocean freig",
+        "source": "Container News",
+        "timestamp": "2026-04-29T21:32:09+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/freightos-weekly-update-transpac-ocean-rates-continue-to-edge-up-on-iran-pressure/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Aviation sector hit by war-driven fuel shock and network disruption",
+        "summary": "Jet fuel prices have nearly doubled and more than 52,000 flights have been cancelled amid widespread airspace closures Global airline stocks have lost an estimated US$53 billion, w",
         "source": "Air Cargo Week",
-        "timestamp": "2026-04-28T12:22:13+00:00",
+        "timestamp": "2026-04-29T16:54:34+00:00",
         "confidence": "medium",
-        "link": "https://aircargoweek.com/hormuz-closure-keeps-freight-markets-elevated/",
+        "link": "https://aircargoweek.com/aviation-sector-hit-by-war-driven-fuel-shock-and-network-disruption/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "aircargoweek",
@@ -127,28 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Transpac ocean rates continue to edge up on Iran pressure - April 28, 2026 Update",
-        "summary": "Home Transpac ocean rates continue to edge up on Iran pressure - April 28, 2026 Update Published: April 28, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index Asia-US",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-04-28T10:52:38+00:00",
-        "confidence": "high",
-        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/transpac-ocean-rates-continue-to-edge-up-on-iran-pressure-april-28-2026-update/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Iran Offers To Reopen Strait Of Hormuz If US Ends Blockade, Delays Nuclear Talks",
-        "summary": "Image for representation purposes only Iran has offered to reopen the Strait of Hormuz if the United States lifts its blockade and the war ends, according to two regional officials",
-        "source": "Marine Insight",
-        "timestamp": "2026-04-28T14:00:24+00:00",
+        "title": "UPS files for $500mn tariff refund, vows to pass it to customers",
+        "summary": "UPS has been at the centre of the US tariff storm, processing 16 million International Emergency Economic Powers Act or IEEPA-related entries and remitting over $5 billion to the U",
+        "source": "The STAT Trade Times",
+        "timestamp": "2026-04-29T07:52:39+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-offers-to-reopen-strait-of-hormuz-if-us-ends-blockade-delays-nuclear-talks/?utm_source=rss&utm_medium=rss&utm_campaign=iran-offers-to-reopen-strait-of-hormuz-if-us-ends-blockade-delays-nuclear-talks",
+        "link": "https://www.stattimes.com/air-cargo/ups-files-for-500mn-tariff-refund-vows-to-pass-it-to-customers-1358953",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "stattimes",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -156,19 +157,19 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -177,15 +178,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press, community coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -195,25 +196,25 @@
     ],
     "community_questions": [
       {
-        "title": "Is there option to be reshipped to France ?",
-        "summary": "I would like to order some products on shop that only deliver to UK or US but I live in France and I would like to know if there is any way to be reshipped to my adress by a third",
+        "title": "If we disappear after 3AM… just assume the ocean won?",
+        "summary": "https://reddit.com/link/1sysrcx/video/o9ym5qes93yg1/player Well!",
         "source": "Reddit",
-        "timestamp": "2026-04-27T23:34:14+00:00",
+        "timestamp": "2026-04-29T08:28:10+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/shipping/comments/1sxkiks/is_there_option_to_be_reshipped_to_france/",
+        "link": "https://old.reddit.com/r/maritime/comments/1sysrcx/if_we_disappear_after_3am_just_assume_the_ocean/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
-        "source_id": "top_posts_on_rshipping",
+        "source_id": "maritime_news_and_issues",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "What are the consequences to the ships and crew stuck in the Persian Gulf if the strait isn’t reopened any time soon (6 months or longer)?",
-        "summary": "submitted by /u/sacrificialfuck [link] [comments]",
+        "title": "MSC Francesca, updates?",
+        "summary": "Hi people, I wanted to make a post regarding any updates on the condition of the Francesca and by when it will be released.",
         "source": "Reddit",
-        "timestamp": "2026-04-28T18:06:09+00:00",
+        "timestamp": "2026-04-29T06:29:11+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1sy98jd/what_are_the_consequences_to_the_ships_and_crew/",
+        "link": "https://old.reddit.com/r/maritime/comments/1syqobu/msc_francesca_updates/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
         "source_id": "maritime_news_and_issues",
@@ -222,6 +223,14 @@
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-04-30",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Hormuz crisis weighs on air cargo in March 2026; Transport and logistics news - 29 April 2026; Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-29",
         "write_now": "Maybe",
@@ -232,38 +241,37 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 413,
-      "high_trust": 96,
-      "trade_press": 293,
-      "community": 24
+      "total_items": 399,
+      "high_trust": 84,
+      "trade_press": 302,
+      "community": 13
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-29.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-29.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-29.json"
+      "news_pipeline/output/reports/daily-brief-2026-04-30.md",
+      "news_pipeline/output/digests/daily-digest-2026-04-30.md",
+      "news_pipeline/output/trends/daily-trends-2026-04-30.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-29",
-    "run_started_at": "2026-04-29T07:31:05+09:00",
+    "report_date": "2026-04-30",
+    "run_started_at": "2026-04-30T07:31:11+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance)."
+      "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -309,8 +317,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational",
+          "Tracking Updates Delayed Across All Modes – EU Production"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-04-30",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-04-26",
         "company": "Project44",
@@ -345,35 +375,35 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260429T073105+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-29.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260430T073111+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-04-30.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W18",
-    "week_end_date": "2026-04-29",
+    "week_end_date": "2026-04-30",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around unknown.",
+    "status_note": "Project44 is signaling unknown around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around unknown.",
+      "Project44 is signaling unknown around in transit visibility.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around unknown."
+      "Project44 is signaling unknown around in transit visibility."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown."
+      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Continue building weekly history and watch for repeated motifs before making a directional change."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -401,14 +431,14 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page returned to all systems operational.",
+        "source_title": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
         "source_layer": "direct competitor",
         "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production. All Systems Operational",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
@@ -417,8 +447,8 @@
     "recent_history": [
       {
         "week_label": "2026-W18",
-        "week_end_date": "2026-04-29",
-        "takeaway": "Project44 is signaling unknown around unknown.",
+        "week_end_date": "2026-04-30",
+        "takeaway": "Project44 is signaling unknown around in transit visibility.",
         "signal_count": "1",
         "active_thesis_count": "0",
         "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
