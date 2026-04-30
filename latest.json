@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-04-29T22:32:13+00:00",
-  "requested_date": "2026-04-30",
+  "built_at": "2026-04-30T22:32:37+00:00",
+  "requested_date": "2026-05-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-04-30",
+    "requested_date": "2026-05-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hormuz crisis weighs on air cargo in March 2026.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: DHL Group boosts profit despite lower shipment volumes, revenue.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-04-30",
+        "report_label": "2026-05-01",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-04-30",
+        "report_label": "2026-05-01",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W18",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around in transit visibility.",
+        "summary": "Project44 is signaling macro pressure around exception management.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,63 +64,79 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-04-30",
-    "last_updated": "2026-04-30 07:31",
+    "report_date": "2026-05-01",
+    "last_updated": "2026-05-01 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Hormuz crisis weighs on air cargo in March 2026.",
+    "status_note": "Market watch is led by DHL Group boosts profit despite lower shipment volumes, revenue.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hormuz crisis weighs on air cargo in March 2026.",
-      "2 of the last 2 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Lead market story: DHL Group boosts profit despite lower shipment volumes, revenue.",
+      "3 of the last 3 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-04-30",
+      "report_date": "2026-05-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Hormuz crisis weighs on air cargo in March 2026; Transport and logistics news - 29 April 2026; Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
+      "headline": "DHL Group boosts profit despite lower shipment volumes, revenue; Fairly calm waters for container freight rates at the end of April 2026; Global News",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 2,
-    "headline": "Hormuz crisis weighs on air cargo in March 2026",
+    "active_recent_days": 3,
+    "headline": "DHL Group boosts profit despite lower shipment volumes, revenue",
     "key_news_radar": [
       {
-        "title": "Hormuz crisis weighs on air cargo in March 2026",
-        "summary": "IATA (International Air Transport Association) has released its data on global air cargo transport for March 2026, reporting a 4.8% year-on-year contraction in demand, measured in",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-04-29T14:21:03+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/hormuz-crisis-weighs-on-air-cargo-in-march-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Transport and logistics news - 29 April 2026",
-        "summary": "CMA CGM prepares another Indian-flagged vessel CMA CGM is preparing to register the CMA CGM Semarang, a 2007 feeder containership of about 2,700 TEU, under the Indian flag.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-04-29T17:38:33+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-29-april-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
-        "summary": "Increased fuel costs from the Strait of Hormuz closure continues to keep container rates elevated during the post-Lunar New Year, pre-peak season, low demand season for ocean freig",
-        "source": "Container News",
-        "timestamp": "2026-04-29T21:32:09+00:00",
+        "title": "DHL Group boosts profit despite lower shipment volumes, revenue",
+        "summary": "DHL Group revenues dipped during the first quarter, but operating profit improved 8.3% behind strong performance from the Express and Supply Chain divisions despite disruptions cau",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-04-30T20:20:38+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-transpac-ocean-rates-continue-to-edge-up-on-iran-pressure/",
+        "link": "https://www.freightwaves.com/news/dhl-group-boosts-profit-despite-lower-shipment-volumes-revenue",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Triton Logistics & Maritime visits Ports and Depots to Honour Workforce Ahead of World Labour Day",
+        "summary": "“Tarakki sabko dikhti hai… par mehnat karne wale kab dikhenge?” With this thought, Triton Logistics & Maritime marked World Labour Day by visiting its ports and depot locations to",
+        "source": "India Shipping News",
+        "timestamp": "2026-04-30T03:28:29+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/triton-logistics-maritime-visits-ports-and-depots-to-honour-workforce-ahead-of-world-labour-day/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Fairly calm waters for container freight rates at the end of April 2026",
+        "summary": "According to the World Container Index update released by Drewry on 30 April 2026, global container shipping rates closed April with a further decline.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-04-30T16:03:23+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/fairly-calm-waters-for-container-freight-rates-at-the-end-of-april-2026/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk raises intermodal fuel fees in Australia and New Zealand amid energy cost surge",
+        "summary": "Moller - Maersk has increased its intermodal fuel fees in Australia and New Zealand as rising global energy prices continue to impact inland transport costs.",
+        "source": "Container News",
+        "timestamp": "2026-04-30T15:00:44+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/maersk-raises-intermodal-fuel-fees-in-australia-and-new-zealand-amid-energy-cost-surge/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "container_news",
@@ -128,44 +144,25 @@
         "confirmed_by": []
       },
       {
-        "title": "Aviation sector hit by war-driven fuel shock and network disruption",
-        "summary": "Jet fuel prices have nearly doubled and more than 52,000 flights have been cancelled amid widespread airspace closures Global airline stocks have lost an estimated US$53 billion, w",
-        "source": "Air Cargo Week",
-        "timestamp": "2026-04-29T16:54:34+00:00",
-        "confidence": "medium",
-        "link": "https://aircargoweek.com/aviation-sector-hit-by-war-driven-fuel-shock-and-network-disruption/",
+        "title": "State of Freight: Freight recession ‘over’ as demand builds into summer",
+        "summary": "The April installment of the State of Freight webinar, hosted by FreightWaves CEO Craig Fuller and Head of Freight Market Intelligence Zach Strickland, pointed to a freight market",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-04-30T20:39:41+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/state-of-freight-freight-recession-over-as-demand-builds-into-summer",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "aircargoweek",
+        "source_id": "freightwaves_news",
         "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "UPS files for $500mn tariff refund, vows to pass it to customers",
-        "summary": "UPS has been at the centre of the US tariff storm, processing 16 million International Emergency Economic Powers Act or IEEPA-related entries and remitting over $5 billion to the U",
-        "source": "The STAT Trade Times",
-        "timestamp": "2026-04-29T07:52:39+00:00",
-        "confidence": "medium",
-        "link": "https://www.stattimes.com/air-cargo/ups-files-for-500mn-tariff-refund-vows-to-pass-it-to-customers-1358953",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "stattimes",
-        "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -173,20 +170,24 @@
       },
       {
         "title": "",
-        "summary": "Carrier and network changes are showing up as practical routing and service updates rather than just broad market commentary."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press, community coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press, community coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,12 +197,25 @@
     ],
     "community_questions": [
       {
-        "title": "If we disappear after 3AM… just assume the ocean won?",
-        "summary": "https://reddit.com/link/1sysrcx/video/o9ym5qes93yg1/player Well!",
+        "title": "Why Carrier Strike group need destroyers to group tightly together?",
+        "summary": "https://reddit.com/link/1szipvu/video/f7nunrawi8yg1/player When the Carrier Group keeps its massive fleet grouped tightly together (like in the centralized push at Hormuz), the umb",
         "source": "Reddit",
-        "timestamp": "2026-04-29T08:28:10+00:00",
+        "timestamp": "2026-04-30T02:03:09+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1sysrcx/if_we_disappear_after_3am_just_assume_the_ocean/",
+        "link": "https://old.reddit.com/r/maritime/comments/1szipvu/why_carrier_strike_group_need_destroyers_to_group/",
+        "label": "",
+        "question_signal": "Shows disruption reaching practical discussion, not just trade-press coverage.",
+        "source_id": "maritime_news_and_issues",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Is a Deck Officer Cadetship Worth It in 2026 for a 30-Year-Old Career Changer?",
+        "summary": "I’m 30, based in the UK, and considering a career change.",
+        "source": "Reddit",
+        "timestamp": "2026-04-30T12:06:13+00:00",
+        "confidence": "watch",
+        "link": "https://old.reddit.com/r/maritime/comments/1szu649/is_a_deck_officer_cadetship_worth_it_in_2026_for/",
         "label": "",
         "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
         "source_id": "maritime_news_and_issues",
@@ -209,20 +223,28 @@
         "confirmed_by": []
       },
       {
-        "title": "MSC Francesca, updates?",
-        "summary": "Hi people, I wanted to make a post regarding any updates on the condition of the Francesca and by when it will be released.",
+        "title": "QMED before/instead of license?",
+        "summary": "Has anyone done a program like this?",
         "source": "Reddit",
-        "timestamp": "2026-04-29T06:29:11+00:00",
+        "timestamp": "2026-04-30T15:55:45+00:00",
         "confidence": "watch",
-        "link": "https://old.reddit.com/r/maritime/comments/1syqobu/msc_francesca_updates/",
+        "link": "https://old.reddit.com/r/maritime/comments/1t00duv/qmed_beforeinstead_of_license/",
         "label": "",
-        "question_signal": "Shows how practitioners are framing a currently active market issue in practical terms.",
+        "question_signal": "Shows practitioners asking how to respond to fuel and energy pressure, not just noting that prices moved.",
         "source_id": "maritime_news_and_issues",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "recent_history": [
+      {
+        "report_date": "2026-05-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "DHL Group boosts profit despite lower shipment volumes, revenue; Fairly calm waters for container freight rates at the end of April 2026; Global News",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-04-30",
         "write_now": "Maybe",
@@ -241,41 +263,41 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 399,
-      "high_trust": 84,
-      "trade_press": 302,
-      "community": 13
+      "total_items": 378,
+      "high_trust": 96,
+      "trade_press": 273,
+      "community": 9
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-04-30.md",
-      "news_pipeline/output/digests/daily-digest-2026-04-30.md",
-      "news_pipeline/output/trends/daily-trends-2026-04-30.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-04-30",
-    "run_started_at": "2026-04-30T07:31:11+09:00",
+    "report_date": "2026-05-01",
+    "run_started_at": "2026-05-01T07:31:16+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
-    "watch_count": 1,
+    "important_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Minor Service Outage."
       },
       {
         "company": "FourKites",
@@ -316,23 +338,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
-    "watch_items": [
+    "important_changes": [
       {
         "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "source_title": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "All Systems Operational",
-          "Tracking Updates Delayed Across All Modes – EU Production"
+          "Minor Service Outage",
+          "Appointment Manager – Partial Service Disruption (NA Production) (major)"
         ]
       }
     ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-05-01",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-04-30",
         "company": "Project44",
@@ -364,43 +394,35 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-04-17",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Errors in YMS Tasks and Spots in Tablets (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260430T073111+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-04-30.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260501T073116+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-01.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W18",
-    "week_end_date": "2026-04-30",
+    "week_end_date": "2026-05-01",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around in transit visibility.",
+    "status_note": "Project44 is signaling macro pressure around exception management.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around in transit visibility.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Project44 is signaling macro pressure around exception management.",
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around in transit visibility."
+      "Project44 is signaling macro pressure around exception management."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
+      "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience."
     ],
     "team_implications": [
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
     ],
     "open_questions": [
       "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
@@ -431,15 +453,15 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
+        "source_title": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
         "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
+        "strategic_move": "Macro pressure",
+        "workflow_scope": "exception management",
+        "claimed_outcome": "greater resilience",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production. All Systems Operational",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major). Minor Service Outage",
+        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
       }
@@ -447,8 +469,8 @@
     "recent_history": [
       {
         "week_label": "2026-W18",
-        "week_end_date": "2026-04-30",
-        "takeaway": "Project44 is signaling unknown around in transit visibility.",
+        "week_end_date": "2026-05-01",
+        "takeaway": "Project44 is signaling macro pressure around exception management.",
         "signal_count": "1",
         "active_thesis_count": "0",
         "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
