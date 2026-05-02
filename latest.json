@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-01T22:32:25+00:00",
-  "requested_date": "2026-05-02",
+  "built_at": "2026-05-02T22:32:01+00:00",
+  "requested_date": "2026-05-03",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-02",
+    "requested_date": "2026-05-03",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Traffix expects double-digit rate increases to hold through 2026.",
+      "Lead daily item: IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-02",
+        "report_label": "2026-05-03",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-02",
+        "report_label": "2026-05-03",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
@@ -64,94 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-02",
-    "last_updated": "2026-05-02 07:31",
+    "report_date": "2026-05-03",
+    "last_updated": "2026-05-03 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Traffix expects double-digit rate increases to hold through 2026.",
+    "status_note": "Market watch is led by IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Traffix expects double-digit rate increases to hold through 2026.",
-      "4 of the last 4 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
+      "Lead market story: IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection.",
+      "5 of the last 5 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-02",
+      "report_date": "2026-05-03",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Traffix expects double-digit rate increases to hold through 2026; MARAD commits US$774m to port infrastructure; Corvus Energy gains DNV cybersecurity type approval for Dolphin NxtGen",
+      "headline": "DHL Group posts Q1 profit amid global disruptions; At Least 44 Iranian Seafarers Dead, 29 Injured In U.S.-Israel War On Iran, Union Files Complaint To IMO; IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
-    "active_recent_days": 4,
-    "headline": "Traffix expects double-digit rate increases to hold through 2026",
+    "active_recent_days": 5,
+    "headline": "IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
     "key_news_radar": [
       {
-        "title": "Traffix expects double-digit rate increases to hold through 2026",
-        "summary": "The North American freight market has officially turned the corner.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-05-01T12:57:50+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/traffix-expects-double-digit-rate-increases-to-hold-through-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "MARAD commits US$774m to port infrastructure",
-        "summary": "The US Department of Transportation’s Maritime Administration (MARAD) has announced a major funding round for port infrastructure, committing nearly US$800m to projects aimed at st",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-01T08:50:48+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/marad-commits-us774m-to-port-infrastructure/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Gdańsk posts double-digit cargo growth in Q1 2026",
-        "summary": "It was a strong start to the year for the Port of Gdańsk.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-01T07:53:18+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/gdansk-posts-double-digit-cargo-growth-in-q1-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Schneider targeting significant rate recovery in bid season",
-        "summary": "Multimodal transportation provider Schneider National used cost controls and improved pricing to offset weather disruptions and surging fuel costs during the first quarter.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-01T17:13:03+00:00",
+        "title": "IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
+        "summary": "Image for representation purposes only Marine Environment Protection Committee “back on track” towards consensus on global shipping emissions The Marine Environment Protection Comm",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-02T11:55:11+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/schneider-targeting-significant-rate-recovery-in-bid-season",
+        "link": "https://www.marineinsight.com/imo-progresses-work-on-ship-emissions-pollution-and-ocean-protection/?utm_source=rss&utm_medium=rss&utm_campaign=imo-progresses-work-on-ship-emissions-pollution-and-ocean-protection",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Descartes report describes tumultuous year at U.S. ports",
-        "summary": "maritime imports held steady in 2025, even while reshaping port performance, sourcing strategies, and supply chains in one of the most unpredictable trade environments in decades,",
-        "source": "DC Velocity",
-        "timestamp": "2026-05-01T19:09:27+00:00",
+        "title": "At Least 44 Iranian Seafarers Dead, 29 Injured In U.S.-Israel War On Iran, Union Files Complaint To IMO",
+        "summary": "Image for representation purposes only At least 44 Iranian seafarers have been killed since the start of the United States-Israel conflict involving Iran, according to the country’",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-02T10:33:11+00:00",
         "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/ports/descartes-report-describes-tumultuous-year-at-u-s-ports",
+        "link": "https://www.marineinsight.com/at-least-44-iranian-seafarers-dead-29-injured-in-u-s-israel-war-on-iran-union-files-complaint-to-imo/?utm_source=rss&utm_medium=rss&utm_campaign=at-least-44-iranian-seafarers-dead-29-injured-in-u-s-israel-war-on-iran-union-files-complaint-to-imo",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "dcvelocity",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "5th India-Tanzania Joint Trade Committee Meeting held in Dar es Salaam to Strengthen Bilateral Economic Cooperation",
+        "summary": "DAR ES SALAAM: The 5th Session of the India-Tanzania Joint Trade Committee (JTC) was held on 29-30 April 2026 in Dar es Salaam, Tanzania.",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-02T02:55:50+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/5th-india-tanzania-joint-trade-committee-meeting-held-in-dar-es-salaam-to-strengthen-bilateral-economic-cooperation/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "U.S. Warns Shippers Paying Iran For Safe Passage Through Hormuz Could Face Sanctions",
+        "summary": "Image for representation purposes only The United States has warned shipping companies that any payment made to Iran for safe passage through the Strait of Hormuz could lead to san",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-02T12:06:51+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/u-s-warns-shippers-paying-iran-for-safe-passage-through-hormuz-could-face-sanctions/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-warns-shippers-paying-iran-for-safe-passage-through-hormuz-could-face-sanctions",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "MT Desh Garima berths at Mumbai with critical crude cargo; SCI commends crew and stakeholders",
+        "summary": "MUMBAI : Marking a significant operational milestone, MT Desh Garima, a tanker of the Shipping Corporation of India (SCI), successfully berthed at Mumbai on April 30, 2026, carryin",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-02T02:53:12+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/mt-desh-garima-berths-at-mumbai-with-critical-crude-cargo-sci-commends-crew-and-stakeholders/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,18 +157,22 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
       {
         "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
@@ -180,16 +182,20 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-03",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "DHL Group posts Q1 profit amid global disruptions; At Least 44 Iranian Seafarers Dead, 29 Injured In U.S.-Israel War On Iran, Union Files Complaint To IMO; IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-02",
         "write_now": "Maybe",
@@ -224,28 +230,28 @@
       }
     ],
     "source_snapshot": {
-      "total_items": 209,
-      "high_trust": 53,
-      "trade_press": 156,
+      "total_items": 51,
+      "high_trust": 15,
+      "trade_press": 36,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-02.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-02.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-02.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-03.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-03.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-03.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-02",
-    "run_started_at": "2026-05-02T07:31:12+09:00",
+    "report_date": "2026-05-03",
+    "run_started_at": "2026-05-03T07:31:01+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -258,7 +264,7 @@
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -304,13 +310,14 @@
       {
         "company": "Project44",
         "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "All Systems Operational"
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
         ]
       }
     ],
@@ -357,14 +364,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260502T073112+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-02.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260503T073101+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-03.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W18",
-    "week_end_date": "2026-05-02",
+    "week_end_date": "2026-05-03",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -414,7 +421,7 @@
     "recent_history": [
       {
         "week_label": "2026-W18",
-        "week_end_date": "2026-05-02",
+        "week_end_date": "2026-05-03",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
