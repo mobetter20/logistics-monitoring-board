@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-04T22:32:22+00:00",
-  "requested_date": "2026-05-05",
+  "built_at": "2026-05-05T22:32:31+00:00",
+  "requested_date": "2026-05-06",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-05",
+    "requested_date": "2026-05-06",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz.",
+      "Lead daily item: Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Same direction as the prior run."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-05",
+        "report_label": "2026-05-06",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-05",
+        "report_label": "2026-05-06",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Shippeo Shippeo homepage added stronger visibility, AI and automation, platform / control tower, and execution and workflow language",
-        "supporting_note": "Shippeo is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: FourKites FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W19",
         "freshness": "current",
         "change_label": "Same direction as the prior run",
-        "summary": "Shippeo is signaling AI positioning around end to end orchestration.",
+        "summary": "FourKites is signaling AI positioning around procurement and tendering.",
         "supporting_note": "The weekly takeaway is broadly unchanged versus the prior run.",
         "href": "strategy-brief.html"
       }
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-05",
-    "last_updated": "2026-05-05 07:31",
+    "report_date": "2026-05-06",
+    "last_updated": "2026-05-06 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz.",
+    "status_note": "Market watch is led by Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz.",
+      "Lead market story: Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-05",
+      "report_date": "2026-05-06",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz; Road routes through Pakistan to avoid the Strait of Hormuz; US redirects 48 vessels in Hormuz to enforce Iran port blockade",
+      "headline": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update; Maersk vessel exits Persian Gulf accompanied by US military; Watch: Fire Breaks Out On South Korean Ship Carrying 24 Crew After Explosion In Strait Of Hormuz",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz",
+    "headline": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update",
     "key_news_radar": [
       {
-        "title": "Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz",
-        "summary": "Trump announced on his Truth Social account on Sunday that the United States will begin escorting commercial vessels out of the Strait of Hormuz, after thousands of ships remained",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-04T09:16:38+00:00",
+        "title": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update",
+        "summary": "Home Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update Published: May 5, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-05T11:59:23+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/05/trump-announces-project-freedom-to-escort-stranded-shipping-out-of-hormuz/",
+        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/asia-europe-container-rates-slide-transpac-more-buoyant-may-5-2026-update/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk vessel exits Persian Gulf accompanied by US military",
+        "summary": "Moller-Maersk confirmed that one of its vessels, the Alliance Fairfax, exited the Persian Gulf through the Strait of Hormuz on 4 May under U.S.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-05-05T09:45:47+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/05/maersk-vessel-exits-persian-gulf-accompanied-by-us-military/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,54 +115,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Road routes through Pakistan to avoid the Strait of Hormuz",
-        "summary": "Pakistan has opened six land corridors to allow the road transit of goods bound for Iran, linking the country’s main seaports with border crossings in Balochistan.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-05-04T08:57:35+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/road-routes-through-pakistan-to-avoid-the-strait-of-hormuz/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "US redirects 48 vessels in Hormuz to enforce Iran port blockade",
-        "summary": "WASHINGTON : US President Donald Trump has said he was “not satisfied” with a new Iranian negotiating proposal, as peace talks remain frozen despite a weeks-long ceasefire.",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-04T03:19:45+00:00",
+        "title": "Strait of Hormuz tensions escalate as US-Iran truce falters",
+        "summary": "The fragile ceasefire in the Middle East is under growing strain as the United States and Iran intensify their confrontation over control of the Strait of Hormuz, as Al Arabiya Eng",
+        "source": "Container News",
+        "timestamp": "2026-05-05T12:30:32+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/us-redirects-48-vessels-in-hormuz-to-enforce-iran-port-blockade/",
+        "link": "https://container-news.com/strait-of-hormuz-tensions-escalate-as-us-iran-truce-falters/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Brussels opens the door to State aid to tackle the Hormuz crisis",
-        "summary": "The European Commission has launched a temporary State aid framework in response to the Middle East crisis that began in February 2026.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-05-04T08:49:03+00:00",
+        "title": "Watch: Fire Breaks Out On South Korean Ship Carrying 24 Crew After Explosion In Strait Of Hormuz",
+        "summary": "Image for representation purposes only A fire broke out on a cargo vessel operated by HMM after an explosion in the Strait of Hormuz on May 4, with authorities now working to deter",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-05T12:44:03+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/brussels-opens-the-door-to-state-aid-to-tackle-the-hormuz-crisis/",
+        "link": "https://www.marineinsight.com/watch-fire-breaks-out-on-south-korean-ship-carrying-24-crew-after-explosion-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=watch-fire-breaks-out-on-south-korean-ship-carrying-24-crew-after-explosion-in-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "IMO progresses work on ship emissions, pollution and ocean protection",
-        "summary": "LONDON: The Marine Environment Protection Committee of the International Maritime Organization (IMO) concluded its 84th session with a commitment to rebuild consensus on global shi",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-04T03:17:56+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/imo-progresses-work-on-ship-emissions-pollution-and-ocean-protection/",
+        "title": "U.S.-Flagged Ship Alliance Fairfax Exits Strait Of Hormuz After Months Under Military Escort",
+        "summary": "Image for representation purposes only Danish shipping major A.P.",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-05T12:29:23+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/u-s-flagged-ship-alliance-fairfax-exits-strait-of-hormuz-after-months-under-military-escort/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-flagged-ship-alliance-fairfax-exits-strait-of-hormuz-after-months-under-military-escort",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,7 +161,7 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -169,7 +169,7 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
@@ -178,7 +178,7 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-06",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update; Maersk vessel exits Persian Gulf accompanied by US military; Watch: Fire Breaks Out On South Korean Ship Carrying 24 Crew After Explosion In Strait Of Hormuz",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-05",
         "write_now": "Maybe",
@@ -239,52 +247,44 @@
         "worth_attention_today": "5",
         "headline": "Hormuz crisis weighs on air cargo in March 2026; Transport and logistics news - 29 April 2026; Freightos Weekly Update: Transpac ocean rates continue to edge up on Iran pressure",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-04-29",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Hormuz crisis puts Middle Eastern land corridors under pressure; The Hormuz crisis can benefit European logistics; Hormuz closure keeps freight markets elevated",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 390,
-      "high_trust": 86,
-      "trade_press": 304,
+      "total_items": 324,
+      "high_trust": 84,
+      "trade_press": 240,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-05.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-05.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-05.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-06.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-06.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-06.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-05",
-    "run_started_at": "2026-05-05T07:31:03+09:00",
+    "report_date": "2026-05-06",
+    "run_started_at": "2026-05-06T07:31:16+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Shippeo Shippeo homepage added stronger visibility, AI and automation, platform / control tower, and execution and workflow language",
+      "Newest meaningful competitor move: FourKites FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "Shippeo is driving the newest meaningful change in the peer set.",
+    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 2,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
       },
       {
         "company": "FourKites",
@@ -292,7 +292,7 @@
       },
       {
         "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, visibility, and AI and automation."
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and platform / control tower."
       },
       {
         "company": "Transporeon",
@@ -310,11 +310,11 @@
     "peer_themes": [
       {
         "theme": "AI",
-        "count": "4"
+        "count": "3"
       },
       {
         "theme": "automation",
-        "count": "4"
+        "count": "3"
       },
       {
         "theme": "data quality / connectivity",
@@ -327,20 +327,50 @@
     ],
     "important_changes": [
       {
-        "company": "Shippeo",
+        "company": "FourKites",
         "importance": "important",
-        "summary": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, and execution and workflow language",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, and execution and workflow language -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.shippeo.com/",
+        "summary": "FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+        "source_url": "https://www.fourkites.com/press/inventory-twin-supply-chain-planning-execution/",
         "evidence": [
-          "Trusted visibility meets AI-powered execution in one platform"
+          "Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+          "When a planner accepts a stock transfer recommendation, it flows directly into FourKites Booking Connect , where the AI selects the optimal carrier, books the freight, and initiates tracking. The recommendation becomes an executed shipment, rather than data in a spreadsheet or an"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor)"
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-05-06",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+        "source_url": "https://www.fourkites.com/press/inventory-twin-supply-chain-planning-execution/"
+      },
+      {
+        "detected_date": "2026-05-06",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-05-05",
         "company": "Shippeo",
@@ -372,43 +402,40 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-04-26",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260505T073103+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-05.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260506T073116+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-06.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W19",
-    "week_end_date": "2026-05-05",
+    "week_end_date": "2026-05-06",
     "freshness": "current",
-    "status_note": "Shippeo is signaling AI positioning around end to end orchestration.",
+    "status_note": "FourKites is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Shippeo is signaling AI positioning around end to end orchestration.",
+      "FourKites is signaling AI positioning around procurement and tendering.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Same direction as the prior run",
     "change_detail": "The weekly takeaway is broadly unchanged versus the prior run.",
     "executive_takeaways": [
-      "Shippeo is signaling AI positioning around end to end orchestration."
+      "FourKites is signaling AI positioning around procurement and tendering.",
+      "Shippeo is signaling AI positioning around end to end orchestration.",
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Shippeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership."
+      "FourKites (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of better visibility.",
+      "Shippeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership.",
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
@@ -435,9 +462,23 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 3,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "FourKites",
+        "source_title": "Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "procurement and tendering",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements\" -> signals a stronger AI / automation...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.fourkites.com/press/inventory-twin-supply-chain-planning-execution/"
+      },
       {
         "entity_name": "Shippeo",
         "source_title": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, and execution and workflow language -> suggests a shift from visibility toward AI-led execution and decision support",
@@ -451,16 +492,30 @@
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://www.shippeo.com/"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor). Partially Degraded Service",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W19",
-        "week_end_date": "2026-05-05",
-        "takeaway": "Shippeo is signaling AI positioning around end to end orchestration.",
-        "signal_count": "1",
+        "week_end_date": "2026-05-06",
+        "takeaway": "FourKites is signaling AI positioning around procurement and tendering.",
+        "signal_count": "3",
         "active_thesis_count": "0",
-        "signal_signature": "Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf",
+        "signal_signature": "FourKites|direct_competitor|product_update|53dd4be76ab437022ea7d2ae18f8773cbbc68cb6 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
