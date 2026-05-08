@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-07T22:32:00+00:00",
-  "requested_date": "2026-05-08",
+  "built_at": "2026-05-08T22:31:45+00:00",
+  "requested_date": "2026-05-09",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-08",
+    "requested_date": "2026-05-09",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maersk reviewing return to Red Sea.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: DP World rolls out cargo war risk solution.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Same direction as the prior run."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-08",
+        "report_label": "2026-05-09",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-08",
+        "report_label": "2026-05-09",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-08",
-    "last_updated": "2026-05-08 07:30",
+    "report_date": "2026-05-09",
+    "last_updated": "2026-05-09 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Maersk reviewing return to Red Sea.",
+    "status_note": "Market watch is led by DP World rolls out cargo war risk solution.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maersk reviewing return to Red Sea.",
+      "Lead market story: DP World rolls out cargo war risk solution.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-08",
+      "report_date": "2026-05-09",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Dimerco reports 12% revenue growth despite Middle East risks; Maersk reviewing return to Red Sea; Iran Says It Will Accept Only ‘Fair’ Peace Deal With U.S. As Trump Pauses Naval Mission To Reopen Strait Of Hormuz",
+      "headline": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand; Six Types of Shipping Crisis — And What They Mean for Freight Procurement; Trade Advisory on operational status at JNPA Container Terminals",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "Maersk reviewing return to Red Sea",
+    "headline": "DP World rolls out cargo war risk solution",
     "key_news_radar": [
       {
-        "title": "Maersk reviewing return to Red Sea",
-        "summary": "Maersk is reviewing the possibility of resuming some of its services through the Red Sea in line with the ongoing security conditions and geopolitical risks in the region, CEO Vinc",
+        "title": "DP World rolls out cargo war risk solution",
+        "summary": "The new DP World product seeks to close gaps in conventional cargo insurance by offering end-to-end protection across ocean, port and inland transport in volatile regional corridor",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-07T11:36:28+00:00",
+        "timestamp": "2026-05-08T08:02:19+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/05/maersk-reviewing-return-to-red-sea/",
+        "link": "https://www.worldcargonews.com/business/2026/05/dp-world-rolls-out-cargo-war-risk-solution/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,12 +102,25 @@
         "confirmed_by": []
       },
       {
-        "title": "Dimerco reports 12% revenue growth despite Middle East risks",
-        "summary": "Dimerco Express Group (5609) posted strong April 2026 numbers, with consolidated sales revenue climbing to NT$2,840 million, up 12% from a year ago.",
-        "source": "The STAT Trade Times",
-        "timestamp": "2026-05-07T11:04:38+00:00",
+        "title": "Guiding, Inspiring, Leading",
+        "summary": "Through an online poll, Railway Age subscribers nominated a large group of active (non-retired) individuals from the North American freight, switching/terminal and passenger railro",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-08T17:18:09+00:00",
         "confidence": "medium",
-        "link": "https://www.stattimes.com/financial/dimerco-reports-12-revenue-growth-despite-middle-east-risks-1359061",
+        "link": "https://www.railwayage.com/news/guiding-inspiring-leading/?utm_source=rss&utm_medium=rss&utm_campaign=guiding-inspiring-leading",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Flying compute economy: How air cargo carries AI infrastructure",
+        "summary": "One of the world’s largest networking solutions and AI infrastructure companies by market capitalisation maintained cargo flows with minimal disruption, even during disruptions.",
+        "source": "The STAT Trade Times",
+        "timestamp": "2026-05-10T04:30:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.stattimes.com/logistics/flying-compute-economy-how-air-cargo-carries-ai-infrastructure-1359088",
         "label": "Operational",
         "question_signal": "",
         "source_id": "stattimes",
@@ -115,52 +128,33 @@
         "confirmed_by": []
       },
       {
-        "title": "Iran Says It Will Accept Only ‘Fair’ Peace Deal With U.S. As Trump Pauses Naval Mission To Reopen Strait Of Hormuz",
-        "summary": "Image Credits: US Navy Iran said on Wednesday that it would only accept a peace agreement with the United States if the deal was “fair and comprehensive”, after U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-07T12:03:51+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-says-it-will-accept-only-fair-peace-deal-with-u-s-as-trump-pauses-naval-mission-to-reopen-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-will-accept-only-fair-peace-deal-with-u-s-as-trump-pauses-naval-mission-to-reopen-strait-of-hormuz",
+        "title": "Trade Advisory on operational status at JNPA Container Terminals",
+        "summary": "MUMBAI : Jawaharlal Nehru Port Authority (JNPA), India’s Largest Container Port, wishes to clarify the operational status of its container terminals in light of recent advisories i",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-08T03:30:31+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/trade-advisory-on-operational-status-at-jnpa-container-terminals/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Iran Denies Attack On South Korean Cargo Ship HMM Namu In Strait Of Hormuz",
-        "summary": "Image for representation purposes only Iran denied on Thursday that it attacked a South Korean cargo ship in the Strait of Hormuz, while US President Donald Trump said a deal to en",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-07T12:57:29+00:00",
+        "title": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand",
+        "summary": "Moller - Maersk reported strong growth in its air freight business during the first quarter of 2026, driven by rising global demand for air cargo, especially shipments linked to ar",
+        "source": "The STAT Trade Times",
+        "timestamp": "2026-05-08T09:49:00+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-denies-attack-on-south-korean-cargo-ship-hmm-namu-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-denies-attack-on-south-korean-cargo-ship-hmm-namu-in-strait-of-hormuz",
+        "link": "https://www.stattimes.com/air-cargo/maersk-q1-air-freight-volumes-rise-20-amid-strong-cargo-demand-1359074",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "stattimes",
         "paywalled": false,
         "confirmed_by": []
-      },
-      {
-        "title": "Georgia Ports’ $5B bet: Rewriting supply chain logistics",
-        "summary": "Customers, business partners, and industry leaders gathered for the Georgia Ports Authority’s 57th annual Georgia International Trade Conference to address critical developments in",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-07T18:04:53+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/georgia-ports-5b-bet-rewriting-supply-chain-logistics",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -171,14 +165,14 @@
       },
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
@@ -188,12 +182,24 @@
         "summary": ""
       },
       {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-09",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand; Six Types of Shipping Crisis — And What They Mean for Freight Procurement; Trade Advisory on operational status at JNPA Container Terminals",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-08",
         "write_now": "Maybe",
@@ -241,53 +247,44 @@
         "worth_attention_today": "5",
         "headline": "DHL Group posts Q1 profit amid global disruptions; At Least 44 Iranian Seafarers Dead, 29 Injured In U.S.-Israel War On Iran, Union Files Complaint To IMO; IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-02",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Traffix expects double-digit rate increases to hold through 2026; MARAD commits US$774m to port infrastructure; Corvus Energy gains DNV cybersecurity type approval for Dolphin NxtGen",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 335,
-      "high_trust": 81,
-      "trade_press": 254,
+      "total_items": 314,
+      "high_trust": 75,
+      "trade_press": 239,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-08.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-08.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-08.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-09.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-09.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-09.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-08",
-    "run_started_at": "2026-05-08T07:30:56+09:00",
+    "report_date": "2026-05-09",
+    "run_started_at": "2026-05-09T07:30:58+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Yard Visibility (degraded performance)."
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -329,7 +326,20 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-05-08",
@@ -381,14 +391,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260508T073056+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-08.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260509T073058+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-09.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W19",
-    "week_end_date": "2026-05-08",
+    "week_end_date": "2026-05-09",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -402,12 +412,11 @@
     "executive_takeaways": [
       "FourKites is signaling AI positioning around procurement and tendering.",
       "Shippeo is signaling AI positioning around end to end orchestration.",
-      "Project44 is signaling unknown around unknown."
+      "Project44 is signaling workflow deepening around in transit visibility."
     ],
     "strategic_movements": [
       "FourKites (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of better visibility.",
       "Shippeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership.",
-      "Project44 (direct competitor) is pushing unknown.",
       "Project44 (direct competitor) is pushing workflow deepening around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
@@ -439,7 +448,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
+    "important_signal_count": 3,
     "active_theses": [],
     "top_signals": [
       {
@@ -472,20 +481,6 @@
       },
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
-        "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor). Partially Degraded Service",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "entity_name": "Project44",
         "source_title": "Project44 status page shows degraded services: Yard Visibility (degraded performance).",
         "source_layer": "direct competitor",
         "strategic_move": "Workflow deepening",
@@ -502,11 +497,11 @@
     "recent_history": [
       {
         "week_label": "2026-W19",
-        "week_end_date": "2026-05-08",
+        "week_end_date": "2026-05-09",
         "takeaway": "FourKites is signaling AI positioning around procurement and tendering.",
-        "signal_count": "4",
+        "signal_count": "3",
         "active_thesis_count": "0",
-        "signal_signature": "FourKites|direct_competitor|product_update|53dd4be76ab437022ea7d2ae18f8773cbbc68cb6 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|workflow_expansion|202665468d9f9cc43fc796b49299d3232c28fc6b",
+        "signal_signature": "FourKites|direct_competitor|product_update|53dd4be76ab437022ea7d2ae18f8773cbbc68cb6 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Project44|direct_competitor|workflow_expansion|202665468d9f9cc43fc796b49299d3232c28fc6b",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
