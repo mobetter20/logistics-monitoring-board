@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-08T22:31:45+00:00",
-  "requested_date": "2026-05-09",
+  "built_at": "2026-05-09T22:31:50+00:00",
+  "requested_date": "2026-05-10",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-09",
+    "requested_date": "2026-05-10",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: DP World rolls out cargo war risk solution.",
+      "Lead daily item: Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Same direction as the prior run."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-09",
+        "report_label": "2026-05-10",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-09",
+        "report_label": "2026-05-10",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-09",
-    "last_updated": "2026-05-09 07:30",
+    "report_date": "2026-05-10",
+    "last_updated": "2026-05-10 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by DP World rolls out cargo war risk solution.",
+    "status_note": "Market watch is led by Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: DP World rolls out cargo war risk solution.",
+      "Lead market story: Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz.",
       "6 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-09",
+      "report_date": "2026-05-10",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand; Six Types of Shipping Crisis — And What They Mean for Freight Procurement; Trade Advisory on operational status at JNPA Container Terminals",
+      "headline": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz; Hactl @ 50: Scale, Secure, Sustainable; Coal shipments to Japan, South Korea and the EU jump 27%",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 6,
-    "headline": "DP World rolls out cargo war risk solution",
+    "headline": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz",
     "key_news_radar": [
       {
-        "title": "DP World rolls out cargo war risk solution",
-        "summary": "The new DP World product seeks to close gaps in conventional cargo insurance by offering end-to-end protection across ocean, port and inland transport in volatile regional corridor",
+        "title": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz",
+        "summary": "Image for representation purposes only Iran’s Navy has seized the oil tanker Ocean Koi in the Gulf of Oman, accusing the vessel of attempting to disrupt the country’s oil exports.",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-09T12:52:20+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/watch-iranian-navy-seizes-oil-tanker-in-gulf-of-oman-as-us-disables-2-ships-near-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=watch-iranian-navy-seizes-oil-tanker-in-gulf-of-oman-as-us-disables-2-ships-near-hormuz",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Coal shipments to Japan, South Korea and the EU jump 27%",
+        "summary": "Global coal shipments have increased sharply as disruption in LNG markets reshapes energy demand across key importing regions.",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-08T08:02:19+00:00",
+        "timestamp": "2026-05-09T06:00:04+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/05/dp-world-rolls-out-cargo-war-risk-solution/",
+        "link": "https://www.worldcargonews.com/bulk/2026/05/coal-shipments-to-japan-south-korea-and-the-eu-jump-27/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,25 +115,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Guiding, Inspiring, Leading",
-        "summary": "Through an online poll, Railway Age subscribers nominated a large group of active (non-retired) individuals from the North American freight, switching/terminal and passenger railro",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-08T17:18:09+00:00",
-        "confidence": "medium",
-        "link": "https://www.railwayage.com/news/guiding-inspiring-leading/?utm_source=rss&utm_medium=rss&utm_campaign=guiding-inspiring-leading",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Flying compute economy: How air cargo carries AI infrastructure",
-        "summary": "One of the world’s largest networking solutions and AI infrastructure companies by market capitalisation maintained cargo flows with minimal disruption, even during disruptions.",
+        "title": "Hactl @ 50: Scale, Secure, Sustainable",
+        "summary": "For the 15th time since 2010, Hong Kong International Airport (HKIA) was named the busiest cargo airport in the world in 2025 by Airports Council International (ACI) World.",
         "source": "The STAT Trade Times",
-        "timestamp": "2026-05-10T04:30:36+00:00",
+        "timestamp": "2026-05-09T04:30:27+00:00",
         "confidence": "medium",
-        "link": "https://www.stattimes.com/logistics/flying-compute-economy-how-air-cargo-carries-ai-infrastructure-1359088",
+        "link": "https://www.stattimes.com/cargo-airports/hactl-50-scale-secure-sustainable-1359087",
         "label": "Operational",
         "question_signal": "",
         "source_id": "stattimes",
@@ -128,12 +128,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Trade Advisory on operational status at JNPA Container Terminals",
-        "summary": "MUMBAI : Jawaharlal Nehru Port Authority (JNPA), India’s Largest Container Port, wishes to clarify the operational status of its container terminals in light of recent advisories i",
+        "title": "Iran’s Strait of Hormuz blockade leaves 1,500 ships, 20,000 crew stranded: IMO",
+        "summary": "LONDON : The International Maritime Organization (IMO) has warned that nearly 1,500 vessels and about 20,000 crew members remain stranded in the Gulf following Iran’s blockade of t",
         "source": "India Shipping News",
-        "timestamp": "2026-05-08T03:30:31+00:00",
+        "timestamp": "2026-05-09T03:19:03+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/trade-advisory-on-operational-status-at-jnpa-container-terminals/",
+        "link": "https://indiashippingnews.com/irans-strait-of-hormuz-blockade-leaves-1500-ships-20000-crew-stranded-imo/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_shipping_news",
@@ -141,15 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand",
-        "summary": "Moller - Maersk reported strong growth in its air freight business during the first quarter of 2026, driven by rising global demand for air cargo, especially shipments linked to ar",
-        "source": "The STAT Trade Times",
-        "timestamp": "2026-05-08T09:49:00+00:00",
+        "title": "Over 9,000 Filipino Seafarers Repatriated Amid Ongoing Crisis In Strait Of Hormuz",
+        "summary": "Image for representation purposes only More than 9,000 overseas Filipino workers (OFWs) have returned to the Philippines amid the continuing crisis in the Strait of Hormuz, accordi",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-09T11:31:42+00:00",
         "confidence": "medium",
-        "link": "https://www.stattimes.com/air-cargo/maersk-q1-air-freight-volumes-rise-20-amid-strong-cargo-demand-1359074",
+        "link": "https://www.marineinsight.com/over-9000-filipino-seafarers-repatriated-amid-ongoing-crisis-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=over-9000-filipino-seafarers-repatriated-amid-ongoing-crisis-in-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "stattimes",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-10",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz; Hactl @ 50: Scale, Secure, Sustainable; Coal shipments to Japan, South Korea and the EU jump 27%",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-09",
         "write_now": "Maybe",
@@ -239,39 +247,31 @@
         "worth_attention_today": "2",
         "headline": "Contship reports strong 2025 results with revenue and profit growth",
         "summary": "No single item currently clears the bar for an automatic write-now alert. Treat this as a shortlist for review."
-      },
-      {
-        "report_date": "2026-05-03",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "DHL Group posts Q1 profit amid global disruptions; At Least 44 Iranian Seafarers Dead, 29 Injured In U.S.-Israel War On Iran, Union Files Complaint To IMO; IMO Progresses Work On Ship Emissions, Pollution, And Ocean Protection",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 314,
-      "high_trust": 75,
-      "trade_press": 239,
+      "total_items": 64,
+      "high_trust": 18,
+      "trade_press": 46,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-09.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-09.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-09.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-10.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-10.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-10.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-09",
-    "run_started_at": "2026-05-09T07:30:58+09:00",
+    "report_date": "2026-05-10",
+    "run_started_at": "2026-05-10T07:31:02+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -284,7 +284,7 @@
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -330,13 +330,14 @@
       {
         "company": "Project44",
         "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "All Systems Operational"
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
         ]
       }
     ],
@@ -374,31 +375,31 @@
         "source_url": "https://www.shippeo.com/"
       },
       {
+        "detected_date": "2026-05-03",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-05-01",
         "company": "Project44",
         "importance": "important",
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-04-30",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Tracking Updates Delayed Across All Modes – EU Production.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260509T073058+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-09.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260510T073102+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-10.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W19",
-    "week_end_date": "2026-05-09",
+    "week_end_date": "2026-05-10",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
@@ -424,8 +425,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -497,7 +497,7 @@
     "recent_history": [
       {
         "week_label": "2026-W19",
-        "week_end_date": "2026-05-09",
+        "week_end_date": "2026-05-10",
         "takeaway": "FourKites is signaling AI positioning around procurement and tendering.",
         "signal_count": "3",
         "active_thesis_count": "0",
