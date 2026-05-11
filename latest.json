@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-10T22:31:37+00:00",
-  "requested_date": "2026-05-11",
+  "built_at": "2026-05-11T22:57:42+00:00",
+  "requested_date": "2026-05-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-11",
+    "requested_date": "2026-05-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Behind every Mother’s Day bouquet is a global cargo race.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Two months in: What container data tells us about the Hormuz crisis.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-11",
+        "report_label": "2026-05-12",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-11",
+        "report_label": "2026-05-12",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-11",
-    "last_updated": "2026-05-11 07:30",
+    "report_date": "2026-05-12",
+    "last_updated": "2026-05-12 07:56",
     "freshness": "current",
-    "status_note": "Market watch is led by Behind every Mother’s Day bouquet is a global cargo race.",
+    "status_note": "Market watch is led by Two months in: What container data tells us about the Hormuz crisis.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Behind every Mother’s Day bouquet is a global cargo race.",
+      "Lead market story: Two months in: What container data tells us about the Hormuz crisis.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-11",
+      "report_date": "2026-05-12",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
-      "worth_attention_today": "1",
-      "headline": "Behind every Mother’s Day bouquet is a global cargo race; Choosing Storage That Holds Up Under Shipping Pressure; Borderlands Mexico: Trade, trucking dominate Port of Eagle Pass annual summit",
+      "worth_attention_today": "5",
+      "headline": "Two months in: What container data tells us about the Hormuz crisis; Is China-Europe the most resilient air cargo corridor?; JNPA says terminals operating without congestion, cites external logistics constraints on cargo flow",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Behind every Mother’s Day bouquet is a global cargo race",
+    "headline": "Two months in: What container data tells us about the Hormuz crisis",
     "key_news_radar": [
       {
-        "title": "Behind every Mother’s Day bouquet is a global cargo race",
-        "summary": "Every year, as Mother’s Day approaches, something very familiar begins to happen across the world.",
+        "title": "Two months in: What container data tells us about the Hormuz crisis",
+        "summary": "BRUSSELS: When the Strait of Hormuz effectively closed to commercial traffic, 53 container vessels belonging to the world’s top shipping lines found themselves trapped inside the P",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-11T03:25:28+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/two-months-in-what-container-data-tells-us-about-the-hormuz-crisis/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "JNPA says terminals operating without congestion, cites external logistics constraints on cargo flow",
+        "summary": "“All five container terminals at JNPA are functioning smoothly, without congestion, and continue to operate at full efficiency,” the port authority said.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-05-11T11:09:55+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/05/jnpa-says-terminals-operating-without-congestion-cites-external-logistics-constraints-on-cargo-flow/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Is China-Europe the most resilient air cargo corridor?",
+        "summary": "\"We're in step with where the market is growing, populations are growing.",
         "source": "The STAT Trade Times",
-        "timestamp": "2026-05-10T11:34:10+00:00",
+        "timestamp": "2026-05-11T11:05:53+00:00",
         "confidence": "medium",
-        "link": "https://www.stattimes.com/air-cargo/behind-every-mothers-day-bouquet-is-a-global-cargo-race-1359089",
+        "link": "https://www.stattimes.com/air-cargo/is-chinaeurope-the-most-resilient-air-cargo-corridor-1359096",
         "label": "Operational",
         "question_signal": "",
         "source_id": "stattimes",
@@ -102,58 +128,28 @@
         "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Trade, trucking dominate Port of Eagle Pass annual summit",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-10T12:46:15+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-trade-trucking-dominate-port-of-eagle-pass-annual-summit",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Choosing Storage That Holds Up Under Shipping Pressure",
-        "summary": "In global shipping operations, port logistics, and supply chain risk management, many teams assume storage is only a capacity problem.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-10T21:18:47+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/choosing-storage-that-holds-up-under-shipping-pressure/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Rail agreement backs intermodal expansion at Port of Thessaloniki",
-        "summary": "The Greek Port of Thessaloniki has signed a Memorandum of Understanding with the Greek and Bulgarian national railway operators, Hellenic Train and Bulgarian Railways (BDZ).",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-10T06:00:05+00:00",
+        "title": "Disrupted Middle East-India shipments restart as choked supply chains ease",
+        "summary": "FUJAIRAH : Terminals at alternative ports of call in the Persian Gulf have reopened gates to outbound freight flows, albeit gradually, according to market sources.",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-11T03:29:17+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/rail-agreement-backs-intermodal-expansion-at-port-of-thessaloniki/",
-        "label": "Watch",
+        "link": "https://indiashippingnews.com/disrupted-middle-east-india-shipments-restart-as-choked-supply-chains-ease/",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "American Waterways, Global Volatility: Making the Right Policy Choices",
-        "summary": "Today’s headlines bring constant news of international shipping hubs across the global supply chain experiencing major volatility and disruption - from Iran sending shockwaves thro",
-        "source": "MarineLink News",
-        "timestamp": "2026-05-10T11:30:26+00:00",
-        "confidence": "high",
-        "link": "https://www.marinelink.com/news/american-waterways-global-volatility-538994",
+        "title": "Uncertain fate of two MSC container ships in the Gulf",
+        "summary": "The Persian Gulf area continues to be shrouded in an information fog because, in the absence of authoritative and independent sources, reports are coming from the parties to the co",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-05-11T15:45:54+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/uncertain-fate-of-two-msc-container-ships-in-the-gulf/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marinelink_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -166,15 +162,27 @@
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -184,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Two months in: What container data tells us about the Hormuz crisis; Is China-Europe the most resilient air cargo corridor?; JNPA says terminals operating without congestion, cites external logistics constraints on cargo flow",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-11",
         "write_now": "Maybe",
@@ -231,52 +247,45 @@
         "worth_attention_today": "5",
         "headline": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update; Maersk vessel exits Persian Gulf accompanied by US military; Watch: Fire Breaks Out On South Korean Ship Carrying 24 Crew After Explosion In Strait Of Hormuz",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Trump announces ‘Project Freedom’ to escort stranded shipping out of Hormuz; Road routes through Pakistan to avoid the Strait of Hormuz; US redirects 48 vessels in Hormuz to enforce Iran port blockade",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 38,
-      "high_trust": 5,
-      "trade_press": 33,
+      "total_items": 323,
+      "high_trust": 76,
+      "trade_press": 247,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-11",
-    "run_started_at": "2026-05-11T07:30:59+09:00",
+    "report_date": "2026-05-12",
+    "run_started_at": "2026-05-12T07:56:49+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, data quality / connectivity, AI, and automation remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Yard Visibility (degraded performance)."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward data quality / connectivity, AI and automation, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -301,6 +310,10 @@
     ],
     "peer_themes": [
       {
+        "theme": "data quality / connectivity",
+        "count": "3"
+      },
+      {
         "theme": "AI",
         "count": "3"
       },
@@ -309,29 +322,12 @@
         "count": "3"
       },
       {
-        "theme": "data quality / connectivity",
-        "count": "3"
-      },
-      {
         "theme": "optimization / procurement",
         "count": "3"
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-05-08",
@@ -374,23 +370,23 @@
         "source_url": "https://status.project44.com/api/v2/summary.json"
       },
       {
-        "detected_date": "2026-05-01",
+        "detected_date": "2026-05-02",
         "company": "Project44",
-        "importance": "important",
+        "importance": "watch",
         "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Appointment Manager – Partial Service Disruption (NA Production) (major).",
+        "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260511T073059+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260512T075649+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W20",
-    "week_end_date": "2026-05-11",
+    "week_end_date": "2026-05-12",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -440,7 +436,7 @@
     "recent_history": [
       {
         "week_label": "2026-W20",
-        "week_end_date": "2026-05-11",
+        "week_end_date": "2026-05-12",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
