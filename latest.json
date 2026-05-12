@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-11T22:57:42+00:00",
-  "requested_date": "2026-05-12",
+  "built_at": "2026-05-12T22:31:48+00:00",
+  "requested_date": "2026-05-13",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-12",
+    "requested_date": "2026-05-13",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Two months in: What container data tells us about the Hormuz crisis.",
+      "Lead daily item: Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-12",
+        "report_label": "2026-05-13",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-12",
+        "report_label": "2026-05-13",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,101 +64,97 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-12",
-    "last_updated": "2026-05-12 07:56",
+    "report_date": "2026-05-13",
+    "last_updated": "2026-05-13 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Two months in: What container data tells us about the Hormuz crisis.",
+    "status_note": "Market watch is led by Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Two months in: What container data tells us about the Hormuz crisis.",
+      "Lead market story: Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-12",
+      "report_date": "2026-05-13",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Two months in: What container data tells us about the Hormuz crisis; Is China-Europe the most resilient air cargo corridor?; JNPA says terminals operating without congestion, cites external logistics constraints on cargo flow",
+      "headline": "Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts; Hormuz tension keeps pressure on rates; Section 122 invalidated - May 12, 2026 Update; Rising Ship Traffic Off South Africa Due To Middle East Conflict Increases Risk To Whales, Scientists Say",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Two months in: What container data tells us about the Hormuz crisis",
+    "headline": "Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts",
     "key_news_radar": [
       {
-        "title": "Two months in: What container data tells us about the Hormuz crisis",
-        "summary": "BRUSSELS: When the Strait of Hormuz effectively closed to commercial traffic, 53 container vessels belonging to the world’s top shipping lines found themselves trapped inside the P",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-11T03:25:28+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/two-months-in-what-container-data-tells-us-about-the-hormuz-crisis/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "JNPA says terminals operating without congestion, cites external logistics constraints on cargo flow",
-        "summary": "“All five container terminals at JNPA are functioning smoothly, without congestion, and continue to operate at full efficiency,” the port authority said.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-11T11:09:55+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/05/jnpa-says-terminals-operating-without-congestion-cites-external-logistics-constraints-on-cargo-flow/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Is China-Europe the most resilient air cargo corridor?",
-        "summary": "\"We're in step with where the market is growing, populations are growing.",
-        "source": "The STAT Trade Times",
-        "timestamp": "2026-05-11T11:05:53+00:00",
+        "title": "Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts",
+        "summary": "Image Credits: US Navy US President Donald Trump said he is considering restarting “Project Freedom”, a maritime security initiative aimed at protecting shipping routes in the Midd",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-12T12:59:16+00:00",
         "confidence": "medium",
-        "link": "https://www.stattimes.com/air-cargo/is-chinaeurope-the-most-resilient-air-cargo-corridor-1359096",
+        "link": "https://www.marineinsight.com/trump-considers-reviving-project-freedom-with-expanded-mission-beyond-strait-of-hormuz-escorts/?utm_source=rss&utm_medium=rss&utm_campaign=trump-considers-reviving-project-freedom-with-expanded-mission-beyond-strait-of-hormuz-escorts",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "stattimes",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Disrupted Middle East-India shipments restart as choked supply chains ease",
-        "summary": "FUJAIRAH : Terminals at alternative ports of call in the Persian Gulf have reopened gates to outbound freight flows, albeit gradually, according to market sources.",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-11T03:29:17+00:00",
+        "title": "Hormuz tension keeps pressure on rates; Section 122 invalidated - May 12, 2026 Update",
+        "summary": "Home Hormuz tension keeps pressure on rates; Section 122 invalidated - May 12, 2026 Update Published: May 12, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index Asia-",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-12T10:33:43+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/disrupted-middle-east-india-shipments-restart-as-choked-supply-chains-ease/",
+        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/hormuz-tension-keeps-pressure-on-rates-section-122-invalidated-may-12-2026-update/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Uncertain fate of two MSC container ships in the Gulf",
-        "summary": "The Persian Gulf area continues to be shrouded in an information fog because, in the absence of authoritative and independent sources, reports are coming from the parties to the co",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-05-11T15:45:54+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/uncertain-fate-of-two-msc-container-ships-in-the-gulf/",
+        "title": "APSEZ Fast-Tracks Vizhinjam Phase II Expansion Amid Surge in Transshipment Traffic",
+        "summary": "Adani Ports and Special Economic Zone has accelerated the Phase II expansion of the Vizhinjam International Seaport after the port operated at full capacity during the peak of the",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-12T18:40:52+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/apsez-fast-tracks-vizhinjam-phase-ii-expansion-amid-surge-in-transshipment-traffic/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India Launches Bharat Maritime Insurance Pool to Protect Indian Vessels Amid West Asia Crisis",
+        "summary": "The Indian government has launched the Bharat Maritime Insurance Pool to provide risk coverage and insurance support for Indian vessels operating amid escalating tensions and secur",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-12T18:39:41+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/india-launches-bharat-maritime-insurance-pool-to-protect-indian-vessels-amid-west-asia-crisis/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Rising Ship Traffic Off South Africa Due To Middle East Conflict Increases Risk To Whales, Scientists Say",
+        "summary": "Image for representation purposes only Scientists have warned that changing global shipping routes caused by conflicts in the Middle East are increasing the risk of whales being st",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-12T11:30:28+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/rising-ship-traffic-off-south-africa-due-to-middle-east-conflict-increases-risk-to-whales-scientists-say/?utm_source=rss&utm_medium=rss&utm_campaign=rising-ship-traffic-off-south-africa-due-to-middle-east-conflict-increases-risk-to-whales-scientists-say",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -169,14 +165,14 @@
       },
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
@@ -186,12 +182,24 @@
         "summary": ""
       },
       {
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-13",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts; Hormuz tension keeps pressure on rates; Section 122 invalidated - May 12, 2026 Update; Rising Ship Traffic Off South Africa Due To Middle East Conflict Increases Risk To Whales, Scientists Say",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-12",
         "write_now": "Maybe",
@@ -239,53 +247,45 @@
         "worth_attention_today": "5",
         "headline": "Freightos Weekly Update: Asia-Europe container rates slide, transpac more buoyant; Trump pauses Project Freedom, Iran presses ahead on toll collection; U.S. And Gulf Allies Warn Iran Of Sanctions Over Strait Of Hormuz Shipping Disruptions",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-06",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Asia - Europe container rates slide, transpac more buoyant - May 5, 2026 Update; Maersk vessel exits Persian Gulf accompanied by US military; Watch: Fire Breaks Out On South Korean Ship Carrying 24 Crew After Explosion In Strait Of Hormuz",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
       "total_items": 323,
-      "high_trust": 76,
-      "trade_press": 247,
+      "high_trust": 75,
+      "trade_press": 248,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-12.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-12.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-12.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-13.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-13.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-13.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-12",
-    "run_started_at": "2026-05-12T07:56:49+09:00",
+    "report_date": "2026-05-13",
+    "run_started_at": "2026-05-13T07:30:57+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, data quality / connectivity, AI, and automation remain the dominant narrative cluster.",
+      "Across peers, data quality / connectivity, optimization / procurement, and AI remain the dominant narrative cluster.",
       "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Yard Visibility (degraded performance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "4 days ago",
+    "last_signal_label": "5 days ago",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward data quality / connectivity, AI and automation, and optimization / procurement."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and AI and automation."
       },
       {
         "company": "FourKites",
@@ -314,15 +314,15 @@
         "count": "3"
       },
       {
+        "theme": "optimization / procurement",
+        "count": "3"
+      },
+      {
         "theme": "AI",
         "count": "3"
       },
       {
         "theme": "automation",
-        "count": "3"
-      },
-      {
-        "theme": "optimization / procurement",
         "count": "3"
       }
     ],
@@ -379,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260512T075649+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-12.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260513T073057+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-13.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W20",
-    "week_end_date": "2026-05-12",
+    "week_end_date": "2026-05-13",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -436,7 +436,7 @@
     "recent_history": [
       {
         "week_label": "2026-W20",
-        "week_end_date": "2026-05-12",
+        "week_end_date": "2026-05-13",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
