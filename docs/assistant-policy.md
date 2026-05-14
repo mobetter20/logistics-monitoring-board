@@ -1,8 +1,9 @@
 # Board Assistant Policy
 
 This file is the canonical shared assistant policy for the published board repo.
-Update shared rules here first, then keep the shared-rule blocks in `AGENTS.md`
-and `CLAUDE.md` identical. Verify with `python3 scripts/check_instruction_sync.py`.
+Update shared rules here first, then run `python3 scripts/check_instruction_sync.py --fix`
+to copy them into `AGENTS.md` and `CLAUDE.md`. Verify with
+`python3 scripts/check_instruction_sync.py`.
 
 <!-- BEGIN SHARED RULES -->
 ## Shared Rules
