@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-14T22:32:05+00:00",
-  "requested_date": "2026-05-15",
+  "built_at": "2026-05-15T22:32:07+00:00",
+  "requested_date": "2026-05-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-15",
+    "requested_date": "2026-05-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Houston gains cargo share as volumes soften at West Coast ports.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Container freight rates surge in early May 2026.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-15",
+        "report_label": "2026-05-16",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-15",
+        "report_label": "2026-05-16",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,94 +64,95 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-15",
-    "last_updated": "2026-05-15 07:30",
+    "report_date": "2026-05-16",
+    "last_updated": "2026-05-16 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Houston gains cargo share as volumes soften at West Coast ports.",
+    "status_note": "Market watch is led by Container freight rates surge in early May 2026.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Houston gains cargo share as volumes soften at West Coast ports.",
+      "Lead market story: Container freight rates surge in early May 2026.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-15",
+      "report_date": "2026-05-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Houston gains cargo share as volumes soften at West Coast ports; Hactl expands Green Cargo Terminal push with safety measures; TOC Europe is around the corner: here’s what’s on show",
+      "headline": "Container freight rates surge in early May 2026; ‘AI is the new UI’: Coupa customers race to automate supply chains; China fines nine shipping companies over freight rates",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Houston gains cargo share as volumes soften at West Coast ports",
+    "headline": "Container freight rates surge in early May 2026",
     "key_news_radar": [
       {
-        "title": "Houston gains cargo share as volumes soften at West Coast ports",
-        "summary": "Executives at Flexport said ocean and air freight markets are showing signs of tightening capacity and elevated transportation costs heading into summer during the company’s North",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-14T20:08:31+00:00",
+        "title": "Container freight rates surge in early May 2026",
+        "summary": "Container shipping is entering an early phase of overheating.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-05-15T09:14:52+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/houston-gains-cargo-share-as-volumes-soften-at-west-coast-ports",
+        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-surge-in-early-may-2026/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "From silence to ambiguity: Beijing steps into the Hormuz crisis cautiously",
+        "summary": "Xi Jinping’s offer to help Trump on Iran marks a shift in China’s posture but not the strategic pivot the market may be hoping for.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-15T16:38:14+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/from-silence-to-ambiguity-beijing-steps-into-the-hormuz-crisis-cautiously/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "freightwaves_news"
+          "s_news_via_shippers_association_on_inoreader",
+          "container_news"
         ]
       },
       {
-        "title": "New Delhi Condemns Gulf of Oman Ship Sinking Incident",
-        "summary": "India has strongly condemned the recent attack and sinking of a commercial vessel in the Gulf of Oman, expressing serious concern over escalating maritime security threats in the s",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-14T19:04:26+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/new-delhi-condemns-gulf-of-oman-ship-sinking-incident/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "TOC Europe is around the corner: here’s what’s on show",
-        "summary": "As the industry prepares for next week’s opening of TOC Europe in Hamburg, where World Cargo News is the main media partner, attention is turning to a wave of new product launches",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-14T06:26:05+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/05/toc-europe-is-around-the-corner-heres-whats-on-show/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Two LPG Ships Carrying Fuel for India Safely Transit Strait of Hormuz",
-        "summary": "Two LPG tankers carrying fuel cargoes for India have successfully transited through the Strait of Hormuz despite heightened geopolitical tensions and ongoing conflict involving the",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-14T19:04:57+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/two-lpg-ships-carrying-fuel-for-india-safely-transit-strait-of-hormuz/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "11 Seafarers Killed, 38 Ship Attacks Reported As 20,000 Crew Remain Trapped In Strait Of Hormuz: UN",
-        "summary": "Image for representation purposes only The head of the International Maritime Organization has warned that thousands of seafarers remain stranded aboard vessels in and around the S",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-14T11:12:46+00:00",
+        "title": "ITS Logistics May Port/Rail Ramp Freight Index: Strait of Hormuz Closure Sends Fuel Shock Through Supply Chains",
+        "summary": "ITS Logistics, an Echo Global Logistics company, today released its May forecast in the ITS Logistics Port/Rail Ramp Freight Index.",
+        "source": "Port News - Hellenic Shipping News Worldwide",
+        "timestamp": "2026-05-15T21:00:39+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/11-seafarers-killed-38-ship-attacks-reported-as-20000-crew-remain-trapped-in-strait-of-hormuz-un/?utm_source=rss&utm_medium=rss&utm_campaign=11-seafarers-killed-38-ship-attacks-reported-as-20000-crew-remain-trapped-in-strait-of-hormuz-un",
+        "link": "https://www.hellenicshippingnews.com/its-logistics-may-port-rail-ramp-freight-index-strait-of-hormuz-closure-sends-fuel-shock-through-supply-chains/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "port_news_hellenic_shipping_news_worldwide",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "‘AI is the new UI’: Coupa customers race to automate supply chains",
+        "summary": "LAS VEGAS — Artificial intelligence, digital twins and autonomous supply chain workflows dominated Day 2 discussions at Coupa Inspire 2026 as executives from Coupa, GAF and Sonepar",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-05-15T13:38:48+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/ai-is-the-new-ui-coupa-customers-race-to-automate-supply-chains",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Gulf Conflict Forces Redington to Rely on Air Freight Amid Sea Route Disruptions",
+        "summary": "Redington is increasingly turning to air freight solutions as disruptions in key sea routes linked to ongoing Gulf tensions continue to impact maritime logistics and transit reliab",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-15T19:14:10+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/gulf-conflict-forces-redington-to-rely-on-air-freight-amid-sea-route-disruptions/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -163,11 +164,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -176,15 +177,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container freight rates surge in early May 2026; ‘AI is the new UI’: Coupa customers race to automate supply chains; China fines nine shipping companies over freight rates",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-15",
         "write_now": "Maybe",
@@ -241,48 +250,41 @@
         "worth_attention_today": "5",
         "headline": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz; Hactl @ 50: Scale, Secure, Sustainable; Coal shipments to Japan, South Korea and the EU jump 27%",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Maersk Q1 air freight volumes rise 20% amid strong cargo demand; Six Types of Shipping Crisis — And What They Mean for Freight Procurement; Trade Advisory on operational status at JNPA Container Terminals",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 308,
-      "high_trust": 74,
-      "trade_press": 234,
+      "total_items": 252,
+      "high_trust": 69,
+      "trade_press": 183,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-15",
-    "run_started_at": "2026-05-15T07:31:00+09:00",
+    "report_date": "2026-05-16",
+    "run_started_at": "2026-05-16T07:31:06+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 3,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -327,47 +329,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "AI Orchestration",
-          "Demo: Disruption Management Agent | Decision Intelligence demo series"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/platform/",
-        "evidence": [
-          "AI Orchestration",
-          "Demo: Disruption Management Agent | Decision Intelligence demo series"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "AI Orchestration",
-          "Demo: Disruption Management Agent | Decision Intelligence demo series"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -420,14 +382,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260515T073100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260516T073106+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-16.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W20",
-    "week_end_date": "2026-05-15",
+    "week_end_date": "2026-05-16",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -496,7 +458,7 @@
     "recent_history": [
       {
         "week_label": "2026-W20",
-        "week_end_date": "2026-05-15",
+        "week_end_date": "2026-05-16",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "3",
         "active_thesis_count": "1",
