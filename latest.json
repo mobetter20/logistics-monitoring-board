@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-15T22:32:07+00:00",
-  "requested_date": "2026-05-16",
+  "built_at": "2026-05-16T22:32:07+00:00",
+  "requested_date": "2026-05-17",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-16",
+    "requested_date": "2026-05-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container freight rates surge in early May 2026.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-16",
+        "report_label": "2026-05-17",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-16",
+        "report_label": "2026-05-17",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,95 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-16",
-    "last_updated": "2026-05-16 07:31",
+    "report_date": "2026-05-17",
+    "last_updated": "2026-05-17 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Container freight rates surge in early May 2026.",
+    "status_note": "Market watch is led by U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container freight rates surge in early May 2026.",
+      "Lead market story: U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-16",
+      "report_date": "2026-05-17",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container freight rates surge in early May 2026; ‘AI is the new UI’: Coupa customers race to automate supply chains; China fines nine shipping companies over freight rates",
+      "headline": "U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions; IEA Warns Global Oil Supply Will Fall Short Of Demand This Year As Hormuz Crisis Deepens; Why the Accounting Talent Shortage Is Affecting the Logistics Industry",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container freight rates surge in early May 2026",
+    "headline": "U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions",
     "key_news_radar": [
       {
-        "title": "Container freight rates surge in early May 2026",
-        "summary": "Container shipping is entering an early phase of overheating.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-05-15T09:14:52+00:00",
+        "title": "U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions",
+        "summary": "Image for representation purposes only The United States has said it destroyed more than 90% of Iran’s stockpile of around 8,000 sea mines during military operations linked to the",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-16T11:32:29+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-surge-in-early-may-2026/",
+        "link": "https://www.marineinsight.com/u-s-says-it-destroyed-90-of-irans-sea-mines-amid-ongoing-strait-of-hormuz-shipping-disruptions/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-says-it-destroyed-90-of-irans-sea-mines-amid-ongoing-strait-of-hormuz-shipping-disruptions",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "From silence to ambiguity: Beijing steps into the Hormuz crisis cautiously",
-        "summary": "Xi Jinping’s offer to help Trump on Iran marks a shift in China’s posture but not the strategic pivot the market may be hoping for.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-15T16:38:14+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/from-silence-to-ambiguity-beijing-steps-into-the-hormuz-crisis-cautiously/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "container_news"
-        ]
-      },
-      {
-        "title": "ITS Logistics May Port/Rail Ramp Freight Index: Strait of Hormuz Closure Sends Fuel Shock Through Supply Chains",
-        "summary": "ITS Logistics, an Echo Global Logistics company, today released its May forecast in the ITS Logistics Port/Rail Ramp Freight Index.",
-        "source": "Port News - Hellenic Shipping News Worldwide",
-        "timestamp": "2026-05-15T21:00:39+00:00",
+        "title": "IEA Warns Global Oil Supply Will Fall Short Of Demand This Year As Hormuz Crisis Deepens",
+        "summary": "Image for representation purposes only Global oil supply is now expected to fall below global demand this year, after major disruptions in the Middle East linked to the Iran confli",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-15T13:20:26+00:00",
         "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/its-logistics-may-port-rail-ramp-freight-index-strait-of-hormuz-closure-sends-fuel-shock-through-supply-chains/",
+        "link": "https://www.marineinsight.com/iea-warns-global-oil-supply-will-fall-short-of-demand-this-year-as-hormuz-crisis-deepens/?utm_source=rss&utm_medium=rss&utm_campaign=iea-warns-global-oil-supply-will-fall-short-of-demand-this-year-as-hormuz-crisis-deepens",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "port_news_hellenic_shipping_news_worldwide",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "‘AI is the new UI’: Coupa customers race to automate supply chains",
-        "summary": "LAS VEGAS — Artificial intelligence, digital twins and autonomous supply chain workflows dominated Day 2 discussions at Coupa Inspire 2026 as executives from Coupa, GAF and Sonepar",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-05-15T13:38:48+00:00",
+        "title": "UAE announces $5-Billion investment in India as PM Modi visits Abu Dhabi",
+        "summary": "ABU DHABI : Prime Minister Shri Narendra Modi paid an official visit to the United Arab Emirates on Friday, holding wide-ranging talks with UAE President His Highness Sheikh Mohamm",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-16T03:28:08+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ai-is-the-new-ui-coupa-customers-race-to-automate-supply-chains",
+        "link": "https://indiashippingnews.com/uae-announces-5-billion-investment-in-india-as-pm-modi-visits-abu-dhabi/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Gulf Conflict Forces Redington to Rely on Air Freight Amid Sea Route Disruptions",
-        "summary": "Redington is increasingly turning to air freight solutions as disruptions in key sea routes linked to ongoing Gulf tensions continue to impact maritime logistics and transit reliab",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-15T19:14:10+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/gulf-conflict-forces-redington-to-rely-on-air-freight-amid-sea-route-disruptions/",
+        "title": "Long Beach Cargo Volumes Slip as Hormuz Crisis Continues to Disrupt Global Trade",
+        "summary": "The Port of Long Beach reported another decline in cargo traffic in April, as ongoing instability in global shipping markets and rising transportation costs continue to weigh on su",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-16T11:06:15+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/long-beach-cargo-volumes-slip-as-hormuz-crisis-continues-to-disrupt-global-trade/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India deepens defence, energy ties with UAE during PM Modi visit",
+        "summary": "NEW DELHI : India and the United Arab Emirates agreed the framework for ‌a strategic defence partnership on Friday, the Indian foreign ministry said, as they seek to deepen ties am",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-16T03:30:12+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/india-deepens-defence-energy-ties-with-uae-during-pm-modi-visit/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -164,28 +161,24 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -195,6 +188,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-17",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "U.S. Says It Destroyed 90% Of Iran’s Sea Mines Amid Ongoing Strait Of Hormuz Shipping Disruptions; IEA Warns Global Oil Supply Will Fall Short Of Demand This Year As Hormuz Crisis Deepens; Why the Accounting Talent Shortage Is Affecting the Logistics Industry",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-16",
         "write_now": "Maybe",
@@ -242,53 +243,44 @@
         "worth_attention_today": "1",
         "headline": "Behind every Mother’s Day bouquet is a global cargo race; Choosing Storage That Holds Up Under Shipping Pressure; Borderlands Mexico: Trade, trucking dominate Port of Eagle Pass annual summit",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-10",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Watch: Iranian Navy Seizes Oil Tanker In Gulf Of Oman As US Disables 2 Ships Near Hormuz; Hactl @ 50: Scale, Secure, Sustainable; Coal shipments to Japan, South Korea and the EU jump 27%",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 252,
-      "high_trust": 69,
-      "trade_press": 183,
+      "total_items": 69,
+      "high_trust": 16,
+      "trade_press": 53,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-16.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-16.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-16.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-17.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-17.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-17.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-16",
-    "run_started_at": "2026-05-16T07:31:06+09:00",
+    "report_date": "2026-05-17",
+    "run_started_at": "2026-05-17T07:31:06+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -330,7 +322,21 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-05-15",
@@ -357,6 +363,14 @@
         "source_url": "https://www.project44.com/industries/"
       },
       {
+        "detected_date": "2026-05-10",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-05-08",
         "company": "Project44",
         "importance": "minor",
@@ -371,25 +385,17 @@
         "signal_type": "press announcement",
         "summary": "FourKites press releases announced \"Press Release 5-5-26 FourKites Bridges the Gap Between Supply Chain Planning and Execution With AI-Powered Inventory Twin Enhancements",
         "source_url": "https://www.fourkites.com/press/inventory-twin-supply-chain-planning-execution/"
-      },
-      {
-        "detected_date": "2026-05-06",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: SMS Notifications Delayed for Appointment Manager and DriveView - NA Region (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260516T073106+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-16.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260517T073106+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-17.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W20",
-    "week_end_date": "2026-05-16",
+    "week_end_date": "2026-05-17",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -411,8 +417,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -458,7 +463,7 @@
     "recent_history": [
       {
         "week_label": "2026-W20",
-        "week_end_date": "2026-05-16",
+        "week_end_date": "2026-05-17",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "3",
         "active_thesis_count": "1",
