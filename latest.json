@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-18T22:56:54+00:00",
-  "requested_date": "2026-05-19",
+  "built_at": "2026-05-19T22:32:02+00:00",
+  "requested_date": "2026-05-20",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-19",
+    "requested_date": "2026-05-20",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: India-Netherlands Joint Statement.",
+      "Lead daily item: Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-19",
+        "report_label": "2026-05-20",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-19",
+        "report_label": "2026-05-20",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: Wakeo Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+        "supporting_note": "Wakeo is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W21",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around unknown.",
+        "summary": "Wakeo is signaling AI positioning around in transit visibility.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,76 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-19",
-    "last_updated": "2026-05-19 07:56",
+    "report_date": "2026-05-20",
+    "last_updated": "2026-05-20 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by India-Netherlands Joint Statement.",
+    "status_note": "Market watch is led by Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: India-Netherlands Joint Statement.",
+      "Lead market story: Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-19",
+      "report_date": "2026-05-20",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "India-Netherlands Joint Statement; Watch: POLB Launches Cyber Defense Operations Center; Parcel express services evolve as market fragmentation accelerates",
+      "headline": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update; Iran Introduces Bitcoin-Backed Insurance For Ships Crossing Strait Of Hormuz; Crypto tollbooth: Iran launches Bitcoin maritime insurance for Hormuz",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "India-Netherlands Joint Statement",
+    "headline": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update",
     "key_news_radar": [
       {
-        "title": "India-Netherlands Joint Statement",
-        "summary": "HAUGE : At the invitation of the Prime Minister of the Netherlands, Mr.",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-18T03:24:01+00:00",
+        "title": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update",
+        "summary": "Home Early start to peak season for Asia -Europe ocean?",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-19T12:16:50+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/india-netherlands-joint-statement/",
+        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/early-start-to-peak-season-for-asia-europe-ocean-may-19-2026-update/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Watch: POLB Launches Cyber Defense Operations Center",
-        "summary": "Port of Long Beach (POLB) on May 15 unveiled a Cyber Defense Operations Center that it described as “dedicated to defending one of America’s busiest seaports against cyberattacks t",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-18T18:08:58+00:00",
-        "confidence": "medium",
-        "link": "https://www.railwayage.com/intermodal/watch-polb-launches-cyber-defense-operations-center/?utm_source=rss&utm_medium=rss&utm_campaign=watch-polb-launches-cyber-defense-operations-center",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Going green gets harder for shipping",
-        "summary": "The shipping industry consumes in excess of 300 million tonnes of fuel each year and accounts for between 3% and 4% of global emissions.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-18T07:05:44+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/shipping-logistics/2026/05/going-green-gets-harder-for-shipping/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Iran Eyes Transit Fees On Hormuz Subsea Internet Cables Operated By Global Tech Firms",
-        "summary": "Image for representation purposes only Iran is reportedly considering charging “transit fees” on submarine internet cables that pass through the Strait of Hormuz, a key global ship",
+        "title": "Iran Introduces Bitcoin-Backed Insurance For Ships Crossing Strait Of Hormuz",
+        "summary": "Image for representation purposes only Iran has launched a Bitcoin-backed insurance service for shipping companies operating through the Strait of Hormuz, as it continues to tighte",
         "source": "Marine Insight",
-        "timestamp": "2026-05-18T12:05:53+00:00",
+        "timestamp": "2026-05-19T12:33:40+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-eyes-transit-fees-on-hormuz-subsea-internet-cables-operated-by-global-tech-firms/?utm_source=rss&utm_medium=rss&utm_campaign=iran-eyes-transit-fees-on-hormuz-subsea-internet-cables-operated-by-global-tech-firms",
+        "link": "https://www.marineinsight.com/iran-introduces-bitcoin-backed-insurance-for-ships-crossing-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-introduces-bitcoin-backed-insurance-for-ships-crossing-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -141,24 +115,46 @@
         "confirmed_by": []
       },
       {
-        "title": "India-Bound LPG Tanker Carrying 20,000 MT Completes Strait Of Hormuz Transit Amid Regional Crisis",
-        "summary": "Image for representation purposes only A tanker carrying 20,000 metric tonnes of liquefied petroleum gas (LPG) has arrived at India’s Deendayal Port Authority in Gujarat, after cro",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-18T12:50:09+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/india-bound-lpg-tanker-carrying-20000-mt-completes-strait-of-hormuz-transit-amid-regional-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=india-bound-lpg-tanker-carrying-20000-mt-completes-strait-of-hormuz-transit-amid-regional-crisis",
+        "title": "Global Trade Routes Reshaped as Hormuz Crisis Drives Alternative Export Hubs and Pipelines",
+        "summary": "Governments and corporations across the Middle East and beyond are accelerating a major reconfiguration of global trade routes as the Hormuz shipping crisis continues without resol",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-19T11:15:12+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/global-trade-routes-reshaped-as-hormuz-crisis-drives-alternative-export-hubs-and-pipelines/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Crypto tollbooth: Iran launches Bitcoin maritime insurance for Hormuz",
+        "summary": "The intersection of global shipping and decentralized finance has reached a new turning point.",
+        "source": "Container News",
+        "timestamp": "2026-05-19T13:00:56+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/crypto-tollbooth-iran-launches-bitcoin-maritime-insurance-for-hormuz/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Mounting Congestion at JNPA Disrupts Vessel Terminal Plans",
+        "summary": "Jawaharlal Nehru Port Authority (JNPA) is witnessing mounting congestion, forcing several shipping lines to make last-minute terminal changes and revise vessel berthing plans to mi",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-19T19:11:15+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/mounting-congestion-at-jnpa-disrupts-vessel-terminal-plans/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -170,13 +166,13 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
@@ -186,12 +182,24 @@
         "summary": ""
       },
       {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-20",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update; Iran Introduces Bitcoin-Backed Insurance For Ships Crossing Strait Of Hormuz; Crypto tollbooth: Iran launches Bitcoin maritime insurance for Hormuz",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-19",
         "write_now": "Maybe",
@@ -239,52 +247,44 @@
         "worth_attention_today": "5",
         "headline": "HHLA’s rail and intermodal drop, more difficulties in Germany on the horizon; New Logistics Routes Bypass Strait of Hormuz as Closure Continues; Pharma, Food, Flatbed, and Automotive. The Four Re-shoring Freight Lanes Small Carriers Can Actually Win — and the One They Should Stop Chasing.",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-13",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Trump Considers Reviving ‘Project Freedom’ With Expanded Mission Beyond Strait Of Hormuz Escorts; Hormuz tension keeps pressure on rates; Section 122 invalidated - May 12, 2026 Update; Rising Ship Traffic Off South Africa Due To Middle East Conflict Increases Risk To Whales, Scientists Say",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 331,
-      "high_trust": 74,
-      "trade_press": 257,
+      "total_items": 348,
+      "high_trust": 78,
+      "trade_press": 270,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-19.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-19.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-19.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-20.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-20.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-20.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-19",
-    "run_started_at": "2026-05-19T07:56:01+09:00",
+    "report_date": "2026-05-20",
+    "run_started_at": "2026-05-20T07:30:56+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
+      "Newest meaningful competitor move: Wakeo Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_detail": "Wakeo is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 1,
-    "watch_count": 0,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -327,21 +327,43 @@
     ],
     "important_changes": [
       {
-        "company": "Project44",
+        "company": "Wakeo",
         "importance": "important",
-        "summary": "Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "summary": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+        "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics",
         "evidence": [
-          "Partially Degraded Service",
-          "Movement Export (Emails) Functionality Temporarily Unavailable (minor)"
+          "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+          "The transition from a traditional tracking system to this predictive, AI-powered logistics model allows supply chain teams to focus exclusively on truly critical shipments, adopting a “by exception” management approach that accelerates decision-making and significantly reduces ma"
         ]
       }
     ],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational",
+          "Scheduled Maintenance Notice – Legacy Ocean APIs"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-05-20",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+        "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics"
+      },
       {
         "detected_date": "2026-05-19",
         "company": "Project44",
@@ -381,39 +403,33 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-05-09",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260519T075601+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-19.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260520T073056+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-20.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W21",
-    "week_end_date": "2026-05-19",
+    "week_end_date": "2026-05-20",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around unknown.",
+    "status_note": "Wakeo is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around unknown.",
+      "Wakeo is signaling AI positioning around in transit visibility.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "Wakeo is signaling AI positioning around in transit visibility.",
       "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
+      "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
       "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
@@ -444,9 +460,23 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "Wakeo",
+        "source_title": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Wakeo newsroom announced \"Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions\" -> signals a stronger AI / automation...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
@@ -465,11 +495,11 @@
     "recent_history": [
       {
         "week_label": "2026-W21",
-        "week_end_date": "2026-05-19",
-        "takeaway": "Project44 is signaling AI positioning around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-05-20",
+        "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
+        "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_signature": "Wakeo|direct_competitor|partnership|9bf7f680f1896552e7d4430ba025dc03ce9434da || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
