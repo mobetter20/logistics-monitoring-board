@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-20T22:54:39+00:00",
-  "requested_date": "2026-05-21",
+  "built_at": "2026-05-21T22:31:53+00:00",
+  "requested_date": "2026-05-22",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-21",
+    "requested_date": "2026-05-22",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-21",
+        "report_label": "2026-05-22",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-21",
+        "report_label": "2026-05-22",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,76 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-21",
-    "last_updated": "2026-05-21 07:53",
+    "report_date": "2026-05-22",
+    "last_updated": "2026-05-22 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?.",
+    "status_note": "Market watch is led by UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?.",
+      "Lead market story: UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-21",
+      "report_date": "2026-05-22",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?; ZIM Reports Financial Results for the First Quarter of 2026; VDL Mixed Traffic Transporters ready for operation",
+      "headline": "UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete; Piracy Off Somalia Rises Again As Iran-U.S War Forces Ships To Take Dangerous Detours Around Africa; Video: U.S. Forces Board Iranian-Flagged Oil Tanker In Gulf Of Oman Over Alleged Blockade Violation",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?",
+    "headline": "UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete",
     "key_news_radar": [
       {
-        "title": "Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?",
-        "summary": "Tensions remain high in the Middle East, with President Trump stating the US has held off an attack on Iran planned for this week to allow for continued negotiations, and the Strai",
-        "source": "Container News",
-        "timestamp": "2026-05-20T19:00:13+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-early-start-to-peak-season-for-asia-europe-ocean/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "ZIM Reports Financial Results for the First Quarter of 2026",
-        "summary": "//<![CDATA[ .q4default span.prnews_span { font-size: 8pt; font-family: \"Arial\"; color: rgb(0, 0, 0) } .q4default a.prnews_a { color: rgb(0, 0, 255) } .q4default li.prnews_li { font",
-        "source": "ZIM Integrated Shipping — Press Releases (Investor Relations)",
-        "timestamp": "2026-05-20T11:00:00+00:00",
+        "title": "UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete",
+        "summary": "Image for representation purposes only The United Arab Emirates said its new oil pipeline designed to bypass the Strait of Hormuz is now nearly 50% complete, as the country moves t",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-21T12:22:26+00:00",
         "confidence": "medium",
-        "link": "https://investors.zim.com/news/news-details/2026/ZIM-Reports-Financial-Results-for-the-First-Quarter-of-2026/default.aspx",
+        "link": "https://www.marineinsight.com/uaes-new-west-east-crude-pipeline-bypassing-hormuz-nearly-50-complete/?utm_source=rss&utm_medium=rss&utm_campaign=uaes-new-west-east-crude-pipeline-bypassing-hormuz-nearly-50-complete",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "zim_investor_relations",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maersk Restructures ASAS2 Route Linking Asia and East Coast South America",
-        "summary": "Maersk has announced a restructuring of its ASAS2 service connecting Asia with the East Coast of South America, as part of ongoing network optimization efforts aimed at improving s",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-20T19:13:01+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/maersk-restructures-asas2-route-linking-asia-and-east-coast-south-america/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "TOC Europe 2026: day 2 recap",
-        "summary": "The second day of TOC Europe 2026 in Hamburg continued with a packed conference agenda and crowded exhibition hall as industry stakeholders gathered to examine the challenges and o",
+        "title": "Automation central to German port comeback plans",
+        "summary": "After several years of stagnation, 2025 proved something of a turning point for Germany’s main ports, with the volume of cargo handled increasing 3.8% to 284.4 million tons.",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-20T19:16:13+00:00",
+        "timestamp": "2026-05-21T09:14:55+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/05/toc-europe-2026-day-2-recap/",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/automation-central-to-german-port-comeback-plans/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -141,24 +115,46 @@
         "confirmed_by": []
       },
       {
-        "title": "New Delhi Eyes Hormuz Transit for Oil Cargoes Despite Iran Conflict Risks",
-        "summary": "India is preparing to send oil tankers through the Strait of Hormuz to secure fresh crude supplies from Middle Eastern producers despite continuing risks linked to the Iran conflic",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-20T19:14:33+00:00",
+        "title": "Drone attack injures four at Dubai Airport as Iran escalates Gulf operations",
+        "summary": "DUBAI : West Asia tensions are escalating sharply.",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-21T03:23:18+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/new-delhi-eyes-hormuz-transit-for-oil-cargoes-despite-iran-conflict-risks/",
+        "link": "https://indiashippingnews.com/drone-attack-injures-four-at-dubai-airport-as-iran-escalates-gulf-operations/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "UAE says new pipeline that will bypass Strait of Hormuz is nearly 50% complete",
+        "summary": "DUBAI : The United Arab Emirates has built nearly 50% of a second pipeline that will bypass the Strait of Hormuz, said the CEO of Abu Dhabi National Oil Co., or ADNOC, on Wednesday",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-21T03:25:19+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/uae-says-new-pipeline-that-will-bypass-strait-of-hormuz-is-nearly-50-complete/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Piracy Off Somalia Rises Again As Iran-U.S War Forces Ships To Take Dangerous Detours Around Africa",
+        "summary": "Image for representation purposes only The U.S-Iran war has led to a resurgence of maritime piracy in Somalia as commercial ships are forced to take lengthy detours around Africa’s",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-21T11:13:20+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/somali-piracy-rises-again-as-iran-u-s-war-forces-ships-to-take-dangerous-detours-around-africa/?utm_source=rss&utm_medium=rss&utm_campaign=somali-piracy-rises-again-as-iran-u-s-war-forces-ships-to-take-dangerous-detours-around-africa",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -169,14 +165,14 @@
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
@@ -186,12 +182,24 @@
         "summary": ""
       },
       {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-22",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete; Piracy Off Somalia Rises Again As Iran-U.S War Forces Ships To Take Dangerous Detours Around Africa; Video: U.S. Forces Board Iranian-Flagged Oil Tanker In Gulf Of Oman Over Alleged Blockade Violation",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-21",
         "write_now": "Maybe",
@@ -239,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "Container freight rates surge in early May 2026; ‘AI is the new UI’: Coupa customers race to automate supply chains; China fines nine shipping companies over freight rates",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-15",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Houston gains cargo share as volumes soften at West Coast ports; Hactl expands Green Cargo Terminal push with safety measures; TOC Europe is around the corner: here’s what’s on show",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 349,
-      "high_trust": 66,
-      "trade_press": 283,
+      "total_items": 317,
+      "high_trust": 73,
+      "trade_press": 244,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-21.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-21.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-21.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-22.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-22.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-22.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-21",
-    "run_started_at": "2026-05-21T07:53:36+09:00",
+    "report_date": "2026-05-22",
+    "run_started_at": "2026-05-22T07:30:57+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,20 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Sixth annual program identifies the top 1% of project44’s global carrier network building the infrastructure for autonomous freight execution. CHICAGO — May 19, 2026 — project44, the Decision Intelligence Platform for the modern supply chain, today announced its 2026 Preferred Carriers,…"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -391,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260521T075336+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-21.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260522T073057+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-22.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W21",
-    "week_end_date": "2026-05-21",
+    "week_end_date": "2026-05-22",
     "freshness": "current",
     "status_note": "Wakeo is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -424,8 +412,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -497,7 +484,7 @@
     "recent_history": [
       {
         "week_label": "2026-W21",
-        "week_end_date": "2026-05-21",
+        "week_end_date": "2026-05-22",
         "takeaway": "Wakeo is signaling AI positioning around in transit visibility.",
         "signal_count": "3",
         "active_thesis_count": "0",
