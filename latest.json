@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-23T22:35:41+00:00",
-  "requested_date": "2026-05-24",
+  "built_at": "2026-05-24T22:31:46+00:00",
+  "requested_date": "2026-05-25",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-24",
+    "requested_date": "2026-05-25",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: War warning: Trump weighs immediate strikes as Iran shuts down airspace.",
+      "Lead daily item: World Container Index climbs as Asia-Europe freight rates surge.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-24",
+        "report_label": "2026-05-25",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,20 +36,20 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-24",
+        "report_label": "2026-05-25",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
         "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W21",
+        "report_label": "2026-W22",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Wakeo is signaling AI positioning around in transit visibility.",
+        "summary": "Project44 is signaling unknown around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-24",
-    "last_updated": "2026-05-24 07:33",
+    "report_date": "2026-05-25",
+    "last_updated": "2026-05-25 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by War warning: Trump weighs immediate strikes as Iran shuts down airspace.",
+    "status_note": "Market watch is led by World Container Index climbs as Asia-Europe freight rates surge.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: War warning: Trump weighs immediate strikes as Iran shuts down airspace.",
+      "Lead market story: World Container Index climbs as Asia-Europe freight rates surge.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-24",
+      "report_date": "2026-05-25",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "War warning: Trump weighs immediate strikes as Iran shuts down airspace; Iran’s IRGC Navy Says 35 Commercial Ships Transited Through Strait Of Hormuz With Its Permission; Strait of Hormuz disruption boosts Panama Canal traffic",
+      "headline": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch; World Container Index climbs as Asia-Europe freight rates surge; Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "War warning: Trump weighs immediate strikes as Iran shuts down airspace",
+    "headline": "World Container Index climbs as Asia-Europe freight rates surge",
     "key_news_radar": [
       {
-        "title": "War warning: Trump weighs immediate strikes as Iran shuts down airspace",
-        "summary": "The diplomatic standoff between Washington and Tehran has reached a critical point.",
+        "title": "World Container Index climbs as Asia-Europe freight rates surge",
+        "summary": "The latest Drewry World Container Index (WCI) increased 6% this week to US$2,712 per 40ft container, marking the third consecutive weekly rise in freight rates.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-23T12:45:27+00:00",
+        "timestamp": "2026-05-24T16:45:34+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/war-warning-trump-weighs-immediate-strikes-as-iran-shuts-down-airspace/",
+        "link": "https://container-news.com/world-container-index-climbs-as-asia-europe-freight-rates-surge/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
@@ -104,54 +104,56 @@
         ]
       },
       {
-        "title": "Iran’s IRGC Navy Says 35 Commercial Ships Transited Through Strait Of Hormuz With Its Permission",
-        "summary": "Image for representation purposes only Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy said 35 commercial vessels, including oil tankers, container ships and cargo carriers, p",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-23T13:57:39+00:00",
+        "title": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch",
+        "summary": "Desteia using AI to ease looming customs compliance crunch As U.S.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-24T11:53:50+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/irans-irgc-navy-says-35-commercial-ships-transited-through-strait-of-hormuz-with-its-permission/?utm_source=rss&utm_medium=rss&utm_campaign=irans-irgc-navy-says-35-commercial-ships-transited-through-strait-of-hormuz-with-its-permission",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-desteia-using-ai-to-ease-looming-customs-compliance-crunch",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
+        "summary": "The global logistics landscape is undergoing a profound transformation, driven by digitalization, globalization, and increasing operational complexity.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-24T20:19:17+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/fourth-party-logistics-4pl-market-to-surpass-usd-163-7-billion-by-2035-the-rise-of-end-to-end-supply-chain-orchestration/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Strait of Hormuz disruption boosts Panama Canal traffic",
-        "summary": "Panama Canal transits surge as disruption to energy trade drives congestion, pushing the waterway close to capacity.",
+        "title": "Glasgow port hailed a champion by green energy sector",
+        "summary": "Scottish Renewables is the main trade organisation representing the renewable energy industry in Scotland, UK.",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-23T06:13:02+00:00",
+        "timestamp": "2026-05-24T06:41:48+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/shipping-logistics/2026/05/strait-of-hormuz-disruption-boosts-panama-canal-traffic/",
-        "label": "Operational",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/glasgow-port-hailed-a-champion-by-green-energy-sector/",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Saudi Arabia Launches New Shipping Service As Hormuz Remains Blocked To Commercial Traffic",
-        "summary": "Image for representation purposes only Saudi Arabia’s Port Authority Mawani has inaugurated a new shipping service connecting the ports of Jeddah, Salalah, and Djibouti, with a cap",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-23T09:43:39+00:00",
+        "title": "Baltic Under Fire: The Ton-Mile Multiplier",
+        "summary": "In continuation of our latest analysis on the Strait of Hormuz and Venezuelan reactivation, the Baltic corridor has emerged as the next pressure point.",
+        "source": "Hellenic Shipping News — International Shipping",
+        "timestamp": "2026-05-24T21:00:46+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/saudi-arabia-launches-new-shipping-service-as-hormuz-remains-blocked-to-commercial-traffic/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-launches-new-shipping-service-as-hormuz-remains-blocked-to-commercial-traffic",
+        "link": "https://www.hellenicshippingnews.com/baltic-under-fire-the-ton-mile-multiplier/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "European Union Expands Sanctions Targeting Iran Over Its Strait Of Hormuz Stance",
-        "summary": "Image for representation purposes only The European Union Council has expanded its sanctions framework against Iran to include individuals and companies which are complicit in acti",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-23T09:49:35+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/european-union-expands-sanctions-targeting-iran-over-its-strait-of-hormuz-stance/?utm_source=rss&utm_medium=rss&utm_campaign=european-union-expands-sanctions-targeting-iran-over-its-strait-of-hormuz-stance",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "hellenic_shipping_international",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,6 +162,10 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -172,15 +178,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -190,6 +196,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-25",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch; World Container Index climbs as Asia-Europe freight rates surge; Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-24",
         "write_now": "Maybe",
@@ -237,39 +251,31 @@
         "worth_attention_today": "5",
         "headline": "India-Netherlands Joint Statement; Watch: POLB Launches Cyber Defense Operations Center; Parcel express services evolve as market fragmentation accelerates",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-18",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "4",
-        "headline": "INTERCARGO STS Transfer Guidelines for Bulk Carriers: A 2026 Industry Milestone; Drewry WCI jumps 12% as Asia-Europe and Transpacific rates surge; Rauanheimo opens new sulphur site",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 67,
-      "high_trust": 16,
+      "total_items": 52,
+      "high_trust": 1,
       "trade_press": 51,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-24.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-24.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-24.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-25.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-25.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-25.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-24",
-    "run_started_at": "2026-05-24T07:33:27+09:00",
+    "report_date": "2026-05-25",
+    "run_started_at": "2026-05-25T07:30:57+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -282,7 +288,7 @@
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -328,14 +334,13 @@
       {
         "company": "Project44",
         "importance": "watch",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Project44 status page returned to all systems operational.",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "Service Under Maintenance",
-          "Ocean Carrier (under maintenance)"
+          "All Systems Operational"
         ]
       }
     ],
@@ -365,6 +370,14 @@
         "source_url": "https://status.project44.com/api/v2/summary.json"
       },
       {
+        "detected_date": "2026-05-18",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-05-17",
         "company": "Project44",
         "importance": "watch",
@@ -379,49 +392,38 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-05-15",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260524T073327+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-24.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260525T073057+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-25.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W21",
-    "week_end_date": "2026-05-24",
+    "week_label": "2026-W22",
+    "week_end_date": "2026-05-25",
     "freshness": "current",
-    "status_note": "Wakeo is signaling AI positioning around in transit visibility.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Wakeo is signaling AI positioning around in transit visibility.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Project44 is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Wakeo is signaling AI positioning around in transit visibility.",
-      "Project44 is signaling ecosystem positioning around end to end orchestration."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
-      "Project44 (direct competitor) is pushing ecosystem positioning around end to end orchestration with the claimed outcome of broader workflow ownership."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -444,39 +446,35 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 2,
+    "important_signal_count": 1,
     "active_theses": [],
     "top_signals": [
       {
-        "entity_name": "Wakeo",
-        "source_title": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Wakeo newsroom announced \"Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions\" -> signals a stronger AI / automation...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics"
-      },
-      {
         "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_layer": "direct competitor",
-        "strategic_move": "Ecosystem positioning",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "broader workflow ownership",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and...",
+        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
+      {
+        "week_label": "2026-W22",
+        "week_end_date": "2026-05-25",
+        "takeaway": "Project44 is signaling unknown around unknown.",
+        "signal_count": "1",
+        "active_thesis_count": "0",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W21",
         "week_end_date": "2026-05-24",
@@ -506,21 +504,11 @@
         "signal_signature": "FourKites|direct_competitor|product_update|53dd4be76ab437022ea7d2ae18f8773cbbc68cb6 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Project44|direct_competitor|workflow_expansion|202665468d9f9cc43fc796b49299d3232c28fc6b",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W18",
-        "week_end_date": "2026-05-03",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
-        "active_thesis_count": "0",
-        "signal_signature": "",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W21.json",
-      "strategic_intelligence/output/weekly-memo-2026-W21.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W22.json",
+      "strategic_intelligence/output/weekly-memo-2026-W22.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
