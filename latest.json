@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-24T22:31:46+00:00",
-  "requested_date": "2026-05-25",
+  "built_at": "2026-05-25T22:34:01+00:00",
+  "requested_date": "2026-05-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-25",
+    "requested_date": "2026-05-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: World Container Index climbs as Asia-Europe freight rates surge.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-25",
+        "report_label": "2026-05-26",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-25",
+        "report_label": "2026-05-26",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
+        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W22",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around unknown.",
+        "summary": "GoComet is signaling scope expansion around end to end orchestration.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,96 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-25",
-    "last_updated": "2026-05-25 07:30",
+    "report_date": "2026-05-26",
+    "last_updated": "2026-05-26 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by World Container Index climbs as Asia-Europe freight rates surge.",
+    "status_note": "Market watch is led by CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: World Container Index climbs as Asia-Europe freight rates surge.",
+      "Lead market story: CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-25",
+      "report_date": "2026-05-26",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch; World Container Index climbs as Asia-Europe freight rates surge; Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
+      "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs; When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks; Italian freight rail slows again in 2025",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "World Container Index climbs as Asia-Europe freight rates surge",
+    "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs",
     "key_news_radar": [
       {
-        "title": "World Container Index climbs as Asia-Europe freight rates surge",
-        "summary": "The latest Drewry World Container Index (WCI) increased 6% this week to US$2,712 per 40ft container, marking the third consecutive weekly rise in freight rates.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-24T16:45:34+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/world-container-index-climbs-as-asia-europe-freight-rates-surge/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch",
-        "summary": "Desteia using AI to ease looming customs compliance crunch As U.S.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-24T11:53:50+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-desteia-using-ai-to-ease-looming-customs-compliance-crunch",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
-        "summary": "The global logistics landscape is undergoing a profound transformation, driven by digitalization, globalization, and increasing operational complexity.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-24T20:19:17+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/fourth-party-logistics-4pl-market-to-surpass-usd-163-7-billion-by-2035-the-rise-of-end-to-end-supply-chain-orchestration/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Glasgow port hailed a champion by green energy sector",
-        "summary": "Scottish Renewables is the main trade organisation representing the renewable energy industry in Scotland, UK.",
+        "title": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs",
+        "summary": "French shipping major CMA CGM reported a sharp decline in profitability in the first quarter of 2026, as lower freight rates and a weaker maritime environment weighed on earnings i",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-24T06:41:48+00:00",
+        "timestamp": "2026-05-25T08:22:24+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/glasgow-port-hailed-a-champion-by-green-energy-sector/",
-        "label": "Watch",
+        "link": "https://www.worldcargonews.com/business/2026/05/cma-cgm-reports-weaker-q1-earnings-on-lower-freight-rates-and-higher-costs/",
+        "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Baltic Under Fire: The Ton-Mile Multiplier",
-        "summary": "In continuation of our latest analysis on the Strait of Hormuz and Venezuelan reactivation, the Baltic corridor has emerged as the next pressure point.",
-        "source": "Hellenic Shipping News — International Shipping",
-        "timestamp": "2026-05-24T21:00:46+00:00",
+        "title": "Italian freight rail slows again in 2025",
+        "summary": "Rail freight transport in Italy ended 2025 with 49.4 million train-km, down 3.5% from 51.2 million in 2024.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-05-25T14:42:29+00:00",
         "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/baltic-under-fire-the-ton-mile-multiplier/",
+        "link": "https://www.trasportoeuropa.it/english/italian-freight-rail-slows-again-in-2025/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "hellenic_shipping_international",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "CMA CGM reports resilient Q1 2026 results",
+        "summary": "CMA CGM reported stable first-quarter 2026 revenue despite continued geopolitical tensions and supply chain disruptions.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-25T07:52:16+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/cma-cgm-reports-resilient-q1-2026-results/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India-Bound LNG Tanker Crosses Strait Of Hormuz For First Time Since US-Iran War Began",
+        "summary": "Image for representation purposes only A liquefied natural gas (LNG) tanker carrying cargo for India has crossed the Strait of Hormuz for the first time since the Iran war disrupte",
+        "source": "Marine Insight",
+        "timestamp": "2026-05-25T13:24:00+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/india-bound-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-us-iran-war-began/?utm_source=rss&utm_medium=rss&utm_campaign=india-bound-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-us-iran-war-began",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks",
+        "summary": "No matter what way you spin it, we live in an interconnected world.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-25T11:24:25+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/when-global-tensions-hit-the-shelf-why-inventory-visibility-is-retails-best-defense-against-supply-chain-shocks/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,32 +157,28 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,6 +188,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs; When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks; Italian freight rail slows again in 2025",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-25",
         "write_now": "Maybe",
@@ -243,47 +243,39 @@
         "worth_attention_today": "5",
         "headline": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update; Iran Introduces Bitcoin-Backed Insurance For Ships Crossing Strait Of Hormuz; Crypto tollbooth: Iran launches Bitcoin maritime insurance for Hormuz",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "India-Netherlands Joint Statement; Watch: POLB Launches Cyber Defense Operations Center; Parcel express services evolve as market fragmentation accelerates",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 52,
-      "high_trust": 1,
-      "trade_press": 51,
+      "total_items": 185,
+      "high_trust": 43,
+      "trade_press": 142,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-25",
-    "run_started_at": "2026-05-25T07:30:57+09:00",
+    "report_date": "2026-05-26",
+    "run_started_at": "2026-05-26T07:32:39+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Important change detected",
+    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
-    "watch_count": 1,
+    "important_count": 4,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -329,22 +321,93 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
-    "watch_items": [
+    "important_changes": [
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "GoProcure Automate RFQ management to get the best freight rates from your vendors",
+        "source_url": "https://www.gocomet.com/products/freight-quotation-management",
+        "evidence": [
+          "GoProcure Automate RFQ management to get the best freight rates from your vendors",
+          "Yes, GoProcure by GoComet can seamlessly integrate with your existing ERP system using pre-built APIs, enabling automated data exchange for procurement events, shipment tracking, and reporting. This integration helps you maintain your current workflows while reducing manual data"
+        ]
+      },
       {
         "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
+        "source_url": "https://www.project44.com/",
         "evidence": [
-          "All Systems Operational"
+          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
+        ]
+      },
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"GoTrack Real-time shipment tracking of all carriers on one platform",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "GoTrack Real-time shipment tracking of all carriers on one platform",
+        "source_url": "https://www.gocomet.com/products/container-tracking-software",
+        "evidence": [
+          "GoTrack Real-time shipment tracking of all carriers on one platform",
+          "Yes. GoComet offers free container tracking for anyone who wants to monitor shipments. You can enter a BL number, booking number or container number into the tracker to see live updates, predictive ETAs and milestone visibility. Many companies start with the free tool and then mo"
+        ]
+      },
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"GoInvoice Effortless and error-free automated freight invoice reconciliation",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "GoInvoice Effortless and error-free automated freight invoice reconciliation",
+        "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation",
+        "evidence": [
+          "GoInvoice Effortless and error-free automated freight invoice reconciliation",
+          "Real-time shipment tracking of all carriers on one platform"
         ]
       }
     ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-05-26",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
+        "source_url": "https://www.gocomet.com/products/freight-quotation-management"
+      },
+      {
+        "detected_date": "2026-05-26",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "detected_date": "2026-05-26",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"GoTrack Real-time shipment tracking of all carriers on one platform",
+        "source_url": "https://www.gocomet.com/products/container-tracking-software"
+      },
+      {
+        "detected_date": "2026-05-26",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"GoInvoice Effortless and error-free automated freight invoice reconciliation",
+        "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation"
+      },
       {
         "detected_date": "2026-05-21",
         "company": "Project44",
@@ -360,69 +423,47 @@
         "signal_type": "press announcement",
         "summary": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
         "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics"
-      },
-      {
-        "detected_date": "2026-05-19",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Movement Export (Emails) Functionality Temporarily Unavailable (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-05-18",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-05-17",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-05-15",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260525T073057+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260526T073239+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-26.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W22",
-    "week_end_date": "2026-05-25",
+    "week_end_date": "2026-05-26",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around unknown.",
+    "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "GoComet is signaling scope expansion around end to end orchestration.",
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around unknown."
+      "GoComet is signaling scope expansion around end to end orchestration.",
+      "GoComet is signaling scope expansion around in transit visibility.",
+      "GoComet is signaling AI positioning around procurement and tendering."
     ],
     "strategic_movements": [
+      "GoComet (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of better visibility.",
+      "GoComet (direct competitor) is pushing scope expansion around in transit visibility with the claimed outcome of better visibility.",
+      "GoComet (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
       "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
       "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
@@ -446,9 +487,51 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 5,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "GoComet",
+        "source_title": "GoInvoice Effortless and error-free automated freight invoice reconciliation",
+        "source_layer": "direct competitor",
+        "strategic_move": "Scope expansion",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "GoComet press releases announced \"GoInvoice Effortless and error-free automated freight invoice reconciliation\" -> signals a broader control tower / platform story GoInvoice Effortless and error-free automated...",
+        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation"
+      },
+      {
+        "entity_name": "GoComet",
+        "source_title": "GoProcure Automate RFQ management to get the best freight rates from your vendors",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "procurement and tendering",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors\" -> suggests expansion into AI-driven optimization and execution GoProcure Automate RFQ management...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.gocomet.com/products/freight-quotation-management"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "procurement and tendering",
+        "claimed_outcome": "faster decisions",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging ->...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "stronger optimization procurement execution",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 status page returned to all systems operational.",
@@ -467,11 +550,11 @@
     "recent_history": [
       {
         "week_label": "2026-W22",
-        "week_end_date": "2026-05-25",
-        "takeaway": "Project44 is signaling unknown around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-05-26",
+        "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
+        "signal_count": "5",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "GoComet|direct_competitor|product_update|cde531a448bf80d9d2e16442ad64b7069436b229 || GoComet|direct_competitor|product_update|4c95c8e7928c1d6909304ec8c65ff644d5dda583 || GoComet|direct_competitor|product_update|8db04d7fccd40e5186792489f827d3f649d29694 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
