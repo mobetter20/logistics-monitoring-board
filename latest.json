@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-25T22:34:01+00:00",
-  "requested_date": "2026-05-26",
+  "built_at": "2026-05-26T22:32:02+00:00",
+  "requested_date": "2026-05-27",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-26",
+    "requested_date": "2026-05-27",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
+      "Lead daily item: Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-26",
+        "report_label": "2026-05-27",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-26",
+        "report_label": "2026-05-27",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
-        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
+        "supporting_note": "Shippeo is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-26",
-    "last_updated": "2026-05-26 07:32",
+    "report_date": "2026-05-27",
+    "last_updated": "2026-05-27 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
+    "status_note": "Market watch is led by Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs.",
+      "Lead market story: Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-26",
+      "report_date": "2026-05-27",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs; When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks; Italian freight rail slows again in 2025",
+      "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update; From Boxcars to a Billion-Dollar Network; Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs",
+    "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update",
     "key_news_radar": [
       {
-        "title": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs",
-        "summary": "French shipping major CMA CGM reported a sharp decline in profitability in the first quarter of 2026, as lower freight rates and a weaker maritime environment weighed on earnings i",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-25T08:22:24+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/05/cma-cgm-reports-weaker-q1-earnings-on-lower-freight-rates-and-higher-costs/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Italian freight rail slows again in 2025",
-        "summary": "Rail freight transport in Italy ended 2025 with 49.4 million train-km, down 3.5% from 51.2 million in 2024.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-05-25T14:42:29+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/italian-freight-rail-slows-again-in-2025/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "CMA CGM reports resilient Q1 2026 results",
-        "summary": "CMA CGM reported stable first-quarter 2026 revenue despite continued geopolitical tensions and supply chain disruptions.",
+        "title": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update",
+        "summary": "Home Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update Published: May 26, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-25T07:52:16+00:00",
+        "timestamp": "2026-05-26T11:06:18+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/cma-cgm-reports-resilient-q1-2026-results/",
+        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/demand-rebound-pushing-rates-up-for-early-start-to-ocean-peak-season-may-26-2026-update/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -128,28 +102,56 @@
         "confirmed_by": []
       },
       {
-        "title": "India-Bound LNG Tanker Crosses Strait Of Hormuz For First Time Since US-Iran War Began",
-        "summary": "Image for representation purposes only A liquefied natural gas (LNG) tanker carrying cargo for India has crossed the Strait of Hormuz for the first time since the Iran war disrupte",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-25T13:24:00+00:00",
+        "title": "Navigating the Strait of Hormuz in 2026: The Ultimate Maritime Security and Survival Guide",
+        "summary": "(www.MaritimeCyprus.com) The Strait of Hormuz (SoH) remains one of the world's most critical—and volatile—maritime chokepoints.",
+        "source": "Maritime Cyprus (Maritime Safety Innovation blog)",
+        "timestamp": "2026-05-26T19:30:39+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/india-bound-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-us-iran-war-began/?utm_source=rss&utm_medium=rss&utm_campaign=india-bound-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-us-iran-war-began",
+        "link": "https://maritimecyprus.com/2026/05/26/navigating-the-strait-of-hormuz-in-2026-the-ultimate-maritime-security-and-survival-guide/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "maritime_cyprus_blog",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks",
-        "summary": "No matter what way you spin it, we live in an interconnected world.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-25T11:24:25+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/when-global-tensions-hit-the-shelf-why-inventory-visibility-is-retails-best-defense-against-supply-chain-shocks/",
+        "title": "World’s third biggest shipping line sees Q1 earnings crash",
+        "summary": "The world’s third-largest container carrier saw core earnings (EBITDA) plunge to $1.5 billion in the first quarter, down 41.3% from $2.53 billion a year ago, as modest volume growt",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-26T15:03:28+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/worlds-third-largest-shipping-line-sees-q1-earnings-crash",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "From Boxcars to a Billion-Dollar Network",
+        "summary": "In 1966, Canadian Pacific Railway had a problem.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-05-26T15:40:23+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/from-boxcars-to-a-billion-dollar-network",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
+        "summary": "Congestion and operational bottlenecks at Jawaharlal Nehru Port are testing the resilience of India’s supply chain and logistics network, with cargo movement delays impacting expor",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-26T18:41:14+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/logistics-bottlenecks-at-jn-port-test-indias-supply-chain-resilience/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -158,6 +160,10 @@
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -174,11 +180,11 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -188,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-27",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update; From Boxcars to a Billion-Dollar Network; Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-26",
         "write_now": "Maybe",
@@ -235,46 +249,38 @@
         "worth_attention_today": "5",
         "headline": "Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?; ZIM Reports Financial Results for the First Quarter of 2026; VDL Mixed Traffic Transporters ready for operation",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-20",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Early start to peak season for Asia -Europe ocean? - May 19, 2026 Update; Iran Introduces Bitcoin-Backed Insurance For Ships Crossing Strait Of Hormuz; Crypto tollbooth: Iran launches Bitcoin maritime insurance for Hormuz",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 185,
-      "high_trust": 43,
-      "trade_press": 142,
+      "total_items": 317,
+      "high_trust": 75,
+      "trade_press": 242,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-26.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-26.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-26.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-27.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-27.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-27.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-26",
-    "run_started_at": "2026-05-26T07:32:39+09:00",
+    "report_date": "2026-05-27",
+    "run_started_at": "2026-05-27T07:30:56+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
+      "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
+    "change_detail": "Shippeo is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 4,
+    "important_count": 1,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
@@ -288,7 +294,7 @@
       },
       {
         "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, visibility, and platform / control tower."
+        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
       },
       {
         "company": "Transporeon",
@@ -323,59 +329,29 @@
     ],
     "important_changes": [
       {
-        "company": "GoComet",
+        "company": "Shippeo",
         "importance": "important",
-        "summary": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "GoProcure Automate RFQ management to get the best freight rates from your vendors",
-        "source_url": "https://www.gocomet.com/products/freight-quotation-management",
-        "evidence": [
-          "GoProcure Automate RFQ management to get the best freight rates from your vendors",
-          "Yes, GoProcure by GoComet can seamlessly integrate with your existing ERP system using pre-built APIs, enabling automated data exchange for procurement events, shipment tracking, and reporting. This integration helps you maintain your current workflows while reducing manual data"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "summary": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
         "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
+        "page_slug": "platform",
+        "source_title": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows",
+        "source_url": "https://www.shippeo.com/solutions/ecmr",
         "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
-        ]
-      },
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"GoTrack Real-time shipment tracking of all carriers on one platform",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "GoTrack Real-time shipment tracking of all carriers on one platform",
-        "source_url": "https://www.gocomet.com/products/container-tracking-software",
-        "evidence": [
-          "GoTrack Real-time shipment tracking of all carriers on one platform",
-          "Yes. GoComet offers free container tracking for anyone who wants to monitor shipments. You can enter a BL number, booking number or container number into the tracker to see live updates, predictive ETAs and milestone visibility. Many companies start with the free tool and then mo"
-        ]
-      },
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"GoInvoice Effortless and error-free automated freight invoice reconciliation",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "GoInvoice Effortless and error-free automated freight invoice reconciliation",
-        "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation",
-        "evidence": [
-          "GoInvoice Effortless and error-free automated freight invoice reconciliation",
-          "Real-time shipment tracking of all carriers on one platform"
+          "Frequently Asked Questions",
+          "What is an eCMR?"
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-05-27",
+        "company": "Shippeo",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
+        "source_url": "https://www.shippeo.com/solutions/ecmr"
+      },
       {
         "detected_date": "2026-05-26",
         "company": "GoComet",
@@ -415,25 +391,17 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-05-20",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Acer partners with Wakeo for an AI powered predictive logistics Acer EMEA uses Wakeo to track multimodal shipments and monitor their CO2 emissions",
-        "source_url": "https://wakeo.co/news/acer-partners-with-wakeo-for-an-ai-powered-predictive-logistics"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260526T073239+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-26.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260527T073056+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-27.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W22",
-    "week_end_date": "2026-05-26",
+    "week_end_date": "2026-05-27",
     "freshness": "current",
     "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
@@ -454,12 +422,11 @@
       "GoComet (direct competitor) is pushing scope expansion around in transit visibility with the claimed outcome of better visibility.",
       "GoComet (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of reduced manual work.",
       "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing unknown."
+      "Shippeo (direct competitor) is pushing AI positioning with the claimed outcome of broader workflow ownership."
     ],
     "team_implications": [
       "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
@@ -487,7 +454,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 5,
+    "important_signal_count": 6,
     "active_theses": [],
     "top_signals": [
       {
@@ -533,6 +500,20 @@
         "source_url": "https://www.project44.com/"
       },
       {
+        "entity_name": "Shippeo",
+        "source_title": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "broader workflow ownership",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows Frequently Asked Questions",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "introduced document automation messaging",
+        "source_url": "https://www.shippeo.com/solutions/ecmr"
+      },
+      {
         "entity_name": "Project44",
         "source_title": "Project44 status page returned to all systems operational.",
         "source_layer": "direct competitor",
@@ -550,11 +531,11 @@
     "recent_history": [
       {
         "week_label": "2026-W22",
-        "week_end_date": "2026-05-26",
+        "week_end_date": "2026-05-27",
         "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
-        "signal_count": "5",
+        "signal_count": "6",
         "active_thesis_count": "0",
-        "signal_signature": "GoComet|direct_competitor|product_update|cde531a448bf80d9d2e16442ad64b7069436b229 || GoComet|direct_competitor|product_update|4c95c8e7928c1d6909304ec8c65ff644d5dda583 || GoComet|direct_competitor|product_update|8db04d7fccd40e5186792489f827d3f649d29694 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "GoComet|direct_competitor|product_update|cde531a448bf80d9d2e16442ad64b7069436b229 || GoComet|direct_competitor|product_update|4c95c8e7928c1d6909304ec8c65ff644d5dda583 || GoComet|direct_competitor|product_update|8db04d7fccd40e5186792489f827d3f649d29694 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Shippeo|direct_competitor|ai_positioning|076cd587786e707ce41f17b44dc0aff82ad25b1f",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
