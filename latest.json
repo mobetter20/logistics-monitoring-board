@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-26T22:32:02+00:00",
-  "requested_date": "2026-05-27",
+  "built_at": "2026-05-27T22:32:24+00:00",
+  "requested_date": "2026-05-28",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-27",
+    "requested_date": "2026-05-28",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-27",
+        "report_label": "2026-05-28",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-27",
+        "report_label": "2026-05-28",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
-        "supporting_note": "Shippeo is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-27",
-    "last_updated": "2026-05-27 07:30",
+    "report_date": "2026-05-28",
+    "last_updated": "2026-05-28 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
+    "status_note": "Market watch is led by Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update.",
+      "Lead market story: Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-27",
+      "report_date": "2026-05-28",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update; From Boxcars to a Billion-Dollar Network; Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
+      "headline": "Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026; “We need to see the Strait open”: US Secy Rubio updated Quad on Iran talks, says Aussie FM Wong; EU, World Bank and China redevelop Western Balkans rail infrastructure",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update",
+    "headline": "Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026",
     "key_news_radar": [
       {
-        "title": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update",
-        "summary": "Home Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update Published: May 26, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index",
+        "title": "Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026",
+        "summary": "Negotiations continue in the war in Iran alongside ongoing military strikes, with vessels again moving toward the Persian Gulf side of the Strait of Hormuz amid expectations that t",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-26T11:06:18+00:00",
+        "timestamp": "2026-05-27T11:27:35+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/demand-rebound-pushing-rates-up-for-early-start-to-ocean-peak-season-may-26-2026-update/",
+        "link": "https://www.globaltrademag.com/freightos-strait-of-hormuz-reopening-prospects-and-freight-rate-trends-in-may-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -102,56 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Navigating the Strait of Hormuz in 2026: The Ultimate Maritime Security and Survival Guide",
-        "summary": "(www.MaritimeCyprus.com) The Strait of Hormuz (SoH) remains one of the world's most critical—and volatile—maritime chokepoints.",
-        "source": "Maritime Cyprus (Maritime Safety Innovation blog)",
-        "timestamp": "2026-05-26T19:30:39+00:00",
-        "confidence": "medium",
-        "link": "https://maritimecyprus.com/2026/05/26/navigating-the-strait-of-hormuz-in-2026-the-ultimate-maritime-security-and-survival-guide/",
+        "title": "“We need to see the Strait open”: US Secy Rubio updated Quad on Iran talks, says Aussie FM Wong",
+        "summary": "NEW DELHI: Highlighting a unified stance among Quad partners on maintaining global maritime stability, Australian Foreign Minister Penny Wong on Tuesday stated that US Secretary of",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-27T03:39:27+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/we-need-to-see-the-strait-open-us-secy-rubio-updated-quad-on-iran-talks-says-aussie-fm-wong/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "maritime_cyprus_blog",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "World’s third biggest shipping line sees Q1 earnings crash",
-        "summary": "The world’s third-largest container carrier saw core earnings (EBITDA) plunge to $1.5 billion in the first quarter, down 41.3% from $2.53 billion a year ago, as modest volume growt",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-26T15:03:28+00:00",
+        "title": "Maersk launches FI2 Ocean Service to strengthen India-China trade connectivity",
+        "summary": "The dedicated weekly service from Southern and Eastern China to Northwest India addresses the capacity demanded by customers across automotive, chemical, technology and retail vert",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-27T03:36:57+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/worlds-third-largest-shipping-line-sees-q1-earnings-crash",
+        "link": "https://indiashippingnews.com/maersk-launches-fi2-ocean-service-to-strengthen-india-china-trade-connectivity/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "From Boxcars to a Billion-Dollar Network",
-        "summary": "In 1966, Canadian Pacific Railway had a problem.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-05-26T15:40:23+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/from-boxcars-to-a-billion-dollar-network",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
-        "summary": "Congestion and operational bottlenecks at Jawaharlal Nehru Port are testing the resilience of India’s supply chain and logistics network, with cargo movement delays impacting expor",
+        "title": "Iran Allows Limited Vessel Transit Through Strait of Hormuz Amid Tight Maritime Controls",
+        "summary": "Iran’s navy has announced that a fleet of 32 commercial vessels, including oil tankers, container ships and other merchant vessels, successfully transited the strategically critica",
         "source": "India Seatrade News",
-        "timestamp": "2026-05-26T18:41:14+00:00",
+        "timestamp": "2026-05-27T01:00:41+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/logistics-bottlenecks-at-jn-port-test-indias-supply-chain-resilience/",
+        "link": "https://indiaseatradenews.com/iran-allows-limited-vessel-transit-through-strait-of-hormuz-amid-tight-maritime-controls/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "EU, World Bank and China redevelop Western Balkans rail infrastructure",
+        "summary": "The Western Balkans is one of Europe’s most underexploited logistics corridors.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-05-27T05:54:31+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/shipping-logistics/2026/05/eu-world-bank-and-china-redevelop-western-balkans-rail-infrastructure/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -163,11 +161,11 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -180,11 +178,11 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-28",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Freightos: Strait of Hormuz Reopening Prospects and Freight Rate Trends in May 2026; “We need to see the Strait open”: US Secy Rubio updated Quad on Iran talks, says Aussie FM Wong; EU, World Bank and China redevelop Western Balkans rail infrastructure",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-27",
         "write_now": "Maybe",
@@ -241,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "UAE’s New West-East Crude Pipeline Bypassing Hormuz Nearly 50% Complete; Piracy Off Somalia Rises Again As Iran-U.S War Forces Ships To Take Dangerous Detours Around Africa; Video: U.S. Forces Board Iranian-Flagged Oil Tanker In Gulf Of Oman Over Alleged Blockade Violation",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-21",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Early start to peak season for Asia -Europe ocean?; ZIM Reports Financial Results for the First Quarter of 2026; VDL Mixed Traffic Transporters ready for operation",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 317,
-      "high_trust": 75,
-      "trade_press": 242,
+      "total_items": 327,
+      "high_trust": 77,
+      "trade_press": 250,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-27.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-27.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-27.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-28.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-28.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-28.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-27",
-    "run_started_at": "2026-05-27T07:30:56+09:00",
+    "report_date": "2026-05-28",
+    "run_started_at": "2026-05-28T07:30:59+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger execution and workflow language and introduced document automation messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Shippeo is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -327,21 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Shippeo",
-        "importance": "important",
-        "summary": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows",
-        "source_url": "https://www.shippeo.com/solutions/ecmr",
-        "evidence": [
-          "Frequently Asked Questions",
-          "What is an eCMR?"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -394,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260527T073056+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-27.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260528T073059+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-28.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W22",
-    "week_end_date": "2026-05-27",
+    "week_end_date": "2026-05-28",
     "freshness": "current",
     "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
@@ -430,8 +415,7 @@
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -531,7 +515,7 @@
     "recent_history": [
       {
         "week_label": "2026-W22",
-        "week_end_date": "2026-05-27",
+        "week_end_date": "2026-05-28",
         "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
         "signal_count": "6",
         "active_thesis_count": "0",
