@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-28T22:31:58+00:00",
-  "requested_date": "2026-05-29",
+  "built_at": "2026-05-29T22:32:23+00:00",
+  "requested_date": "2026-05-30",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-29",
+    "requested_date": "2026-05-30",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maersk denies report its vessel transited dangerous Mideast route.",
+      "Lead daily item: London Gateway drives transformation of the Thames.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-29",
+        "report_label": "2026-05-30",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-29",
+        "report_label": "2026-05-30",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,80 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-29",
-    "last_updated": "2026-05-29 07:30",
+    "report_date": "2026-05-30",
+    "last_updated": "2026-05-30 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Maersk denies report its vessel transited dangerous Mideast route.",
+    "status_note": "Market watch is led by London Gateway drives transformation of the Thames.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maersk denies report its vessel transited dangerous Mideast route.",
+      "Lead market story: London Gateway drives transformation of the Thames.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-29",
+      "report_date": "2026-05-30",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maersk denies report its vessel transited dangerous Mideast route; Important Information Regarding Current Rail Network Disruptions in Germany; U.S. Sanctions Iran’s Persian Gulf Strait Authority Controlling Hormuz Vessel Transit",
+      "headline": "London Gateway drives transformation of the Thames; Transhipment Surge Triggers Congestion at JNPA’s Largest Container Terminal; Transporters Call Off Planned Strike at Nhava Sheva Port",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Maersk denies report its vessel transited dangerous Mideast route",
+    "headline": "London Gateway drives transformation of the Thames",
     "key_news_radar": [
       {
-        "title": "Maersk denies report its vessel transited dangerous Mideast route",
-        "summary": "Maersk, the world’s second-largest container carrier, this week denied a report that one of its ships recently transited a critical Middle East shipping route.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-05-28T14:51:31+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/maersk-denies-report-its-vessel-transited-dangerous-mideast-route",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "U.S. Sanctions Iran’s Persian Gulf Strait Authority Controlling Hormuz Vessel Transit",
-        "summary": "Image for representation purposes only The United States on Wednesday imposed new sanctions on an Iranian agency created to control vessel movements through the Strait of Hormuz.",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-28T13:26:28+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/u-s-sanctions-irans-persian-gulf-strait-authority-controlling-hormuz-vessel-transit/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sanctions-irans-persian-gulf-strait-authority-controlling-hormuz-vessel-transit",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Important Information Regarding Current Rail Network Disruptions in Germany",
-        "summary": "We would like to inform you about the current operational situation affecting rail transportation across Germany and the Hamburg hinterland network.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-05-28T10:28:00+00:00",
-        "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/05/important-information-regarding-current-rail-network-disruptions.html",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "customernews_5",
-        "paywalled": false,
-        "confirmed_by": [
-          "customernews_feeds_2"
-        ]
-      },
-      {
-        "title": "West Africa turns inland to strengthen terminal connectivity",
-        "summary": "Making up for lost time - that is certainly the aim of both the Nigerian Government and the state-owned port authority when it comes to investing in the country’s maritime economy.",
+        "title": "London Gateway drives transformation of the Thames",
+        "summary": "As construction crews drive the expansion of Berths Five and Six, London Gateway is fast becoming the UK’s premier multimodal hub.",
         "source": "WorldCargo News",
-        "timestamp": "2026-05-28T06:14:10+00:00",
+        "timestamp": "2026-05-29T05:37:08+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/west-africa-turns-inland-to-strengthen-terminal-connectivity/",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/london-gateway-drives-transformation-of-the-thames/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -145,12 +102,51 @@
         "confirmed_by": []
       },
       {
-        "title": "UAE’s ADNOC Sends Another LNG Carrier To India Through Hormuz In ‘Dark Mode’",
-        "summary": "Image for representation purposes only Another liquefied natural gas (LNG) carrier operated by Abu Dhabi National Oil Co.",
+        "title": "Transhipment Surge Triggers Congestion at JNPA’s Largest Container Terminal",
+        "summary": "A sharp rise in transhipment cargo volumes linked to disruptions in the Middle East has intensified congestion pressures at Jawaharlal Nehru Port Authority (JNPA), with Bharat Mumb",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-29T19:23:04+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/transhipment-surge-triggers-congestion-at-jnpas-largest-container-terminal/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "EY Calls for Expansion of IMEC and Indo-Pacific Trade Connectivity",
+        "summary": "Global consulting firm EY has called for accelerated development of the India-Middle East-Europe Economic Corridor (IMEC) and wider Indo-Pacific trade connectivity initiatives to r",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-29T19:28:28+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/ey-calls-for-expansion-of-imec-and-indo-pacific-trade-connectivity/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "“India stands ready to support efforts to reduce tensions”: Ajit Doval calls for uninterrupted flow of trade through Hormuz, Red Sea",
+        "summary": "MOSCOW: National Security Advisor Ajit Doval called for special attention to the situation in West Asia, emphasising the need to ensure the safe and uninterrupted flow of trade thr",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-29T03:00:17+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/india-stands-ready-to-support-efforts-to-reduce-tensions-ajit-doval-calls-for-uninterrupted-flow-of-trade-through-hormuz-red-sea/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "US, Iran Reach Tentative Deal To Extend Ceasefire For 60 Days And Reopen Strait Of Hormuz",
+        "summary": "Image for representation purposes only The United States and Iran have reached a tentative agreement to extend their ceasefire for another 60 days and allow unrestricted shipping t",
         "source": "Marine Insight",
-        "timestamp": "2026-05-28T13:16:31+00:00",
+        "timestamp": "2026-05-29T13:02:34+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/uaes-adnoc-sends-another-lng-carrier-to-india-through-hormuz-in-dark-mode/?utm_source=rss&utm_medium=rss&utm_campaign=uaes-adnoc-sends-another-lng-carrier-to-india-through-hormuz-in-dark-mode",
+        "link": "https://www.marineinsight.com/us-iran-reach-tentative-deal-to-extend-ceasefire-for-60-days-and-reopen-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=us-iran-reach-tentative-deal-to-extend-ceasefire-for-60-days-and-reopen-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -161,7 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -169,16 +165,16 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -186,7 +182,7 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -196,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-30",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "London Gateway drives transformation of the Thames; Transhipment Surge Triggers Congestion at JNPA’s Largest Container Terminal; Transporters Call Off Planned Strike at Nhava Sheva Port",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-29",
         "write_now": "Maybe",
@@ -243,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "War warning: Trump weighs immediate strikes as Iran shuts down airspace; Iran’s IRGC Navy Says 35 Commercial Ships Transited Through Strait Of Hormuz With Its Permission; Strait of Hormuz disruption boosts Panama Canal traffic",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-23",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Authorities Roll Out Measures to Reduce Delays in Gulf Cargo Shipments; Sharp rise in Asia-Europe container freight rates in mid-May 2026; Sen. Cotton urges DOJ investigation of China-backed parcel carriers",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 326,
-      "high_trust": 85,
-      "trade_press": 241,
+      "total_items": 283,
+      "high_trust": 67,
+      "trade_press": 216,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-29.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-29.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-29.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-30.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-30.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-30.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-29",
-    "run_started_at": "2026-05-29T07:30:54+09:00",
+    "report_date": "2026-05-30",
+    "run_started_at": "2026-05-30T07:31:03+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -280,12 +276,12 @@
       "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger execution and workflow language and introduced document automation messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -383,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260529T073054+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-29.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260530T073103+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-30.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W22",
-    "week_end_date": "2026-05-29",
+    "week_end_date": "2026-05-30",
     "freshness": "current",
     "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
@@ -519,7 +515,7 @@
     "recent_history": [
       {
         "week_label": "2026-W22",
-        "week_end_date": "2026-05-29",
+        "week_end_date": "2026-05-30",
         "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
         "signal_count": "6",
         "active_thesis_count": "0",
