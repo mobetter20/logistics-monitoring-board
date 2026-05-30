@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-29T22:32:23+00:00",
-  "requested_date": "2026-05-30",
+  "built_at": "2026-05-30T22:31:41+00:00",
+  "requested_date": "2026-05-31",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-30",
+    "requested_date": "2026-05-31",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: London Gateway drives transformation of the Thames.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-30",
+        "report_label": "2026-05-31",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-30",
+        "report_label": "2026-05-31",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,76 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-30",
-    "last_updated": "2026-05-30 07:31",
+    "report_date": "2026-05-31",
+    "last_updated": "2026-05-31 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by London Gateway drives transformation of the Thames.",
+    "status_note": "Market watch is led by JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: London Gateway drives transformation of the Thames.",
+      "Lead market story: JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-30",
+      "report_date": "2026-05-31",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "London Gateway drives transformation of the Thames; Transhipment Surge Triggers Congestion at JNPA’s Largest Container Terminal; Transporters Call Off Planned Strike at Nhava Sheva Port",
+      "headline": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist; Anglo-Eastern strengthens fleet security as Hormuz disruption continues; JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "London Gateway drives transformation of the Thames",
+    "headline": "JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
     "key_news_radar": [
       {
-        "title": "London Gateway drives transformation of the Thames",
-        "summary": "As construction crews drive the expansion of Berths Five and Six, London Gateway is fast becoming the UK’s premier multimodal hub.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-05-29T05:37:08+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/05/london-gateway-drives-transformation-of-the-thames/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Transhipment Surge Triggers Congestion at JNPA’s Largest Container Terminal",
-        "summary": "A sharp rise in transhipment cargo volumes linked to disruptions in the Middle East has intensified congestion pressures at Jawaharlal Nehru Port Authority (JNPA), with Bharat Mumb",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-29T19:23:04+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/transhipment-surge-triggers-congestion-at-jnpas-largest-container-terminal/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "EY Calls for Expansion of IMEC and Indo-Pacific Trade Connectivity",
-        "summary": "Global consulting firm EY has called for accelerated development of the India-Middle East-Europe Economic Corridor (IMEC) and wider Indo-Pacific trade connectivity initiatives to r",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-29T19:28:28+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/ey-calls-for-expansion-of-imec-and-indo-pacific-trade-connectivity/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "“India stands ready to support efforts to reduce tensions”: Ajit Doval calls for uninterrupted flow of trade through Hormuz, Red Sea",
-        "summary": "MOSCOW: National Security Advisor Ajit Doval called for special attention to the situation in West Asia, emphasising the need to ensure the safe and uninterrupted flow of trade thr",
+        "title": "JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
+        "summary": "MUMBAI : Jawaharlal Nehru Port Authority (JNPA) - India’s Largest Container Port, celebrated its 37th Foundation Day with great enthusiasm and grandeur in the esteemed presence of",
         "source": "India Shipping News",
-        "timestamp": "2026-05-29T03:00:17+00:00",
+        "timestamp": "2026-05-30T03:26:15+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/india-stands-ready-to-support-efforts-to-reduce-tensions-ajit-doval-calls-for-uninterrupted-flow-of-trade-through-hormuz-red-sea/",
+        "link": "https://indiashippingnews.com/jnpa-celebrated-37-years-of-serving-the-nation-through-maritime-excellence-in-the-presence-of-union-minister-of-ports-shipping-and-waterways/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_shipping_news",
@@ -141,23 +102,67 @@
         "confirmed_by": []
       },
       {
-        "title": "US, Iran Reach Tentative Deal To Extend Ceasefire For 60 Days And Reopen Strait Of Hormuz",
-        "summary": "Image for representation purposes only The United States and Iran have reached a tentative agreement to extend their ceasefire for another 60 days and allow unrestricted shipping t",
+        "title": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist",
+        "summary": "Image Credits: Wikipedia India has launched a priority operation to move 13 Indian-flagged commercial vessels out of the Strait of Hormuz as tensions continue across the Gulf regio",
         "source": "Marine Insight",
-        "timestamp": "2026-05-29T13:02:34+00:00",
+        "timestamp": "2026-05-30T11:25:57+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/us-iran-reach-tentative-deal-to-extend-ceasefire-for-60-days-and-reopen-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=us-iran-reach-tentative-deal-to-extend-ceasefire-for-60-days-and-reopen-strait-of-hormuz",
+        "link": "https://www.marineinsight.com/india-prioritises-moving-13-ships-out-of-strait-of-hormuz-as-gulf-security-risks-persist/?utm_source=rss&utm_medium=rss&utm_campaign=india-prioritises-moving-13-ships-out-of-strait-of-hormuz-as-gulf-security-risks-persist",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
+      },
+      {
+        "title": "CONCOR Showcases Multimodal Growth Strategy and Green Logistics Vision at CII Multimodal Transportation & Logistics Summit 2026",
+        "summary": "NEW DELHI : Shri Sanjay Swarup, CMD, CONCOR, addressed the inaugural session of the CII Multimodal Transportation & Logistics Summit 2026 held here in New Delhi, themed “Strengthen",
+        "source": "India Shipping News",
+        "timestamp": "2026-05-30T03:23:44+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/concor-showcases-multimodal-growth-strategy-and-green-logistics-vision-at-cii-multimodal-transportation-logistics-summit-2026/",
+        "label": "Watch",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Anglo-Eastern strengthens fleet security as Hormuz disruption continues",
+        "summary": "Anglo-Eastern is reinforcing fleet security through its Global Security Desk (GSD) as the closure of the Strait of Hormuz enters its fourth month.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-30T06:17:49+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/anglo-eastern-strengthens-fleet-security-as-hormuz-disruption-continues/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "container_news"
+        ]
+      },
+      {
+        "title": "Ports of Hamburg and Tallinn strengthen Baltic Sea cooperation",
+        "summary": "Hamburg’s Senator for Economic Affairs Dr Melanie Leonhard welcomed Estonia’s Minister of Infrastructure Kuldar Leis to Hamburg City Hall for a high-level visit that culminated in",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-05-30T15:23:00+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/ports-of-hamburg-and-tallinn-strengthen-baltic-sea-cooperation/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -165,7 +170,7 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -174,15 +179,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +197,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-05-31",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist; Anglo-Eastern strengthens fleet security as Hormuz disruption continues; JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-30",
         "write_now": "Maybe",
@@ -239,53 +252,44 @@
         "worth_attention_today": "5",
         "headline": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch; World Container Index climbs as Asia-Europe freight rates surge; Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-24",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "War warning: Trump weighs immediate strikes as Iran shuts down airspace; Iran’s IRGC Navy Says 35 Commercial Ships Transited Through Strait Of Hormuz With Its Permission; Strait of Hormuz disruption boosts Panama Canal traffic",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 283,
-      "high_trust": 67,
-      "trade_press": 216,
+      "total_items": 87,
+      "high_trust": 21,
+      "trade_press": 66,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-30.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-30.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-30.json"
+      "news_pipeline/output/reports/daily-brief-2026-05-31.md",
+      "news_pipeline/output/digests/daily-digest-2026-05-31.md",
+      "news_pipeline/output/trends/daily-trends-2026-05-31.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-30",
-    "run_started_at": "2026-05-30T07:31:03+09:00",
+    "report_date": "2026-05-31",
+    "run_started_at": "2026-05-31T07:30:54+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger execution and workflow language and introduced document automation messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -327,7 +331,21 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-05-27",
@@ -370,23 +388,23 @@
         "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation"
       },
       {
-        "detected_date": "2026-05-21",
+        "detected_date": "2026-05-24",
         "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260530T073103+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-30.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260531T073054+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-05-31.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W22",
-    "week_end_date": "2026-05-30",
+    "week_end_date": "2026-05-31",
     "freshness": "current",
     "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
@@ -515,7 +533,7 @@
     "recent_history": [
       {
         "week_label": "2026-W22",
-        "week_end_date": "2026-05-30",
+        "week_end_date": "2026-05-31",
         "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
         "signal_count": "6",
         "active_thesis_count": "0",
