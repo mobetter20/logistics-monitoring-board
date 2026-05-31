@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-30T22:31:41+00:00",
-  "requested_date": "2026-05-31",
+  "built_at": "2026-05-31T22:32:05+00:00",
+  "requested_date": "2026-06-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-05-31",
+    "requested_date": "2026-06-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
+      "Lead daily item: Ocean rates creeping higher ahead of peak season.",
       "Competitor watch: Watch-level movement detected.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-05-31",
+        "report_label": "2026-06-01",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-05-31",
+        "report_label": "2026-06-01",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
         "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W22",
+        "report_label": "2026-W23",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "GoComet is signaling scope expansion around end to end orchestration.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,99 +64,101 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-05-31",
-    "last_updated": "2026-05-31 07:30",
+    "report_date": "2026-06-01",
+    "last_updated": "2026-06-01 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
+    "status_note": "Market watch is led by Ocean rates creeping higher ahead of peak season.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways.",
+      "Lead market story: Ocean rates creeping higher ahead of peak season.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-05-31",
+      "report_date": "2026-06-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist; Anglo-Eastern strengthens fleet security as Hormuz disruption continues; JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
+      "headline": "Ocean rates creeping higher ahead of peak season; Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations; How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
+    "headline": "Ocean rates creeping higher ahead of peak season",
     "key_news_radar": [
       {
-        "title": "JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
-        "summary": "MUMBAI : Jawaharlal Nehru Port Authority (JNPA) - India’s Largest Container Port, celebrated its 37th Foundation Day with great enthusiasm and grandeur in the esteemed presence of",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-30T03:26:15+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/jnpa-celebrated-37-years-of-serving-the-nation-through-maritime-excellence-in-the-presence-of-union-minister-of-ports-shipping-and-waterways/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist",
-        "summary": "Image Credits: Wikipedia India has launched a priority operation to move 13 Indian-flagged commercial vessels out of the Strait of Hormuz as tensions continue across the Gulf regio",
-        "source": "Marine Insight",
-        "timestamp": "2026-05-30T11:25:57+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/india-prioritises-moving-13-ships-out-of-strait-of-hormuz-as-gulf-security-risks-persist/?utm_source=rss&utm_medium=rss&utm_campaign=india-prioritises-moving-13-ships-out-of-strait-of-hormuz-as-gulf-security-risks-persist",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "CONCOR Showcases Multimodal Growth Strategy and Green Logistics Vision at CII Multimodal Transportation & Logistics Summit 2026",
-        "summary": "NEW DELHI : Shri Sanjay Swarup, CMD, CONCOR, addressed the inaugural session of the CII Multimodal Transportation & Logistics Summit 2026 held here in New Delhi, themed “Strengthen",
-        "source": "India Shipping News",
-        "timestamp": "2026-05-30T03:23:44+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/concor-showcases-multimodal-growth-strategy-and-green-logistics-vision-at-cii-multimodal-transportation-logistics-summit-2026/",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Anglo-Eastern strengthens fleet security as Hormuz disruption continues",
-        "summary": "Anglo-Eastern is reinforcing fleet security through its Global Security Desk (GSD) as the closure of the Strait of Hormuz enters its fourth month.",
+        "title": "Ocean rates creeping higher ahead of peak season",
+        "summary": "Chart of the Week: Freightos Baltic Daily Index, China to North America West Coast, China to North America East Coast SONAR: FBXD.CNAW, FBXD.CNAE The ocean container shipping marke",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-30T06:17:49+00:00",
+        "timestamp": "2026-05-31T01:54:53+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/anglo-eastern-strengthens-fleet-security-as-hormuz-disruption-continues/",
+        "link": "https://www.freightwaves.com/news/ocean-rates-creeping-higher-ahead-of-peak-season",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
           "s_news_via_shippers_association_on_inoreader",
-          "container_news"
+          "freightwaves_news"
         ]
       },
       {
-        "title": "Ports of Hamburg and Tallinn strengthen Baltic Sea cooperation",
-        "summary": "Hamburg’s Senator for Economic Affairs Dr Melanie Leonhard welcomed Estonia’s Minister of Infrastructure Kuldar Leis to Hamburg City Hall for a high-level visit that culminated in",
+        "title": "How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
+        "summary": "You already know this: when freight rates drop overnight or a new tariff lands without warning, your inbox fills up before your coffee does.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-05-31T16:15:14+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/how-shipping-professionals-can-hedge-against-trade-volatility-a-guide-to-smarter-personal-investing/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-30T15:23:00+00:00",
+        "timestamp": "2026-05-31T11:50:14+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/ports-of-hamburg-and-tallinn-strengthen-baltic-sea-cooperation/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-thousands-of-mexican-truckers-lose-us-visas-over-cabotage-violations",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "container_news"
+          "freightwaves_news"
         ]
+      },
+      {
+        "title": "Anglo-Eastern reinforces fleet security through its Global Security Desk as Hormuz disruption continues",
+        "summary": "Anglo-Eastern Univan Group (Anglo-Eastern), a global leader in independent ship management services, is drawing on its centralised Global Security Desk (GSD) to support vessels, cr",
+        "source": "Hellenic Shipping News — International Shipping",
+        "timestamp": "2026-05-31T21:00:34+00:00",
+        "confidence": "medium",
+        "link": "https://www.hellenicshippingnews.com/anglo-eastern-reinforces-fleet-security-through-its-global-security-desk-as-hormuz-disruption-continues/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "hellenic_shipping_international",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Auro’s Kakinada Gateway Port Signs MoU for 1 MTPA Liquid Cargo Tank Farm Development",
+        "summary": "Kakinada Gateway Port Limited (KGPL), a subsidiary of the Auro Group, has signed a Memorandum of Understanding (MoU) with Sravan Shipping Services Pvt Ltd for the development of an",
+        "source": "India Seatrade News",
+        "timestamp": "2026-05-31T18:35:27+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/auros-kakinada-gateway-port-signs-mou-for-1-mtpa-liquid-cargo-tank-farm-development/",
+        "label": "Watch",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
@@ -197,6 +199,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Ocean rates creeping higher ahead of peak season; Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations; How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-05-31",
         "write_now": "Maybe",
@@ -244,39 +254,31 @@
         "worth_attention_today": "5",
         "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs; When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks; Italian freight rail slows again in 2025",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-25",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Borderlands Mexico: Desteia using AI to ease looming customs compliance crunch; World Container Index climbs as Asia-Europe freight rates surge; Fourth-Party Logistics (4PL) Market to Surpass USD 163.7 Billion by 2035: The Rise of End-to-End Supply Chain Orchestration",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 87,
-      "high_trust": 21,
-      "trade_press": 66,
+      "total_items": 63,
+      "high_trust": 15,
+      "trade_press": 48,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-05-31.md",
-      "news_pipeline/output/digests/daily-digest-2026-05-31.md",
-      "news_pipeline/output/trends/daily-trends-2026-05-31.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-05-31",
-    "run_started_at": "2026-05-31T07:30:54+09:00",
+    "report_date": "2026-06-01",
+    "run_started_at": "2026-06-01T07:31:01+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -289,7 +291,7 @@
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -335,14 +337,13 @@
       {
         "company": "Project44",
         "importance": "watch",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Project44 status page returned to all systems operational.",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "Service Under Maintenance",
-          "Ocean Carrier (under maintenance)"
+          "All Systems Operational"
         ]
       }
     ],
@@ -397,46 +398,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260531T073054+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-05-31.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260601T073101+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-01.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W22",
-    "week_end_date": "2026-05-31",
+    "week_label": "2026-W23",
+    "week_end_date": "2026-06-01",
     "freshness": "current",
-    "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "GoComet is signaling scope expansion around end to end orchestration.",
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "GoComet is signaling scope expansion around end to end orchestration.",
-      "GoComet is signaling scope expansion around in transit visibility.",
-      "GoComet is signaling AI positioning around procurement and tendering."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "GoComet (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of better visibility.",
-      "GoComet (direct competitor) is pushing scope expansion around in transit visibility with the claimed outcome of better visibility.",
-      "GoComet (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "Shippeo (direct competitor) is pushing AI positioning with the claimed outcome of broader workflow ownership."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -456,81 +449,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 6,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "GoComet",
-        "source_title": "GoInvoice Effortless and error-free automated freight invoice reconciliation",
-        "source_layer": "direct competitor",
-        "strategic_move": "Scope expansion",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "GoComet press releases announced \"GoInvoice Effortless and error-free automated freight invoice reconciliation\" -> signals a broader control tower / platform story GoInvoice Effortless and error-free automated...",
-        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.gocomet.com/products/freight-invoice-reconciliation"
-      },
-      {
-        "entity_name": "GoComet",
-        "source_title": "GoProcure Automate RFQ management to get the best freight rates from your vendors",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "reduced manual work",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors\" -> suggests expansion into AI-driven optimization and execution GoProcure Automate RFQ management...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.gocomet.com/products/freight-quotation-management"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging ->...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "stronger optimization procurement execution",
-        "source_url": "https://www.project44.com/"
-      },
-      {
-        "entity_name": "Shippeo",
-        "source_title": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "broader workflow ownership",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging -> suggests expansion into operational execution workflows Frequently Asked Questions",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "introduced document automation messaging",
-        "source_url": "https://www.shippeo.com/solutions/ecmr"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W23",
+        "week_end_date": "2026-06-01",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W22",
         "week_end_date": "2026-05-31",
@@ -560,21 +492,11 @@
         "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W19",
-        "week_end_date": "2026-05-10",
-        "takeaway": "FourKites is signaling AI positioning around procurement and tendering.",
-        "signal_count": "3",
-        "active_thesis_count": "0",
-        "signal_signature": "FourKites|direct_competitor|product_update|53dd4be76ab437022ea7d2ae18f8773cbbc68cb6 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Project44|direct_competitor|workflow_expansion|202665468d9f9cc43fc796b49299d3232c28fc6b",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W22.json",
-      "strategic_intelligence/output/weekly-memo-2026-W22.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W23.json",
+      "strategic_intelligence/output/weekly-memo-2026-W23.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
