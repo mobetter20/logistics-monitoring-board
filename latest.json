@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-05-31T22:32:05+00:00",
-  "requested_date": "2026-06-01",
+  "built_at": "2026-06-01T22:46:47+00:00",
+  "requested_date": "2026-06-02",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-01",
+    "requested_date": "2026-06-02",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Ocean rates creeping higher ahead of peak season.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: The Iran war is not only about oil.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-01",
+        "report_label": "2026-06-02",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-01",
+        "report_label": "2026-06-02",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,108 +64,99 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-01",
-    "last_updated": "2026-06-01 07:31",
+    "report_date": "2026-06-02",
+    "last_updated": "2026-06-02 07:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Ocean rates creeping higher ahead of peak season.",
+    "status_note": "Market watch is led by The Iran war is not only about oil.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Ocean rates creeping higher ahead of peak season.",
+      "Lead market story: The Iran war is not only about oil.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-01",
+      "report_date": "2026-06-02",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Ocean rates creeping higher ahead of peak season; Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations; How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
+      "headline": "The Iran war is not only about oil; Air freight capacity tight across Asia amid fuel strain: Dimerco; Cargo vessel strike raises Gulf shipping concerns as Trump dismisses Iran talks",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Ocean rates creeping higher ahead of peak season",
+    "headline": "The Iran war is not only about oil",
     "key_news_radar": [
       {
-        "title": "Ocean rates creeping higher ahead of peak season",
-        "summary": "Chart of the Week: Freightos Baltic Daily Index, China to North America West Coast, China to North America East Coast SONAR: FBXD.CNAW, FBXD.CNAE The ocean container shipping marke",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-31T01:54:53+00:00",
+        "title": "The Iran war is not only about oil",
+        "summary": "The war in the Middle East has roiled global energy markets, and it is also causing supply chain shocks for a number of dry bulk commodities.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-01T07:39:04+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ocean-rates-creeping-higher-ahead-of-peak-season",
+        "link": "https://www.worldcargonews.com/bulk/2026/06/the-iran-war-is-not-only-about-oil/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
-        "summary": "You already know this: when freight rates drop overnight or a new tariff lands without warning, your inbox fills up before your coffee does.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-05-31T16:15:14+00:00",
+        "title": "India Expands Shipping Connectivity to East Hormuz and Red Sea Corridors",
+        "summary": "India has significantly increased shipping services to the East Hormuz and Red Sea regions, with the number of sailings reportedly doubling since February as carriers respond to ev",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-01T18:49:22+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/how-shipping-professionals-can-hedge-against-trade-volatility-a-guide-to-smarter-personal-investing/",
+        "link": "https://indiaseatradenews.com/india-expands-shipping-connectivity-to-east-hormuz-and-red-sea-corridors/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-05-31T11:50:14+00:00",
+        "title": "Air freight capacity tight across Asia amid fuel strain: Dimerco",
+        "summary": "Jet fuel shortages, tight cargo capacity, airport congestion and strong semiconductor and AI demand are continuing to reshape air freight markets across Asia Pacific, keeping rates",
+        "source": "The STAT Trade Times",
+        "timestamp": "2026-06-01T13:04:05+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-thousands-of-mexican-truckers-lose-us-visas-over-cabotage-violations",
+        "link": "https://www.stattimes.com/air-cargo/air-freight-capacity-tight-across-asia-amid-fuel-strain-dimerco-1359322",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "stattimes",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Cargo vessel strike raises Gulf shipping concerns as Trump dismisses Iran talks",
+        "summary": "A cargo vessel was struck by an unidentified projectile near Iraq on 1 June, raising fresh concerns over vessel safety and maritime security across Gulf shipping routes.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-06-01T18:54:47+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/cargo-vessel-strike-raises-gulf-shipping-concerns-as-trump-dismisses-iran-talks/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "freightwaves_news"
+          "container_news"
         ]
       },
       {
-        "title": "Anglo-Eastern reinforces fleet security through its Global Security Desk as Hormuz disruption continues",
-        "summary": "Anglo-Eastern Univan Group (Anglo-Eastern), a global leader in independent ship management services, is drawing on its centralised Global Security Desk (GSD) to support vessels, cr",
-        "source": "Hellenic Shipping News — International Shipping",
-        "timestamp": "2026-05-31T21:00:34+00:00",
-        "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/anglo-eastern-reinforces-fleet-security-through-its-global-security-desk-as-hormuz-disruption-continues/",
+        "title": "Italian ports in growth mode, preparing for modal shift",
+        "summary": "Italy’s container ports recorded strong throughput in 2025, led by Gioia Tauro and the Ligurian hubs.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-01T06:15:32+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/06/italian-ports-in-growth-mode-preparing-for-modal-shift/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "hellenic_shipping_international",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Auro’s Kakinada Gateway Port Signs MoU for 1 MTPA Liquid Cargo Tank Farm Development",
-        "summary": "Kakinada Gateway Port Limited (KGPL), a subsidiary of the Auro Group, has signed a Memorandum of Understanding (MoU) with Sravan Shipping Services Pvt Ltd for the development of an",
-        "source": "India Seatrade News",
-        "timestamp": "2026-05-31T18:35:27+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/auros-kakinada-gateway-port-signs-mou-for-1-mtpa-liquid-cargo-tank-farm-development/",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -177,19 +168,23 @@
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -199,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-02",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "The Iran war is not only about oil; Air freight capacity tight across Asia amid fuel strain: Dimerco; Cargo vessel strike raises Gulf shipping concerns as Trump dismisses Iran talks",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-01",
         "write_now": "Maybe",
@@ -246,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Demand rebound pushing rates up for early start to ocean peak season - May 26, 2026 Update; From Boxcars to a Billion-Dollar Network; Logistics Bottlenecks at JN Port Test India’s Supply Chain Resilience",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-26",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "CMA CGM reports weaker Q1 earnings on lower freight rates and higher costs; When Global Tensions Hit the Shelf: Why Inventory Visibility Is Retail’s Best Defense Against Supply Chain Shocks; Italian freight rail slows again in 2025",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 63,
-      "high_trust": 15,
-      "trade_press": 48,
+      "total_items": 308,
+      "high_trust": 74,
+      "trade_press": 234,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-01.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-01.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-01.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-02.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-02.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-02.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-01",
-    "run_started_at": "2026-06-01T07:31:01+09:00",
+    "report_date": "2026-06-02",
+    "run_started_at": "2026-06-02T07:45:42+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger execution and workflow language and introduced document automation messaging"
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "6 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -333,20 +329,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-05-27",
@@ -398,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260601T073101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-01.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260602T074542+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-02.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W23",
-    "week_end_date": "2026-06-01",
+    "week_end_date": "2026-06-02",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -455,7 +438,7 @@
     "recent_history": [
       {
         "week_label": "2026-W23",
-        "week_end_date": "2026-06-01",
+        "week_end_date": "2026-06-02",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
