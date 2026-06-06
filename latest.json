@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-05T22:32:03+00:00",
-  "requested_date": "2026-06-06",
+  "built_at": "2026-06-06T22:32:02+00:00",
+  "requested_date": "2026-06-07",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-06",
+    "requested_date": "2026-06-07",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-06",
+        "report_label": "2026-06-07",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-06",
+        "report_label": "2026-06-07",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-06",
-    "last_updated": "2026-06-06 07:30",
+    "report_date": "2026-06-07",
+    "last_updated": "2026-06-07 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz.",
+    "status_note": "Market watch is led by Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz.",
+      "Lead market story: Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-06",
+      "report_date": "2026-06-07",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz; German rail is ‘completely out of control’; Strait of Hormuz To Open Immediately After Signing Deal With Iran, Trump Assures",
+      "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions; Container rates on India-Gulf routes drop sharply as supply improves; India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz",
+    "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions",
     "key_news_radar": [
       {
-        "title": "Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz",
-        "summary": "Image for representation purposes only U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-06-05T11:11:28+00:00",
+        "title": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions",
+        "summary": "Global container shipping rates are accelerating higher as early peak-season demand, mounting congestion at major Asian ports, and ongoing instability in the Middle East place fres",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-06-06T11:20:14+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/trump-says-u-s-is-close-to-signing-deal-with-iran-amidst-debates-around-future-of-shipping-in-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=trump-says-u-s-is-close-to-signing-deal-with-iran-amidst-debates-around-future-of-shipping-in-hormuz",
+        "link": "https://www.globaltrademag.com/container-freight-rates-surge-as-peak-season-demand-collides-with-middle-east-disruptions/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "German rail is ‘completely out of control’",
-        "summary": "The situation on the German rail network is dire.",
-        "source": "RailFreight.com",
-        "timestamp": "2026-06-05T10:09:08+00:00",
-        "confidence": "medium",
-        "link": "https://www.railfreight.com/railfreight/2026/06/05/german-rail-is-completely-out-of-control/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "railfreight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Shanghai-Genoa container freight rates above $5,000",
-        "summary": "The week ending 4 June 2026 marked another sharp acceleration in average spot freight rates for container shipping.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-05T10:49:47+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/shanghai-genoa-container-freight-rates-above-5000/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Poland: New process for long-dwelling full containers at GCT Gdynia terminal",
-        "summary": "To improve operations at GCT Gdynia and create more space in the container yard, Hapag-Lloyd is introducing a new process for full standard containers that have been stored at the",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-06-05T07:29:00+00:00",
+        "title": "Container rates on India-Gulf routes drop sharply as supply improves",
+        "summary": "Container freight rates on key India-Gulf trade lanes have fallen sharply in recent weeks as shipping capacity returned to the market and cargo backlogs that had built up during re",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-06T01:07:40+00:00",
         "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/06/poland--new-process-for-long-dwelling-full-containers-at-gct-gdy.html",
+        "link": "https://indiaseatradenews.com/container-rates-on-india-gulf-routes-drop-sharply-as-supply-improves/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "customernews_4",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "A “defining moment” for GenFlat as it completes first commercial-scale production run",
-        "summary": "GenFlat Holdings, a US-based producer of collapsible shipping containers, said it has completed its first commercial-scale production run of 100 collapsible 40-foot high-cube conta",
-        "source": "WorldCargo News",
-        "timestamp": "2026-06-05T06:56:35+00:00",
+        "title": "India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
+        "summary": "Container freight rates on the India-Gulf trade lane have fallen sharply in recent weeks as shipping capacity has returned to the market and congestion-related cargo backlogs have",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-06T01:07:46+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/container/2026/06/a-defining-moment-for-genflat-as-it-completes-first-collapsible-container-production-run/",
+        "link": "https://indiaseatradenews.com/india-gulf-container-rates-plunge-as-capacity-returns-and-cargo-backlogs-ease/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Govt Backs Market-Driven Freight Rates, Extends Relief to Exporters Hit by West Asia Disruptions",
+        "summary": "Commerce and Industry Minister Piyush Goyal on Friday defended a market-driven approach to freight and shipping rates, stating that government regulation of freight charges could c",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-06T01:07:43+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/govt-backs-market-driven-freight-rates-extends-relief-to-exporters-hit-by-west-asia-disruptions/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "PM Modi inaugurates, dedicates to the nation and lays the foundation stone of multiple development projects worth over ₹18,800 crore in Surat, Gujarat",
+        "summary": "SURAT : The Prime Minister, Shri Narendra Modi, on Friday inaugurated and laid foundation stones for several development projects in Surat, Gujarat.",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-06T03:30:59+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/pm-modi-inaugurates-dedicates-to-the-nation-and-lays-the-foundation-stone-of-multiple-development-projects-worth-over-%e2%82%b918800-crore-in-surat-gujarat/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,33 +157,49 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-07",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions; Container rates on India-Gulf routes drop sharply as supply improves; India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-06",
         "write_now": "Maybe",
@@ -231,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "Ocean rates creeping higher ahead of peak season; Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations; How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-05-31",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "India Prioritises Moving 13 Ships Out Of Strait Of Hormuz As Gulf Security Risks Persist; Anglo-Eastern strengthens fleet security as Hormuz disruption continues; JNPA celebrated 37 years of serving the nation through maritime excellence in the presence of Union Minister of Ports, Shipping and Waterways",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 305,
-      "high_trust": 75,
-      "trade_press": 230,
+      "total_items": 63,
+      "high_trust": 22,
+      "trade_press": 41,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-06.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-06.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-06.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-07.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-07.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-07.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-06",
-    "run_started_at": "2026-06-06T07:30:58+09:00",
+    "report_date": "2026-06-07",
+    "run_started_at": "2026-06-07T07:31:02+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -317,21 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "iTMS Virtual Summit June 2026",
-          "Seasoned engineering leader brings 25+ years of enterprise platform expertise to scale project44’s global engineering capabilities CHICAGO, June 4, 2026 — project44, the Decision Intelligence Platform for the modern supply chain, today announced the appointment of Karthik Somasundaram…"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -367,31 +362,31 @@
         "source_url": "https://www.project44.com/industries/"
       },
       {
+        "detected_date": "2026-05-31",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-05-27",
         "company": "Shippeo",
         "importance": "important",
         "signal_type": "website change",
         "summary": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
         "source_url": "https://www.shippeo.com/solutions/ecmr"
-      },
-      {
-        "detected_date": "2026-05-26",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "GoComet press releases announced \"GoProcure Automate RFQ management to get the best freight rates from your vendors",
-        "source_url": "https://www.gocomet.com/products/freight-quotation-management"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260606T073058+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-06.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260607T073102+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-07.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W23",
-    "week_end_date": "2026-06-06",
+    "week_end_date": "2026-06-07",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -413,8 +408,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -460,7 +454,7 @@
     "recent_history": [
       {
         "week_label": "2026-W23",
-        "week_end_date": "2026-06-06",
+        "week_end_date": "2026-06-07",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "4",
         "active_thesis_count": "1",
