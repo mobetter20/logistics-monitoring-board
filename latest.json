@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-06T22:32:02+00:00",
-  "requested_date": "2026-06-07",
+  "built_at": "2026-06-07T22:32:10+00:00",
+  "requested_date": "2026-06-08",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-07",
+    "requested_date": "2026-06-08",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
+      "Lead daily item: Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-07",
+        "report_label": "2026-06-08",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-07",
+        "report_label": "2026-06-08",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W23",
+        "report_label": "2026-W24",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,37 +64,83 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-07",
-    "last_updated": "2026-06-07 07:31",
+    "report_date": "2026-06-08",
+    "last_updated": "2026-06-08 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
+    "status_note": "Market watch is led by Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions.",
+      "Lead market story: Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-07",
+      "report_date": "2026-06-08",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions; Container rates on India-Gulf routes drop sharply as supply improves; India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
+      "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand; Drewry WCI jumps 23% as early peak season drives freight rates higher; Truckload’s shrinking miles",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions",
+    "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand",
     "key_news_radar": [
       {
-        "title": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions",
-        "summary": "Global container shipping rates are accelerating higher as early peak-season demand, mounting congestion at major Asian ports, and ongoing instability in the Middle East place fres",
+        "title": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-06T11:20:14+00:00",
+        "timestamp": "2026-06-07T13:10:22+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/container-freight-rates-surge-as-peak-season-demand-collides-with-middle-east-disruptions/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-uber-freight-sees-earlier-peak-season-strong-mexico-demand",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Drewry WCI jumps 23% as early peak season drives freight rates higher",
+        "summary": "Container freight rates surged again this week as early peak season demand pushed prices higher across major East-West trade lanes.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-07T16:31:25+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/drewry-wci-jumps-23-as-early-peak-season-drives-freight-rates-higher/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "container_news"
+        ]
+      },
+      {
+        "title": "Truckload’s shrinking miles",
+        "summary": "Chart of the Week: Outbound Average Length of Haul - USA SONAR: OALOHA.USA Despite the ongoing tightening of the domestic truckload market, the trend of shrinking load lengths that",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-07T02:02:03+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/truckloads-shrinking-miles",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Lloyd’s Register drives future-ready maritime solutions at Posidonia 2026",
+        "summary": "Classification society Lloyd’s Register (LR) has leveraged the global stage of the Posidonia 2026 exhibition to unveil a comprehensive suite of digital, technical, and sustainabili",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-06-07T06:31:22+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/lloyds-register-drives-future-ready-maritime-solutions-at-posidonia-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
@@ -102,54 +148,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Container rates on India-Gulf routes drop sharply as supply improves",
-        "summary": "Container freight rates on key India-Gulf trade lanes have fallen sharply in recent weeks as shipping capacity returned to the market and cargo backlogs that had built up during re",
+        "title": "Govt open to legislative changes for domestic P&I entity as Bharat Maritime Insurance Pool gains traction",
+        "summary": "The Union Government has expressed its willingness to support legislative reforms required to establish a domestic maritime third-party liability insurance entity based on the prin",
         "source": "India Seatrade News",
-        "timestamp": "2026-06-06T01:07:40+00:00",
+        "timestamp": "2026-06-07T18:42:38+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/container-rates-on-india-gulf-routes-drop-sharply-as-supply-improves/",
+        "link": "https://indiaseatradenews.com/govt-open-to-legislative-changes-for-domestic-pi-entity-as-bharat-maritime-insurance-pool-gains-traction/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
-        "summary": "Container freight rates on the India-Gulf trade lane have fallen sharply in recent weeks as shipping capacity has returned to the market and congestion-related cargo backlogs have",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-06T01:07:46+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/india-gulf-container-rates-plunge-as-capacity-returns-and-cargo-backlogs-ease/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Govt Backs Market-Driven Freight Rates, Extends Relief to Exporters Hit by West Asia Disruptions",
-        "summary": "Commerce and Industry Minister Piyush Goyal on Friday defended a market-driven approach to freight and shipping rates, stating that government regulation of freight charges could c",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-06T01:07:43+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/govt-backs-market-driven-freight-rates-extends-relief-to-exporters-hit-by-west-asia-disruptions/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "PM Modi inaugurates, dedicates to the nation and lays the foundation stone of multiple development projects worth over ₹18,800 crore in Surat, Gujarat",
-        "summary": "SURAT : The Prime Minister, Shri Narendra Modi, on Friday inaugurated and laid foundation stones for several development projects in Surat, Gujarat.",
-        "source": "India Shipping News",
-        "timestamp": "2026-06-06T03:30:59+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/pm-modi-inaugurates-dedicates-to-the-nation-and-lays-the-foundation-stone-of-multiple-development-projects-worth-over-%e2%82%b918800-crore-in-surat-gujarat/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -192,6 +199,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-08",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand; Drewry WCI jumps 23% as early peak season drives freight rates higher; Truckload’s shrinking miles",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-07",
         "write_now": "Maybe",
@@ -239,33 +254,25 @@
         "worth_attention_today": "5",
         "headline": "The Iran war is not only about oil; Air freight capacity tight across Asia amid fuel strain: Dimerco; Cargo vessel strike raises Gulf shipping concerns as Trump dismisses Iran talks",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-01",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Ocean rates creeping higher ahead of peak season; Borderlands Mexico: Thousands of Mexican truckers lose US visas over cabotage violations; How Shipping Professionals Can Hedge Against Trade Volatility: A Guide to Smarter Personal Investing",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 63,
-      "high_trust": 22,
-      "trade_press": 41,
+      "total_items": 67,
+      "high_trust": 16,
+      "trade_press": 51,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-07.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-07.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-07.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-08.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-08.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-08.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-07",
-    "run_started_at": "2026-06-07T07:31:02+09:00",
+    "report_date": "2026-06-08",
+    "run_started_at": "2026-06-08T07:30:52+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +283,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -362,56 +369,55 @@
         "source_url": "https://www.project44.com/industries/"
       },
       {
+        "detected_date": "2026-06-01",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-05-31",
         "company": "Project44",
         "importance": "watch",
         "signal_type": "status change",
         "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-05-27",
-        "company": "Shippeo",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Shippeo platform page added stronger execution and workflow language and introduced document automation messaging",
-        "source_url": "https://www.shippeo.com/solutions/ecmr"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260607T073102+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-07.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260608T073052+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-08.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W23",
-    "week_end_date": "2026-06-07",
+    "week_label": "2026-W24",
+    "week_end_date": "2026-06-08",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -431,27 +437,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "broader workflow ownership",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
-      }
-    ],
+    "important_signal_count": 0,
+    "active_theses": [],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W24",
+        "week_end_date": "2026-06-08",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W23",
         "week_end_date": "2026-06-07",
@@ -481,21 +480,11 @@
         "signal_signature": "Wakeo|direct_competitor|partnership|9bf7f680f1896552e7d4430ba025dc03ce9434da || Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W20",
-        "week_end_date": "2026-05-17",
-        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
-        "signal_count": "3",
-        "active_thesis_count": "1",
-        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W23.json",
-      "strategic_intelligence/output/weekly-memo-2026-W23.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W24.json",
+      "strategic_intelligence/output/weekly-memo-2026-W24.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
