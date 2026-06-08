@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-07T22:32:10+00:00",
-  "requested_date": "2026-06-08",
+  "built_at": "2026-06-08T22:54:49+00:00",
+  "requested_date": "2026-06-09",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-08",
+    "requested_date": "2026-06-09",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Hormuz Premium distorts container freight seasonality.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-08",
+        "report_label": "2026-06-09",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-08",
+        "report_label": "2026-06-09",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: GoComet GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging",
+        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W24",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Shippeo is signaling workflow deepening around facility execution.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,99 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-08",
-    "last_updated": "2026-06-08 07:30",
+    "report_date": "2026-06-09",
+    "last_updated": "2026-06-09 07:53",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
+    "status_note": "Market watch is led by Hormuz Premium distorts container freight seasonality.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand.",
+      "Lead market story: Hormuz Premium distorts container freight seasonality.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-08",
+      "report_date": "2026-06-09",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand; Drewry WCI jumps 23% as early peak season drives freight rates higher; Truckload’s shrinking miles",
+      "headline": "Hormuz Premium distorts container freight seasonality; Houthis reignite risk at Bab al-Mandeb; Israel and Iran exchange heavy strikes as Houthis seal Red Sea shipping",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand",
+    "headline": "Hormuz Premium distorts container freight seasonality",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-07T13:10:22+00:00",
+        "title": "Hormuz Premium distorts container freight seasonality",
+        "summary": "The crisis in the Strait of Hormuz has introduced a new factor into the container freight market: a geopolitical surcharge that industry operators have begun to call the “Hormuz Pr",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-08T14:31:00+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-uber-freight-sees-earlier-peak-season-strong-mexico-demand",
+        "link": "https://www.trasportoeuropa.it/english/hormuz-premium-distorts-container-freight-seasonality/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Drewry WCI jumps 23% as early peak season drives freight rates higher",
-        "summary": "Container freight rates surged again this week as early peak season demand pushed prices higher across major East-West trade lanes.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-07T16:31:25+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/drewry-wci-jumps-23-as-early-peak-season-drives-freight-rates-higher/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "container_news"
-        ]
-      },
-      {
-        "title": "Truckload’s shrinking miles",
-        "summary": "Chart of the Week: Outbound Average Length of Haul - USA SONAR: OALOHA.USA Despite the ongoing tightening of the domestic truckload market, the trend of shrinking load lengths that",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-07T02:02:03+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/truckloads-shrinking-miles",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Lloyd’s Register drives future-ready maritime solutions at Posidonia 2026",
-        "summary": "Classification society Lloyd’s Register (LR) has leveraged the global stage of the Posidonia 2026 exhibition to unveil a comprehensive suite of digital, technical, and sustainabili",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-07T06:31:22+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/lloyds-register-drives-future-ready-maritime-solutions-at-posidonia-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Govt open to legislative changes for domestic P&I entity as Bharat Maritime Insurance Pool gains traction",
-        "summary": "The Union Government has expressed its willingness to support legislative reforms required to establish a domestic maritime third-party liability insurance entity based on the prin",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-07T18:42:38+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/govt-open-to-legislative-changes-for-domestic-pi-entity-as-bharat-maritime-insurance-pool-gains-traction/",
+        "title": "Houthis reignite risk at Bab al-Mandeb",
+        "summary": "The Houthis have renewed their threat against shipping in the Red Sea, announcing a “complete and total ban” on the transit of Israeli vessels on 8 June 2026.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-08T10:25:03+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/houthis-reignite-risk-at-bab-al-mandeb/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Israel and Iran exchange heavy strikes as Houthis seal Red Sea shipping",
+        "summary": "The fragile regional ceasefire established on April 8 has collapsed after a sequence of direct military exchanges between Israel, Iran, and Yemen’s Houthi rebels.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-08T08:29:32+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/israel-and-iran-exchange-heavy-strikes-as-houthis-seal-red-sea-shipping/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Container Freight Rates Surge 23% as Early Peak Season Drives Demand on Major Trade Lanes",
+        "summary": "Container shipping costs have climbed once more this week, as an unusually early peak season boosted rates on key East-West corridors.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-08T08:24:42+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/container-freight-rates-surge-23-as-early-peak-season-drives-demand-on-major-trade-lanes/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "With logistics costs now in single digits, Rajesh Menon of DPIIT Logistics Division says focus must shift to speed, execution and multimodal efficiency",
+        "summary": "NEW DELHI: India’s logistics costs have moved into the 8 to 9 per cent range of GDP, but further gains will depend on moving goods faster and making multimodal transportation work",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-08T03:22:53+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/with-logistics-costs-now-in-single-digits-rajesh-menon-of-dpiit-logistics-division-says-focus-must-shift-to-speed-execution-and-multimodal-efficiency/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -181,15 +174,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -199,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-09",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Hormuz Premium distorts container freight seasonality; Houthis reignite risk at Bab al-Mandeb; Israel and Iran exchange heavy strikes as Houthis seal Red Sea shipping",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-08",
         "write_now": "Maybe",
@@ -246,49 +247,40 @@
         "worth_attention_today": "5",
         "headline": "Transits through Strait of Hormuz remain limited as Iran-US peace talks fizzle; Posidonia 2026 opens its gates as Strait of Hormuz remains closed; Box rates soar $1,000 in one week on peak rush",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-02",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "The Iran war is not only about oil; Air freight capacity tight across Asia amid fuel strain: Dimerco; Cargo vessel strike raises Gulf shipping concerns as Trump dismisses Iran talks",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 67,
-      "high_trust": 16,
-      "trade_press": 51,
+      "total_items": 310,
+      "high_trust": 82,
+      "trade_press": 228,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-08.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-08.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-08.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-09.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-09.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-09.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-08",
-    "run_started_at": "2026-06-08T07:30:52+09:00",
+    "report_date": "2026-06-09",
+    "run_started_at": "2026-06-09T07:53:22+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging"
+      "Newest meaningful competitor move: GoComet GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 5,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -300,7 +292,7 @@
       },
       {
         "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, platform / control tower, and visibility."
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and execution and workflow."
       },
       {
         "company": "Transporeon",
@@ -312,7 +304,7 @@
       },
       {
         "company": "GoComet",
-        "summary": "Current narrative leans toward analytics and decision intelligence, AI and automation, and platform / control tower."
+        "summary": "Current narrative leans toward AI and automation, analytics and decision intelligence, and platform / control tower."
       }
     ],
     "peer_themes": [
@@ -333,91 +325,166 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.gocomet.com/",
+        "evidence": [
+          "Built for the complexity of cross-border trade.",
+          "Three things that make this work."
+        ]
+      },
+      {
+        "company": "Shippeo",
+        "importance": "important",
+        "summary": "Shippeo platform page added stronger visibility, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced TMS, yard / dock, document automation, and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Shippeo platform page added stronger visibility, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced TMS, yard / dock, document automation, and connectivity / integrations messaging -> signals a broader platform / control tower story",
+        "source_url": "https://www.shippeo.com/solutions/ecmr",
+        "evidence": [
+          "Turn transport documentation into a real-time, compliant execution layer",
+          "Up to €13"
+        ]
+      },
+      {
+        "company": "Wakeo",
+        "importance": "important",
+        "summary": "Wakeo platform page added stronger platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and sustainability language and introduced procurement, routing / optimization, analytics, and carbon / sustainability messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Wakeo platform page added stronger platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and sustainability language and introduced procurement, routing / optimization, analytics, and carbon / sustainability messaging -> signals a broader platform / control tower story",
+        "source_url": "https://wakeo.co/platform/trusted-routes/",
+        "evidence": [
+          "Compare all trade lanes in one platform",
+          "Turn routing decisions into a competitive advantage"
+        ]
+      },
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"Viera Conversational analytics that answers in plain language with context, impact, and the next step.",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Viera Conversational analytics that answers in plain language with context, impact, and the next step.",
+        "source_url": "https://www.gocomet.com/ai-agents",
+        "evidence": [
+          "Viera Conversational analytics that answers in plain language with context, impact, and the next step.",
+          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
+        ]
+      },
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "GoOrder PO ingestion and order management with full context.",
+        "source_url": "https://www.gocomet.com/products",
+        "evidence": [
+          "GoOrder PO ingestion and order management with full context.",
+          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
       {
-        "detected_date": "2026-06-06",
-        "company": "Project44",
+        "detected_date": "2026-06-09",
+        "company": "GoComet",
         "importance": "important",
         "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "source_url": "https://www.project44.com/"
+        "summary": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging",
+        "source_url": "https://www.gocomet.com/"
       },
       {
-        "detected_date": "2026-06-04",
-        "company": "Project44",
+        "detected_date": "2026-06-09",
+        "company": "Shippeo",
         "importance": "important",
         "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
+        "summary": "Shippeo platform page added stronger visibility, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced TMS, yard / dock, document automation, and connectivity / integrations messaging",
+        "source_url": "https://www.shippeo.com/solutions/ecmr"
       },
       {
-        "detected_date": "2026-06-04",
-        "company": "Project44",
+        "detected_date": "2026-06-09",
+        "company": "Wakeo",
         "importance": "important",
         "signal_type": "website change",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/platform/"
+        "summary": "Wakeo platform page added stronger platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and sustainability language and introduced procurement, routing / optimization, analytics, and carbon / sustainability messaging",
+        "source_url": "https://wakeo.co/platform/trusted-routes/"
       },
       {
-        "detected_date": "2026-06-04",
-        "company": "Project44",
+        "detected_date": "2026-06-09",
+        "company": "GoComet",
         "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/industries/"
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"Viera Conversational analytics that answers in plain language with context, impact, and the next step.",
+        "source_url": "https://www.gocomet.com/ai-agents"
       },
       {
-        "detected_date": "2026-06-01",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
+        "detected_date": "2026-06-09",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+        "source_url": "https://www.gocomet.com/products"
       },
       {
-        "detected_date": "2026-05-31",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
+        "detected_date": "2026-06-09",
+        "company": "Wakeo",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Alpega Group and Wakeo Formalise Strategic Alliance The agreement marks a major evolution from their initial 2023 collaboration, expanding capabilities to road...",
+        "source_url": "https://wakeo.co/news/alpega-group-and-wakeo-formalise-strategic-alliance"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260608T073052+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-08.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260609T075322+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-09.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W24",
-    "week_end_date": "2026-06-08",
+    "week_end_date": "2026-06-09",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Shippeo is signaling workflow deepening around facility execution.",
+      "Current working thesis: Signals are converging around invoice automation routing optimization as a meaningful market motif.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Shippeo is signaling workflow deepening around facility execution.",
+      "GoComet is reinforcing a invoice automation routing optimization motif through AI positioning.",
+      "GoComet is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Shippeo (direct competitor) is pushing workflow deepening around facility execution with the claimed outcome of broader workflow ownership.",
+      "GoComet (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership.",
+      "GoComet (direct competitor) is pushing AI positioning with the claimed outcome of reduced manual work.",
+      "Wakeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work.",
+      "Wakeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -437,17 +504,63 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
-    "active_theses": [],
-    "top_signals": [],
+    "important_signal_count": 9,
+    "active_theses": [
+      "Signals are converging around invoice automation routing optimization as a meaningful market motif.",
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
+    ],
+    "top_signals": [
+      {
+        "entity_name": "Shippeo",
+        "source_title": "Shippeo platform page added stronger visibility, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced TMS, yard / dock, document automation, and connectivity / integrations messaging -> signals a broader platform / control tower story",
+        "source_layer": "direct competitor",
+        "strategic_move": "Workflow deepening",
+        "workflow_scope": "facility execution",
+        "claimed_outcome": "broader workflow ownership",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Shippeo platform page added stronger visibility, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced TMS, yard / dock, document...",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.shippeo.com/solutions/ecmr"
+      },
+      {
+        "entity_name": "GoComet",
+        "source_title": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "broader workflow ownership",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "invoice automation routing optimization",
+        "source_url": "https://www.gocomet.com/"
+      },
+      {
+        "entity_name": "Wakeo",
+        "source_title": "Alpega Group and Wakeo Formalise Strategic Alliance The agreement marks a major evolution from their initial 2023 collaboration, expanding capabilities to road...",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Wakeo newsroom announced \"Alpega Group and Wakeo Formalise Strategic Alliance The agreement marks a major evolution from their initial 2023 collaboration, expanding capabilities to road...\" -> signals a stronger AI /...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://wakeo.co/news/alpega-group-and-wakeo-formalise-strategic-alliance"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W24",
-        "week_end_date": "2026-06-08",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
-        "active_thesis_count": "0",
-        "signal_signature": "",
+        "week_end_date": "2026-06-09",
+        "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
+        "signal_count": "9",
+        "active_thesis_count": "3",
+        "signal_signature": "Shippeo|direct_competitor|partnership|e70683ab6e1cccae30dc5397f6bb9025bf084927 || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|ai_positioning|36ea8b6cc950263f1cffcd6aa9a1662abc4ecbb1 || GoComet|direct_competitor|ai_positioning|5ae80143502def3ef3d3a7e3c18be4889f2a120a || GoComet|direct_competitor|product_update|765ba4296fcde54cfbd3bc52c1f88789505db461",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
