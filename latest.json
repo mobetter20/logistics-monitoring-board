@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-09T22:32:24+00:00",
-  "requested_date": "2026-06-10",
+  "built_at": "2026-06-10T22:32:20+00:00",
+  "requested_date": "2026-06-11",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-10",
+    "requested_date": "2026-06-11",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Houthis declare Red Sea blockade - and insurers face a two-front crisis.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-10",
+        "report_label": "2026-06-11",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-10",
+        "report_label": "2026-06-11",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,66 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-10",
-    "last_updated": "2026-06-10 07:31",
+    "report_date": "2026-06-11",
+    "last_updated": "2026-06-11 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Houthis declare Red Sea blockade - and insurers face a two-front crisis.",
+    "status_note": "Market watch is led by Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Houthis declare Red Sea blockade - and insurers face a two-front crisis.",
+      "Lead market story: Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-10",
+      "report_date": "2026-06-11",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Houthis declare Red Sea blockade - and insurers face a two-front crisis; Frontload frenzy? New tariffs fueling early trans-Pacific peak season; JNPT Congestion Drives Export Costs Up by ₹30,000 Per Container",
+      "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam; Freightos Weekly Update: Ocean rates climbing, with more increases expected soon; JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Houthis declare Red Sea blockade - and insurers face a two-front crisis",
+    "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam",
     "key_news_radar": [
       {
-        "title": "Houthis declare Red Sea blockade - and insurers face a two-front crisis",
-        "summary": "SANA : The insurance market had barely begun pricing the Strait of Hormuz back into something resembling normality when, early on Monday morning, the second chokepoint declared its",
-        "source": "India Shipping News",
-        "timestamp": "2026-06-09T03:54:28+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/houthis-declare-red-sea-blockade-and-insurers-face-a-two-front-crisis/",
+        "title": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam",
+        "summary": "Since 9 May 2026, the Dutch group Geef Tegengas has been blocking the Havenspoorlijn, the main freight railway serving the Port of Rotterdam.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-10T16:53:20+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/environmental-and-pro-pal-protests-slow-operations-at-the-port-of-rotterdam/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Frontload frenzy? New tariffs fueling early trans-Pacific peak season",
-        "summary": "The peak shipping season is “well underway,” says an analyst, as box rates ride a wave of frontloading spurred by more tariffs, and spreading Mideast tensions push up fuel costs.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-09T20:32:09+00:00",
+        "title": "Freightos Weekly Update: Ocean rates climbing, with more increases expected soon",
+        "summary": "Israel and Iran’s brief exchange of military strikes - a first since early April - that concluded by Monday did not materially change the status quo in terms of the Iran war impact",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-10T04:24:48+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/frontload-frenzy-new-tariffs-fueling-early-trans-pacific-peak-season",
+        "link": "https://container-news.com/freightos-weekly-update-ocean-rates-climbing-with-more-increases-expected-soon/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "JNPT Congestion Drives Export Costs Up by ₹30,000 Per Container",
-        "summary": "Congestion at Jawaharlal Nehru Port Authority (JNPT) is significantly increasing logistics expenses for exporters, with additional costs estimated at up to ₹30,000 per container as",
+        "title": "JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
+        "summary": "The Jawaharlal Nehru Port Authority (JNPA) has announced ground rent relief measures to support importers, exporters and logistics operators affected by truck shortages that have s",
         "source": "India Seatrade News",
-        "timestamp": "2026-06-09T18:51:37+00:00",
+        "timestamp": "2026-06-10T18:37:09+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/jnpt-congestion-drives-export-costs-up-by-%e2%82%b930000-per-container/",
+        "link": "https://indiaseatradenews.com/jnpa-offers-ground-rent-relief-amid-truck-shortages-and-container-congestion/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -131,28 +128,28 @@
         "confirmed_by": []
       },
       {
-        "title": "FreightWaves Today: Mergers, fraud rings and the mid-June rate pause",
-        "summary": "Rail: Bipartisan push for rigorous UP-SP merger review The bipartisan House Appropriations Committee added language to its fiscal 2027 transportation appropriations bill urging the",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-08T21:34:27+00:00",
+        "title": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off",
+        "summary": "The Secretary-General of the International Maritime Organisation (IMO), Arsenio Dominguez, warned shipowners and masters against transiting the Strait of Hormuz without “credible s",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-10T07:46:54+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/freightwaves-today-mergers-fraud-rings-and-the-mid-june-rate-pause",
+        "link": "https://www.worldcargonews.com/news/2026/06/imo-says-no-justification-for-risking-seafarers-lives-amid-attempts-to-transit-hormuz-with-ais-off/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Houthis Threaten To Ban Israeli Ships In Red Sea, Launch 2 Missiles At Tel Aviv",
-        "summary": "Image for representation purposes only Yemen’s Iran-backed Houthi Group announced a ban on Israeli Ships operating in the Red Sea and also launched missile attacks at Tel Aviv.",
-        "source": "Marine Insight",
-        "timestamp": "2026-06-09T09:08:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/houthis-threaten-ban-on-israeli-cruise-ships-in-red-sea-launch-2-missiles-at-tel-aviv/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-threaten-ban-on-israeli-cruise-ships-in-red-sea-launch-2-missiles-at-tel-aviv",
+        "title": "India revives ambitious ‘Oman-Gujarat Deep-Sea Gas Pipeline Project’ to strengthen energy security",
+        "summary": "NEW DELHI : In a significant move aimed at enhancing long-term energy security and reducing dependence on vulnerable maritime routes, India is revisiting the proposed ₹40,000-crore",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-10T03:22:42+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/india-revives-ambitious-oman-gujarat-deep-sea-gas-pipeline-project-to-strengthen-energy-security/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,22 +157,22 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
@@ -183,10 +180,26 @@
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-11",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam; Freightos Weekly Update: Ocean rates climbing, with more increases expected soon; JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-10",
         "write_now": "Maybe",
@@ -234,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "Container stowage data moves towards a common standard; PSA Mumbai strengthens Port infrastructure with inauguration of new visitor centre and customs & security complex; German steelmakers and logistics giants sound the alarm on German infrastructure works",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-04",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Container rates starting to spike on peak season rush; Testimony of Chairman DiBella Before Congress - Future of United States Maritime: Review of Fiscal Year 2027 Maritime Administration and Federal Maritime Commission Budget Requests; Marinakis: Shipowners Should Have Paid Strait of Hormuz Fee Instead of Enduring Closure Disruption",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 338,
-      "high_trust": 82,
-      "trade_press": 256,
+      "total_items": 316,
+      "high_trust": 70,
+      "trade_press": 246,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-10.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-10.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-10.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-11.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-11.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-11.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-10",
-    "run_started_at": "2026-06-10T07:31:06+09:00",
+    "report_date": "2026-06-11",
+    "run_started_at": "2026-06-11T07:31:08+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "important_count": 0,
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -320,35 +326,8 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
-        ]
-      }
-    ],
-    "watch_items": [
-      {
-        "company": "Shippeo",
-        "importance": "watch",
-        "summary": "Shippeo platform page added stronger data quality / connectivity language and introduced document automation messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Shippeo platform page added stronger data quality / connectivity language and introduced document automation messaging -> suggests a meaningful positioning refresh",
-        "source_url": "https://www.shippeo.com/solutions/ecmr",
-        "evidence": [
-          "Simplify compliant eCMR management across your transport network",
-          "Simplify compliant eCMR management across your transport network"
-        ]
-      }
-    ],
+    "important_changes": [],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-06-10",
@@ -400,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260610T073106+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-10.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260611T073108+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-11.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W24",
-    "week_end_date": "2026-06-10",
+    "week_end_date": "2026-06-11",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -540,7 +519,7 @@
     "recent_history": [
       {
         "week_label": "2026-W24",
-        "week_end_date": "2026-06-10",
+        "week_end_date": "2026-06-11",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
