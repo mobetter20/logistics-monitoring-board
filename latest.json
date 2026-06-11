@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-10T22:32:20+00:00",
-  "requested_date": "2026-06-11",
+  "built_at": "2026-06-11T22:32:07+00:00",
+  "requested_date": "2026-06-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-11",
+    "requested_date": "2026-06-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
+      "Lead daily item: Container freight rate rises slow in early peak season.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-11",
+        "report_label": "2026-06-12",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-11",
+        "report_label": "2026-06-12",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-11",
-    "last_updated": "2026-06-11 07:31",
+    "report_date": "2026-06-12",
+    "last_updated": "2026-06-12 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
+    "status_note": "Market watch is led by Container freight rate rises slow in early peak season.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Environmental and pro-Pal protests slow operations at the Port of Rotterdam.",
+      "Lead market story: Container freight rate rises slow in early peak season.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-11",
+      "report_date": "2026-06-12",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam; Freightos Weekly Update: Ocean rates climbing, with more increases expected soon; JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
+      "headline": "Global port efficiency under pressure from congestion and geopolitics; Container freight rate rises slow in early peak season; Conservative network has law protecting U.S.-flag shipping in its sights",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam",
+    "headline": "Container freight rate rises slow in early peak season",
     "key_news_radar": [
       {
-        "title": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam",
-        "summary": "Since 9 May 2026, the Dutch group Geef Tegengas has been blocking the Havenspoorlijn, the main freight railway serving the Port of Rotterdam.",
+        "title": "Container freight rate rises slow in early peak season",
+        "summary": "Drewry’s composite World Container Index, calculated each week on average spot freight rates for container shipping, closed on 11 June 2026 at $3,549 per 40-foot unit, up 3 per cen",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-10T16:53:20+00:00",
+        "timestamp": "2026-06-11T15:39:00+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/environmental-and-pro-pal-protests-slow-operations-at-the-port-of-rotterdam/",
+        "link": "https://www.trasportoeuropa.it/english/container-freight-rate-rises-slow-in-early-peak-season/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -102,54 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Freightos Weekly Update: Ocean rates climbing, with more increases expected soon",
-        "summary": "Israel and Iran’s brief exchange of military strikes - a first since early April - that concluded by Monday did not materially change the status quo in terms of the Iran war impact",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-10T04:24:48+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-ocean-rates-climbing-with-more-increases-expected-soon/",
+        "title": "Global port efficiency under pressure from congestion and geopolitics",
+        "summary": "According to the World Bank’s Container Port Performance Index 2025 (CPPI), average global port performance declined slightly compared with the previous year, as vessel dwell times",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-11T10:18:41+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/global-port-efficiency-under-pressure-from-congestion-and-geopolitics/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
-        "summary": "The Jawaharlal Nehru Port Authority (JNPA) has announced ground rent relief measures to support importers, exporters and logistics operators affected by truck shortages that have s",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-10T18:37:09+00:00",
+        "title": "Conservative network has law protecting U.S.-flag shipping in its sights",
+        "summary": "A political action group backed by a conservative billionaire with interests in the energy sector wants a suspended law protecting U.S.-flag shipping permanently repealed.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-11T14:22:29+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/jnpa-offers-ground-rent-relief-amid-truck-shortages-and-container-congestion/",
+        "link": "https://www.freightwaves.com/news/conservative-network-has-law-protecting-u-s-flag-shipping-in-its-sights",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "IMO says no justification for risking seafarers’ lives amid attempts to transit Hormuz with AIS off",
-        "summary": "The Secretary-General of the International Maritime Organisation (IMO), Arsenio Dominguez, warned shipowners and masters against transiting the Strait of Hormuz without “credible s",
-        "source": "WorldCargo News",
-        "timestamp": "2026-06-10T07:46:54+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/06/imo-says-no-justification-for-risking-seafarers-lives-amid-attempts-to-transit-hormuz-with-ais-off/",
+        "title": "Record air freight rates under pressure from the Gulf conflict",
+        "summary": "The second quarter of 2026 marked a turning point for air cargo: global spot freight rates surged by 30% year-on-year in April, reaching their highest level since October 2022.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-11T11:12:10+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/aircargo/record-air-freight-rates-under-pressure-from-the-gulf-conflict/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "India revives ambitious ‘Oman-Gujarat Deep-Sea Gas Pipeline Project’ to strengthen energy security",
-        "summary": "NEW DELHI : In a significant move aimed at enhancing long-term energy security and reducing dependence on vulnerable maritime routes, India is revisiting the proposed ₹40,000-crore",
-        "source": "India Shipping News",
-        "timestamp": "2026-06-10T03:22:42+00:00",
+        "title": "FreightWaves Today: U.S. approves $5B offshore LNG export platform",
+        "summary": "Federal regulators license first-ever offshore LNG export terminal American energy exports reached a historic milestone Wednesday as federal regulators approved the construction of",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-11T20:35:27+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/india-revives-ambitious-oman-gujarat-deep-sea-gas-pipeline-project-to-strengthen-energy-security/",
+        "link": "https://www.freightwaves.com/news/freightwaves-today-u-s-approves-5b-offshore-lng-export-platform",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,11 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -169,20 +165,24 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
         "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Global port efficiency under pressure from congestion and geopolitics; Container freight rate rises slow in early peak season; Conservative network has law protecting U.S.-flag shipping in its sights",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-11",
         "write_now": "Maybe",
@@ -239,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz; German rail is ‘completely out of control’; Strait of Hormuz To Open Immediately After Signing Deal With Iran, Trump Assures",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container stowage data moves towards a common standard; PSA Mumbai strengthens Port infrastructure with inauguration of new visitor centre and customs & security complex; German steelmakers and logistics giants sound the alarm on German infrastructure works",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 316,
-      "high_trust": 70,
-      "trade_press": 246,
+      "total_items": 312,
+      "high_trust": 73,
+      "trade_press": 239,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-11",
-    "run_started_at": "2026-06-11T07:31:08+09:00",
+    "report_date": "2026-06-12",
+    "run_started_at": "2026-06-12T07:30:47+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +276,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -379,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260611T073108+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260612T073047+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W24",
-    "week_end_date": "2026-06-11",
+    "week_end_date": "2026-06-12",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -415,8 +415,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -519,7 +518,7 @@
     "recent_history": [
       {
         "week_label": "2026-W24",
-        "week_end_date": "2026-06-11",
+        "week_end_date": "2026-06-12",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
