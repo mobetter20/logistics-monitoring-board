@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-11T22:32:07+00:00",
-  "requested_date": "2026-06-12",
+  "built_at": "2026-06-12T22:32:23+00:00",
+  "requested_date": "2026-06-13",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-12",
+    "requested_date": "2026-06-13",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container freight rate rises slow in early peak season.",
+      "Lead daily item: MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-12",
+        "report_label": "2026-06-13",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-12",
+        "report_label": "2026-06-13",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-12",
-    "last_updated": "2026-06-12 07:30",
+    "report_date": "2026-06-13",
+    "last_updated": "2026-06-13 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Container freight rate rises slow in early peak season.",
+    "status_note": "Market watch is led by MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container freight rate rises slow in early peak season.",
+      "Lead market story: MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-12",
+      "report_date": "2026-06-13",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Global port efficiency under pressure from congestion and geopolitics; Container freight rate rises slow in early peak season; Conservative network has law protecting U.S.-flag shipping in its sights",
+      "headline": "Bangkok Port opens new cargo facility to improve efficiency; Iran War Sends Global Container Shipping Rates Soaring Over 100% As Fuel Costs Surge; India Ready to Scale Up Seafarer Repatriation Efforts Amid Rising Maritime Security Incidents in West Asia",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container freight rate rises slow in early peak season",
+    "headline": "MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”",
     "key_news_radar": [
       {
-        "title": "Container freight rate rises slow in early peak season",
-        "summary": "Drewry’s composite World Container Index, calculated each week on average spot freight rates for container shipping, closed on 11 June 2026 at $3,549 per 40-foot unit, up 3 per cen",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-11T15:39:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-freight-rate-rises-slow-in-early-peak-season/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Global port efficiency under pressure from congestion and geopolitics",
-        "summary": "According to the World Bank’s Container Port Performance Index 2025 (CPPI), average global port performance declined slightly compared with the previous year, as vessel dwell times",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-11T10:18:41+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/global-port-efficiency-under-pressure-from-congestion-and-geopolitics/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Conservative network has law protecting U.S.-flag shipping in its sights",
-        "summary": "A political action group backed by a conservative billionaire with interests in the energy sector wants a suspended law protecting U.S.-flag shipping permanently repealed.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-11T14:22:29+00:00",
+        "title": "MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”",
+        "summary": "NEW DELHI : India has once again stressed the importance of maintaining free and secure maritime movement through the Strait of Hormuz, one of the world’s most critical shipping co",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-12T02:58:06+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/conservative-network-has-law-protecting-u-s-flag-shipping-in-its-sights",
+        "link": "https://indiashippingnews.com/mea-calls-for-unimpeded-safe-navigation-through-hormuz-hopes-us-attacks-on-vessels-come-to-an-end/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Indian Govt. on highest alert to safeguard Indian Seafarers amid evolving maritime security situation in Gulf Region",
+        "summary": "NEW DELHI : In view of the rapidly evolving security situation in the Gulf region and surrounding waters, the Government of India continue to monitor, and coordinate response mecha",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-12T02:57:05+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/indian-govt-on-highest-alert-to-safeguard-indian-seafarers-amid-evolving-maritime-security-situation-in-gulf-region/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Port of Los Angeles forecasts 7% container volume decline",
+        "summary": "The Los Angeles Board of Harbor Commissioners has approved a $3.4 billion annual budget for fiscal 2026-2027 for the Port of Los Angeles.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-12T14:20:24+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/port-of-los-angeles-forecasts-7-container-volume-decline",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -128,28 +128,28 @@
         "confirmed_by": []
       },
       {
-        "title": "Record air freight rates under pressure from the Gulf conflict",
-        "summary": "The second quarter of 2026 marked a turning point for air cargo: global spot freight rates surged by 30% year-on-year in April, reaching their highest level since October 2022.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-11T11:12:10+00:00",
+        "title": "Critical Minerals Reshape Global Trade and Shipping, UNCTAD Report Warns",
+        "summary": "A new report from UN Trade and Development (UNCTAD) indicates that the global competition for critical minerals is fundamentally altering trade flows, industrial policy, and supply",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-06-12T17:07:30+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/aircargo/record-air-freight-rates-under-pressure-from-the-gulf-conflict/",
+        "link": "https://www.globaltrademag.com/critical-minerals-reshape-global-trade-and-shipping-unctad-report-warns/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "FreightWaves Today: U.S. approves $5B offshore LNG export platform",
-        "summary": "Federal regulators license first-ever offshore LNG export terminal American energy exports reached a historic milestone Wednesday as federal regulators approved the construction of",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-11T20:35:27+00:00",
+        "title": "Bangkok Port opens new cargo facility to improve efficiency",
+        "summary": "The Port Authority of Thailand (PAT) has opened a new cargo-handling facility at Bangkok Port to improve efficiency and reduce congestion.",
+        "source": "Container News",
+        "timestamp": "2026-06-12T15:00:05+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/freightwaves-today-u-s-approves-5b-offshore-lng-export-platform",
+        "link": "https://container-news.com/bangkok-port-opens-new-cargo-facility-to-improve-efficiency/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-13",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Bangkok Port opens new cargo facility to improve efficiency; Iran War Sends Global Container Shipping Rates Soaring Over 100% As Fuel Costs Surge; India Ready to Scale Up Seafarer Repatriation Efforts Amid Rising Maritime Security Incidents in West Asia",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-12",
         "write_now": "Maybe",
@@ -239,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions; Container rates on India-Gulf routes drop sharply as supply improves; India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-06",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Trump Says U.S Is Close To Signing Deal With Iran Amidst Debates Around Future Of Shipping In Hormuz; German rail is ‘completely out of control’; Strait of Hormuz To Open Immediately After Signing Deal With Iran, Trump Assures",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 312,
-      "high_trust": 73,
-      "trade_press": 239,
+      "total_items": 295,
+      "high_trust": 68,
+      "trade_press": 227,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-12.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-12.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-12.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-13.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-13.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-13.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-12",
-    "run_started_at": "2026-06-12T07:30:47+09:00",
+    "report_date": "2026-06-13",
+    "run_started_at": "2026-06-13T07:31:00+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +276,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -379,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260612T073047+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-12.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260613T073100+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-13.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W24",
-    "week_end_date": "2026-06-12",
+    "week_end_date": "2026-06-13",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -518,7 +518,7 @@
     "recent_history": [
       {
         "week_label": "2026-W24",
-        "week_end_date": "2026-06-12",
+        "week_end_date": "2026-06-13",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
