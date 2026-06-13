@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-12T22:32:23+00:00",
-  "requested_date": "2026-06-13",
+  "built_at": "2026-06-13T22:32:10+00:00",
+  "requested_date": "2026-06-14",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-13",
+    "requested_date": "2026-06-14",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: The global port race: Breakthrough hubs challenging maritime trade.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-13",
+        "report_label": "2026-06-14",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-13",
+        "report_label": "2026-06-14",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-13",
-    "last_updated": "2026-06-13 07:31",
+    "report_date": "2026-06-14",
+    "last_updated": "2026-06-14 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
+    "status_note": "Market watch is led by The global port race: Breakthrough hubs challenging maritime trade.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”.",
+      "Lead market story: The global port race: Breakthrough hubs challenging maritime trade.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-13",
+      "report_date": "2026-06-14",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Bangkok Port opens new cargo facility to improve efficiency; Iran War Sends Global Container Shipping Rates Soaring Over 100% As Fuel Costs Surge; India Ready to Scale Up Seafarer Repatriation Efforts Amid Rising Maritime Security Incidents in West Asia",
+      "headline": "JNPA Retains Top Spot Among Indian Container Ports in World Bank’s 2025 Performance Rankings; The global port race: Breakthrough hubs challenging maritime trade; Mid-term money-saver: DOT wants to pre-screen containers to speed supply chain",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”",
+    "headline": "The global port race: Breakthrough hubs challenging maritime trade",
     "key_news_radar": [
       {
-        "title": "MEA calls for “unimpeded, safe navigation” through Hormuz, hopes US attacks on vessels “Come To An End”",
-        "summary": "NEW DELHI : India has once again stressed the importance of maintaining free and secure maritime movement through the Strait of Hormuz, one of the world’s most critical shipping co",
-        "source": "India Shipping News",
-        "timestamp": "2026-06-12T02:58:06+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/mea-calls-for-unimpeded-safe-navigation-through-hormuz-hopes-us-attacks-on-vessels-come-to-an-end/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Indian Govt. on highest alert to safeguard Indian Seafarers amid evolving maritime security situation in Gulf Region",
-        "summary": "NEW DELHI : In view of the rapidly evolving security situation in the Gulf region and surrounding waters, the Government of India continue to monitor, and coordinate response mecha",
-        "source": "India Shipping News",
-        "timestamp": "2026-06-12T02:57:05+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/indian-govt-on-highest-alert-to-safeguard-indian-seafarers-amid-evolving-maritime-security-situation-in-gulf-region/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Port of Los Angeles forecasts 7% container volume decline",
-        "summary": "The Los Angeles Board of Harbor Commissioners has approved a $3.4 billion annual budget for fiscal 2026-2027 for the Port of Los Angeles.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-12T14:20:24+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/port-of-los-angeles-forecasts-7-container-volume-decline",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Critical Minerals Reshape Global Trade and Shipping, UNCTAD Report Warns",
-        "summary": "A new report from UN Trade and Development (UNCTAD) indicates that the global competition for critical minerals is fundamentally altering trade flows, industrial policy, and supply",
+        "title": "The global port race: Breakthrough hubs challenging maritime trade",
+        "summary": "While East Asian logistics gateways frequently capture the top headlines for sheer cargo volume, the true story of modern maritime logistics is the rapid decentralization of global",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-12T17:07:30+00:00",
+        "timestamp": "2026-06-13T09:47:23+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/critical-minerals-reshape-global-trade-and-shipping-unctad-report-warns/",
+        "link": "https://container-news.com/the-global-port-race-breakthrough-hubs-challenging-maritime-trade/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "Iran Says Strait Of Hormuz Will Never Return To Pre-War Status, Plans New Shipping Service Charges",
+        "summary": "Image for representation purposes only Iranian Foreign Minister Abbas Araghchi has said the Strait of Hormuz will not return to its pre-war status and could operate under a new fra",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-13T12:14:05+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-says-strait-of-hormuz-will-never-return-to-pre-war-status-plans-new-shipping-service-charges/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-strait-of-hormuz-will-never-return-to-pre-war-status-plans-new-shipping-service-charges",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Bangkok Port opens new cargo facility to improve efficiency",
-        "summary": "The Port Authority of Thailand (PAT) has opened a new cargo-handling facility at Bangkok Port to improve efficiency and reduce congestion.",
-        "source": "Container News",
-        "timestamp": "2026-06-12T15:00:05+00:00",
+        "title": "JNPA Retains Top Spot Among Indian Container Ports in World Bank’s 2025 Performance Rankings",
+        "summary": "Maharashtra’s Jawaharlal Nehru Port Authority (JNPA) has retained its position as India’s best-performing container port in the World Bank’s Container Port Performance Index (CPPI)",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-13T00:44:42+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/bangkok-port-opens-new-cargo-facility-to-improve-efficiency/",
+        "link": "https://indiaseatradenews.com/jnpa-retains-top-spot-among-indian-container-ports-in-world-banks-2025-performance-rankings/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "container_news",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India Summons US Diplomat For Second Time After Deadly Strikes Kill 3 Indian Seafarers In Gulf Of Oman",
+        "summary": "Screengrab from X video posted by US Centcom India on Friday summoned US Chargé d’Affaires Jason Meeks for the second time in less than 48 hours to protest attacks by US forces on",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-13T11:49:15+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/india-summons-us-diplomat-for-second-time-after-deadly-strikes-kill-3-indian-seafarers-in-gulf-of-oman/?utm_source=rss&utm_medium=rss&utm_campaign=india-summons-us-diplomat-for-second-time-after-deadly-strikes-kill-3-indian-seafarers-in-gulf-of-oman",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Telangana positioned to become one of India’s leading Logistics Hubs: D. Sridhar Babu",
+        "summary": "HYDERABAD: Telangana is rapidly emerging as one of India’s most promising logistics destinations, driven by strategic infrastructure investments, progressive policies, and a strong",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-13T03:06:00+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/telangana-positioned-to-become-one-of-indias-leading-logistics-hubs-d-sridhar-babu/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +159,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-14",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "JNPA Retains Top Spot Among Indian Container Ports in World Bank’s 2025 Performance Rankings; The global port race: Breakthrough hubs challenging maritime trade; Mid-term money-saver: DOT wants to pre-screen containers to speed supply chain",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-13",
         "write_now": "Maybe",
@@ -239,53 +249,44 @@
         "worth_attention_today": "5",
         "headline": "Borderlands Mexico: Uber Freight sees earlier peak season, strong Mexico demand; Drewry WCI jumps 23% as early peak season drives freight rates higher; Truckload’s shrinking miles",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-07",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container Freight Rates Surge as Peak Season Demand Collides With Middle East Disruptions; Container rates on India-Gulf routes drop sharply as supply improves; India-Gulf Container Rates Plunge as Capacity Returns and Cargo Backlogs Ease",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 295,
-      "high_trust": 68,
-      "trade_press": 227,
+      "total_items": 68,
+      "high_trust": 21,
+      "trade_press": 47,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-13.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-13.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-13.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-14.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-14.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-14.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-13",
-    "run_started_at": "2026-06-13T07:31:00+09:00",
+    "report_date": "2026-06-14",
+    "run_started_at": "2026-06-14T07:30:58+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -327,8 +328,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-06-14",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-06-10",
         "company": "Project44",
@@ -368,25 +391,17 @@
         "signal_type": "website change",
         "summary": "Wakeo platform page added stronger platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and sustainability language and introduced procurement, routing / optimization, analytics, and carbon / sustainability messaging",
         "source_url": "https://wakeo.co/platform/trusted-routes/"
-      },
-      {
-        "detected_date": "2026-06-09",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "GoComet press releases announced \"Viera Conversational analytics that answers in plain language with context, impact, and the next step.",
-        "source_url": "https://www.gocomet.com/ai-agents"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260613T073100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-13.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260614T073058+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-14.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W24",
-    "week_end_date": "2026-06-13",
+    "week_end_date": "2026-06-14",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -415,7 +430,8 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -438,7 +454,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 11,
+    "important_signal_count": 12,
     "active_theses": [
       "Signals are converging around invoice automation routing optimization as a meaningful market motif.",
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
@@ -518,9 +534,9 @@
     "recent_history": [
       {
         "week_label": "2026-W24",
-        "week_end_date": "2026-06-13",
+        "week_end_date": "2026-06-14",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
-        "signal_count": "11",
+        "signal_count": "12",
         "active_thesis_count": "3",
         "signal_signature": "Shippeo|direct_competitor|partnership|e70683ab6e1cccae30dc5397f6bb9025bf084927 || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|ai_positioning|36ea8b6cc950263f1cffcd6aa9a1662abc4ecbb1 || GoComet|direct_competitor|ai_positioning|5ae80143502def3ef3d3a7e3c18be4889f2a120a || GoComet|direct_competitor|product_update|765ba4296fcde54cfbd3bc52c1f88789505db461",
         "observed_source_count": "6",
