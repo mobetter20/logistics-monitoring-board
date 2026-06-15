@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-14T22:32:18+00:00",
-  "requested_date": "2026-06-15",
+  "built_at": "2026-06-15T22:51:05+00:00",
+  "requested_date": "2026-06-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-15",
+    "requested_date": "2026-06-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: US-Iran deal on Hormuz remains fragile for shipping.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-15",
+        "report_label": "2026-06-16",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-15",
+        "report_label": "2026-06-16",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,68 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-15",
-    "last_updated": "2026-06-15 07:30",
+    "report_date": "2026-06-16",
+    "last_updated": "2026-06-16 07:50",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives.",
+    "status_note": "Market watch is led by US-Iran deal on Hormuz remains fragile for shipping.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives.",
+      "Lead market story: US-Iran deal on Hormuz remains fragile for shipping.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-15",
+      "report_date": "2026-06-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives; Drewry World Container Index rises as early peak season lifts freight rates; DGS Advises Shipping Firms to Restrict Seafarer Deployment in Persian Gulf Amid Rising Security Threats",
+      "headline": "US-Iran deal on Hormuz remains fragile for shipping; Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 truckers; Fire Breaks Out At Russian Temryuk Sea Terminal After Ukrainian Drone Attack, 1 Killed",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives",
+    "headline": "US-Iran deal on Hormuz remains fragile for shipping",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-14T11:42:23+00:00",
+        "title": "US-Iran deal on Hormuz remains fragile for shipping",
+        "summary": "The agreement between the United States and Iran provides for the reopening of the Strait of Hormuz from Friday 19 June 2026, with the naval blockade to be removed within 30 days.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-06-15T14:21:06+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/driverless-corridors-using-us-truckers-in-mexico-fuel-freight-debate-at-texas-summit",
+        "link": "https://www.trasportoeuropa.it/english/us-iran-deal-on-hormuz-remains-fragile-for-shipping/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Drewry World Container Index rises as early peak season lifts freight rates",
-        "summary": "The Drewry World Container Index (WCI) increased 3% this week to US$3,549 per 40ft container as demand strengthened across major East-West trade routes.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-14T19:37:34+00:00",
+        "title": "Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 truckers",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-14T11:00:00+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/drewry-world-container-index-rises-as-early-peak-season-lifts-freight-rates/",
+        "link": "https://www.freightwaves.com/news/laredo-summit-driverless-corridors-b1-truckers-in-mexico",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "container_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "DGS Advises Shipping Firms to Restrict Seafarer Deployment in Persian Gulf Amid Rising Security Threats",
-        "summary": "The Directorate General of Shipping (DGS) has advised fleet owners, shipping companies and recruitment agencies to restrict the deployment of Indian seafarers in conflict-prone are",
+        "title": "US-Iran Peace Deal, Hormuz Reopening Set to Ease Pressure on India’s Shipping Sector",
+        "summary": "The proposed peace agreement between the United States and Iran, coupled with plans to reopen the Strait of Hormuz, is expected to provide significant relief to India’s shipping an",
         "source": "India Seatrade News",
-        "timestamp": "2026-06-14T19:12:26+00:00",
+        "timestamp": "2026-06-15T19:00:04+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/dgs-advises-shipping-firms-to-restrict-seafarer-deployment-in-persian-gulf-amid-rising-security-threats/",
+        "link": "https://indiaseatradenews.com/us-iran-peace-deal-hormuz-reopening-set-to-ease-pressure-on-indias-shipping-sector/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -133,25 +128,27 @@
         "confirmed_by": []
       },
       {
-        "title": "Proposed Iran-U.S. deal would reopen Hormuz strait and lift oil sanctions, Iran state media says",
-        "summary": "and Iran could reportedly sign a peace deal as soon as Sunday, after Iranian state media said the draft deal included a commitment from the U.S.",
-        "source": "Hellenic Shipping News — International Shipping",
-        "timestamp": "2026-06-14T17:00:56+00:00",
-        "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/proposed-iran-u-s-deal-would-reopen-hormuz-strait-and-lift-oil-sanctions-iran-state-media-says/",
+        "title": "U.S.-Iran peace deal reopens Strait of Hormuz",
+        "summary": "The United States and Iran reached agreement on a deal to end the war and lift restrictions on the vital Strait of Hormuz that stranded thousands of ships in the Persian Gulf.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-15T13:43:56+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/u-s-iran-peace-deal-reopens-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "hellenic_shipping_international",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "Tecon Suape invests in new container scanner",
-        "summary": "Tecon Suape, International Container Terminal Services, Inc.’s (ICTSI) container terminal at the Suape Industrial Port Complex in Recife, Brazil, has deployed a new container scann",
+        "title": "Trump announces peace deal with Iran, opening of Hormuz Strait",
+        "summary": "The United States and Iran have reached a tentative peace agreement aimed at ending hostilities in the Middle East and reopening the Strait of Hormuz, US President Donald Trump ann",
         "source": "WorldCargo News",
-        "timestamp": "2026-06-14T06:02:08+00:00",
+        "timestamp": "2026-06-15T06:52:21+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/06/tecon-suape-invests-in-new-container-scanner/",
+        "link": "https://www.worldcargonews.com/news/2026/06/trump-announces-peace-deal-with-iran-opening-of-hormuz-strait/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -162,33 +159,49 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "US-Iran deal on Hormuz remains fragile for shipping; Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 truckers; Fire Breaks Out At Russian Temryuk Sea Terminal After Ukrainian Drone Attack, 1 Killed",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-15",
         "write_now": "Maybe",
@@ -236,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Houthis declare Red Sea blockade - and insurers face a two-front crisis; Frontload frenzy? New tariffs fueling early trans-Pacific peak season; JNPT Congestion Drives Export Costs Up by ₹30,000 Per Container",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Hormuz Premium distorts container freight seasonality; Houthis reignite risk at Bab al-Mandeb; Israel and Iran exchange heavy strikes as Houthis seal Red Sea shipping",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 76,
-      "high_trust": 13,
-      "trade_press": 63,
+      "total_items": 304,
+      "high_trust": 66,
+      "trade_press": 238,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-15",
-    "run_started_at": "2026-06-15T07:30:56+09:00",
+    "report_date": "2026-06-16",
+    "run_started_at": "2026-06-16T07:50:09+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page returned to all systems operational."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -323,21 +329,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational",
-          "CMA CGM Digital Factory - APIGEE Migration"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-06-15",
@@ -389,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260615T073056+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260616T075009+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-16.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W25",
-    "week_end_date": "2026-06-15",
+    "week_end_date": "2026-06-16",
     "freshness": "current",
     "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -417,7 +409,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -461,7 +453,7 @@
     "recent_history": [
       {
         "week_label": "2026-W25",
-        "week_end_date": "2026-06-15",
+        "week_end_date": "2026-06-16",
         "takeaway": "Project44 is signaling unknown around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
