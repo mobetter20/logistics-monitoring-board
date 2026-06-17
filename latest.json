@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-16T22:31:50+00:00",
-  "requested_date": "2026-06-17",
+  "built_at": "2026-06-17T22:55:00+00:00",
+  "requested_date": "2026-06-18",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-17",
+    "requested_date": "2026-06-18",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Coming weeks will see multiple factors reset ocean rates.",
+      "Lead daily item: Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-17",
+        "report_label": "2026-06-18",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-17",
+        "report_label": "2026-06-18",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
         "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
@@ -64,99 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-17",
-    "last_updated": "2026-06-17 07:30",
+    "report_date": "2026-06-18",
+    "last_updated": "2026-06-18 07:53",
     "freshness": "current",
-    "status_note": "Market watch is led by Coming weeks will see multiple factors reset ocean rates.",
+    "status_note": "Market watch is led by Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Coming weeks will see multiple factors reset ocean rates.",
+      "Lead market story: Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-17",
+      "report_date": "2026-06-18",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "US-Iran deal leaves issue of Hormuz charges unresolved; Coming weeks will see multiple factors reset ocean rates; Logistics market undergoing a “structural reset,” says Annual State of Logistics Report",
+      "headline": "Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts; FedEx slowly recovers from operational meltdown in Vietnam; Indian PM Warns Hormuz Shipping Disruptions Are Affecting Global Trade, Flags Civilian Deaths, Urges Seafarer Safety",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Coming weeks will see multiple factors reset ocean rates",
+    "headline": "Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts",
     "key_news_radar": [
       {
-        "title": "Coming weeks will see multiple factors reset ocean rates",
-        "summary": "But supply chain normalcy is likely months off as anxious shippers spur an early peak in a rush to beat fuel surcharges and price hikes by Asian manufacturers.",
+        "title": "Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts",
+        "summary": "Commercial shipping through the Persian Gulf remains under pressure despite diplomatic efforts to restore traffic through the Strait of Hormuz, with Maersk continuing to impose car",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-16T14:56:46+00:00",
+        "timestamp": "2026-06-17T13:53:51+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/coming-weeks-will-see-multiple-factors-reset-ocean-rates",
+        "link": "https://www.globaltrademag.com/maersk-maintains-gulf-cargo-restrictions-despite-hormuz-reopening-efforts/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Logistics market undergoing a “structural reset,” says Annual State of Logistics Report",
-        "summary": "For the foreseeable future, supply chain managers should view disruption and volatility as the norm rather than as an exception, according to the Council of Supply Chain Management",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-16T20:11:36+00:00",
-        "confidence": "high",
-        "link": "https://www.dcvelocity.com/logistics/logistics-market-undergoing-a-structural-reset-says-annual-state-of-logistics-report",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "dcvelocity"
-        ]
-      },
-      {
-        "title": "2026 State of Logistics Report: Volatility is the new normal",
-        "summary": "Supply chain volatility has moved from a temporary disruption to a permanent feature of the operating environment, according to the 2026 State of Logistics Report released Tuesday.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-16T13:56:30+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/2026-state-of-logistics-report-volatility-new-normal",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "US-Iran deal leaves issue of Hormuz charges unresolved",
-        "summary": "An agreement between the US and Iran to reopen commercial transit through the Strait of Hormuz was announced on 15 June 2026, but sources close to the Government of Tehran do not c",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-16T09:12:58+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/us-iran-deal-leaves-issue-of-hormuz-charges-unresolved/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Ocean rates level, but mid-month increases possible soon - June 16, 2026 Update",
-        "summary": "Home Ocean rates level, but mid-month increases possible soon - June 16, 2026 Update Published: June 16, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index Asia-US We",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-16T14:14:20+00:00",
+        "title": "FedEx slowly recovers from operational meltdown in Vietnam",
+        "summary": "FedEx says shipping delays in Vietnam have eased this month after a bungled switch to a different ground delivery provider and the rollout of new technology led many customers to l",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-17T14:11:21+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/ocean-rates-level-but-mid-month-increases-possible-soon-june-16-2026-update/",
+        "link": "https://www.freightwaves.com/news/fedex-slowly-recovers-from-operational-meltdown-in-vietnam",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Indian PM Warns Hormuz Shipping Disruptions Are Affecting Global Trade, Flags Civilian Deaths, Urges Seafarer Safety",
+        "summary": "Image for representation purposes only Indian Prime Minister Narendra Modi on Tuesday raised concerns over disruptions to maritime trade through the Strait of Hormuz, warning that",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-17T11:42:59+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/indian-pm-warns-hormuz-shipping-disruptions-are-affecting-global-trade-flags-civilian-deaths-urges-seafarer-safety/?utm_source=rss&utm_medium=rss&utm_campaign=indian-pm-warns-hormuz-shipping-disruptions-are-affecting-global-trade-flags-civilian-deaths-urges-seafarer-safety",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Global terminal operators on the investment path",
+        "summary": "The world’s leading operators of container terminals are investing huge sums of money to expand their global footprint, digitalise and automate their activities and order equipment",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-17T06:14:04+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/06/global-terminal-operators-on-the-investment-path/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "BNSF wins local approval for new $4B California rail intermodal project",
+        "summary": "The Barstow (Calif.) City Council has approved a proposed $4 billion intermodal hub BNSF Railway says is a key component for the future of freight moving into and out of the Southe",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-17T20:14:50+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/bnsf-wins-local-approval-for-new-4b-california-rail-intermodal-project",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -164,11 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -176,16 +165,12 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -193,12 +178,20 @@
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-18",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Maersk Maintains Gulf Cargo Restrictions Despite Hormuz Reopening Efforts; FedEx slowly recovers from operational meltdown in Vietnam; Indian PM Warns Hormuz Shipping Disruptions Are Affecting Global Trade, Flags Civilian Deaths, Urges Seafarer Safety",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-17",
         "write_now": "Maybe",
@@ -246,39 +239,31 @@
         "worth_attention_today": "5",
         "headline": "Global port efficiency under pressure from congestion and geopolitics; Container freight rate rises slow in early peak season; Conservative network has law protecting U.S.-flag shipping in its sights",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-11",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Environmental and pro-Pal protests slow operations at the Port of Rotterdam; Freightos Weekly Update: Ocean rates climbing, with more increases expected soon; JNPA Offers Ground Rent Relief Amid Truck Shortages and Container Congestion",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 287,
-      "high_trust": 58,
-      "trade_press": 229,
+      "total_items": 310,
+      "high_trust": 65,
+      "trade_press": 245,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-17.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-17.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-17.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-18.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-18.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-18.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-17",
-    "run_started_at": "2026-06-17T07:30:50+09:00",
+    "report_date": "2026-06-18",
+    "run_started_at": "2026-06-18T07:53:49+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
@@ -286,12 +271,12 @@
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 1,
-    "watch_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
       },
       {
         "company": "FourKites",
@@ -336,32 +321,27 @@
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger visibility, AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Delivers continuous carrier signal and AI-powered decision intelligence to further enrich SAP Business Network for Logistics Chicago, IL – June 16, 2026 – project44, a three-time SAP Pinnacle Award winner, announced today that its Real-Time Multi-Modal Visibility Data solution is now an SAP endorsed app, available for online purchase on SAP Store. SAP…"
-        ]
-      }
-    ],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_title": "Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "Service Under Maintenance",
-          "Ocean Carrier (under maintenance)"
+          "Partially Degraded Service",
+          "FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor)"
         ]
       }
     ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-06-18",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-06-17",
         "company": "Project44",
@@ -401,25 +381,17 @@
         "signal_type": "website change",
         "summary": "Shippeo platform page added stronger data quality / connectivity language and introduced document automation messaging",
         "source_url": "https://www.shippeo.com/solutions/ecmr"
-      },
-      {
-        "detected_date": "2026-06-09",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "GoComet homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and analytics and decision intelligence language and introduced control tower, document automation, invoice automation, routing / optimization, and analytics messaging",
-        "source_url": "https://www.gocomet.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260617T073050+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-17.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260618T075349+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-18.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W25",
-    "week_end_date": "2026-06-17",
+    "week_end_date": "2026-06-18",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -443,8 +415,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -486,14 +457,14 @@
       },
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page returned to all systems operational.",
+        "source_title": "Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor).",
         "source_layer": "direct competitor",
         "strategic_move": "Unknown",
         "workflow_scope": "unknown",
         "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "evidence_excerpt": "Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor). Partially Degraded Service",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
@@ -502,7 +473,7 @@
     "recent_history": [
       {
         "week_label": "2026-W25",
-        "week_end_date": "2026-06-17",
+        "week_end_date": "2026-06-18",
         "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
         "signal_count": "2",
         "active_thesis_count": "0",
