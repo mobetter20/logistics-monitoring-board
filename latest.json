@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-19T22:32:10+00:00",
-  "requested_date": "2026-06-20",
+  "built_at": "2026-06-20T22:33:33+00:00",
+  "requested_date": "2026-06-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-20",
+    "requested_date": "2026-06-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up.",
+      "Lead daily item: Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-20",
+        "report_label": "2026-06-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-20",
+        "report_label": "2026-06-21",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-20",
-    "last_updated": "2026-06-20 07:31",
+    "report_date": "2026-06-21",
+    "last_updated": "2026-06-21 07:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up.",
+    "status_note": "Market watch is led by Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up.",
+      "Lead market story: Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-20",
+      "report_date": "2026-06-21",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up; Experts: Hormuz won’t see return to full cargo flow for 3 months; The shifting ground beneath UK railways",
+      "headline": "Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits; Stranded Ships Begin Moving Out Of Strait Of Hormuz After Over 3 Months Of Disruption; Iran Denies Strait Of Hormuz Closure Reports, Says Shipping Continues Normally",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up",
+    "headline": "Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits",
     "key_news_radar": [
       {
-        "title": "Grimaldi car carrier among first ships transiting Hormuz after US-Iran deal as traffic picks up",
-        "summary": "Maritime traffic through the Strait of Hormuz has begun to show early signs of picking up following the signing of a memorandum of understanding between the United States and Iran,",
+        "title": "Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits",
+        "summary": "Image for representation purposes only Iran has ordered all vessels passing through the Strait of Hormuz to submit transit requests at least 48 hours in advance, tightening control",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-20T14:31:05+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-introduces-48-hour-advance-notice-rule-for-strait-of-hormuz-transits/?utm_source=rss&utm_medium=rss&utm_campaign=iran-introduces-48-hour-advance-notice-rule-for-strait-of-hormuz-transits",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Stranded Ships Begin Moving Out Of Strait Of Hormuz After Over 3 Months Of Disruption",
+        "summary": "Image for representation purposes only Ships have started moving again through the Strait of Hormuz after a preliminary agreement between the United States and Iran eased restricti",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-20T14:11:39+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/stranded-ships-begin-moving-out-of-strait-of-hormuz-after-over-3-months-of-disruption/?utm_source=rss&utm_medium=rss&utm_campaign=stranded-ships-begin-moving-out-of-strait-of-hormuz-after-over-3-months-of-disruption",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Iran Denies Strait Of Hormuz Closure Reports, Says Shipping Continues Normally",
+        "summary": "Image for representation purposes only The Strait of Hormuz is still open and commercial shipping is operating normally, Iran said on Friday, rejecting reports that the key waterwa",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-20T14:39:51+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-denies-strait-of-hormuz-closure-reports-says-shipping-continues-normally/?utm_source=rss&utm_medium=rss&utm_campaign=iran-denies-strait-of-hormuz-closure-reports-says-shipping-continues-normally",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "US-Iran deal could reverse 11% drop in fertiliser trade",
+        "summary": "US-Iran ceasefire could boost fertiliser shipments as Strait of Hormuz disruptions ease and global supply chains recover.",
         "source": "WorldCargo News",
-        "timestamp": "2026-06-19T08:24:07+00:00",
+        "timestamp": "2026-06-20T06:13:15+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/06/grimaldi-car-carrier-among-first-ships-transiting-hormuz-after-us-iran-deal-as-traffic-starts-to-pick-up-cautiously/",
+        "link": "https://www.worldcargonews.com/news/2026/06/us-iran-deal-could-reverse-11-drop-in-fertiliser-trade/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,56 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Experts: Hormuz won’t see return to full cargo flow for 3 months",
-        "summary": "Commercial shipping analysts are giving wary support for the U.S.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-19T19:58:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/experts-hormuz-wont-see-return-to-full-cargo-flow-for-3-months",
+        "title": "Indian Railways approves ₹755 crore Champa-Korba third line project to enhance capacity on key coal corridor",
+        "summary": "NEW DELHI : Indian Railways recently approved a ₹755-crore project to build a third railway line between Champa and Korba in Chhattisgarh, aiming to increase capacity on one of the",
+        "source": "India Shipping News",
+        "timestamp": "2026-06-20T03:40:10+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/indian-railways-approves-%e2%82%b9755-crore-champa-korba-third-line-project-to-enhance-capacity-on-key-coal-corridor/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "dcvelocity"
-        ]
-      },
-      {
-        "title": "Air cargo under pressure in 2026 but still profitable",
-        "summary": "The Strait of Hormuz, closed at the end of February 2026, has triggered an unprecedented energy and logistics shock.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-19T09:53:52+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/air-cargo-under-pressure-in-2026-but-still-profitable/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The shifting ground beneath UK railways",
-        "summary": "Britain’s railways have always had a complicated relationship with the ground beneath them.",
-        "source": "RailFreight.com",
-        "timestamp": "2026-06-19T07:49:48+00:00",
-        "confidence": "medium",
-        "link": "https://www.railfreight.com/infrastructure/2026/06/19/the-shifting-ground-beneath-uk-railways/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "railfreight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Three Saudi-Flagged Supertankers With 6 Million Barrels Of Crude Cross Hormuz",
-        "summary": "Image for representation purposes only Three Saudi-flagged supertankers, managed by Bahri and carrying 6 million barrels of crude, crossed the Strait of Hormuz hours after U.S Pres",
-        "source": "Marine Insight",
-        "timestamp": "2026-06-19T11:10:15+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/three-saudi-flagged-supertankers-with-6-million-barrels-of-crude-cross-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=three-saudi-flagged-supertankers-with-6-million-barrels-of-crude-cross-hormuz",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,10 +158,6 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -176,15 +170,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -194,6 +188,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits; Stranded Ships Begin Moving Out Of Strait Of Hormuz After Over 3 Months Of Disruption; Iran Denies Strait Of Hormuz Closure Reports, Says Shipping Continues Normally",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-20",
         "write_now": "Maybe",
@@ -241,33 +243,25 @@
         "worth_attention_today": "5",
         "headline": "Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 trucker alternatives; Drewry World Container Index rises as early peak season lifts freight rates; DGS Advises Shipping Firms to Restrict Seafarer Deployment in Persian Gulf Amid Rising Security Threats",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "JNPA Retains Top Spot Among Indian Container Ports in World Bank’s 2025 Performance Rankings; The global port race: Breakthrough hubs challenging maritime trade; Mid-term money-saver: DOT wants to pre-screen containers to speed supply chain",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 244,
-      "high_trust": 48,
-      "trade_press": 196,
+      "total_items": 57,
+      "high_trust": 22,
+      "trade_press": 35,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-20",
-    "run_started_at": "2026-06-20T07:31:06+09:00",
+    "report_date": "2026-06-21",
+    "run_started_at": "2026-06-21T07:32:10+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +272,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: FedEx Last Mile Webhook Migration: Known Issues and Status Update (minor)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,14 +375,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260620T073106+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260621T073210+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-21.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W25",
-    "week_end_date": "2026-06-20",
+    "week_end_date": "2026-06-21",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -401,18 +395,21 @@
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
       "Project44 is signaling AI positioning around in transit visibility.",
-      "Project44 is signaling unknown around unknown."
+      "Project44 is signaling unknown around unknown.",
+      "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
       "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing unknown."
+      "Project44 (direct competitor) is pushing unknown.",
+      "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -435,7 +432,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 2,
+    "important_signal_count": 3,
     "active_theses": [],
     "top_signals": [
       {
@@ -470,11 +467,11 @@
     "recent_history": [
       {
         "week_label": "2026-W25",
-        "week_end_date": "2026-06-20",
+        "week_end_date": "2026-06-21",
         "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
-        "signal_count": "2",
+        "signal_count": "3",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
