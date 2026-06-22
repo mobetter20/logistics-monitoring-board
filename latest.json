@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-21T22:32:30+00:00",
-  "requested_date": "2026-06-22",
+  "built_at": "2026-06-22T22:49:16+00:00",
+  "requested_date": "2026-06-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-22",
+    "requested_date": "2026-06-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering.",
+      "Lead daily item: Strait of Hormuz: What will be the new normal?.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-22",
+        "report_label": "2026-06-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-22",
+        "report_label": "2026-06-23",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,65 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-22",
-    "last_updated": "2026-06-22 07:31",
+    "report_date": "2026-06-23",
+    "last_updated": "2026-06-23 07:48",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering.",
+    "status_note": "Market watch is led by Strait of Hormuz: What will be the new normal?.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering.",
+      "Lead market story: Strait of Hormuz: What will be the new normal?.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-22",
+      "report_date": "2026-06-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "U.S May Charge Strait Of Hormuz Tolls As Trump Calls America ‘Guardian Angel’ Of Middle East; Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering; Hormuz Traffic Plummets as Shipowners Obey New Iranian Closure Order",
+      "headline": "Strait of Hormuz: What will be the new normal?; Italy: Rail restrictions may affect inland services during Summer 2026; Dutch terminals boost inland links",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering",
+    "headline": "Strait of Hormuz: What will be the new normal?",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-21T12:33:07+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-echo-bets-on-mexico-growth-with-domestic-transportation-offering",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "India-Linked VLCCs Reappear After Hormuz Transit Amid Conflicting Shipping Advisories",
-        "summary": "Three India-linked Very Large Crude Carriers (VLCCs) carrying nearly 6 million barrels of Iraqi and Kuwaiti crude have re-emerged in the Gulf of Oman and Arabian Sea after attempti",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-21T19:14:47+00:00",
+        "title": "Strait of Hormuz: What will be the new normal?",
+        "summary": "June 18th saw a spike in daily transits through the Strait of Hormuz, with AXSMarine data showing 25 verified commercial vessel crossings on the day, the highest single-day figure",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-22T11:15:06+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/india-linked-vlccs-reappear-after-hormuz-transit-amid-conflicting-shipping-advisories/",
+        "link": "https://www.worldcargonews.com/news/2026/06/strait-of-hormuz-what-will-be-the-new-normal/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "U.S May Charge Strait Of Hormuz Tolls As Trump Calls America ‘Guardian Angel’ Of Middle East",
-        "summary": "Image for representation purposes only U.S President Donald Trump said that no tolls would be imposed for vessel passage through the strategic Strait of Hormuz, unless Washington i",
+        "title": "Dutch terminals boost inland links",
+        "summary": "Across Rotterdam and the wider Dutch logistics network, inland and shortsea terminal operators are expanding capacity, upgrading cargo handling equipment and strengthening multimod",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-22T06:43:15+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/06/dutch-terminals-boost-inland-links/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Italy: Rail restrictions may affect inland services during Summer 2026",
+        "summary": "Thinking about your cargo planning, please note that several infrastructure works scheduled by RFI during Summer 2026 may affect inland rail services in Italy.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-06-22T09:26:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/06/italy---rail-service-disruptions-and-capacity-limitations---summ.html",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "customernews_feeds_2",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Strait Of Hormuz Shipping Faces Months Of Disruption As 80 Mines Block Main Route",
+        "summary": "Image for representation purposes only The Strait of Hormuz is expected to remain disrupted for months and possibly until the end of the year as around 80 mines blocking the main s",
         "source": "Marine Insight",
-        "timestamp": "2026-06-21T10:29:53+00:00",
+        "timestamp": "2026-06-22T13:50:12+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/u-s-may-charge-strait-of-hormuz-tolls-as-trump-calls-america-guardian-angel-of-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-may-charge-strait-of-hormuz-tolls-as-trump-calls-america-guardian-angel-of-middle-east",
+        "link": "https://www.marineinsight.com/strait-of-hormuz-shipping-faces-months-of-disruption-as-80-mines-block-main-route/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-shipping-faces-months-of-disruption-as-80-mines-block-main-route",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -130,35 +141,26 @@
         "confirmed_by": []
       },
       {
-        "title": "Load testing underway on Kundziņsala οverpass in Riga",
-        "summary": "Construction of the overpass linking Tvaika Street to Kundziņsala in Riga has entered its final phase.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-21T19:55:01+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/load-testing-underway-on-kundzinsala-%CE%BFverpass-in-riga/",
+        "title": "Are you overpaying? Why shippers should revisit emergency fuel surcharges now",
+        "summary": "Are you paying twice for soaring fuel price increases driven by the Iran war?",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-22T18:07:08+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/are-you-overpaying-why-shippers-should-revisit-emergency-fuel-surcharges-now",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "container_news"
+          "s_news_via_shippers_association_on_inoreader"
         ]
-      },
-      {
-        "title": "Hormuz Traffic Plummets as Shipowners Obey New Iranian Closure Order",
-        "summary": "Iran has once again closed the Strait of Hormuz, this time in response to Israeli attacks in Lebanon, and tracking services say that marine traffic is...",
-        "source": "The Maritime Executive",
-        "timestamp": "2026-06-21T17:51:43+00:00",
-        "confidence": "medium",
-        "link": "https://maritime-executive.com/article/hormuz-traffic-plummets-as-shipowners-obey-new-iranian-closure-order",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "maritime_executive",
-        "paywalled": false,
-        "confirmed_by": []
       }
     ],
     "hot_topics": [
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
@@ -169,24 +171,20 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Strait of Hormuz: What will be the new normal?; Italy: Rail restrictions may affect inland services during Summer 2026; Dutch terminals boost inland links",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-22",
         "write_now": "Maybe",
@@ -243,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "US-Iran deal leaves issue of Hormuz charges unresolved; Coming weeks will see multiple factors reset ocean rates; Logistics market undergoing a “structural reset,” says Annual State of Logistics Report",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "US-Iran deal on Hormuz remains fragile for shipping; Borderlands Mexico: Laredo summit debates driverless freight corridors, B-1 truckers; Fire Breaks Out At Russian Temryuk Sea Terminal After Ukrainian Drone Attack, 1 Killed",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 68,
-      "high_trust": 13,
-      "trade_press": 55,
+      "total_items": 347,
+      "high_trust": 67,
+      "trade_press": 280,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-22",
-    "run_started_at": "2026-06-22T07:31:02+09:00",
+    "report_date": "2026-06-23",
+    "run_started_at": "2026-06-23T07:48:11+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -280,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 status page changed from Partially Degraded Service to Partially Degraded Service."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -383,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260622T073102+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260623T074811+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W26",
-    "week_end_date": "2026-06-22",
+    "week_end_date": "2026-06-23",
     "freshness": "current",
     "status_note": "Project44 is signaling narrative shift around unknown.",
     "sparse_explanation": "",
@@ -411,7 +409,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -455,7 +453,7 @@
     "recent_history": [
       {
         "week_label": "2026-W26",
-        "week_end_date": "2026-06-22",
+        "week_end_date": "2026-06-23",
         "takeaway": "Project44 is signaling narrative shift around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
