@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-26T22:32:15+00:00",
-  "requested_date": "2026-06-27",
+  "built_at": "2026-06-28T00:27:08+00:00",
+  "requested_date": "2026-06-28",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-27",
+    "requested_date": "2026-06-28",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz.",
+      "Lead daily item: Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-27",
+        "report_label": "2026-06-28",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-27",
+        "report_label": "2026-06-28",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
         "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
@@ -55,46 +55,46 @@
       }
     ],
     "shared_warnings": [
+      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-27",
-    "last_updated": "2026-06-27 07:30",
+    "report_date": "2026-06-28",
+    "last_updated": "2026-06-28 08:26",
     "freshness": "current",
-    "status_note": "Market watch is led by Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz.",
+    "status_note": "Market watch is led by Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz.",
+      "Lead market story: Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-27",
+      "report_date": "2026-06-28",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz; Attack On Container Ship Halts UN-Led Strait Of Hormuz Ship Evacuation Mission; World Container Index reaches 22-month high as spot freight rates continue to climb",
+      "headline": "The End of Blind Broker Hiring: Why Carrier Verification Is Becoming a Legal Necessity; Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US; Oman Says Strait Of Hormuz Unlikely To Return To Pre-War Status, Signals Possible Transit Fees For Ships",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz",
+    "headline": "Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US",
     "key_news_radar": [
       {
-        "title": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz",
-        "summary": "Image for representation purposes only Oil prices climbed over 2% on Thursday after a cargo ship was struck by an unidentified projectile near Oman, increasing concerns over shippi",
+        "title": "Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US",
+        "summary": "Image Credits: Wikipedia Iran on Friday reaffirmed its right to control shipping through the Strait of Hormuz and warned Gulf states against supporting the United States, a day aft",
         "source": "Marine Insight",
-        "timestamp": "2026-06-26T13:25:03+00:00",
+        "timestamp": "2026-06-27T10:04:12+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/oil-prices-jump-over-2-after-cargo-ship-hit-by-unidentified-projectile-near-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-jump-over-2-after-cargo-ship-hit-by-unidentified-projectile-near-strait-of-hormuz",
+        "link": "https://www.marineinsight.com/iran-reasserts-control-over-strait-of-hormuz-after-attacking-ship-near-oman-warns-gulf-states-against-backing-us/?utm_source=rss&utm_medium=rss&utm_campaign=iran-reasserts-control-over-strait-of-hormuz-after-attacking-ship-near-oman-warns-gulf-states-against-backing-us",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -102,25 +102,12 @@
         "confirmed_by": []
       },
       {
-        "title": "World Container Index reaches 22-month high as spot freight rates continue to climb",
-        "summary": "The Drewry World Container Index (WCI) increased 5% this week to US$4,166 per 40ft container.",
-        "source": "Container News",
-        "timestamp": "2026-06-26T14:00:51+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/world-container-index-reaches-22-month-high-as-spot-freight-rates-continue-to-climb/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Attack On Container Ship Halts UN-Led Strait Of Hormuz Ship Evacuation Mission",
-        "summary": "Image for representation purposes only The United Nations has temporarily suspended its emergency ship evacuation programme through the Strait of Hormuz after a Singapore-flagged c",
+        "title": "Oman Says Strait Of Hormuz Unlikely To Return To Pre-War Status, Signals Possible Transit Fees For Ships",
+        "summary": "Image for representation purposes only Oman has told European officials that the Strait of Hormuz is unlikely to return to the way it operated before the recent conflict and that s",
         "source": "Marine Insight",
-        "timestamp": "2026-06-26T12:31:11+00:00",
+        "timestamp": "2026-06-27T11:25:38+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/attack-on-container-ship-halts-un-led-strait-of-hormuz-ship-evacuation-mission/?utm_source=rss&utm_medium=rss&utm_campaign=attack-on-container-ship-halts-un-led-strait-of-hormuz-ship-evacuation-mission",
+        "link": "https://www.marineinsight.com/oman-says-strait-of-hormuz-unlikely-to-return-to-pre-war-status-signals-possible-transit-fees-for-ships/?utm_source=rss&utm_medium=rss&utm_campaign=oman-says-strait-of-hormuz-unlikely-to-return-to-pre-war-status-signals-possible-transit-fees-for-ships",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -128,32 +115,43 @@
         "confirmed_by": []
       },
       {
-        "title": "IMO suspends Hormuz transits after Evergreen ship attacked",
-        "summary": "LONDON: The UN’s International Maritime Organization announced that it would be pausing its plan to evacuate the Strait of Hormuz on Thursday, following a cargo ship reporting bein",
+        "title": "CMA CGM India launches weekly export block train service linking North India to Mundra Port",
+        "summary": "MUMBAI : CMA CGM India has strengthened its multimodal logistics network with the launch of a new weekly export block train service connecting ICD Garhi Harsaru in the National Cap",
         "source": "India Shipping News",
-        "timestamp": "2026-06-26T03:27:25+00:00",
+        "timestamp": "2026-06-27T02:19:01+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/imo-suspends-hormuz-transits-after-evergreen-ship-attacked/",
-        "label": "Operational",
+        "link": "https://indiashippingnews.com/cma-cgm-india-launches-weekly-export-block-train-service-linking-north-india-to-mundra-port/",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Implementation of Middle East Emergency Surcharge (MES)",
-        "summary": "Due to the closure of the Strait of Hormuz, alternative routing and operational arrangements have been implemented to maintain service continuity for affected cargo.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-06-26T08:00:00+00:00",
-        "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/news/2026/06/implementation-of-middle-east-emergency-surcharge--mes-.html",
+        "title": "The End of Blind Broker Hiring: Why Carrier Verification Is Becoming a Legal Necessity",
+        "summary": "Supreme Court decision involving C.H.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-06-27T10:40:14+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/the-end-of-blind-broker-hiring-why-carrier-verification-is-becoming-a-legal-necessity/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "customernews_5",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": [
-          "customernews_3"
-        ]
+        "confirmed_by": []
+      },
+      {
+        "title": "SCI Tanker MT Desh Suraksha Safely Transits Strait of Hormuz Amid Regional Tensions",
+        "summary": "India’s state-owned Shipping Corporation of India (SCI) has successfully navigated its tanker MT Desh Suraksha through the strategically vital Strait of Hormuz, marking a significa",
+        "source": "India Seatrade News",
+        "timestamp": "2026-06-27T00:14:34+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/sci-tanker-mt-desh-suraksha-safely-transits-strait-of-hormuz-amid-regional-tensions/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
@@ -163,28 +161,28 @@
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-28",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "The End of Blind Broker Hiring: Why Carrier Verification Is Becoming a Legal Necessity; Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US; Oman Says Strait Of Hormuz Unlikely To Return To Pre-War Status, Signals Possible Transit Fees For Ships",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-27",
         "write_now": "Maybe",
@@ -241,46 +247,38 @@
         "worth_attention_today": "5",
         "headline": "U.S May Charge Strait Of Hormuz Tolls As Trump Calls America ‘Guardian Angel’ Of Middle East; Borderlands Mexico: Echo bets on Mexico growth with domestic transportation offering; Hormuz Traffic Plummets as Shipowners Obey New Iranian Closure Order",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-21",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Iran Introduces 48-hour Advance Notice Rule For Strait Of Hormuz Transits; Stranded Ships Begin Moving Out Of Strait Of Hormuz After Over 3 Months Of Disruption; Iran Denies Strait Of Hormuz Closure Reports, Says Shipping Continues Normally",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 283,
-      "high_trust": 73,
-      "trade_press": 210,
+      "total_items": 68,
+      "high_trust": 17,
+      "trade_press": 51,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-27.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-27.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-27.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-28.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-28.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-28.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-27",
-    "run_started_at": "2026-06-27T07:30:57+09:00",
+    "report_date": "2026-06-28",
+    "run_started_at": "2026-06-28T08:26:33+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
     "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
-    "targets_fetched": 28,
+    "targets_fetched": 27,
     "target_count": 28,
-    "important_count": 3,
+    "important_count": 1,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
@@ -302,7 +300,7 @@
       },
       {
         "company": "Wakeo",
-        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
+        "summary": "Current narrative leans toward analytics and decision intelligence, optimization / procurement, and sustainability."
       },
       {
         "company": "GoComet",
@@ -331,45 +329,27 @@
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
         "signal_type": "website_change",
         "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
+        "source_title": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/",
         "evidence": [
-          "iTMS Virtual Summit June 2026",
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/platform/",
-        "evidence": [
-          "iTMS Virtual Summit June 2026",
-          "With project44’s Decision Intelligence Platform, we are positioning Arkema to provide the best customer service in the advanced materials industry. Our team can now access real-time shipment visibility, keeping customers up to date and addressing disruptions before they prevent on-time delivery. This is a strategic implementation for our company."
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "iTMS Virtual Summit June 2026",
-          "Explore Movement, the Decision Intelligence Platform for confident supply chain decisions."
+          "project44 Connect: London",
+          "Where TMS meets Decision Intelligence – live, in your city. project44 Connect brings together 20 transport and supply chain leaders for a focused session on TMS, Decision Intelligence, AI and what’s next in transportation execution. The format is structured but not stiff: expert-led sessions, a live product demo, real customer stories from the field, and…"
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-06-28",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "detected_date": "2026-06-27",
         "company": "Project44",
@@ -409,25 +389,19 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger AI and automation, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-06-25",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260627T073057+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-27.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260628T082633+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-28.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W26",
-    "week_end_date": "2026-06-27",
+    "week_end_date": "2026-06-28",
     "freshness": "current",
     "status_note": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
     "sparse_explanation": "",
@@ -454,8 +428,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -516,7 +489,7 @@
     "recent_history": [
       {
         "week_label": "2026-W26",
-        "week_end_date": "2026-06-27",
+        "week_end_date": "2026-06-28",
         "takeaway": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
         "signal_count": "5",
         "active_thesis_count": "2",
