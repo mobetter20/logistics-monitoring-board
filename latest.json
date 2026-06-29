@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-28T22:32:20+00:00",
-  "requested_date": "2026-06-29",
+  "built_at": "2026-06-29T22:41:20+00:00",
+  "requested_date": "2026-06-30",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-06-29",
+    "requested_date": "2026-06-30",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Iran Discourages Ships From Using Alternative Strait of Hormuz Route Along Oman’s Coast.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-06-29",
+        "report_label": "2026-06-30",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-06-29",
+        "report_label": "2026-06-30",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W27",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling AI positioning around procurement and tendering.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,105 +64,97 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-06-29",
-    "last_updated": "2026-06-29 07:31",
+    "report_date": "2026-06-30",
+    "last_updated": "2026-06-30 07:40",
     "freshness": "current",
-    "status_note": "Market watch is led by Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely.",
+    "status_note": "Market watch is led by Iran Discourages Ships From Using Alternative Strait of Hormuz Route Along Oman’s Coast.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely.",
+      "Lead market story: Iran Discourages Ships From Using Alternative Strait of Hormuz Route Along Oman’s Coast.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-06-29",
+      "report_date": "2026-06-30",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely; DGS Lifts Restrictions on Indian Ship Movement Through Strait of Hormuz; China Southern strikes landmark deal for Boeing cargo jets",
+      "headline": "India Lifts Strait Of Hormuz Shipping Restrictions, Urges Seafarers To Remain On High Alert; Shipping Container Rates Surge as Tanker Rates Fall Amid Middle East Ceasefire; Ukraine shares rail lessons: ‘Repair and restore capacity is essential’",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely",
+    "headline": "Iran Discourages Ships From Using Alternative Strait of Hormuz Route Along Oman’s Coast",
     "key_news_radar": [
       {
-        "title": "Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely",
-        "summary": "The Indian bulk vessel APJ Priti 2 has safely crossed the strategically important Strait of Hormuz while carrying around 65,000 metric tonnes of fertiliser, providing reassurance f",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-28T19:03:15+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/indian-fertiliser-supply-chain-secured-as-bulk-vessel-apj-priti-2-passes-hormuz-safely/",
+        "title": "Iran Discourages Ships From Using Alternative Strait of Hormuz Route Along Oman’s Coast",
+        "summary": "Image for representation purposes only Iran warned on Sunday that ships should not use an alternative route through the Strait of Hormuz, saying any move away from the transit corr",
+        "source": "Marine Insight",
+        "timestamp": "2026-06-29T13:24:33+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-discourages-ships-from-using-alternative-strait-of-hormuz-route-along-omans-coast/?utm_source=rss&utm_medium=rss&utm_campaign=iran-discourages-ships-from-using-alternative-strait-of-hormuz-route-along-omans-coast",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DGS Lifts Restrictions on Indian Ship Movement Through Strait of Hormuz",
-        "summary": "The Directorate General of Shipping (DGS) has withdrawn restrictions on the movement of Indian-flagged ships through the Strait of Hormuz, allowing vessels to resume normal operati",
-        "source": "India Seatrade News",
-        "timestamp": "2026-06-28T19:03:34+00:00",
+        "title": "New strikes keep Strait of Hormuz traffic recovery on edge",
+        "summary": "Efforts to normalise traffic through the Strait of Hormuz remain uncertain after renewed strikes between US and Iranian forces over the weekend heightened tensions in the waterway.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-06-29T08:47:49+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/dgs-lifts-restrictions-on-indian-ship-movement-through-strait-of-hormuz/",
+        "link": "https://www.worldcargonews.com/news/2026/06/new-strikes-keep-strait-of-hormuz-traffic-recovery-on-edge/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "China Southern strikes landmark deal for Boeing cargo jets",
-        "summary": "China Southern Airlines has placed an order with Boeing to buy seven freighter aircraft, including five units of the all-new 777-8, which is expected to hit the market in 2028, the",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-28T20:04:46+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/china-southern-strikes-landmark-deal-for-boeing-cargo-jets",
+        "title": "Shipping Container Rates Surge as Tanker Rates Fall Amid Middle East Ceasefire",
+        "summary": "Shipping container rates from east Asia and China to the United States continued to climb as importers accelerated shipments ahead of potential new tariffs, according to a report f",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-06-29T10:31:34+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/shipping-container-rates-surge-as-tanker-rates-fall-amid-middle-east-ceasefire/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Port of Brownsville completes $295M ship channel deepening project",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-06-28T12:01:20+00:00",
+        "title": "Ukraine shares rail lessons: ‘Repair and restore capacity is essential’",
+        "summary": "What can European railways learn from the Ukrainian experience?",
+        "source": "RailFreight.com",
+        "timestamp": "2026-06-29T11:50:54+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-port-of-brownsville-completes-295m-ship-channel-deepening-project",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Surge in Asia-US container rates continues, tanker rates fall as Strait of Hormuz transits rise",
-        "summary": "Rates for shipping containers from east Asia and China to the US continued to surge as importers pull volumes forward ahead of possible new tariffs, while liquid tanker rates conti",
-        "source": "Hellenic Shipping News — International Shipping",
-        "timestamp": "2026-06-28T21:00:54+00:00",
-        "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/surge-in-asia-us-container-rates-continues-tanker-rates-fall-as-strait-of-hormuz-transits-rise/",
+        "link": "https://www.railfreight.com/railfreight/2026/06/29/ukraine-shares-rail-lessons-repair-and-restore-capacity-is-essential/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "hellenic_shipping_international",
+        "source_id": "railfreight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "NEW: Maersk shifts SoCal import containers to UP from BNSF",
+        "summary": "In Southern California, Big Blue has moved to Big Yellow and away from Big Orange.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-06-29T15:38:46+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/new-maersk-shifts-socal-import-containers-to-up-from-bnsf",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -174,19 +166,23 @@
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -196,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-06-30",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "India Lifts Strait Of Hormuz Shipping Restrictions, Urges Seafarers To Remain On High Alert; Shipping Container Rates Surge as Tanker Rates Fall Amid Middle East Ceasefire; Ukraine shares rail lessons: ‘Repair and restore capacity is essential’",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-06-29",
         "write_now": "Maybe",
@@ -243,49 +247,40 @@
         "worth_attention_today": "5",
         "headline": "Container Shipping Recovery Speeds: From Pandemic to Red Sea Crisis; Gloomy freight figures echo UK economy; Transport and logistics news - 23 June 2026",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-23",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Strait of Hormuz: What will be the new normal?; Italy: Rail restrictions may affect inland services during Summer 2026; Dutch terminals boost inland links",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 75,
-      "high_trust": 17,
-      "trade_press": 58,
+      "total_items": 304,
+      "high_trust": 78,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-06-29.md",
-      "news_pipeline/output/digests/daily-digest-2026-06-29.md",
-      "news_pipeline/output/trends/daily-trends-2026-06-29.json"
+      "news_pipeline/output/reports/daily-brief-2026-06-30.md",
+      "news_pipeline/output/digests/daily-digest-2026-06-30.md",
+      "news_pipeline/output/trends/daily-trends-2026-06-30.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-06-29",
-    "run_started_at": "2026-06-29T07:31:01+09:00",
+    "report_date": "2026-06-30",
+    "run_started_at": "2026-06-30T07:40:16+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
+      "Newest meaningful competitor move: Project44 Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 2,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,9 +325,52 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/platform/",
+        "evidence": [
+          "project44 Connect: London",
+          "Where TMS meets Decision Intelligence – live, in your city. project44 Connect brings together 20 transport and supply chain leaders for a focused session on TMS, Decision Intelligence, AI and what’s next in transportation execution. The format is structured but not stiff: expert-led sessions, a live product demo, real customer stories from the field, and…"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "project44 Connect: London",
+          "Where TMS meets Decision Intelligence – live, in your city. project44 Connect brings together 20 transport and supply chain leaders for a focused session on TMS, Decision Intelligence, AI and what’s next in transportation execution. The format is structured but not stiff: expert-led sessions, a live product demo, real customer stories from the field, and…"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-06-30",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/platform/"
+      },
+      {
+        "detected_date": "2026-06-30",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
       {
         "detected_date": "2026-06-28",
         "company": "Project44",
@@ -364,57 +402,43 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows degraded services: LTL Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-06-25",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger AI and automation, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/platform/"
-      },
-      {
-        "detected_date": "2026-06-25",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger AI and automation, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/industries/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260629T073101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-06-29.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260630T074016+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-06-30.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W27",
-    "week_end_date": "2026-06-29",
+    "week_end_date": "2026-06-30",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling AI positioning around procurement and tendering.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling AI positioning around procurement and tendering.",
+      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling AI positioning around procurement and tendering."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of broader workflow ownership."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -434,17 +458,34 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
-    "active_theses": [],
-    "top_signals": [],
+    "important_signal_count": 2,
+    "active_theses": [
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
+    ],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "procurement and tendering",
+        "claimed_outcome": "broader workflow ownership",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/platform/"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W27",
-        "week_end_date": "2026-06-29",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
-        "active_thesis_count": "0",
-        "signal_signature": "",
+        "week_end_date": "2026-06-30",
+        "takeaway": "Project44 is signaling AI positioning around procurement and tendering.",
+        "signal_count": "2",
+        "active_thesis_count": "1",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
