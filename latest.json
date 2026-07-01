@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-06-30T22:42:56+00:00",
-  "requested_date": "2026-07-01",
+  "built_at": "2026-07-01T22:32:18+00:00",
+  "requested_date": "2026-07-02",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-01",
+    "requested_date": "2026-07-02",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Oman opens door to Hormuz tolls after a week of tension.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-01",
+        "report_label": "2026-07-02",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-01",
+        "report_label": "2026-07-02",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-01",
-    "last_updated": "2026-07-01 07:41",
+    "report_date": "2026-07-02",
+    "last_updated": "2026-07-02 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Oman opens door to Hormuz tolls after a week of tension.",
+    "status_note": "Market watch is led by Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Oman opens door to Hormuz tolls after a week of tension.",
+      "Lead market story: Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-01",
+      "report_date": "2026-07-02",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Oman opens door to Hormuz tolls after a week of tension; Ocean rates steady as shippers brace for July hikes - June 30, 2026 Update; Maersk Upgrades Earnings Outlook Amid Freight Surge",
+      "headline": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes; EU crackdown on small parcel imports kicks in; The EU duty on parcels reshapes logistics flows",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Oman opens door to Hormuz tolls after a week of tension",
+    "headline": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes",
     "key_news_radar": [
       {
-        "title": "Oman opens door to Hormuz tolls after a week of tension",
-        "summary": "According to Bloomberg, on 26 June 2026 Omani officials - who, together with Iran, can control transits through the Strait of Hormuz - told their European counterparts that the sul",
+        "title": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes",
+        "summary": "US-Iran negotiations toward a final peace deal continue, sometimes under fire, as Iran escalates steps aimed at establishing itself as the sole authority over the Strait of Hormuz",
+        "source": "Container News",
+        "timestamp": "2026-07-01T17:00:32+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/freightos-weekly-update-ocean-rates-steady-as-shippers-brace-for-july-hikes/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The EU duty on parcels reshapes logistics flows",
+        "summary": "From 1 July 2026, EU Regulation 2026/382 abolishes the €150 exemption on imports from outside the EU: a flat-rate duty of €3 applies to each customs item in a shipment, not to each",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-06-30T09:34:26+00:00",
+        "timestamp": "2026-07-01T10:35:07+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/oman-opens-door-to-hormuz-tolls-after-a-week-of-tension/",
+        "link": "https://www.trasportoeuropa.it/english/the-eu-duty-on-parcels-reshapes-logistics-flows/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -102,38 +115,25 @@
         "confirmed_by": []
       },
       {
-        "title": "Ocean rates steady as shippers brace for July hikes - June 30, 2026 Update",
-        "summary": "Home Ocean rates steady as shippers brace for July hikes - June 30, 2026 Update Published: June 30, 2026 Blog Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Co",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-30T11:46:38+00:00",
+        "title": "Hapag-Lloyd, Maersk and CMA CGM move vessels out of Strait of Hormuz",
+        "summary": "Leading container carriers have begun moving vessels out of the Persian Gulf after a narrow security window opened following the US-Iran agreement on a 60-day ceasefire and renewed",
+        "source": "WorldCargo News",
+        "timestamp": "2026-07-01T07:16:16+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-industry-updates/weekly-freight-updates/ocean-rates-steady-as-shippers-brace-for-july-hikes-june-30-2026-update/",
+        "link": "https://www.worldcargonews.com/news/2026/07/hapag-lloyd-maersk-and-cma-cgm-move-vessels-out-of-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maersk Upgrades Earnings Outlook Amid Freight Surge",
-        "summary": "Moller-Maersk has significantly upgraded its earnings outlook for 2026 after stronger container demand and elevated freight rates continued to support the liner shipping market.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-06-30T13:27:55+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/maersk-upgrades-earnings-outlook-amid-freight-surge/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Wartime economy: Maersk lifts full-year guidance on strong demand",
-        "summary": "Big Blue is forecasting a big finish in 2026.",
+        "title": "Rising intermodal volume slows big four U.S. rail systems",
+        "summary": "Class I railroad intermodal networks are slowing down amid a volume surge that’s been driven by shippers turning to rail amid high fuel prices and spikes in trucking rates.",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-06-30T16:45:17+00:00",
+        "timestamp": "2026-07-01T19:40:44+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/wartime-economy-maersk-lifts-full-year-guidance-on-strong-demand",
+        "link": "https://www.freightwaves.com/news/rising-intermodal-volume-slows-big-four-u-s-rail-systems",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -143,12 +143,12 @@
         ]
       },
       {
-        "title": "Russia Arms One Of Its Most Strategic LNG Tankers In Baltic Sea With Heavy Machine Guns",
-        "summary": "Image for representation purposes only Russia has installed heavy machine guns on one of its most important commercial vessels operating in the Baltic Sea, according to reports and",
+        "title": "Iran & Oman Move Ahead With Strait Of Hormuz Shipping Fee Plan Despite US Opposition",
+        "summary": "Image for representation purposes only Iran and Oman are moving ahead with a proposal to introduce payments for commercial ships using the Strait of Hormuz, despite continued oppos",
         "source": "Marine Insight",
-        "timestamp": "2026-06-30T12:51:30+00:00",
+        "timestamp": "2026-07-01T13:21:10+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/russia-arms-one-of-its-most-strategic-lng-tankers-in-baltic-sea-with-heavy-machine-guns/?utm_source=rss&utm_medium=rss&utm_campaign=russia-arms-one-of-its-most-strategic-lng-tankers-in-baltic-sea-with-heavy-machine-guns",
+        "link": "https://www.marineinsight.com/iran-oman-move-ahead-with-strait-of-hormuz-shipping-fee-plan-despite-us-opposition/?utm_source=rss&utm_medium=rss&utm_campaign=iran-oman-move-ahead-with-strait-of-hormuz-shipping-fee-plan-despite-us-opposition",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -159,10 +159,6 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
@@ -171,14 +167,14 @@
       },
       {
         "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
@@ -188,12 +184,24 @@
         "summary": ""
       },
       {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-02",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes; EU crackdown on small parcel imports kicks in; The EU duty on parcels reshapes logistics flows",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-01",
         "write_now": "Maybe",
@@ -241,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "BIMCO flags softer supply-demand fundamentals irrespective of Hormuz outcome; War Risk Insurance Returns For Strait Of Hormuz Shipping, But Security Risks Delay Recovery; Container freight rates reach highest level since September 2024",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-25",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Ocean rates climb again even as fuel costs ease; El Niño 2026 also threatens logistics; Over 1,200 ships, $125 billion in goods stuck as Hormuz closure rattles global trade: Report",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 330,
-      "high_trust": 97,
-      "trade_press": 233,
+      "total_items": 341,
+      "high_trust": 91,
+      "trade_press": 250,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-01.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-01.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-01.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-02.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-02.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-02.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-01",
-    "run_started_at": "2026-07-01T07:41:19+09:00",
+    "report_date": "2026-07-02",
+    "run_started_at": "2026-07-02T07:31:00+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor)."
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -327,21 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "Partially Degraded Service",
-          "Temporary Service Disruption – YMS Driver Text Messaging (minor)"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -394,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260701T074119+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-01.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260702T073100+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-02.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W27",
-    "week_end_date": "2026-07-01",
+    "week_end_date": "2026-07-02",
     "freshness": "current",
     "status_note": "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
     "sparse_explanation": "",
@@ -426,8 +413,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -487,7 +473,7 @@
     "recent_history": [
       {
         "week_label": "2026-W27",
-        "week_end_date": "2026-07-01",
+        "week_end_date": "2026-07-02",
         "takeaway": "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
         "signal_count": "3",
         "active_thesis_count": "1",
