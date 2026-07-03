@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-02T22:32:48+00:00",
-  "requested_date": "2026-07-03",
+  "built_at": "2026-07-03T22:31:58+00:00",
+  "requested_date": "2026-07-04",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-03",
+    "requested_date": "2026-07-04",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Block trains a smarter approach to intermodal disruption.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-03",
+        "report_label": "2026-07-04",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-03",
+        "report_label": "2026-07-04",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W27",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
+        "summary": "GoComet is signaling scope expansion around end to end orchestration.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,96 +64,98 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-03",
-    "last_updated": "2026-07-03 07:31",
+    "report_date": "2026-07-04",
+    "last_updated": "2026-07-04 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Block trains a smarter approach to intermodal disruption.",
+    "status_note": "Market watch is led by Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Block trains a smarter approach to intermodal disruption.",
+      "Lead market story: Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-03",
+      "report_date": "2026-07-04",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Hormuz in the rearview as Asia-US ocean container rates soar past $7,900; Block trains a smarter approach to intermodal disruption; Iran Conflict and Peak Season Drive Ocean and Air Freight Rate Surge",
+      "headline": "Container freight rates continue to rise at the end of June 2026; Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak; Drewry World Container Index jumps 9% as transpacific and Asia-Europe rates climb",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Block trains a smarter approach to intermodal disruption",
+    "headline": "Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak",
     "key_news_radar": [
       {
-        "title": "Block trains a smarter approach to intermodal disruption",
-        "summary": "Unpredictability rather than transit time is the greatest obstacle to supply chain performance, according to Martin Hubert, founder and chief executive of Freightgate.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-02T06:01:50+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/block-trains-a-smarter-approach-to-intermodal-disruption/",
+        "title": "Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak",
+        "summary": "Container spot freight rates experienced another weekly surge, elevating global benchmarks to levels not seen since the 2022 pandemic-era peak, driven by tariff-induced cargo front",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-03T16:11:48+00:00",
+        "confidence": "medium",
+        "link": "https://www.globaltrademag.com/container-freight-rates-surge-to-highest-levels-since-2022-pandemic-peak/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Hormuz in the rearview as Asia-US ocean container rates soar past $7,900",
-        "summary": "The container shipping market is being driven by geopolitics, rates, and network reshuffling, but freight-rate volatility and adjustments by carriers to protect schedules and prici",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-02T17:44:03+00:00",
+        "title": "Hormuz Reopening: What It Means for Global Shipping",
+        "summary": "Hormuz Flows are Rising, but don’t Call it normal yet: What the US-Iran MoU really means for Global Shipping The diplomatic breakthrough masking an operational reality The signing",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-03T16:11:48+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/hormuz-flows-are-rising-but-dont-call-it-normal-yet-what-the-us-iran-mou-really-means-for-global-shipping/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "UK Logistics Week highlights intermodal collaboration",
+        "summary": "For years, the logistics industry has happily divided itself into neat little tribes.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-07-03T08:13:55+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/hormuz-in-the-rearview-as-asia-us-ocean-container-rates-soar-past-7900",
+        "link": "https://www.railfreight.com/railfreight/2026/07/03/uk-logistics-week-highlights-intermodal-collaboration/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "railfreight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Container freight rates continue to rise at the end of June 2026",
+        "summary": "Drewry’s World Container Index for average spot container shipping rates recorded a 9% week-on-week jump, rising to $4,530 per FEU in the 2 July 2026 assessment.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-03T07:21:35+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-continue-to-rise-at-the-end-of-june-2026/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Drewry World Container Index jumps 9% as transpacific and Asia-Europe rates climb",
+        "summary": "The Drewry World Container Index (WCI) rose 9% this week to US$4,530 per 40ft container, driven by higher spot rates on the transpacific and Asia-Europe trades.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-03T18:21:07+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/drewry-world-container-index-jumps-9-as-transpacific-and-asia-europe-rates-climb/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "freightwaves_news"
+          "container_news"
         ]
-      },
-      {
-        "title": "Iran Conflict and Peak Season Drive Ocean and Air Freight Rate Surge",
-        "summary": "Negotiations between the United States and Iran aimed at reaching a final peace deal are ongoing, even as military actions continue.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-02T10:20:49+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/iran-conflict-and-peak-season-drive-ocean-and-air-freight-rate-surge/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Iran Says Container Ship Runs Aground During ‘Unauthorised’ Strait Of Hormuz Transit",
-        "summary": "Image for representation purposes only A foreign container ship ran aground while sailing through the Strait of Hormuz using a route not approved by Iran, Iranian state television",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-02T12:56:48+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-says-container-ship-runs-aground-during-unauthorised-strait-of-hormuz-transit/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-container-ship-runs-aground-during-unauthorised-strait-of-hormuz-transit",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Port of Singapore TEU volumes up 3% in May",
-        "summary": "The Port of Singapore handled 3.94m TEU in May 2026, up 3% from a year earlier, as container activity continued to show steady growth, according to port data.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-02T09:16:21+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/port-of-singapore-teu-volumes-up-3-in-may/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
       }
     ],
     "hot_topics": [
@@ -163,11 +165,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -180,11 +182,11 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +196,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-04",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container freight rates continue to rise at the end of June 2026; Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak; Drewry World Container Index jumps 9% as transpacific and Asia-Europe rates climb",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-03",
         "write_now": "Maybe",
@@ -241,49 +251,40 @@
         "worth_attention_today": "5",
         "headline": "The End of Blind Broker Hiring: Why Carrier Verification Is Becoming a Legal Necessity; Iran Reasserts Control Over Hormuz After Ship Attack Near Oman, Warns Gulf States Against Backing US; Oman Says Strait Of Hormuz Unlikely To Return To Pre-War Status, Signals Possible Transit Fees For Ships",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-27",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Oil Prices Jump Over 2% After Cargo Ship Hit By Unidentified Projectile Near Strait Of Hormuz; Attack On Container Ship Halts UN-Led Strait Of Hormuz Ship Evacuation Mission; World Container Index reaches 22-month high as spot freight rates continue to climb",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 290,
-      "high_trust": 65,
-      "trade_press": 225,
+      "total_items": 210,
+      "high_trust": 52,
+      "trade_press": 158,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-03.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-03.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-03.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-04.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-04.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-04.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-03",
-    "run_started_at": "2026-07-03T07:31:38+09:00",
+    "report_date": "2026-07-04",
+    "run_started_at": "2026-07-04T07:30:51+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor)."
+      "Newest meaningful competitor move: GoComet GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,9 +329,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "GoOrder PO ingestion and order management with full context.",
+        "source_url": "https://www.gocomet.com/products/order-management",
+        "evidence": [
+          "GoOrder PO ingestion and order management with full context.",
+          "GoComet’s Order Management Platform gives end-to-end control of every order, from creation to delivery. It connects buyers, suppliers, logistics teams, and ERPs in one unified dashboard for complete order visibility and faster fulfillment."
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-07-04",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.",
+        "source_url": "https://www.gocomet.com/products/order-management"
+      },
       {
         "detected_date": "2026-07-01",
         "company": "Project44",
@@ -370,50 +393,47 @@
         "signal_type": "website change",
         "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
         "source_url": "https://www.project44.com/platform/"
-      },
-      {
-        "detected_date": "2026-06-27",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "source_url": "https://www.project44.com/industries/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260703T073138+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-03.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260704T073051+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-04.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W27",
-    "week_end_date": "2026-07-03",
+    "week_end_date": "2026-07-04",
     "freshness": "current",
-    "status_note": "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
+    "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
+      "GoComet is signaling scope expansion around end to end orchestration.",
       "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "GoComet is signaling scope expansion around end to end orchestration.",
       "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
       "Project44 is signaling AI positioning around procurement and tendering."
     ],
     "strategic_movements": [
+      "GoComet (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control.",
       "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience.",
       "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of broader workflow ownership."
     ],
     "team_implications": [
+      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
       "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -436,11 +456,25 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 3,
+    "important_signal_count": 4,
     "active_theses": [
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
     "top_signals": [
+      {
+        "entity_name": "GoComet",
+        "source_title": "GoOrder PO ingestion and order management with full context.",
+        "source_layer": "direct competitor",
+        "strategic_move": "Scope expansion",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "greater control",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.\" -> signals a broader control tower / platform story GoOrder PO ingestion and order management with full context.",
+        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.gocomet.com/products/order-management"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
@@ -473,11 +507,11 @@
     "recent_history": [
       {
         "week_label": "2026-W27",
-        "week_end_date": "2026-07-03",
-        "takeaway": "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
-        "signal_count": "3",
+        "week_end_date": "2026-07-04",
+        "takeaway": "GoComet is signaling scope expansion around end to end orchestration.",
+        "signal_count": "4",
         "active_thesis_count": "1",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac",
+        "signal_signature": "GoComet|direct_competitor|product_update|3bebd3c64963f6112b3b77854b3c6867abb85d18 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
