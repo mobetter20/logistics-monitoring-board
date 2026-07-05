@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-04T22:31:55+00:00",
-  "requested_date": "2026-07-05",
+  "built_at": "2026-07-05T22:34:21+00:00",
+  "requested_date": "2026-07-06",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-05",
+    "requested_date": "2026-07-06",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security.",
+      "Lead daily item: India May Benefit as Iran Signals Hormuz Transit Fee Concessions.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-05",
+        "report_label": "2026-07-06",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-05",
+        "report_label": "2026-07-06",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W27",
+        "report_label": "2026-W28",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "GoComet is signaling scope expansion around end to end orchestration.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-05",
-    "last_updated": "2026-07-05 07:30",
+    "report_date": "2026-07-06",
+    "last_updated": "2026-07-06 07:33",
     "freshness": "current",
-    "status_note": "Market watch is led by Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security.",
+    "status_note": "Market watch is led by India May Benefit as Iran Signals Hormuz Transit Fee Concessions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security.",
+      "Lead market story: India May Benefit as Iran Signals Hormuz Transit Fee Concessions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-05",
+      "report_date": "2026-07-06",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "CONCOR awarded Authorized Economic Operator (AEO) Certificate by Indian Customs; Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security; CMA CGM Ship Hit By Missile In Strait Of Hormuz To Be Scrapped, Says Company CEO",
+      "headline": "India’s Latin America Exports Hit by Capacity Constraints and Soaring Freight Costs; Borderlands Mexico: Cargo theft falls, but attacks on truckers turn deadlier; Bulk Carrier Attacked Off Yemen’s Red Sea Coast, UKMTO Says",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security",
+    "headline": "India May Benefit as Iran Signals Hormuz Transit Fee Concessions",
     "key_news_radar": [
       {
-        "title": "Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security",
-        "summary": "Oil shipments moving through the Strait of Hormuz have climbed above 10 million barrels per day, signaling a significant recovery in one of the world’s most critical energy corrido",
+        "title": "India May Benefit as Iran Signals Hormuz Transit Fee Concessions",
+        "summary": "India could benefit from potential concessions on proposed transit service fees in the Strait of Hormuz after Iran indicated that “friendly” nations may receive preferential treatm",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-05T18:53:13+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/india-may-benefit-as-iran-signals-hormuz-transit-fee-concessions/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Borderlands Mexico: Cargo theft falls, but attacks on truckers turn deadlier",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-04T17:14:24+00:00",
+        "timestamp": "2026-07-05T13:07:27+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/hormuz-oil-shipments-top-10-million-barrels-per-day-as-u-s-strengthens-maritime-security/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-cargo-theft-falls-but-attacks-on-truckers-turn-deadlier",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "CMA CGM deploys world’s largest LNG-powered container ship on Asia-Europe route",
-        "summary": "MARSEILLE : Europe is investing in ever larger, cleaner container ships at a time when maritime sovereignty and supply-chain resilience have become strategic priorities.",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-04T03:23:44+00:00",
+        "title": "India Sees No Fertiliser Supply Disruption After 15 Ships Cross Strait of Hormuz",
+        "summary": "The Indian government has assured that there will be no disruption to the country’s fertiliser supplies after 15 of the 20 fertiliser-carrying vessels destined for India safely tra",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-05T18:53:19+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/cma-cgm-deploys-worlds-largest-lng-powered-container-ship-on-asia-europe-route/",
+        "link": "https://indiaseatradenews.com/india-sees-no-fertiliser-supply-disruption-after-15-ships-cross-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "CMA CGM Ship Hit By Missile In Strait Of Hormuz To Be Scrapped, Says Company CEO",
-        "summary": "Image for representation purposes only A CMA CGM container vessel, San Antonio, struck by a missile in the Hormuz in May, is going to be scrapped, the chief executive of the compan",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-04T07:02:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/cma-cgm-ship-hit-by-missile-in-strait-of-hormuz-to-be-scrapped-says-company-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=cma-cgm-ship-hit-by-missile-in-strait-of-hormuz-to-be-scrapped-says-company-ceo",
+        "title": "Coal shipments jump 14% as El Niño expected to boost demand",
+        "summary": "Global coal shipments rise year-on-year, driven by stronger demand from China and shifting energy market trends worldwide.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-07-05T06:15:54+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/07/coal-shipments-jump-14-as-el-nino-expected-to-boost-demand/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Union Minister Sonowal unveils Maersk’s first Indian manufactured shipping container",
-        "summary": "Moller - Maersk, the world’s leading integrated shipping and logistics company, today achieved a historic milestone in India’s maritime sector by becoming the first international s",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-04T03:29:21+00:00",
+        "title": "India’s Latin America Exports Hit by Capacity Constraints and Soaring Freight Costs",
+        "summary": "Indian exporters shipping goods to Latin America are facing mounting challenges as limited vessel space and sharply rising ocean freight rates disrupt cargo movements and increase",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-05T18:53:10+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/shipping/union-minister-sonowal-unveils-maersks-first-indian-manufactured-shipping-container/",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "CONCOR awarded Authorized Economic Operator (AEO) Certificate by Indian Customs",
-        "summary": "NEW DELHI : Container Corporation of India Ltd.",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-04T03:26:13+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/export-import/concor-awarded-authorized-economic-operator-aeo-certificate-by-indian-customs/",
+        "link": "https://indiaseatradenews.com/indias-latin-america-exports-hit-by-capacity-constraints-and-soaring-freight-costs/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,15 +163,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
@@ -178,11 +176,11 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -192,6 +190,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-06",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "India’s Latin America Exports Hit by Capacity Constraints and Soaring Freight Costs; Borderlands Mexico: Cargo theft falls, but attacks on truckers turn deadlier; Bulk Carrier Attacked Off Yemen’s Red Sea Coast, UKMTO Says",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-05",
         "write_now": "Maybe",
@@ -239,33 +245,25 @@
         "worth_attention_today": "5",
         "headline": "India Lifts Strait Of Hormuz Shipping Restrictions, Urges Seafarers To Remain On High Alert; Shipping Container Rates Surge as Tanker Rates Fall Amid Middle East Ceasefire; Ukraine shares rail lessons: ‘Repair and restore capacity is essential’",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-06-29",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Indian Fertiliser Supply Chain Secured as Bulk Vessel APJ Priti 2 Passes Hormuz Safely; DGS Lifts Restrictions on Indian Ship Movement Through Strait of Hormuz; China Southern strikes landmark deal for Boeing cargo jets",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 50,
-      "high_trust": 15,
-      "trade_press": 35,
+      "total_items": 64,
+      "high_trust": 14,
+      "trade_press": 50,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-05.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-05.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-05.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-06.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-06.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-06.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-05",
-    "run_started_at": "2026-07-05T07:30:48+09:00",
+    "report_date": "2026-07-06",
+    "run_started_at": "2026-07-06T07:33:08+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +274,12 @@
       "Latest lower-signal item came from GoComet: GoComet press releases announced \"GoOrder PO ingestion and order management with full context."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -362,63 +360,55 @@
         "source_url": "https://www.project44.com/industries/"
       },
       {
+        "detected_date": "2026-06-29",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-06-28",
         "company": "Project44",
         "importance": "important",
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-06-28",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260705T073048+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-05.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260706T073308+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-06.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W27",
-    "week_end_date": "2026-07-05",
+    "week_label": "2026-W28",
+    "week_end_date": "2026-07-06",
     "freshness": "current",
-    "status_note": "GoComet is signaling scope expansion around end to end orchestration.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "GoComet is signaling scope expansion around end to end orchestration.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "GoComet is signaling scope expansion around end to end orchestration.",
-      "Project44 is reinforcing a temporary service disruption yms motif through macro pressure.",
-      "Project44 is signaling AI positioning around procurement and tendering."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "GoComet (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control.",
-      "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience.",
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of broader workflow ownership."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -438,55 +428,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
-    "top_signals": [
-      {
-        "entity_name": "GoComet",
-        "source_title": "GoOrder PO ingestion and order management with full context.",
-        "source_layer": "direct competitor",
-        "strategic_move": "Scope expansion",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "greater control",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "GoComet press releases announced \"GoOrder PO ingestion and order management with full context.\" -> signals a broader control tower / platform story GoOrder PO ingestion and order management with full context.",
-        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.gocomet.com/products/order-management"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
-        "source_layer": "direct competitor",
-        "strategic_move": "Macro pressure",
-        "workflow_scope": "exception management",
-        "claimed_outcome": "greater resilience",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor). Partially Degraded Service",
-        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
-        "emerging_motif": "temporary service disruption yms",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "broader workflow ownership",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/platform/"
-      }
-    ],
+    "important_signal_count": 0,
+    "active_theses": [],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W28",
+        "week_end_date": "2026-07-06",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W27",
         "week_end_date": "2026-07-05",
@@ -516,21 +471,11 @@
         "signal_signature": "Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W24",
-        "week_end_date": "2026-06-14",
-        "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
-        "signal_count": "12",
-        "active_thesis_count": "3",
-        "signal_signature": "Shippeo|direct_competitor|partnership|e70683ab6e1cccae30dc5397f6bb9025bf084927 || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|ai_positioning|36ea8b6cc950263f1cffcd6aa9a1662abc4ecbb1 || GoComet|direct_competitor|ai_positioning|5ae80143502def3ef3d3a7e3c18be4889f2a120a || GoComet|direct_competitor|product_update|765ba4296fcde54cfbd3bc52c1f88789505db461",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W27.json",
-      "strategic_intelligence/output/weekly-memo-2026-W27.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W28.json",
+      "strategic_intelligence/output/weekly-memo-2026-W28.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
