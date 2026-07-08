@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-08T00:24:28+00:00",
-  "requested_date": "2026-07-08",
+  "built_at": "2026-07-08T22:32:33+00:00",
+  "requested_date": "2026-07-09",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-08",
+    "requested_date": "2026-07-09",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: UK shipping emissions regs could undermine competitiveness.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Container Ship Attack in Hormuz Raises Alarm for Indian Exporters.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-08",
+        "report_label": "2026-07-09",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-08",
+        "report_label": "2026-07-09",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,79 +48,79 @@
         "cadence": "Weekly",
         "report_label": "2026-W28",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "FourKites Press releases: Network error for https://www.fourkites.com/press/: The read operation timed out",
-      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-08",
-    "last_updated": "2026-07-08 07:50",
+    "report_date": "2026-07-09",
+    "last_updated": "2026-07-09 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by UK shipping emissions regs could undermine competitiveness.",
+    "status_note": "Market watch is led by Container Ship Attack in Hormuz Raises Alarm for Indian Exporters.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: UK shipping emissions regs could undermine competitiveness.",
+      "Lead market story: Container Ship Attack in Hormuz Raises Alarm for Indian Exporters.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-08",
+      "report_date": "2026-07-09",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "UK shipping emissions regs could undermine competitiveness; PIL opens new office in Abidjan to strengthen West Africa presence; Projectile strike on tanker revives Hormuz shipping fears",
+      "headline": "Container Ship Attack in Hormuz Raises Alarm for Indian Exporters; India-Indonesia Joint Statement on the State Visit by Prime Minister of India to Indonesia; Conflict flares again in the Strait of Hormuz",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "UK shipping emissions regs could undermine competitiveness",
+    "headline": "Container Ship Attack in Hormuz Raises Alarm for Indian Exporters",
     "key_news_radar": [
       {
-        "title": "UK shipping emissions regs could undermine competitiveness",
-        "summary": "The UK’s Emissions Trading Scheme (ETS) for maritime operations entered into force on 1 July 2026.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-07T06:11:15+00:00",
+        "title": "Container Ship Attack in Hormuz Raises Alarm for Indian Exporters",
+        "summary": "Indian exporters and logistics companies are expressing growing concern after a container ship was reportedly attacked while transiting the Strait of Hormuz, raising fears of subst",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-08T18:50:13+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/uk-shipping-emissions-regs-could-undermine-competitiveness/",
+        "link": "https://indiaseatradenews.com/container-ship-attack-in-hormuz-raises-alarm-for-indian-exporters/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "APMT doubles profit at Maasvlakte II after bumpy start",
-        "summary": "APM Terminals’ Maasvlakte II facility in the Port of Rotterdam reported a strong financial performance in its 2025 annual accounts.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-07T06:32:53+00:00",
+        "title": "India Warns of Trade Risks as US-Iran Conflict Escalates",
+        "summary": "India has called for restraint and a diplomatic resolution as renewed tensions between the United States and Iran raise concerns over the security of the Strait of Hormuz, one of t",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-08T18:50:10+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/apmt-doubles-profit-at-maasvlakte-ii-after-bumpy-start/",
+        "link": "https://indiaseatradenews.com/india-warns-of-trade-risks-as-us-iran-conflict-escalates/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Piyush Goyal meets UAE Ambassador Alshaali, appreciates efforts to strengthen India-UAE partnership",
-        "summary": "NEW DELHI: Union Minister of Commerce and Industry Shri Piyush Goyal on Monday met Abdulnasser Alshaali, Ambassador of the UAE to India, with discussions centred on deepening the I",
+        "title": "India-Indonesia Joint Statement on the State Visit by Prime Minister of India to Indonesia",
+        "summary": "JAKARTA : At the invitation of the President of the Republic of Indonesia, H.E.",
         "source": "India Shipping News",
-        "timestamp": "2026-07-07T03:25:20+00:00",
+        "timestamp": "2026-07-08T03:35:40+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/export/piyush-goyal-meets-uae-ambassador-alshaali-appreciates-efforts-to-strengthen-india-uae-partnership/",
+        "link": "https://indiashippingnews.com/global-trade/india-indonesia-joint-statement-on-the-state-visit-by-prime-minister-of-india-to-indonesia/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_shipping_news",
@@ -128,30 +128,31 @@
         "confirmed_by": []
       },
       {
-        "title": "DB opens new container depot area in Ulm-Dornstadt",
-        "summary": "Deutsche Bahn (DB) has opened a new 38,000-square-metre container depot in Ulm-Dornstadt, expanding capacity for intermodal freight transport in southern Germany.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-07T05:33:58+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/db-opens-new-container-depot-area-in-ulm-dornstadt/",
-        "label": "Watch",
+        "title": "Container rates near $9,000 as Iran war flares",
+        "summary": "Just when it looked safe to go back in the water, the United States and Iran restart hostilities, and container rates on the busiest U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-08T16:33:36+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/container-rates-near-9000-as-iran-war-flares",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "container_news"
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Projectile strike on tanker revives Hormuz shipping fears",
-        "summary": "Recent security gains face fresh threat after tankers attacked in Strait of Hormuz",
-        "source": "Tradewinds",
-        "timestamp": "2026-07-07T02:47:18+00:00",
+        "title": "Strait Of Hormuz Shipping Threat Raised To ‘Severe’ After Recent Tanker Attacks",
+        "summary": "Image for representation purposes only The threat to commercial ships sailing through the Strait of Hormuz was raised to “severe” on Tuesday after several tankers were attacked nea",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-08T13:08:40+00:00",
         "confidence": "medium",
-        "link": "https://www.tradewindsnews.com/tankers/projectile-strike-on-tanker-revives-hormuz-shipping-fears/2-1-2013915",
+        "link": "https://www.marineinsight.com/strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-shipping-threat-raised-to-severe-after-recent-tanker-attacks",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "tradewinds",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -163,11 +164,11 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -176,15 +177,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -194,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-09",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container Ship Attack in Hormuz Raises Alarm for Indian Exporters; India-Indonesia Joint Statement on the State Visit by Prime Minister of India to Indonesia; Conflict flares again in the Strait of Hormuz",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-08",
         "write_now": "Maybe",
@@ -241,57 +250,48 @@
         "worth_attention_today": "5",
         "headline": "Hormuz in the rearview as Asia-US ocean container rates soar past $7,900; Block trains a smarter approach to intermodal disruption; Iran Conflict and Peak Season Drive Ocean and Air Freight Rate Surge",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-02",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes; EU crackdown on small parcel imports kicks in; The EU duty on parcels reshapes logistics flows",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 69,
-      "high_trust": 22,
-      "trade_press": 47,
+      "total_items": 518,
+      "high_trust": 135,
+      "trade_press": 383,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-08.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-08.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-08.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-09.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-09.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-09.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-08",
-    "run_started_at": "2026-07-08T07:50:31+09:00",
+    "report_date": "2026-07-09",
+    "run_started_at": "2026-07-09T07:30:59+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from GoComet: GoComet press releases announced \"GoOrder PO ingestion and order management with full context."
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+      "Across peers, execution, workflow, and AI remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
-    "targets_fetched": 26,
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 4,
     "watch_count": 0,
-    "last_signal_label": "4 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and execution and workflow. Status page: Minor Service Outage."
       },
       {
         "company": "FourKites",
-        "summary": "Current narrative leans toward AI and automation, analytics and decision intelligence, and execution and workflow."
+        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
       },
       {
         "company": "Shippeo",
@@ -299,7 +299,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and optimization / procurement."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
       },
       {
         "company": "Wakeo",
@@ -312,25 +312,107 @@
     ],
     "peer_themes": [
       {
+        "theme": "execution",
+        "count": "4"
+      },
+      {
+        "theme": "workflow",
+        "count": "4"
+      },
+      {
         "theme": "AI",
         "count": "3"
       },
       {
         "theme": "automation",
         "count": "3"
-      },
-      {
-        "theme": "data quality / connectivity",
-        "count": "3"
-      },
-      {
-        "theme": "optimization / procurement",
-        "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
+        "evidence": [
+          "AI Orchestration AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Demo: Disruption Management Agent | Decision Intelligence demo series Watch project44’s Disruption Management Agent predict, prioritize, and resolve supply chain disruptions in real time – no manual triage required. See it in action Learn more"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/platform/",
+        "evidence": [
+          "AI Orchestration AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Demo: Disruption Management Agent | Decision Intelligence demo series Watch project44’s Disruption Management Agent predict, prioritize, and resolve supply chain disruptions in real time – no manual triage required. See it in action Learn more"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "AI Orchestration AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Demo: Disruption Management Agent | Decision Intelligence demo series Watch project44’s Disruption Management Agent predict, prioritize, and resolve supply chain disruptions in real time – no manual triage required. See it in action Learn more"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Partial Service Disruption – Movement Login Issues (Some Customers) (major).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Partial Service Disruption – Movement Login Issues (Some Customers) (major).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Minor Service Outage",
+          "Partial Service Disruption – Movement Login Issues (Some Customers) (major)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-07-09",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "detected_date": "2026-07-09",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/platform/"
+      },
+      {
+        "detected_date": "2026-07-09",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
+      {
+        "detected_date": "2026-07-09",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Partial Service Disruption – Movement Login Issues (Some Customers) (major).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-07-04",
         "company": "GoComet",
@@ -346,76 +428,46 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Temporary Service Disruption – YMS Driver Text Messaging (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-06-30",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/platform/"
-      },
-      {
-        "detected_date": "2026-06-30",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-06-29",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-06-28",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260708T075031+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-08.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260709T073059+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-09.md"
     ],
-    "warnings": [
-      "FourKites Press releases: Network error for https://www.fourkites.com/press/: The read operation timed out",
-      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out"
-    ]
+    "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W28",
-    "week_end_date": "2026-07-08",
+    "week_end_date": "2026-07-09",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "Project44 is reinforcing a partial service disruption movement motif through macro pressure."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -435,17 +487,48 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
-    "active_theses": [],
-    "top_signals": [],
+    "important_signal_count": 4,
+    "active_theses": [
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
+    ],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: Partial Service Disruption – Movement Login Issues (Some Customers) (major).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Macro pressure",
+        "workflow_scope": "exception management",
+        "claimed_outcome": "greater resilience",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Partial Service Disruption – Movement Login Issues (Some Customers) (major). Minor Service Outage",
+        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
+        "emerging_motif": "partial service disruption movement",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W28",
-        "week_end_date": "2026-07-08",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
-        "active_thesis_count": "0",
-        "signal_signature": "",
+        "week_end_date": "2026-07-09",
+        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
+        "signal_count": "4",
+        "active_thesis_count": "1",
+        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
