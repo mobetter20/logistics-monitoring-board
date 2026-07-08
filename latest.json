@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-06T22:32:14+00:00",
-  "requested_date": "2026-07-07",
+  "built_at": "2026-07-08T00:24:28+00:00",
+  "requested_date": "2026-07-08",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-07",
+    "requested_date": "2026-07-08",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Free Container Shipping Cost Calculator.",
+      "Lead daily item: UK shipping emissions regs could undermine competitiveness.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-07",
+        "report_label": "2026-07-08",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-07",
+        "report_label": "2026-07-08",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,110 +55,112 @@
       }
     ],
     "shared_warnings": [
+      "FourKites Press releases: Network error for https://www.fourkites.com/press/: The read operation timed out",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-07",
-    "last_updated": "2026-07-07 07:30",
+    "report_date": "2026-07-08",
+    "last_updated": "2026-07-08 07:50",
     "freshness": "current",
-    "status_note": "Market watch is led by Free Container Shipping Cost Calculator.",
+    "status_note": "Market watch is led by UK shipping emissions regs could undermine competitiveness.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Free Container Shipping Cost Calculator.",
+      "Lead market story: UK shipping emissions regs could undermine competitiveness.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-07",
+      "report_date": "2026-07-08",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Slovenian H4 motorway towards Italy closes again for four months; Free Container Shipping Cost Calculator; Xeneta Schedule Reliability Scorecard - Q2 2026",
+      "headline": "UK shipping emissions regs could undermine competitiveness; PIL opens new office in Abidjan to strengthen West Africa presence; Projectile strike on tanker revives Hormuz shipping fears",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Free Container Shipping Cost Calculator",
+    "headline": "UK shipping emissions regs could undermine competitiveness",
     "key_news_radar": [
       {
-        "title": "Free Container Shipping Cost Calculator",
-        "summary": "Calculate Your Container Costs Freight Rates Our free container shipping calculator delivers accurate container rate estimates.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-06T20:43:43+00:00",
+        "title": "UK shipping emissions regs could undermine competitiveness",
+        "summary": "The UK’s Emissions Trading Scheme (ETS) for maritime operations entered into force on 1 July 2026.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-07-07T06:11:15+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/container-shipping-cost-calculator-free-tool/",
+        "link": "https://www.worldcargonews.com/news/2026/07/uk-shipping-emissions-regs-could-undermine-competitiveness/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "APMT doubles profit at Maasvlakte II after bumpy start",
+        "summary": "APM Terminals’ Maasvlakte II facility in the Port of Rotterdam reported a strong financial performance in its 2025 annual accounts.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-07-07T06:32:53+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/07/apmt-doubles-profit-at-maasvlakte-ii-after-bumpy-start/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Piyush Goyal meets UAE Ambassador Alshaali, appreciates efforts to strengthen India-UAE partnership",
+        "summary": "NEW DELHI: Union Minister of Commerce and Industry Shri Piyush Goyal on Monday met Abdulnasser Alshaali, Ambassador of the UAE to India, with discussions centred on deepening the I",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-07T03:25:20+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/export/piyush-goyal-meets-uae-ambassador-alshaali-appreciates-efforts-to-strengthen-india-uae-partnership/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "DB opens new container depot area in Ulm-Dornstadt",
+        "summary": "Deutsche Bahn (DB) has opened a new 38,000-square-metre container depot in Ulm-Dornstadt, expanding capacity for intermodal freight transport in southern Germany.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-07T05:33:58+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/db-opens-new-container-depot-area-in-ulm-dornstadt/",
+        "label": "Watch",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
+          "container_news"
         ]
       },
       {
-        "title": "Slovenian H4 motorway towards Italy closes again for four months",
-        "summary": "The second phase of upgrade works on Slovenia’s H4 expressway, on the Vipava-Razdrto section between Razdrto, Vipava and Vrtojba, has been under way since 5 July 2026.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-06T10:35:03+00:00",
+        "title": "Projectile strike on tanker revives Hormuz shipping fears",
+        "summary": "Recent security gains face fresh threat after tankers attacked in Strait of Hormuz",
+        "source": "Tradewinds",
+        "timestamp": "2026-07-07T02:47:18+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/slovenian-h4-motorway-towards-italy-closes-again-for-four-months/",
+        "link": "https://www.tradewindsnews.com/tankers/projectile-strike-on-tanker-revives-hormuz-shipping-fears/2-1-2013915",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "tradewinds",
         "paywalled": false,
         "confirmed_by": []
-      },
-      {
-        "title": "Xeneta Schedule Reliability Scorecard - Q2 2026",
-        "summary": "Q2 2026: A Massive Recovery, With a Gulf-Sized Exception Global on-time performance hit 39% in May, the third consecutive monthly gain from 36% in March and 37% in April.",
-        "source": "Xeneta — Blog",
-        "timestamp": "2026-07-06T14:05:07+00:00",
-        "confidence": "medium",
-        "link": "https://www.xeneta.com/blog/xeneta-schedule-reliability-scorecard-q2-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "xeneta_blog",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Transport and logistics news - 6 July 2026",
-        "summary": "Congestion at the port of Jeddah Congestion at Jeddah Islamic Port stems from simultaneous pressure on berths, yards and inland links, in a port already exposed to the risk of satu",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-06T17:59:01+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-6-july-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "A peace deal in the Persian Gulf could signal a return of global shipping to the Suez Canal",
-        "summary": "The world’s second-largest shipping line is once again making a tentative return to one of the world’s busiest trade routes.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-06T15:52:59+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/a-peace-deal-in-the-persian-gulf-could-signal-a-return-of-global-shipping-to-the-suez-canal",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
       }
     ],
     "hot_topics": [
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -170,23 +172,19 @@
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -196,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-08",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "UK shipping emissions regs could undermine competitiveness; PIL opens new office in Abidjan to strengthen West Africa presence; Projectile strike on tanker revives Hormuz shipping fears",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-07",
         "write_now": "Maybe",
@@ -243,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "Freightos Weekly Update: Ocean rates steady as shippers brace for July hikes; EU crackdown on small parcel imports kicks in; The EU duty on parcels reshapes logistics flows",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-01",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Oman opens door to Hormuz tolls after a week of tension; Ocean rates steady as shippers brace for July hikes - June 30, 2026 Update; Maersk Upgrades Earnings Outlook Amid Freight Surge",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 311,
-      "high_trust": 76,
-      "trade_press": 235,
+      "total_items": 69,
+      "high_trust": 22,
+      "trade_press": 47,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-07.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-07.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-07.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-08.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-08.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-08.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-07",
-    "run_started_at": "2026-07-07T07:30:52+09:00",
+    "report_date": "2026-07-08",
+    "run_started_at": "2026-07-08T07:50:31+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -280,12 +278,12 @@
       "Latest lower-signal item came from GoComet: GoComet press releases announced \"GoOrder PO ingestion and order management with full context."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
-    "targets_fetched": 28,
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+    "targets_fetched": 26,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -293,7 +291,7 @@
       },
       {
         "company": "FourKites",
-        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
+        "summary": "Current narrative leans toward AI and automation, analytics and decision intelligence, and execution and workflow."
       },
       {
         "company": "Shippeo",
@@ -301,7 +299,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and optimization / procurement."
       },
       {
         "company": "Wakeo",
@@ -383,14 +381,17 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260707T073052+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-07.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260708T075031+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-08.md"
     ],
-    "warnings": []
+    "warnings": [
+      "FourKites Press releases: Network error for https://www.fourkites.com/press/: The read operation timed out",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W28",
-    "week_end_date": "2026-07-07",
+    "week_end_date": "2026-07-08",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -440,7 +441,7 @@
     "recent_history": [
       {
         "week_label": "2026-W28",
-        "week_end_date": "2026-07-07",
+        "week_end_date": "2026-07-08",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
