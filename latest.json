@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-09T22:32:13+00:00",
-  "requested_date": "2026-07-10",
+  "built_at": "2026-07-11T00:52:04+00:00",
+  "requested_date": "2026-07-11",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-10",
+    "requested_date": "2026-07-11",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update.",
+      "Lead daily item: CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-10",
+        "report_label": "2026-07-11",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,7 +36,7 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-10",
+        "report_label": "2026-07-11",
         "freshness": "current",
         "change_label": "Important change detected",
         "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
@@ -55,145 +55,143 @@
       }
     ],
     "shared_warnings": [
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: The read operation timed out",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-10",
-    "last_updated": "2026-07-10 07:31",
+    "report_date": "2026-07-11",
+    "last_updated": "2026-07-11 08:19",
     "freshness": "current",
-    "status_note": "Market watch is led by Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update.",
+    "status_note": "Market watch is led by CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update.",
+      "Lead market story: CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-10",
+      "report_date": "2026-07-11",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update; Video: Ukrainian Drones Strike 21 Russian Ships In Sea Of Azov Over Past 72 Hours; Australia suspends licences of 44 fumigation agencies, putting Indian basmati rice shipments at risk",
+      "headline": "CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions; JNPA to develop State-Of-The-Art Empty Container Yard in its premises near Nhava Sheva; IPA signs MoU with Envision Enterprise Solutions to accelerate digital transformation of India’s Ports",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update",
+    "headline": "CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions",
     "key_news_radar": [
       {
-        "title": "Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 8%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-09T11:02:53+00:00",
+        "title": "CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions",
+        "summary": "NEW DELHI : Container Corporation of India Ltd.",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-10T03:20:42+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/container-rates-jump-another-1k-feu-but-is-demand-peaking-july-8-2026-update/",
+        "link": "https://indiashippingnews.com/logistics/concor-strengthens-green-logistics-strategy-with-sustainable-and-low-emission-freight-solutions/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Trump Declares Iran Ceasefire ‘Over’ As US & Iran Exchange Strikes For Second Consecutive Night",
-        "summary": "Screengrab from X video posted by US CENTCOM The United States carried out a second consecutive night of strikes on Iranian military targets, while Iran responded by targeting U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-09T13:25:51+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/trump-declares-iran-ceasefire-over-as-us-iran-exchange-strikes-for-second-consecutive-night/?utm_source=rss&utm_medium=rss&utm_campaign=trump-declares-iran-ceasefire-over-as-us-iran-exchange-strikes-for-second-consecutive-night",
+        "title": "JNPA to develop State-Of-The-Art Empty Container Yard in its premises near Nhava Sheva",
+        "summary": "MUMBAI : Jawaharlal Nehru Port Authority (JNPA) - India’s largest container port, has entered into License Agreement with RSA Global for the development of a State-Of-The-Art Empty",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-10T03:22:13+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/ports/jnpa-to-develop-state-of-the-art-empty-container-yard-in-its-premises-near-nhava-sheva/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "4 Oil And LNG Tankers Turn Back While Attempting To Transit Strait Of Hormuz After Renewed Attacks",
-        "summary": "Image for representation purposes only At least four oil and liquefied natural gas (LNG) tankers turned back while trying to pass through the Strait of Hormuz after fresh attacks o",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-09T13:42:55+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/4-oil-and-lng-tankers-turn-back-while-attempting-to-transit-strait-of-hormuz-after-renewed-attacks/?utm_source=rss&utm_medium=rss&utm_campaign=4-oil-and-lng-tankers-turn-back-while-attempting-to-transit-strait-of-hormuz-after-renewed-attacks",
+        "title": "India-Australia strike deal on uranium exports during PM Modi’s visit",
+        "summary": "MELBOURNE/NEW DELHI : Australia and ​India reached a deal on Thursday to export Australian uranium to India for use in the nuclear energy industry, while agreeing to ‌deepen cooper",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-10T03:30:31+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/export/india-australia-strike-deal-on-uranium-exports-during-pm-modis-visit/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Video: U.S. Launches Retaliatory Strikes On Iran After Attacks On Commercial Ships In Strait Of Hormuz",
-        "summary": "Image Credits: Wikipedia The United States launched a second consecutive round of military strikes against Iran after accusing Tehran of attacking three commercial vessels transiti",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-09T13:02:09+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/video-u-s-launches-retaliatory-strikes-on-iran-after-attacks-on-commercial-ships-in-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=video-u-s-launches-retaliatory-strikes-on-iran-after-attacks-on-commercial-ships-in-strait-of-hormuz",
+        "title": "Australia-India Partnership on Cyber, Critical Technologies and Supply Chains (PACTS)",
+        "summary": "MELBOURNE : Australia and India have built an enduring partnership in cyber and critical technologies underpinned by our Comprehensive Strategic Partnership, the 2020 Framework Arr",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-10T03:28:45+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/international-shipping/australia-india-partnership-on-cyber-critical-technologies-and-supply-chains-pacts/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "STG Logistics exits Chapter 11 as intermodal market heats up",
-        "summary": "STG Logistics announced Thursday that it has completed a financial restructuring, reducing its total funded debt by approximately 90%.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-09T18:11:29+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/stg-logistics-exits-chapter-11-as-intermodal-market-heats-up",
+        "title": "IPA signs MoU with Envision Enterprise Solutions to accelerate digital transformation of India’s Ports",
+        "summary": "NEW DELHI : The Indian Ports Association (IPA) has signed a Memorandum of Understanding (MoU) with Envision Enterprise Solutions Pvt.",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-10T03:24:37+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/ports/ipa-signs-mou-with-envision-enterprise-solutions-to-accelerate-digital-transformation-of-indias-ports/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-11",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions; JNPA to develop State-Of-The-Art Empty Container Yard in its premises near Nhava Sheva; IPA signs MoU with Envision Enterprise Solutions to accelerate digital transformation of India’s Ports",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-10",
         "write_now": "Maybe",
@@ -241,33 +239,25 @@
         "worth_attention_today": "5",
         "headline": "CONCOR awarded Authorized Economic Operator (AEO) Certificate by Indian Customs; Hormuz Oil Shipments Top 10 Million Barrels Per Day as U.S. Strengthens Maritime Security; CMA CGM Ship Hit By Missile In Strait Of Hormuz To Be Scrapped, Says Company CEO",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-04",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container freight rates continue to rise at the end of June 2026; Container Freight Rates Surge to Highest Levels Since 2022 Pandemic Peak; Drewry World Container Index jumps 9% as transpacific and Asia-Europe rates climb",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 300,
-      "high_trust": 72,
-      "trade_press": 228,
+      "total_items": 56,
+      "high_trust": 16,
+      "trade_press": 40,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-10.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-10.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-10.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-11.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-11.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-11.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-10",
-    "run_started_at": "2026-07-10T07:31:00+09:00",
+    "report_date": "2026-07-11",
+    "run_started_at": "2026-07-11T08:19:45+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
@@ -278,7 +268,7 @@
     ],
     "change_label": "Important change detected",
     "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
-    "targets_fetched": 28,
+    "targets_fetched": 26,
     "target_count": 28,
     "important_count": 3,
     "watch_count": 0,
@@ -298,7 +288,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and optimization / procurement."
       },
       {
         "company": "Wakeo",
@@ -337,8 +327,8 @@
         "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/",
         "evidence": [
-          "AI Virtual Summit – July 2026",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – July 2026 Join project44’s AI Virtual Summit on Thursday, July 30th at 11:30am CT Learn more AI Agents"
+          "AI Virtual Summit – August 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Tuesday, August 11th at 10:00am CT Learn more AI Agents"
         ]
       },
       {
@@ -350,8 +340,8 @@
         "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/platform/",
         "evidence": [
-          "AI Virtual Summit – July 2026",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – July 2026 Join project44’s AI Virtual Summit on Thursday, July 30th at 11:30am CT Learn more AI Agents"
+          "AI Virtual Summit – August 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Tuesday, August 11th at 10:00am CT Learn more AI Agents"
         ]
       },
       {
@@ -363,8 +353,8 @@
         "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/industries/",
         "evidence": [
-          "AI Virtual Summit – July 2026",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – July 2026 Join project44’s AI Virtual Summit on Thursday, July 30th at 11:30am CT Learn more AI Agents"
+          "AI Virtual Summit – August 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Tuesday, August 11th at 10:00am CT Learn more AI Agents"
         ]
       }
     ],
@@ -420,14 +410,17 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260710T073100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-10.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260711T081945+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-11.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: The read operation timed out",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W28",
-    "week_end_date": "2026-07-10",
+    "week_end_date": "2026-07-11",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -452,8 +445,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -513,7 +505,7 @@
     "recent_history": [
       {
         "week_label": "2026-W28",
-        "week_end_date": "2026-07-10",
+        "week_end_date": "2026-07-11",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "4",
         "active_thesis_count": "1",
