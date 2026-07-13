@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-12T22:32:36+00:00",
-  "requested_date": "2026-07-13",
+  "built_at": "2026-07-13T22:58:03+00:00",
+  "requested_date": "2026-07-14",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-13",
+    "requested_date": "2026-07-14",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran.",
+      "Lead daily item: No respite at Hormuz as container ship is hit.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-13",
+        "report_label": "2026-07-14",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-13",
+        "report_label": "2026-07-14",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,96 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-13",
-    "last_updated": "2026-07-13 07:31",
+    "report_date": "2026-07-14",
+    "last_updated": "2026-07-14 07:56",
     "freshness": "current",
-    "status_note": "Market watch is led by IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran.",
+    "status_note": "Market watch is led by No respite at Hormuz as container ship is hit.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran.",
+      "Lead market story: No respite at Hormuz as container ship is hit.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-13",
+      "report_date": "2026-07-14",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran; Iran claims closure of Strait of Hormuz after renewed US strikes; Maritime safety navigates record lows and new risks",
+      "headline": "No respite at Hormuz as container ship is hit; Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues; Strait of Hormuz Traffic Stays Low as US-Iran Talks Continue; Container and Tanker Rates React",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran",
+    "headline": "No respite at Hormuz as container ship is hit",
     "key_news_radar": [
       {
-        "title": "IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran",
-        "summary": "The security situation in the Strait of Hormuz has taken another dangerous turn after the United States launched fresh military strikes against Iranian targets in response to recen",
+        "title": "No respite at Hormuz as container ship is hit",
+        "summary": "The winds of war are still sweeping across the Persian Gulf, with serious repercussions for commercial shipping, which has suffered a fresh attack: the Pasdaran (Islamic Revolution",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-13T07:54:02+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/no-respite-at-hormuz-as-container-ship-is-hit/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Strait of Hormuz Traffic Stays Low as US-Iran Talks Continue; Container and Tanker Rates React",
+        "summary": "Negotiations between the US and Iran continue, but vessel traffic through the Strait of Hormuz remains low.",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-12T08:23:38+00:00",
+        "timestamp": "2026-07-13T08:29:01+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/imo-warns-ships-to-avoid-strait-of-hormuz-after-u-s-strikes-iran/",
+        "link": "https://www.globaltrademag.com/strait-of-hormuz-traffic-stays-low-as-us-iran-talks-continue-container-and-tanker-rates-react/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues",
+        "summary": "WASHINGTON DC: US President Donald Trump has rejected Iranian claims to have closed off the strait of Hormuz, as both sides battled for control over the waterway, leaving a ceasefi",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-13T03:23:43+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/container-shipping/trump-rejects-irans-strait-of-hormuz-closure-claim-as-battle-for-control-continues/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Iran conflict drives up Asia-US container rate by 276%",
+        "summary": "It’s a good sign that, after months of supply chain anxiety driven by tariffs and the Strait of Hormuz, shippers can finally welcome some mixed metaphors from shipping analysts.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-13T19:10:41+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/iran-conflict-drives-up-asia-us-container-rate-by-276",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
           "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Iran claims closure of Strait of Hormuz after renewed US strikes",
-        "summary": "According to multiple reports, Iran has announced the closure of the Strait of Hormuz following a fresh round of US military strikes, marking a sharp escalation in regional tension",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-12T11:37:51+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/iran-claims-closure-of-strait-of-hormuz-after-renewed-us-strikes/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Maritime safety navigates record lows and new risks",
-        "summary": "In 2025, global maritime incidents involving vessels over 100 GT fell by 16% to 2,818 cases, while total losses reached a historic low of 43 ships, confirming a structural decade-l",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-12T10:19:41+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/maritime-safety-navigates-record-lows-and-new-risks/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "U.S Asks Iran To Issue Public Statement Declaring Strait Of Hormuz Open & Ships Won’t Be Attacked",
-        "summary": "Image for representation purposes only The U.S has asked Iran to issue a public statement declaring that the Strait of Hormuz is open and that ships passing through the waterway wo",
+        "title": "Iran Declares Strait Of Hormuz Closed Again After Attacking Commercial Ship",
+        "summary": "Image for representation purposes only Iran said it had closed the Strait of Hormuz once again after its military struck a commercial vessel travelling on what it called an “unauth",
         "source": "Marine Insight",
-        "timestamp": "2026-07-11T11:00:06+00:00",
+        "timestamp": "2026-07-13T12:19:07+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/u-s-asks-iran-to-issue-public-statement-declaring-strait-of-hormuz-open-ships-wont-be-attacked/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-asks-iran-to-issue-public-statement-declaring-strait-of-hormuz-open-ships-wont-be-attacked",
+        "link": "https://www.marineinsight.com/iran-declares-strait-of-hormuz-closed-again-after-attacking-commercial-ship/?utm_source=rss&utm_medium=rss&utm_campaign=iran-declares-strait-of-hormuz-closed-again-after-attacking-commercial-ship",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "How Contship’s land-based intermodal operations work",
-        "summary": "The Contship group provides land-based intermodal solutions through five integrated companies: Hannibal, the commercial MTO; Oceanogate, which provides national rail traction; Rail",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-12T08:11:22+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/how-contships-land-based-intermodal-operations-work/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -178,15 +176,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-14",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "No respite at Hormuz as container ship is hit; Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues; Strait of Hormuz Traffic Stays Low as US-Iran Talks Continue; Container and Tanker Rates React",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-13",
         "write_now": "Maybe",
@@ -243,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "UK shipping emissions regs could undermine competitiveness; PIL opens new office in Abidjan to strengthen West Africa presence; Projectile strike on tanker revives Hormuz shipping fears",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-07",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Slovenian H4 motorway towards Italy closes again for four months; Free Container Shipping Cost Calculator; Xeneta Schedule Reliability Scorecard - Q2 2026",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 75,
-      "high_trust": 22,
-      "trade_press": 53,
+      "total_items": 327,
+      "high_trust": 69,
+      "trade_press": 258,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-13.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-13.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-13.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-14.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-14.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-14.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-13",
-    "run_started_at": "2026-07-13T07:31:12+09:00",
+    "report_date": "2026-07-14",
+    "run_started_at": "2026-07-14T07:56:32+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -280,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -383,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260713T073112+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-13.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260714T075632+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-14.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W29",
-    "week_end_date": "2026-07-13",
+    "week_end_date": "2026-07-14",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -440,7 +438,7 @@
     "recent_history": [
       {
         "week_label": "2026-W29",
-        "week_end_date": "2026-07-13",
+        "week_end_date": "2026-07-14",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
