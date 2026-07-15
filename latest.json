@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-14T22:54:36+00:00",
-  "requested_date": "2026-07-15",
+  "built_at": "2026-07-15T22:32:15+00:00",
+  "requested_date": "2026-07-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-15",
+    "requested_date": "2026-07-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: NEW: Trade turbulence turns to record volume for top U.S. port.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-15",
+        "report_label": "2026-07-16",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-15",
+        "report_label": "2026-07-16",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-15",
-    "last_updated": "2026-07-15 07:53",
+    "report_date": "2026-07-16",
+    "last_updated": "2026-07-16 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz.",
+    "status_note": "Market watch is led by NEW: Trade turbulence turns to record volume for top U.S. port.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz.",
+      "Lead market story: NEW: Trade turbulence turns to record volume for top U.S. port.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-15",
+      "report_date": "2026-07-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
-      "worth_attention_today": "3",
-      "headline": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk; Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz; One Indian killed, six injured as Iranian missiles target two UAE tankers in Hormuz",
+      "worth_attention_today": "5",
+      "headline": "NEW: Trade turbulence turns to record volume for top U.S. port; Hormuz closure pushing fuel costs back up - July 14, 2026 Update; DP World also turns to road transport after Hormuz",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz",
+    "headline": "NEW: Trade turbulence turns to record volume for top U.S. port",
     "key_news_radar": [
       {
-        "title": "Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz",
-        "summary": "An Indian seafarer was killed and eight crew members were injured after two UAE-flagged oil tankers were struck by Iranian cruise missiles in the Strait of Hormuz early Tuesday, ma",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-14T00:15:19+00:00",
+        "title": "NEW: Trade turbulence turns to record volume for top U.S. port",
+        "summary": "The Port of Long Beach delivered its third busiest June on record, moving 779,000 twenty foot equivalent units (TEUs), a 10.6% increase compared with the same period a year ago.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-14T19:20:23+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/indian-seafarer-killed-eight-injured-after-iranian-missile-strike-on-uae-tankers-in-strait-of-hormuz/",
+        "link": "https://www.freightwaves.com/news/new-trade-turbulence-turns-to-record-volume-for-top-u-s-port",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DP World Plans New UAE East Coast Port to Reduce Reliance on Strait of Hormuz",
-        "summary": "DP World is planning a major expansion on the United Arab Emirates’ east coast with the development of a new multipurpose port in Fujairah and a container terminal at the existing",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-14T00:03:37+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/dp-world-plans-new-uae-east-coast-port-to-reduce-reliance-on-strait-of-hormuz/",
+        "title": "DP World also turns to road transport after Hormuz",
+        "summary": "DP World has added 700 new commercial vehicles to its road transport network in the Gulf Cooperation Council (GCC) countries, increasing the Dubai-based group’s capacity to around",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-15T09:19:40+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/dp-world-also-turns-to-road-transport-after-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk",
-        "summary": "LONDON/SINGAPORE : The number of tankers transiting the Strait of Hormuz fell in the past day to the lowest level in two months, shipping data showed on Monday, as renewed strikes",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-14T03:20:34+00:00",
+        "title": "Hormuz closure pushing fuel costs back up - July 14, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 13%.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-14T13:56:37+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/hormuz-traffic-slows-to-two-month-low-as-renewed-us-iran-strikes-raise-safety-risk/",
+        "link": "https://www.freightos.com/freight-resources/hormuz-closure-pushing-fuel-costs-back-up-july-14-2026-update/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Iran suspends MoU with US over ceasefire violation, rules out second round of talks in Islamabad",
-        "summary": "TEHRAN : Iran on Monday accused the United States of “openly violating” a ceasefire agreement and announced that it would not implement a previously agreed memorandum of understand",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-14T03:22:53+00:00",
+        "title": "Port of Los Angeles sees new June box mark",
+        "summary": "June marked a historic milestone for the Port of Los Angeles, as the top U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-15T19:37:33+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/global-trade/iran-suspends-mou-with-us-over-ceasefire-violation-rules-out-second-round-of-talks-in-islamabad/",
+        "link": "https://www.freightwaves.com/news/port-of-los-angeles-sees-new-june-box-mark",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
       },
       {
-        "title": "‘Hormuz blockade only for Iran and anybody doing business with them’: Trump",
-        "summary": "WASHINGTON DC: US President Donald Trump on Monday (local time) announced that American forces will reimpose a naval blockade in the Strait of Hormuz targeting Iran, while allowing",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-14T03:24:03+00:00",
+        "title": "U.S. Restores Iran Shipping Blockade as Hormuz Crisis Deepens",
+        "summary": "The United States is reinstating its maritime blockade on Iran, marking a sharp escalation in tensions across the Middle East and renewing pressure on shipping through the strategi",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-14T11:06:31+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/hormuz-blockade-only-for-iran-and-anybody-doing-business-with-them-trump/",
+        "link": "https://www.globaltrademag.com/u-s-restores-iran-shipping-blockade-as-hormuz-crisis-deepens/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,28 +159,32 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -188,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "NEW: Trade turbulence turns to record volume for top U.S. port; Hormuz closure pushing fuel costs back up - July 14, 2026 Update; DP World also turns to road transport after Hormuz",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-15",
         "write_now": "Maybe",
@@ -235,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update; Video: Ukrainian Drones Strike 21 Russian Ships In Sea Of Azov Over Past 72 Hours; Australia suspends licences of 44 fumigation agencies, putting Indian basmati rice shipments at risk",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container Ship Attack in Hormuz Raises Alarm for Indian Exporters; India-Indonesia Joint Statement on the State Visit by Prime Minister of India to Indonesia; Conflict flares again in the Strait of Hormuz",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 59,
-      "high_trust": 21,
-      "trade_press": 38,
+      "total_items": 467,
+      "high_trust": 120,
+      "trade_press": 347,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-15",
-    "run_started_at": "2026-07-15T07:53:13+09:00",
+    "report_date": "2026-07-16",
+    "run_started_at": "2026-07-16T07:30:58+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
-      "Across peers, execution, workflow, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, execution, workflow, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 4,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -321,58 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Shippers buy TMS, Visibility, YMS, and Last Mile. Logistics service providers buy infrastructure. Today those become two businesses: project44, the Decision Intelligence Platform for enterprise shippers, and LSP44, the profitable, AI-Native Agent & API infrastructure company that 3PLs, freight forwarders, and brokers embed directly into their own tech stack. CHICAGO — July 14, 2026 —…",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Thursday, August 13th at 10:00am CT Learn more AI Agents"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/platform/",
-        "evidence": [
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Thursday, August 13th at 10:00am CT Learn more AI Agents"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Virtual Summit – August 2026 Join project44’s AI Virtual Summit on Thursday, August 13th at 10:00am CT Learn more AI Agents"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 press releases announced \"See what’s next",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "See what’s next",
-        "source_url": "https://www.project44.com/press-releases/project44-creates-two-businesses-and-launches-lsp44-the-ai-agent-and-api-infrastructure-that-9-of-the-worlds-10-largest-logistics-providers-already-run/",
-        "evidence": [
-          "See what’s next",
-          "project44 is the Decision Intelligence Platform for the modern supply chain. Its context-based AI transforms fragmented logistics management into unified intelligence, bringing certainty to global supply chain operations. With intelligent transportation management, end-to-end vis"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -425,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260715T075313+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260716T073058+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-16.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W29",
-    "week_end_date": "2026-07-15",
+    "week_end_date": "2026-07-16",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around decision support.",
     "sparse_explanation": "",
@@ -456,8 +412,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -503,7 +458,7 @@
     "recent_history": [
       {
         "week_label": "2026-W29",
-        "week_end_date": "2026-07-15",
+        "week_end_date": "2026-07-16",
         "takeaway": "Project44 is signaling AI positioning around decision support.",
         "signal_count": "4",
         "active_thesis_count": "1",
