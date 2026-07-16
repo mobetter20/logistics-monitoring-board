@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-15T22:32:15+00:00",
-  "requested_date": "2026-07-16",
+  "built_at": "2026-07-16T22:31:53+00:00",
+  "requested_date": "2026-07-17",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-16",
+    "requested_date": "2026-07-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: NEW: Trade turbulence turns to record volume for top U.S. port.",
+      "Lead daily item: FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-16",
+        "report_label": "2026-07-17",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-16",
+        "report_label": "2026-07-17",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,50 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-16",
-    "last_updated": "2026-07-16 07:30",
+    "report_date": "2026-07-17",
+    "last_updated": "2026-07-17 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by NEW: Trade turbulence turns to record volume for top U.S. port.",
+    "status_note": "Market watch is led by FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: NEW: Trade turbulence turns to record volume for top U.S. port.",
+      "Lead market story: FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-16",
+      "report_date": "2026-07-17",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "NEW: Trade turbulence turns to record volume for top U.S. port; Hormuz closure pushing fuel costs back up - July 14, 2026 Update; DP World also turns to road transport after Hormuz",
+      "headline": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners; Ships Reject US Military-Guided Strait Of Hormuz Transits After Iranian Attacks Raise Security Concerns; German logistics caught between drought and engineering works",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "NEW: Trade turbulence turns to record volume for top U.S. port",
+    "headline": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners",
     "key_news_radar": [
       {
-        "title": "NEW: Trade turbulence turns to record volume for top U.S. port",
-        "summary": "The Port of Long Beach delivered its third busiest June on record, moving 779,000 twenty foot equivalent units (TEUs), a 10.6% increase compared with the same period a year ago.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-14T19:20:23+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-trade-turbulence-turns-to-record-volume-for-top-u-s-port",
+        "title": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners",
+        "summary": "CHICAGO — FreightWaves unveiled the winners of its 2026 AI Excellence in Supply Chain Awards during a ceremony at the Old Post Office in Chicago as part of the FreightWaves Supply",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-16T18:07:00+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/2026-ai-excellence-in-supply-chain-awards-winners",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DP World also turns to road transport after Hormuz",
-        "summary": "DP World has added 700 new commercial vehicles to its road transport network in the Gulf Cooperation Council (GCC) countries, increasing the Dubai-based group’s capacity to around",
+        "title": "German logistics caught between drought and engineering works",
+        "summary": "Drought is again taking a toll in the summer of 2026.",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-15T09:19:40+00:00",
+        "timestamp": "2026-07-16T12:03:20+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/dp-world-also-turns-to-road-transport-after-hormuz/",
+        "link": "https://www.trasportoeuropa.it/english/german-logistics-caught-between-drought-and-engineering-works/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -115,43 +115,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Hormuz closure pushing fuel costs back up - July 14, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 13%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-14T13:56:37+00:00",
+        "title": "India Directs Shipping Companies to Halt Deployment of Seafarers on Hormuz-Bound Vessels",
+        "summary": "India’s maritime authority has directed shipping companies to suspend the deployment of Indian seafarers on vessels transiting the Strait of Hormuz until further orders, following",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-16T18:43:12+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/hormuz-closure-pushing-fuel-costs-back-up-july-14-2026-update/",
+        "link": "https://indiaseatradenews.com/india-directs-shipping-companies-to-halt-deployment-of-seafarers-on-hormuz-bound-vessels/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Port of Los Angeles sees new June box mark",
-        "summary": "June marked a historic milestone for the Port of Los Angeles, as the top U.S.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-15T19:37:33+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/port-of-los-angeles-sees-new-june-box-mark",
+        "title": "Iran Threatens To Close More Strategic Seaways After US Renews Naval Blockade Of Iranian Ports",
+        "summary": "Image Credits: US Centcom Iran threatened on Wednesday to expand disruption to regional energy export routes beyond the Strait of Hormuz after the United States renewed a naval blo",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-16T13:22:11+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-threatens-to-close-more-strategic-seaways-after-us-renews-naval-blockade-of-iranian-ports/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-to-close-more-strategic-seaways-after-us-renews-naval-blockade-of-iranian-ports",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "marine_insight",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "U.S. Restores Iran Shipping Blockade as Hormuz Crisis Deepens",
-        "summary": "The United States is reinstating its maritime blockade on Iran, marking a sharp escalation in tensions across the Middle East and renewing pressure on shipping through the strategi",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-14T11:06:31+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/u-s-restores-iran-shipping-blockade-as-hormuz-crisis-deepens/",
+        "title": "Ships Reject US Military-Guided Strait Of Hormuz Transits After Iranian Attacks Raise Security Concerns",
+        "summary": "Image Credits: US Centcom Some shipping companies are avoiding a U.S.",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-16T13:14:20+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/ships-reject-us-military-guided-strait-of-hormuz-transits-after-iranian-attacks-raise-security-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=ships-reject-us-military-guided-strait-of-hormuz-transits-after-iranian-attacks-raise-security-concerns",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,7 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -167,7 +165,7 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -176,7 +174,7 @@
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -184,7 +182,7 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-17",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners; Ships Reject US Military-Guided Strait Of Hormuz Transits After Iranian Attacks Raise Security Concerns; German logistics caught between drought and engineering works",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-16",
         "write_now": "Maybe",
@@ -241,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "CONCOR strengthens Green Logistics strategy with sustainable and Low-Emission Freight Solutions; JNPA to develop State-Of-The-Art Empty Container Yard in its premises near Nhava Sheva; IPA signs MoU with Envision Enterprise Solutions to accelerate digital transformation of India’s Ports",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-10",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container rates jump another $1k/FEU - but is demand peaking? - July 8, 2026 Update; Video: Ukrainian Drones Strike 21 Russian Ships In Sea Of Azov Over Past 72 Hours; Australia suspends licences of 44 fumigation agencies, putting Indian basmati rice shipments at risk",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 467,
-      "high_trust": 120,
-      "trade_press": 347,
+      "total_items": 305,
+      "high_trust": 59,
+      "trade_press": 246,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-16.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-16.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-16.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-17.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-17.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-17.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-16",
-    "run_started_at": "2026-07-16T07:30:58+09:00",
+    "report_date": "2026-07-17",
+    "run_started_at": "2026-07-17T07:30:50+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +276,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260716T073058+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-16.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260717T073050+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-17.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W29",
-    "week_end_date": "2026-07-16",
+    "week_end_date": "2026-07-17",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around decision support.",
     "sparse_explanation": "",
@@ -458,7 +456,7 @@
     "recent_history": [
       {
         "week_label": "2026-W29",
-        "week_end_date": "2026-07-16",
+        "week_end_date": "2026-07-17",
         "takeaway": "Project44 is signaling AI positioning around decision support.",
         "signal_count": "4",
         "active_thesis_count": "1",
