@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-17T22:34:11+00:00",
-  "requested_date": "2026-07-18",
+  "built_at": "2026-07-18T22:32:12+00:00",
+  "requested_date": "2026-07-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-18",
+    "requested_date": "2026-07-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Ports, containership operators ride wave of uncertainty.",
+      "Lead daily item: Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-18",
+        "report_label": "2026-07-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-18",
+        "report_label": "2026-07-19",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,76 +64,52 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-18",
-    "last_updated": "2026-07-18 07:32",
+    "report_date": "2026-07-19",
+    "last_updated": "2026-07-19 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Ports, containership operators ride wave of uncertainty.",
+    "status_note": "Market watch is led by Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Ports, containership operators ride wave of uncertainty.",
+      "Lead market story: Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-18",
+      "report_date": "2026-07-19",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Ports, containership operators ride wave of uncertainty; Drewry World Container Index slips as peak season momentum eases; Sweden reopens Gothenburg-Borås line three weeks after freight derailment",
+      "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists; Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3; 3000 Filipino Seafarers Stranded In Persian Gulf As Iran Shuts Strait Of Hormuz Again",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Ports, containership operators ride wave of uncertainty",
+    "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists",
     "key_news_radar": [
       {
-        "title": "Ports, containership operators ride wave of uncertainty",
-        "summary": "The maritime industry has become accustomed to riding an economic roller coaster from one year to the next.",
-        "source": "DC Velocity",
-        "timestamp": "2026-07-17T19:54:20+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/ports-containership-operators-ride-wave-of-uncertainty",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "dcvelocity",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Maersk Hikes Emergency Surcharge for India-Europe Trade",
-        "summary": "Maersk has announced an increase in its Emergency Surcharge (EMS) on shipments moving from India to Europe, with the revised charges set to take effect from August 1.",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-17T19:06:35+00:00",
+        "title": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists",
+        "summary": "The global shipping industry is turning its attention to the Red Sea as fears grow that the Bab el-Mandeb Strait could become the next major maritime chokepoint if tensions in the",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-18T11:46:30+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/maersk-hikes-emergency-surcharge-for-india-europe-trade/",
+        "link": "https://www.globaltrademag.com/red-sea-emerges-as-shippings-next-flashpoint-as-hormuz-crisis-persists/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
       },
       {
-        "title": "Drewry World Container Index slips as peak season momentum eases",
-        "summary": "The Drewry World Container Index (WCI) fell 2% this week to US$4,547 per 40ft container, ending 10 consecutive weeks of gains.",
-        "source": "Container News",
-        "timestamp": "2026-07-17T16:00:06+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/drewry-world-container-index-slips-as-peak-season-momentum-eases/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "US Marines Board Oil Tanker In Gulf Of Oman As Naval Blockade Against Iran Intensifies (Images)",
-        "summary": "Marines boarded a commercial tanker in the Gulf of Oman on July 16 as part of Washington’s enforcement of its renewed naval blockade on ships trading with Iran, U.S.",
+        "title": "Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3",
+        "summary": "Image for representation purposes only Russia launched fresh attacks on Ukraine’s Black Sea ports on Friday, killing three people and damaging foreign-flagged commercial vessels, w",
         "source": "Marine Insight",
-        "timestamp": "2026-07-17T09:38:11+00:00",
+        "timestamp": "2026-07-18T12:29:02+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/us-marines-board-oil-tanker-in-gulf-of-oman-as-naval-blockade-against-iran-intensifies-images/?utm_source=rss&utm_medium=rss&utm_campaign=us-marines-board-oil-tanker-in-gulf-of-oman-as-naval-blockade-against-iran-intensifies-images",
+        "link": "https://www.marineinsight.com/russian-strikes-on-ukraines-black-sea-ports-damage-foreign-flagged-vessels-kill-3/?utm_source=rss&utm_medium=rss&utm_campaign=russian-strikes-on-ukraines-black-sea-ports-damage-foreign-flagged-vessels-kill-3",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -141,15 +117,41 @@
         "confirmed_by": []
       },
       {
-        "title": "High yields, Covid-like volumes drive 23% gain in United’s cargo revenue",
-        "summary": "United Airlines’ cargo revenue increased 22.6% to $527 million in the second quarter as the carrier benefited from a sharp rise in air cargo rates related to disruptions from the I",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-17T20:20:39+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/high-yields-covid-like-volumes-drive-23-gain-in-uniteds-cargo-revenue",
+        "title": "US Airstrikes Collapse Surveillance Tower at Iran’s Chabahar Port",
+        "summary": "US airstrikes on Friday reportedly brought down a surveillance tower at Iran’s strategic Chabahar Port on the Gulf of Oman, marking the latest escalation in the ongoing conflict be",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-17T23:41:46+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/us-airstrikes-collapse-surveillance-tower-at-irans-chabahar-port/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Iran Tells Houthis To Close Bab El-Mandeb Strait If US Strikes Power Plants",
+        "summary": "Iran has told the Houthis in Yemen to prepare to close the Bab el-Mandeb Strait if the United States carries out President Donald Trump’s threat to bomb Iranian power plants and br",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-18T09:00:50+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-houthis-bab-el-mandeb-blockade-threat/?utm_source=rss&utm_medium=rss&utm_campaign=iran-houthis-bab-el-mandeb-blockade-threat",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Iran Claims Two Oil Tankers Exploded, Caught Fire In Strait Of Hormuz Minefield; US Denies",
+        "summary": "Image for representation purposes only Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Saturday that two oil tankers exploded and caught fire after hitting mines south of t",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-18T11:49:07+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,28 +163,28 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists; Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3; 3000 Filipino Seafarers Stranded In Persian Gulf As Iran Shuts Strait Of Hormuz Again",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-18",
         "write_now": "Maybe",
@@ -239,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran; Iran claims closure of Strait of Hormuz after renewed US strikes; Maritime safety navigates record lows and new risks",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Major renovation work means closure of Rhine railway corridor; Iran-US Escalation Raises Fears Of New Transit Restraints & Fees In The Strait Of Malacca; Maersk resumes Middle East-US East Coast service via Suez Canal",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 286,
-      "high_trust": 64,
-      "trade_press": 222,
+      "total_items": 86,
+      "high_trust": 26,
+      "trade_press": 60,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-18",
-    "run_started_at": "2026-07-18T07:32:09+09:00",
+    "report_date": "2026-07-19",
+    "run_started_at": "2026-07-19T07:31:06+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -379,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260718T073209+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260719T073106+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-19.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W29",
-    "week_end_date": "2026-07-18",
+    "week_end_date": "2026-07-19",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around decision support.",
     "sparse_explanation": "",
@@ -410,8 +412,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -457,7 +458,7 @@
     "recent_history": [
       {
         "week_label": "2026-W29",
-        "week_end_date": "2026-07-18",
+        "week_end_date": "2026-07-19",
         "takeaway": "Project44 is signaling AI positioning around decision support.",
         "signal_count": "4",
         "active_thesis_count": "1",
