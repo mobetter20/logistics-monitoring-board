@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-18T22:32:12+00:00",
-  "requested_date": "2026-07-19",
+  "built_at": "2026-07-19T22:32:08+00:00",
+  "requested_date": "2026-07-20",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-19",
+    "requested_date": "2026-07-20",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
+      "Lead daily item: Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-19",
+        "report_label": "2026-07-20",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-19",
+        "report_label": "2026-07-20",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W29",
+        "report_label": "2026-W30",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around decision support.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,65 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-19",
-    "last_updated": "2026-07-19 07:31",
+    "report_date": "2026-07-20",
+    "last_updated": "2026-07-20 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
+    "status_note": "Market watch is led by Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists.",
+      "Lead market story: Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-19",
+      "report_date": "2026-07-20",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists; Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3; 3000 Filipino Seafarers Stranded In Persian Gulf As Iran Shuts Strait Of Hormuz Again",
+      "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs; US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’; Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists",
+    "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs",
     "key_news_radar": [
       {
-        "title": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists",
-        "summary": "The global shipping industry is turning its attention to the Red Sea as fears grow that the Bab el-Mandeb Strait could become the next major maritime chokepoint if tensions in the",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-18T11:46:30+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/red-sea-emerges-as-shippings-next-flashpoint-as-hormuz-crisis-persists/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3",
-        "summary": "Image for representation purposes only Russia launched fresh attacks on Ukraine’s Black Sea ports on Friday, killing three people and damaging foreign-flagged commercial vessels, w",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-18T12:29:02+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/russian-strikes-on-ukraines-black-sea-ports-damage-foreign-flagged-vessels-kill-3/?utm_source=rss&utm_medium=rss&utm_campaign=russian-strikes-on-ukraines-black-sea-ports-damage-foreign-flagged-vessels-kill-3",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "US Airstrikes Collapse Surveillance Tower at Iran’s Chabahar Port",
-        "summary": "US airstrikes on Friday reportedly brought down a surveillance tower at Iran’s strategic Chabahar Port on the Gulf of Oman, marking the latest escalation in the ongoing conflict be",
+        "title": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs",
+        "summary": "Global shipping major Maersk has announced a sharp increase in its Emergency Contingency Surcharge (ECS) for container cargo moving from India to Northern Europe, effective August",
         "source": "India Seatrade News",
-        "timestamp": "2026-07-17T23:41:46+00:00",
+        "timestamp": "2026-07-19T19:29:19+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/us-airstrikes-collapse-surveillance-tower-at-irans-chabahar-port/",
+        "link": "https://indiaseatradenews.com/maersk-raises-india-europe-container-surcharges-from-august-1-exporters-brace-for-higher-logistics-costs/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -130,12 +102,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Iran Tells Houthis To Close Bab El-Mandeb Strait If US Strikes Power Plants",
-        "summary": "Iran has told the Houthis in Yemen to prepare to close the Bab el-Mandeb Strait if the United States carries out President Donald Trump’s threat to bomb Iranian power plants and br",
+        "title": "Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
+        "summary": "Two American service members have been killed and one is missing after Iranian ballistic missile and drone attacks on positions in Jordan, the first US military deaths from direct",
         "source": "Marine Insight",
-        "timestamp": "2026-07-18T09:00:50+00:00",
+        "timestamp": "2026-07-19T07:22:12+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-houthis-bab-el-mandeb-blockade-threat/?utm_source=rss&utm_medium=rss&utm_campaign=iran-houthis-bab-el-mandeb-blockade-threat",
+        "link": "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -143,15 +115,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Iran Claims Two Oil Tankers Exploded, Caught Fire In Strait Of Hormuz Minefield; US Denies",
-        "summary": "Image for representation purposes only Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Saturday that two oil tankers exploded and caught fire after hitting mines south of t",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-18T11:49:07+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-two-oil-tankers-exploded-caught-fire-in-strait-of-hormuz-minefield-us-denies",
+        "title": "US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’",
+        "summary": "A fresh escalation in tensions between the United States and Iran has brought the strategically important Shahid Kalantari Port at Chabahar into the spotlight, after the Iranian Em",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-19T19:33:05+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/us-strike-on-irans-chabahar-port-triggers-diplomatic-row-tehran-calls-attack-a-war-crime/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Latin America’s first bioethanol bunkering completed",
+        "summary": "Danish marine fuel supplier Bunker One has completed what it says is Latin America’s first bioethanol bunkering operation for an ocean-going vessel.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-07-19T06:27:53+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/07/latin-americas-first-bioethanol-bunkering-completed/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Air India Stays on Growth Path with 60-Aircraft Plan",
+        "summary": "Air India has announced plans to induct 60 additional aircraft over the next 18 months, reaffirming that its multi-year transformation programme remains on track despite ongoing su",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-19T19:27:45+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/air-india-stays-on-growth-path-with-60-aircraft-plan/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-20",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs; US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’; Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-19",
         "write_now": "Maybe",
@@ -241,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "No respite at Hormuz as container ship is hit; Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues; Strait of Hormuz Traffic Stays Low as US-Iran Talks Continue; Container and Tanker Rates React",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-13",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "IMO Warns Ships to Avoid Strait of Hormuz After U.S. Strikes Iran; Iran claims closure of Strait of Hormuz after renewed US strikes; Maritime safety navigates record lows and new risks",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 86,
-      "high_trust": 26,
-      "trade_press": 60,
+      "total_items": 88,
+      "high_trust": 14,
+      "trade_press": 74,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-19.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-19.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-19.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-20.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-20.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-20.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-19",
-    "run_started_at": "2026-07-19T07:31:06+09:00",
+    "report_date": "2026-07-20",
+    "run_started_at": "2026-07-20T07:30:54+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +276,12 @@
       "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "4 days ago",
+    "last_signal_label": "5 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,41 +379,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260719T073106+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-19.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260720T073054+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-20.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W29",
-    "week_end_date": "2026-07-19",
+    "week_label": "2026-W30",
+    "week_end_date": "2026-07-20",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around decision support.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around decision support.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around decision support.",
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around decision support with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -435,27 +430,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "See what’s next",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "decision support",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 press releases announced \"See what’s next\" -> suggests expansion into AI-driven optimization and execution See what’s next",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/press-releases/project44-creates-two-businesses-and-launches-lsp44-the-ai-agent-and-api-infrastructure-that-9-of-the-worlds-10-largest-logistics-providers-already-run/"
-      }
-    ],
+    "important_signal_count": 0,
+    "active_theses": [],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W30",
+        "week_end_date": "2026-07-20",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W29",
         "week_end_date": "2026-07-19",
@@ -485,21 +473,11 @@
         "signal_signature": "GoComet|direct_competitor|product_update|3bebd3c64963f6112b3b77854b3c6867abb85d18 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W26",
-        "week_end_date": "2026-06-28",
-        "takeaway": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-        "signal_count": "5",
-        "active_thesis_count": "2",
-        "signal_signature": "Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W29.json",
-      "strategic_intelligence/output/weekly-memo-2026-W29.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W30.json",
+      "strategic_intelligence/output/weekly-memo-2026-W30.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
