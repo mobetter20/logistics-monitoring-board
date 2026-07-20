@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-19T22:32:08+00:00",
-  "requested_date": "2026-07-20",
+  "built_at": "2026-07-20T22:50:41+00:00",
+  "requested_date": "2026-07-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-20",
+    "requested_date": "2026-07-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
+      "Lead daily item: War returns to Hormuz as tanker is hit and aircraft are grounded.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-20",
+        "report_label": "2026-07-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-20",
+        "report_label": "2026-07-21",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,46 +55,72 @@
       }
     ],
     "shared_warnings": [
-      "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
-      "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
+      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-20",
-    "last_updated": "2026-07-20 07:30",
+    "report_date": "2026-07-21",
+    "last_updated": "2026-07-21 07:50",
     "freshness": "current",
-    "status_note": "Market watch is led by Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
+    "status_note": "Market watch is led by War returns to Hormuz as tanker is hit and aircraft are grounded.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs.",
+      "Lead market story: War returns to Hormuz as tanker is hit and aircraft are grounded.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-20",
+      "report_date": "2026-07-21",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs; US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’; Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
+      "headline": "War returns to Hormuz as tanker is hit and aircraft are grounded; Iran Claims Missile And Drone Strikes On US Naval Fuel-Support Pier In Kuwait; North Europe: Current operational situation affecting inland transportation",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs",
+    "headline": "War returns to Hormuz as tanker is hit and aircraft are grounded",
     "key_news_radar": [
       {
-        "title": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs",
-        "summary": "Global shipping major Maersk has announced a sharp increase in its Emergency Contingency Surcharge (ECS) for container cargo moving from India to Northern Europe, effective August",
+        "title": "War returns to Hormuz as tanker is hit and aircraft are grounded",
+        "summary": "US Central Command (Centcom) launched a new wave of attacks against Iran at 1am on Monday 20 July: the ninth consecutive night of raids since hostilities resumed between Washington",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-20T13:41:05+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/war-returns-to-hormuz-as-tanker-is-hit-and-aircraft-are-grounded/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Sealegend announces regular container service in the Arctic",
+        "summary": "The Arctic shipping season is getting under way again, and Chinese operators are among the first to take advantage of it, having already sent cargo vessels from Asia to Europe alon",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-20T09:29:11+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/sealegend-announces-regular-container-service-in-the-arctic/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India Faces Shipping Risks from Houthi Saudi Embargo",
+        "summary": "The Houthis’ announcement of a maritime embargo targeting Saudi Arabia has raised fresh concerns for India’s shipping and trade sectors, with industry stakeholders warning of poten",
         "source": "India Seatrade News",
-        "timestamp": "2026-07-19T19:29:19+00:00",
+        "timestamp": "2026-07-20T18:44:30+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/maersk-raises-india-europe-container-surcharges-from-august-1-exporters-brace-for-higher-logistics-costs/",
+        "link": "https://indiaseatradenews.com/india-faces-shipping-risks-from-houthi-saudi-embargo/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -102,54 +128,30 @@
         "confirmed_by": []
       },
       {
-        "title": "Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
-        "summary": "Two American service members have been killed and one is missing after Iranian ballistic missile and drone attacks on positions in Jordan, the first US military deaths from direct",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-19T07:22:12+00:00",
+        "title": "The Waiting Room off Johor: Iranian Tankers and the Maritime Grey Zone East of Singapore",
+        "summary": "The location 45 miles off the coast of Johor, Malaysia, often referred to as the Eastern Outer Ports Limits (EOPL) anchorage, does not look like a crisis zone.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-20T19:25:23+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/us-troops-killed-strait-hormuz-escalation/?utm_source=rss&utm_medium=rss&utm_campaign=us-troops-killed-strait-hormuz-escalation",
+        "link": "https://container-news.com/the-waiting-room-off-johor-iranian-tankers-and-the-maritime-grey-zone-east-of-singapore/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "Iran Claims Missile And Drone Strikes On US Naval Fuel-Support Pier In Kuwait",
+        "summary": "Image for representation purposes only Iran’s Islamic Revolutionary Guard Corps (IRGC) said it launched missile and drone strikes on a US naval fuel-support pier in Kuwait and seve",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-20T12:13:43+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-claims-missile-and-drone-strikes-on-us-naval-fuel-support-pier-in-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-missile-and-drone-strikes-on-us-naval-fuel-support-pier-in-kuwait",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’",
-        "summary": "A fresh escalation in tensions between the United States and Iran has brought the strategically important Shahid Kalantari Port at Chabahar into the spotlight, after the Iranian Em",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-19T19:33:05+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/us-strike-on-irans-chabahar-port-triggers-diplomatic-row-tehran-calls-attack-a-war-crime/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Latin America’s first bioethanol bunkering completed",
-        "summary": "Danish marine fuel supplier Bunker One has completed what it says is Latin America’s first bioethanol bunkering operation for an ocean-going vessel.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-19T06:27:53+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/latin-americas-first-bioethanol-bunkering-completed/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Air India Stays on Growth Path with 60-Aircraft Plan",
-        "summary": "Air India has announced plans to induct 60 additional aircraft over the next 18 months, reaffirming that its multi-year transformation programme remains on track despite ongoing su",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-19T19:27:45+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/air-india-stays-on-growth-path-with-60-aircraft-plan/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -174,15 +176,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "War returns to Hormuz as tanker is hit and aircraft are grounded; Iran Claims Missile And Drone Strikes On US Naval Fuel-Support Pier In Kuwait; North Europe: Current operational situation affecting inland transportation",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-20",
         "write_now": "Maybe",
@@ -239,93 +249,42 @@
         "worth_attention_today": "3",
         "headline": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk; Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz; One Indian killed, six injured as Iranian missiles target two UAE tankers in Hormuz",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "No respite at Hormuz as container ship is hit; Trump rejects Iran’s strait of Hormuz closure claim as battle for control continues; Strait of Hormuz Traffic Stays Low as US-Iran Talks Continue; Container and Tanker Rates React",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 88,
-      "high_trust": 14,
-      "trade_press": 74,
+      "total_items": 302,
+      "high_trust": 56,
+      "trade_press": 246,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-20",
-    "run_started_at": "2026-07-20T07:30:54+09:00",
+    "report_date": "2026-07-21",
+    "run_started_at": "2026-07-21T07:50:13+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, execution, workflow, and AI remain the dominant narrative cluster.",
       "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
-    "targets_fetched": 28,
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
+    "targets_fetched": 0,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
-    "company_summaries": [
-      {
-        "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and execution and workflow. Status page: Partially Degraded Service."
-      },
-      {
-        "company": "FourKites",
-        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
-      },
-      {
-        "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, visibility, and execution and workflow."
-      },
-      {
-        "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
-      },
-      {
-        "company": "Wakeo",
-        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
-      },
-      {
-        "company": "GoComet",
-        "summary": "Current narrative leans toward AI and automation, analytics and decision intelligence, and platform / control tower."
-      }
-    ],
-    "peer_themes": [
-      {
-        "theme": "execution",
-        "count": "4"
-      },
-      {
-        "theme": "workflow",
-        "count": "4"
-      },
-      {
-        "theme": "AI",
-        "count": "3"
-      },
-      {
-        "theme": "automation",
-        "count": "3"
-      }
-    ],
+    "last_signal_label": "6 days ago",
+    "company_summaries": [],
+    "peer_themes": [],
     "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
@@ -379,14 +338,43 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260720T073054+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260721T075013+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-21.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Project44 Release notes: Network error for https://developers.project44.com/release-notes: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "FourKites Solutions page: Network error for https://www.fourkites.com/products: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "FourKites Press releases: Network error for https://www.fourkites.com/press/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "FourKites Status page: Network error for https://status.fourkites.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Shippeo Homepage: Network error for https://www.shippeo.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Shippeo Platform page: Network error for https://www.shippeo.com/solutions/ecmr: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Shippeo Solutions page: Network error for https://www.shippeo.com/solutions/ocean-visibility: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Shippeo Press releases: Network error for https://www.shippeo.com/resources/explore: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Transporeon Platform page: Network error for https://www.transporeon.com/en_US/platform: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Transporeon Status page: Network error for https://transporeon.statuspage.io/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Wakeo Homepage: Network error for https://wakeo.co/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Wakeo Solutions page: Network error for https://wakeo.co/solution/shippers/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Wakeo Newsroom: Network error for https://wakeo.co/news/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "GoComet Homepage: Network error for https://www.gocomet.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "GoComet Platform page: Network error for https://www.gocomet.com/logistics-control-tower: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "GoComet Solutions page: Network error for https://www.gocomet.com/freight-management-software: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "GoComet Press releases: Network error for https://www.gocomet.com/sitemap: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W30",
-    "week_end_date": "2026-07-20",
+    "week_end_date": "2026-07-21",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -436,7 +424,7 @@
     "recent_history": [
       {
         "week_label": "2026-W30",
-        "week_end_date": "2026-07-20",
+        "week_end_date": "2026-07-21",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
