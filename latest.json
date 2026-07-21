@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-20T22:50:41+00:00",
-  "requested_date": "2026-07-21",
+  "built_at": "2026-07-21T22:32:24+00:00",
+  "requested_date": "2026-07-22",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-21",
+    "requested_date": "2026-07-22",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: War returns to Hormuz as tanker is hit and aircraft are grounded.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
+      "Competitor watch: Watch-level movement detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-21",
+        "report_label": "2026-07-22",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-21",
+        "report_label": "2026-07-22",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,110 +48,108 @@
         "cadence": "Weekly",
         "report_label": "2026-W30",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling unknown around unknown.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
+      "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
+      "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
+      "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-21",
-    "last_updated": "2026-07-21 07:50",
+    "report_date": "2026-07-22",
+    "last_updated": "2026-07-22 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by War returns to Hormuz as tanker is hit and aircraft are grounded.",
+    "status_note": "Market watch is led by Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: War returns to Hormuz as tanker is hit and aircraft are grounded.",
+      "Lead market story: Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-21",
+      "report_date": "2026-07-22",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "War returns to Hormuz as tanker is hit and aircraft are grounded; Iran Claims Missile And Drone Strikes On US Naval Fuel-Support Pier In Kuwait; North Europe: Current operational situation affecting inland transportation",
+      "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway; CFSAI attributes JNPA-CFS Operational Delays to Traffic Congestion and Infrastructure Constraints; Crew Abandons Burning Vessel After Projectile Strike In Strait Of Hormuz, Ship Left Adrift",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "War returns to Hormuz as tanker is hit and aircraft are grounded",
+    "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway",
     "key_news_radar": [
       {
-        "title": "War returns to Hormuz as tanker is hit and aircraft are grounded",
-        "summary": "US Central Command (Centcom) launched a new wave of attacks against Iran at 1am on Monday 20 July: the ninth consecutive night of raids since hostilities resumed between Washington",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-20T13:41:05+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/war-returns-to-hormuz-as-tanker-is-hit-and-aircraft-are-grounded/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Sealegend announces regular container service in the Arctic",
-        "summary": "The Arctic shipping season is getting under way again, and Chinese operators are among the first to take advantage of it, having already sent cargo vessels from Asia to Europe alon",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-20T09:29:11+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/sealegend-announces-regular-container-service-in-the-arctic/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "India Faces Shipping Risks from Houthi Saudi Embargo",
-        "summary": "The Houthis’ announcement of a maritime embargo targeting Saudi Arabia has raised fresh concerns for India’s shipping and trade sectors, with industry stakeholders warning of poten",
-        "source": "India Seatrade News",
-        "timestamp": "2026-07-20T18:44:30+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/india-faces-shipping-risks-from-houthi-saudi-embargo/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The Waiting Room off Johor: Iranian Tankers and the Maritime Grey Zone East of Singapore",
-        "summary": "The location 45 miles off the coast of Johor, Malaysia, often referred to as the Eastern Outer Ports Limits (EOPL) anchorage, does not look like a crisis zone.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-20T19:25:23+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/the-waiting-room-off-johor-iranian-tankers-and-the-maritime-grey-zone-east-of-singapore/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Iran Claims Missile And Drone Strikes On US Naval Fuel-Support Pier In Kuwait",
-        "summary": "Image for representation purposes only Iran’s Islamic Revolutionary Guard Corps (IRGC) said it launched missile and drone strikes on a US naval fuel-support pier in Kuwait and seve",
+        "title": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway",
+        "summary": "Image for representation purposes only Yemen’s Iran-backed Houthi rebels on Monday announced a maritime embargo against Saudi Arabia, saying they would block Saudi shipping through",
         "source": "Marine Insight",
-        "timestamp": "2026-07-20T12:13:43+00:00",
+        "timestamp": "2026-07-21T13:27:48+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-claims-missile-and-drone-strikes-on-us-naval-fuel-support-pier-in-kuwait/?utm_source=rss&utm_medium=rss&utm_campaign=iran-claims-missile-and-drone-strikes-on-us-naval-fuel-support-pier-in-kuwait",
+        "link": "https://www.marineinsight.com/houthis-declare-naval-blockade-on-saudi-arabias-shipping-at-red-sea-gateway/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-declare-naval-blockade-on-saudi-arabias-shipping-at-red-sea-gateway",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Crew Abandons Burning Vessel After Projectile Strike In Strait Of Hormuz, Ship Left Adrift",
+        "summary": "Image for representation purposes only The crew of a vessel abandoned ship after it was hit by an unknown projectile and caught fire in the Strait of Hormuz on Monday, leaving the",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-21T13:30:42+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift/?utm_source=rss&utm_medium=rss&utm_campaign=crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Houthi forces announce maritime embargo on Saudi Arabia",
+        "summary": "Yemen’s Houthi movement has announced a maritime embargo on Saudi Arabia, raising new concerns for shipping in the Red Sea and Bab el-Mandeb.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-21T07:22:54+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/houthi-forces-announce-maritime-embargo-on-saudi-arabia/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea Gateway",
+        "summary": "CAIRO : Yemen’s Iranian-backed Houthi rebels on Monday announced they are imposing a maritime embargo against Saudi Arabia in retaliation for a blockade on Yemen and a recent attac",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-21T03:23:41+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/international-shipping/yemens-iranian-backed-houthis-say-they-will-block-saudi-shipping-at-red-sea-gateway/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Ocean shipping giant MSC orders next-gen 777-8 cargo jets from Boeing",
+        "summary": "The cargo airline subsidiary of Mediterranean Shipping Co., the largest ocean container line in the world, on Monday ordered five next-generation 777-8 freighter aircraft from Boei",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-21T18:25:18+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/ocean-shipping-giant-msc-orders-next-gen-777-8-cargo-jets-from-boeing",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,15 +157,11 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -176,24 +170,28 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-22",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway; CFSAI attributes JNPA-CFS Operational Delays to Traffic Congestion and Infrastructure Constraints; Crew Abandons Burning Vessel After Projectile Strike In Strait Of Hormuz, Ship Left Adrift",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-21",
         "write_now": "Maybe",
@@ -241,53 +239,109 @@
         "worth_attention_today": "5",
         "headline": "NEW: Trade turbulence turns to record volume for top U.S. port; Hormuz closure pushing fuel costs back up - July 14, 2026 Update; DP World also turns to road transport after Hormuz",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-15",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "3",
-        "headline": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk; Indian Seafarer Killed, Eight Injured After Iranian Missile Strike on UAE Tankers in Strait of Hormuz; One Indian killed, six injured as Iranian missiles target two UAE tankers in Hormuz",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 302,
-      "high_trust": 56,
-      "trade_press": 246,
+      "total_items": 331,
+      "high_trust": 76,
+      "trade_press": 255,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-21.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-21.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-21.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-22.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-22.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-22.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-21",
-    "run_started_at": "2026-07-21T07:50:13+09:00",
+    "report_date": "2026-07-22",
+    "run_started_at": "2026-07-22T07:30:56+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging"
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Across peers, execution, workflow, and AI remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
-    "targets_fetched": 0,
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "6 days ago",
-    "company_summaries": [],
-    "peer_themes": [],
+    "watch_count": 1,
+    "last_signal_label": "Today",
+    "company_summaries": [
+      {
+        "company": "Project44",
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and execution and workflow."
+      },
+      {
+        "company": "FourKites",
+        "summary": "Current narrative leans toward AI and automation, execution and workflow, and analytics and decision intelligence."
+      },
+      {
+        "company": "Shippeo",
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and execution and workflow."
+      },
+      {
+        "company": "Transporeon",
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+      },
+      {
+        "company": "Wakeo",
+        "summary": "Current narrative leans toward sustainability, optimization / procurement, and analytics and decision intelligence."
+      },
+      {
+        "company": "GoComet",
+        "summary": "Current narrative leans toward AI and automation, analytics and decision intelligence, and platform / control tower."
+      }
+    ],
+    "peer_themes": [
+      {
+        "theme": "execution",
+        "count": "4"
+      },
+      {
+        "theme": "workflow",
+        "count": "4"
+      },
+      {
+        "theme": "AI",
+        "count": "3"
+      },
+      {
+        "theme": "automation",
+        "count": "3"
+      }
+    ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational",
+          "Carrier downtime - Pitt Ohio (PITD)"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-07-22",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-07-15",
         "company": "Project44",
@@ -327,78 +381,41 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-07-10",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page changed from Minor Service Outage to Partially Degraded Service.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260721T075013+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-21.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260722T073056+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-22.md"
     ],
-    "warnings": [
-      "Project44 Homepage: Network error for https://www.project44.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Platform page: Network error for https://www.project44.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Solutions page: Network error for https://www.project44.com/industries/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Press releases: Network error for https://www.project44.com/newsroom/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Project44 Release notes: Network error for https://developers.project44.com/release-notes: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Homepage: Network error for https://www.fourkites.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Platform page: Network error for https://www.fourkites.com/platform/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Solutions page: Network error for https://www.fourkites.com/products: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Press releases: Network error for https://www.fourkites.com/press/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "FourKites Status page: Network error for https://status.fourkites.com/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Homepage: Network error for https://www.shippeo.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Platform page: Network error for https://www.shippeo.com/solutions/ecmr: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Solutions page: Network error for https://www.shippeo.com/solutions/ocean-visibility: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Shippeo Press releases: Network error for https://www.shippeo.com/resources/explore: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Platform page: Network error for https://www.transporeon.com/en_US/platform: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Transporeon Status page: Network error for https://transporeon.statuspage.io/api/v2/summary.json: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Homepage: Network error for https://wakeo.co/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Platform page: Network error for https://wakeo.co/platform/trusted-routes/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Solutions page: Network error for https://wakeo.co/solution/shippers/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "Wakeo Newsroom: Network error for https://wakeo.co/news/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Homepage: Network error for https://www.gocomet.com/: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Platform page: Network error for https://www.gocomet.com/logistics-control-tower: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Solutions page: Network error for https://www.gocomet.com/freight-management-software: <urlopen error [Errno 8] nodename nor servname provided, or not known>",
-      "GoComet Press releases: Network error for https://www.gocomet.com/sitemap: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
-    ]
+    "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W30",
-    "week_end_date": "2026-07-21",
+    "week_end_date": "2026-07-22",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -418,17 +435,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W30",
-        "week_end_date": "2026-07-21",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-07-22",
+        "takeaway": "Project44 is signaling unknown around unknown.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
