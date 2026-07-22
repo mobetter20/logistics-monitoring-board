@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-21T22:32:24+00:00",
-  "requested_date": "2026-07-22",
+  "built_at": "2026-07-22T22:31:56+00:00",
+  "requested_date": "2026-07-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-22",
+    "requested_date": "2026-07-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Ocean rates weaker after tariff-driven peak season.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-22",
+        "report_label": "2026-07-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-22",
+        "report_label": "2026-07-23",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-22",
-    "last_updated": "2026-07-22 07:30",
+    "report_date": "2026-07-23",
+    "last_updated": "2026-07-23 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
+    "status_note": "Market watch is led by Ocean rates weaker after tariff-driven peak season.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway.",
+      "Lead market story: Ocean rates weaker after tariff-driven peak season.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-22",
+      "report_date": "2026-07-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway; CFSAI attributes JNPA-CFS Operational Delays to Traffic Congestion and Infrastructure Constraints; Crew Abandons Burning Vessel After Projectile Strike In Strait Of Hormuz, Ship Left Adrift",
+      "headline": "Freightos Weekly Update: Ocean rates ease on early peak season cooling and capacity additions; Ocean rates weaker after tariff-driven peak season; Ukraine doubles international road fleet",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway",
+    "headline": "Ocean rates weaker after tariff-driven peak season",
     "key_news_radar": [
       {
-        "title": "Houthis Declare Naval Blockade On Saudi Arabia’s Shipping At Red Sea Gateway",
-        "summary": "Image for representation purposes only Yemen’s Iran-backed Houthi rebels on Monday announced a maritime embargo against Saudi Arabia, saying they would block Saudi shipping through",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-21T13:27:48+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/houthis-declare-naval-blockade-on-saudi-arabias-shipping-at-red-sea-gateway/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-declare-naval-blockade-on-saudi-arabias-shipping-at-red-sea-gateway",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Crew Abandons Burning Vessel After Projectile Strike In Strait Of Hormuz, Ship Left Adrift",
-        "summary": "Image for representation purposes only The crew of a vessel abandoned ship after it was hit by an unknown projectile and caught fire in the Strait of Hormuz on Monday, leaving the",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-21T13:30:42+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift/?utm_source=rss&utm_medium=rss&utm_campaign=crew-abandons-burning-vessel-after-projectile-strike-in-strait-of-hormuz-ship-left-adrift",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Houthi forces announce maritime embargo on Saudi Arabia",
-        "summary": "Yemen’s Houthi movement has announced a maritime embargo on Saudi Arabia, raising new concerns for shipping in the Red Sea and Bab el-Mandeb.",
+        "title": "Ocean rates weaker after tariff-driven peak season",
+        "summary": "A post-peak season calm for the global container market is anything but amid a hot war in the Middle East and geopolitical uncertainty where expected tariff pressures may cool off",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-21T07:22:54+00:00",
+        "timestamp": "2026-07-21T23:26:17+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/houthi-forces-announce-maritime-embargo-on-saudi-arabia/",
+        "link": "https://www.freightwaves.com/news/ocean-rates-weaker-after-tariff-driven-peak-season",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -128,28 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Yemen’s Iranian-backed Houthis say they will block Saudi shipping at Red Sea Gateway",
-        "summary": "CAIRO : Yemen’s Iranian-backed Houthi rebels on Monday announced they are imposing a maritime embargo against Saudi Arabia in retaliation for a blockade on Yemen and a recent attac",
-        "source": "India Shipping News",
-        "timestamp": "2026-07-21T03:23:41+00:00",
+        "title": "Freightos Weekly Update: Ocean rates ease on early peak season cooling and capacity additions",
+        "summary": "The US and Iran have traded strikes for ten days straight, with Iranian actions also targeting neighbor states and area vessels, and missile attacks reaching as far as US positions",
+        "source": "Container News",
+        "timestamp": "2026-07-22T16:00:01+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/yemens-iranian-backed-houthis-say-they-will-block-saudi-shipping-at-red-sea-gateway/",
+        "link": "https://container-news.com/freightos-weekly-update-ocean-rates-ease-on-early-peak-season-cooling-and-capacity-additions/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Ocean shipping giant MSC orders next-gen 777-8 cargo jets from Boeing",
-        "summary": "The cargo airline subsidiary of Mediterranean Shipping Co., the largest ocean container line in the world, on Monday ordered five next-generation 777-8 freighter aircraft from Boei",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-21T18:25:18+00:00",
+        "title": "Ukraine doubles international road fleet",
+        "summary": "The liberalisation of road transport between the European Union and Ukraine, the regime known as transport visa-free, has increased the Ukrainian fleet operating on international r",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-22T10:58:30+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/ocean-shipping-giant-msc-orders-next-gen-777-8-cargo-jets-from-boeing",
+        "link": "https://www.trasportoeuropa.it/english/ukraine-doubles-international-road-fleet/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Houthis Warn Global Shipping Companies To Avoid Saudi Ports Or Risk Being Targeted",
+        "summary": "Image for representation purposes only Yemen’s Iran-aligned Houthi movement has warned global shipping companies not to load or unload cargo at Saudi Arabian ports, saying vessels",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-22T10:40:13+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/houthis-warn-global-shipping-companies-to-avoid-saudi-ports-or-risk-being-targeted/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-warn-global-shipping-companies-to-avoid-saudi-ports-or-risk-being-targeted",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Port Congestion Delays Fertiliser Cargoes, Raising Concerns Over Kharif Supply Chain",
+        "summary": "Congestion at several major Indian ports has left multiple fertiliser-laden vessels stranded, delaying the discharge and inland movement of essential crop nutrients at a crucial st",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-22T18:56:14+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/port-congestion-delays-fertiliser-cargoes-raising-concerns-over-kharif-supply-chain/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +157,11 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -165,12 +169,16 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -178,12 +186,20 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Freightos Weekly Update: Ocean rates ease on early peak season cooling and capacity additions; Ocean rates weaker after tariff-driven peak season; Ukraine doubles international road fleet",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-22",
         "write_now": "Maybe",
@@ -231,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "FreightWaves Announces 2026 AI Excellence in Supply Chain Awards Winners; Ships Reject US Military-Guided Strait Of Hormuz Transits After Iranian Attacks Raise Security Concerns; German logistics caught between drought and engineering works",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "NEW: Trade turbulence turns to record volume for top U.S. port; Hormuz closure pushing fuel costs back up - July 14, 2026 Update; DP World also turns to road transport after Hormuz",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 331,
-      "high_trust": 76,
-      "trade_press": 255,
+      "total_items": 289,
+      "high_trust": 68,
+      "trade_press": 221,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-22",
-    "run_started_at": "2026-07-22T07:30:56+09:00",
+    "report_date": "2026-07-23",
+    "run_started_at": "2026-07-23T07:30:53+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, execution, workflow, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, execution, workflow, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page returned to all systems operational."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -318,21 +327,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational",
-          "Carrier downtime - Pitt Ohio (PITD)"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-07-22",
@@ -384,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260722T073056+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260723T073053+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W30",
-    "week_end_date": "2026-07-22",
+    "week_end_date": "2026-07-23",
     "freshness": "current",
     "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -412,7 +407,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -456,7 +451,7 @@
     "recent_history": [
       {
         "week_label": "2026-W30",
-        "week_end_date": "2026-07-22",
+        "week_end_date": "2026-07-23",
         "takeaway": "Project44 is signaling unknown around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
