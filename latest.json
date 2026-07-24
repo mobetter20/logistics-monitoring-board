@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-23T22:32:01+00:00",
-  "requested_date": "2026-07-24",
+  "built_at": "2026-07-24T22:32:14+00:00",
+  "requested_date": "2026-07-25",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-24",
+    "requested_date": "2026-07-25",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: The Red Sea’s new front for attacks on tankers.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-24",
+        "report_label": "2026-07-25",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-24",
+        "report_label": "2026-07-25",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 press releases announced \"Last Mile Insights Network-wide insights",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-24",
-    "last_updated": "2026-07-24 07:30",
+    "report_date": "2026-07-25",
+    "last_updated": "2026-07-25 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by The Red Sea’s new front for attacks on tankers.",
+    "status_note": "Market watch is led by U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: The Red Sea’s new front for attacks on tankers.",
+      "Lead market story: U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-24",
+      "report_date": "2026-07-25",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "The Red Sea’s new front for attacks on tankers; DP World agrees Fujairah terminal deal as it seeks Hormuz alternative; Maersk Suspends Ukraine Port Service After Russia Intensifies Attacks On Export Routes",
+      "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces; New US tariffs also hit logistics supply chains; Regulatory cleanup fuels Knight-Swift’s bullish outlook",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "The Red Sea’s new front for attacks on tankers",
+    "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces",
     "key_news_radar": [
       {
-        "title": "The Red Sea’s new front for attacks on tankers",
-        "summary": "The Yemeni Houthis, allies of Tehran, have claimed a missile and drone attack on the Saudi tankers Encelia and Layla in the Red Sea: the first strike since the announcement of a na",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-23T14:03:03+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/the-red-seas-new-front-for-attacks-on-tankers/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "DP World agrees Fujairah terminal deal as it seeks Hormuz alternative",
-        "summary": "DP World has announced that it has reached an agreement in principle with the Fujairah Ports Authority to develop two terminals on the UAE’s east coast under a 50-year concession:",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-23T08:40:22+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/dp-world-agrees-fujairah-terminal-deal-as-it-seeks-hormuz-alternative/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Maersk Suspends Ukraine Port Service After Russia Intensifies Attacks On Export Routes",
-        "summary": "Image for representation purposes only Danish shipping company Maersk has temporarily suspended its feeder service to Ukraine via Chornomorsk Fishing Port after the security situat",
+        "title": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces",
+        "summary": "Image for representation purposes only U.S.",
         "source": "Marine Insight",
-        "timestamp": "2026-07-23T13:02:29+00:00",
+        "timestamp": "2026-07-24T12:49:11+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/maersk-suspends-ukraine-port-service-after-russia-intensifies-attacks-on-export-routes/?utm_source=rss&utm_medium=rss&utm_campaign=maersk-suspends-ukraine-port-service-after-russia-intensifies-attacks-on-export-routes",
+        "link": "https://www.marineinsight.com/u-s-will-use-iranian-funds-to-pay-for-ship-damages-in-strait-of-hormuz-trump-announces/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-will-use-iranian-funds-to-pay-for-ship-damages-in-strait-of-hormuz-trump-announces",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -128,28 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Panama Canal traffic momentum challenged by growing El Niño risk",
-        "summary": "The Panama Canal Authority reported higher vessel transits and cargo volumes in the first nine months of fiscal 2026 year-on-year, but warned that a potential severe El Niño event",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-23T07:12:03+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/07/panama-canal-traffic-momentum-challenged-by-growing-el-nino-risk/",
+        "title": "New US tariffs also hit logistics supply chains",
+        "summary": "On 24 July 2026, the United States imposed new tariffs ranging from 10% to 12.5% on imports from more than 60 economies, with the stated aim of tackling forced labour in supply cha",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-24T09:24:16+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/new-us-tariffs-also-hit-logistics-supply-chains/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Container freight rates fall, Shanghai-Genova below $6,000",
-        "summary": "Drewry’s World Container Index (WCI), which tracks average spot freight rates in container shipping, recorded its second consecutive weekly decline, falling by 4% to $4,374 per FEU",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-23T15:42:00+00:00",
+        "title": "Ships Avoid Ukraine’s Black Sea Ports As Russian Attacks Escalate",
+        "summary": "Image for representation purposes only Ukraine is one of the world’s biggest exporters of corn, colza, sunflower seeds and vegetable oil and 90% of its commodity exports also pass",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-24T12:42:42+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-fall-shanghai-genova-below-6000/",
+        "link": "https://www.marineinsight.com/ships-avoid-ukraines-black-sea-ports-as-russian-attacks-escalate/?utm_source=rss&utm_medium=rss&utm_campaign=ships-avoid-ukraines-black-sea-ports-as-russian-attacks-escalate",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Regulatory cleanup fuels Knight-Swift’s bullish outlook",
+        "summary": "Regulatory authorities continued to force out non-compliant capacity in the second quarter, creating a “rapid progression in truckload market conditions,” according to Knight-Swift",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-23T02:09:28+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/regulatory-capacity-cleanup-fuels-knight-swifts-bullish-outlook",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "“It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.",
+        "summary": "Sixty-five owner-operators is not the same thing as sixty-five trucks.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-23T15:42:02+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/it-aint-that-bad-that-i-got-to-pay-somebody-to-come-here-why-a-man-who-runs-65-owner-operators-says-sign-on-bonuses-repel-the-drivers-you-actually-want",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +157,11 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -165,24 +169,20 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-25",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces; New US tariffs also hit logistics supply chains; Regulatory cleanup fuels Knight-Swift’s bullish outlook",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-24",
         "write_now": "Maybe",
@@ -239,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists; Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3; 3000 Filipino Seafarers Stranded In Persian Gulf As Iran Shuts Strait Of Hormuz Again",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-18",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Ports, containership operators ride wave of uncertainty; Drewry World Container Index slips as peak season momentum eases; Sweden reopens Gothenburg-Borås line three weeks after freight derailment",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 338,
-      "high_trust": 85,
-      "trade_press": 253,
+      "total_items": 275,
+      "high_trust": 76,
+      "trade_press": 199,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-24.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-24.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-24.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-25.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-25.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-25.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-24",
-    "run_started_at": "2026-07-24T07:30:53+09:00",
+    "report_date": "2026-07-25",
+    "run_started_at": "2026-07-25T07:30:53+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 press releases announced \"Last Mile Insights Network-wide insights",
-      "Across peers, execution, workflow, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, execution, workflow, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 press releases announced \"Last Mile Insights Network-wide insights"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 3,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,46 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 press releases announced \"Last Mile Insights Network-wide insights",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Last Mile Insights Network-wide insights",
-        "source_url": "https://www.project44.com/platform/ecommerce/last-mile-insights/",
-        "evidence": [
-          "Last Mile Insights Network-wide insights",
-          "Where TMS meets Decision Intelligence – live, in your city. project44 Connect brings together 20 transport and supply chain leaders for a focused session on TMS, Decision Intelligence, AI and what’s next in transportation execution. The format is structured but not stiff: expert-"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network."
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 status page shows degraded services: LTL Carrier (under maintenance) and Parcel Carrier (under maintenance).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: LTL Carrier (under maintenance) and Parcel Carrier (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "Service Under Maintenance",
-          "LTL Carrier (under maintenance)"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -411,20 +373,20 @@
         "detected_date": "2026-07-15",
         "company": "Project44",
         "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Project44 press releases announced \"See what’s next",
-        "source_url": "https://www.project44.com/press-releases/project44-creates-two-businesses-and-launches-lsp44-the-ai-agent-and-api-infrastructure-that-9-of-the-worlds-10-largest-logistics-providers-already-run/"
+        "signal_type": "website change",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260724T073053+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-24.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260725T073053+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-25.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W30",
-    "week_end_date": "2026-07-24",
+    "week_end_date": "2026-07-25",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around decision support.",
     "sparse_explanation": "",
@@ -510,7 +472,7 @@
     "recent_history": [
       {
         "week_label": "2026-W30",
-        "week_end_date": "2026-07-24",
+        "week_end_date": "2026-07-25",
         "takeaway": "Project44 is signaling AI positioning around decision support.",
         "signal_count": "4",
         "active_thesis_count": "0",
