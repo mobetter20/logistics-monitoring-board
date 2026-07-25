@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-24T22:32:14+00:00",
-  "requested_date": "2026-07-25",
+  "built_at": "2026-07-25T22:31:55+00:00",
+  "requested_date": "2026-07-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-25",
+    "requested_date": "2026-07-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
+      "Lead daily item: Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-25",
+        "report_label": "2026-07-26",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-25",
+        "report_label": "2026-07-26",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-25",
-    "last_updated": "2026-07-25 07:30",
+    "report_date": "2026-07-26",
+    "last_updated": "2026-07-26 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
+    "status_note": "Market watch is led by Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces.",
+      "Lead market story: Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-25",
+      "report_date": "2026-07-26",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces; New US tariffs also hit logistics supply chains; Regulatory cleanup fuels Knight-Swift’s bullish outlook",
+      "headline": "Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub; Development of Inland Waterways and related projects : MoPSW; Maersk launches integrated cold chain solution for Chile-US produce trade",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces",
+    "headline": "Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub",
     "key_news_radar": [
       {
-        "title": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces",
-        "summary": "Image for representation purposes only U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-24T12:49:11+00:00",
+        "title": "Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub",
+        "summary": "The Customs Department has suspended the Customs Cargo Service Provider (CCSP) approval granted to the rail-linked Container Freight Station (CFS) operated by state-owned Container",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-25T01:30:26+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/customs-suspends-concor-dronagiri-cfs-approval-tightening-capacity-at-jn-port-logistics-hub/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Development of Inland Waterways and related projects : MoPSW",
+        "summary": "NEW DELHI : Union Minister of Ports, Shipping and Waterways, Shri Sarbananda Sonowal, informed in a written reply to the Lok Sabha that, the Government of India has embarked upon a",
+        "source": "India Shipping News",
+        "timestamp": "2026-07-25T04:09:20+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/maritime/development-of-inland-waterways-and-related-projects-mopsw/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk launches integrated cold chain solution for Chile-US produce trade",
+        "summary": "Maersk has launched a new integrated cold chain solution connecting Chile with the U.S.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-25T07:36:04+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/u-s-will-use-iranian-funds-to-pay-for-ship-damages-in-strait-of-hormuz-trump-announces/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-will-use-iranian-funds-to-pay-for-ship-damages-in-strait-of-hormuz-trump-announces",
+        "link": "https://container-news.com/maersk-launches-integrated-cold-chain-solution-for-chile-us-produce-trade/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "U.S. Coast Guard Icebreaker Healy Suffers Significant Engineering Casualty During Sea Trials",
+        "summary": "Coast Guard icebreaker Healy suffered a significant engineering casualty during post-refit sea trials off the Washington coast.",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-25T12:54:55+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/u-s-coast-guard-icebreaker-healy-suffers-significant-engineering-casualty-during-sea-trials/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-coast-guard-icebreaker-healy-suffers-significant-engineering-casualty-during-sea-trials",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -102,54 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "New US tariffs also hit logistics supply chains",
-        "summary": "On 24 July 2026, the United States imposed new tariffs ranging from 10% to 12.5% on imports from more than 60 economies, with the stated aim of tackling forced labour in supply cha",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-24T09:24:16+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/new-us-tariffs-also-hit-logistics-supply-chains/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Ships Avoid Ukraine’s Black Sea Ports As Russian Attacks Escalate",
-        "summary": "Image for representation purposes only Ukraine is one of the world’s biggest exporters of corn, colza, sunflower seeds and vegetable oil and 90% of its commodity exports also pass",
+        "title": "Strait Of Hormuz Tanker Traffic Falls To Lowest Level In Over Two Months",
+        "summary": "Image for representation purposes only The number of tankers crossing the Strait of Hormuz fell to just one on July 23, the lowest daily level since May 7, according to shiptrackin",
         "source": "Marine Insight",
-        "timestamp": "2026-07-24T12:42:42+00:00",
+        "timestamp": "2026-07-25T13:09:36+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/ships-avoid-ukraines-black-sea-ports-as-russian-attacks-escalate/?utm_source=rss&utm_medium=rss&utm_campaign=ships-avoid-ukraines-black-sea-ports-as-russian-attacks-escalate",
+        "link": "https://www.marineinsight.com/strait-of-hormuz-tanker-traffic-falls-to-lowest-level-in-over-two-months/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-tanker-traffic-falls-to-lowest-level-in-over-two-months",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Regulatory cleanup fuels Knight-Swift’s bullish outlook",
-        "summary": "Regulatory authorities continued to force out non-compliant capacity in the second quarter, creating a “rapid progression in truckload market conditions,” according to Knight-Swift",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-23T02:09:28+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/regulatory-capacity-cleanup-fuels-knight-swifts-bullish-outlook",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "“It Ain’t That Bad That I Got to Pay Somebody to Come Here.” Why a Man Who Runs 65 Owner-Operators Says Sign-On Bonuses Repel the Drivers You Actually Want.",
-        "summary": "Sixty-five owner-operators is not the same thing as sixty-five trucks.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-23T15:42:02+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/it-aint-that-bad-that-i-got-to-pay-somebody-to-come-here-why-a-man-who-runs-65-owner-operators-says-sign-on-bonuses-repel-the-drivers-you-actually-want",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +157,28 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
       {
         "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +188,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub; Development of Inland Waterways and related projects : MoPSW; Maersk launches integrated cold chain solution for Chile-US produce trade",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-25",
         "write_now": "Maybe",
@@ -239,33 +243,25 @@
         "worth_attention_today": "5",
         "headline": "Maersk Raises India-Europe Container Surcharges from August 1; Exporters Brace for Higher Logistics Costs; US Strike on Iran’s Chabahar Port Triggers Diplomatic Row; Tehran Calls Attack a ‘War Crime’; Two US Troops Killed In Iranian Strike As Strait Of Hormuz Shuts To Shipping Again",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Red Sea Emerges as Shipping’s Next Flashpoint as Hormuz Crisis Persists; Russian Strikes On Ukraine’s Black Sea Ports Damage Foreign-Flagged Vessels, Kill 3; 3000 Filipino Seafarers Stranded In Persian Gulf As Iran Shuts Strait Of Hormuz Again",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 275,
-      "high_trust": 76,
-      "trade_press": 199,
+      "total_items": 81,
+      "high_trust": 32,
+      "trade_press": 49,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-25",
-    "run_started_at": "2026-07-25T07:30:53+09:00",
+    "report_date": "2026-07-26",
+    "run_started_at": "2026-07-26T07:30:53+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -273,15 +269,15 @@
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
       "Across peers, execution, workflow, and AI remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 press releases announced \"Last Mile Insights Network-wide insights"
+      "Latest lower-signal item came from Project44: Project44 status page changed from Service Under Maintenance to Service Under Maintenance."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,6 +326,14 @@
     "watch_items": [],
     "recent_signal_history": [
       {
+        "detected_date": "2026-07-26",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-07-24",
         "company": "Project44",
         "importance": "important",
@@ -368,25 +372,17 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-07-15",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260725T073053+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260726T073053+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-26.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W30",
-    "week_end_date": "2026-07-25",
+    "week_end_date": "2026-07-26",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around decision support.",
     "sparse_explanation": "",
@@ -413,8 +409,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -472,7 +467,7 @@
     "recent_history": [
       {
         "week_label": "2026-W30",
-        "week_end_date": "2026-07-25",
+        "week_end_date": "2026-07-26",
         "takeaway": "Project44 is signaling AI positioning around decision support.",
         "signal_count": "4",
         "active_thesis_count": "0",
