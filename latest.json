@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-28T22:32:45+00:00",
-  "requested_date": "2026-07-29",
+  "built_at": "2026-07-29T22:32:33+00:00",
+  "requested_date": "2026-07-30",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-29",
+    "requested_date": "2026-07-30",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: UPS shift away from Amazon shows bigger payoff.",
+      "Lead daily item: The Middle Corridor enters Russia-Ukraine conflict risk.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-29",
+        "report_label": "2026-07-30",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-29",
+        "report_label": "2026-07-30",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,52 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-29",
-    "last_updated": "2026-07-29 07:31",
+    "report_date": "2026-07-30",
+    "last_updated": "2026-07-30 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by UPS shift away from Amazon shows bigger payoff.",
+    "status_note": "Market watch is led by The Middle Corridor enters Russia-Ukraine conflict risk.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: UPS shift away from Amazon shows bigger payoff.",
+      "Lead market story: The Middle Corridor enters Russia-Ukraine conflict risk.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-29",
+      "report_date": "2026-07-30",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Low water levels on Rhine hit barge services, ‘switch to rail a limited option’; Shipping Industry Must Adapt to New Era of Geopolitical Risk; UPS shift away from Amazon shows bigger payoff",
+      "headline": "The Middle Corridor enters Russia-Ukraine conflict risk; How Red Sea shipping disruption is feeding energy inflation — according to Permutable data; Container traffic grows but margins fall",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "UPS shift away from Amazon shows bigger payoff",
+    "headline": "The Middle Corridor enters Russia-Ukraine conflict risk",
     "key_news_radar": [
       {
-        "title": "UPS shift away from Amazon shows bigger payoff",
-        "summary": "United Parcel Service parcel volumes fell during the second quarter as it completed the phase out of low-margin Amazon business, but revenue per piece and profits increased behind",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-07-28T20:06:53+00:00",
+        "title": "The Middle Corridor enters Russia-Ukraine conflict risk",
+        "summary": "Overnight between 25 and 26 July, long-range Ukrainian drones struck the Port Olya 2 and the Begey in the Caspian Sea, both merchant vessels already listed on sanctions registers,",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-29T10:10:25+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/ups-shift-away-from-amazon-shows-bigger-payoff",
+        "link": "https://www.trasportoeuropa.it/english/the-middle-corridor-enters-russia-ukraine-conflict-risk/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Iran Says It Still Controls Strait Of Hormuz After Trump Halts U.S. Bombing Campaign",
-        "summary": "Image for representation purposes only Iran said on Monday it remained in control of the Strait of Hormuz and had not sought to resume peace talks with the United States after Pres",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-28T12:49:21+00:00",
+        "title": "How Red Sea shipping disruption is feeding energy inflation — according to Permutable data",
+        "summary": "For the shipping industry, the consequences of geopolitical disruption are usually first seen in familiar places: vessel diversions, higher insurance premiums, reduced bunker avail",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-07-29T07:15:39+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/red-sea-shipping-disruption-feeding-energy-inflationo-permutable-data/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Container traffic grows but margins fall",
+        "summary": "Global container shipping volumes rose by 4.4% in the first quarter of 2026, to 47.2 million TEU: demand is holding up, but excess fleet capacity is squeezing pricing power and shi",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-07-29T14:23:58+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-says-it-still-controls-strait-of-hormuz-after-trump-halts-u-s-bombing-campaign/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-still-controls-strait-of-hormuz-after-trump-halts-u-s-bombing-campaign",
+        "link": "https://www.trasportoeuropa.it/english/container-traffic-grows-but-margins-fall/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Oman Presents Iran With Gulf-Backed Plan For Voluntary Strait Of Hormuz Transit Fees",
+        "summary": "Image for representation purposes only Oman has presented Iran with a Gulf-backed proposal to jointly manage the Strait of Hormuz, including voluntary contributions from ships usin",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-29T13:23:58+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees/?utm_source=rss&utm_medium=rss&utm_campaign=oman-presents-iran-with-gulf-backed-plan-for-voluntary-strait-of-hormuz-transit-fees",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -117,41 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Red Sea Shipping Slows as Houthi Attacks Trigger Fresh Maritime Disruptions",
-        "summary": "Commercial shipping through the Bab el-Mandeb Strait dropped sharply over the weekend after Yemen’s Houthi rebels launched attacks on Saudi energy infrastructure, adding new pressu",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-28T12:16:06+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/red-sea-shipping-slows-as-houthi-attacks-trigger-fresh-maritime-disruptions/",
+        "title": "Iran Rejects Oman’s Plan To Share Strait Of Hormuz And Seeks Greater Control Over Strategic Waterway",
+        "summary": "Image for representation purposes only Iran has rejected Oman’s proposal to equally divide shipping routes through the Strait of Hormuz, instead proposing a temporary arrangement t",
+        "source": "Marine Insight",
+        "timestamp": "2026-07-29T13:46:25+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-rejects-omans-plan-to-share-strait-of-hormuz-and-seeks-greater-control-over-strategic-waterway/?utm_source=rss&utm_medium=rss&utm_campaign=iran-rejects-omans-plan-to-share-strait-of-hormuz-and-seeks-greater-control-over-strategic-waterway",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Shipping Industry Must Adapt to New Era of Geopolitical Risk",
-        "summary": "A business commentary published on July 28, 2026, in Splash247 examines how the global shipping industry must adapt to a new era of geopolitical risk.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-07-28T12:16:06+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/shipping-industry-must-adapt-to-new-era-of-geopolitical-risk/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "China unveils five-year port modernisation plan",
-        "summary": "China has outlined a five-year programme to modernise its ports, with smart technologies, automation, digital connectivity and greener operations at the centre of its strategy to 2",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-28T09:54:45+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/container-shipping/2026/07/china-unveils-five-year-port-modernisation-plan/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -167,11 +165,11 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
@@ -184,7 +182,7 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-07-30",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "The Middle Corridor enters Russia-Ukraine conflict risk; How Red Sea shipping disruption is feeding energy inflation — according to Permutable data; Container traffic grows but margins fall",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-29",
         "write_now": "Maybe",
@@ -241,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "The Red Sea’s new front for attacks on tankers; DP World agrees Fujairah terminal deal as it seeks Hormuz alternative; Maersk Suspends Ukraine Port Service After Russia Intensifies Attacks On Export Routes",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-23",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Freightos Weekly Update: Ocean rates ease on early peak season cooling and capacity additions; Ocean rates weaker after tariff-driven peak season; Ukraine doubles international road fleet",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 313,
-      "high_trust": 87,
-      "trade_press": 226,
+      "total_items": 330,
+      "high_trust": 88,
+      "trade_press": 242,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-29.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-29.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-29.json"
+      "news_pipeline/output/reports/daily-brief-2026-07-30.md",
+      "news_pipeline/output/digests/daily-digest-2026-07-30.md",
+      "news_pipeline/output/trends/daily-trends-2026-07-30.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-29",
-    "run_started_at": "2026-07-29T07:31:05+09:00",
+    "report_date": "2026-07-30",
+    "run_started_at": "2026-07-30T07:31:09+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +276,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Delay in Ocean Shipment Updates (minor)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260729T073105+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-29.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260730T073109+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-07-30.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W31",
-    "week_end_date": "2026-07-29",
+    "week_end_date": "2026-07-30",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -413,8 +411,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -474,7 +471,7 @@
     "recent_history": [
       {
         "week_label": "2026-W31",
-        "week_end_date": "2026-07-29",
+        "week_end_date": "2026-07-30",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "4",
         "active_thesis_count": "1",
