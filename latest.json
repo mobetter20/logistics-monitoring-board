@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-07-30T22:32:35+00:00",
-  "requested_date": "2026-07-31",
+  "built_at": "2026-07-31T23:49:12+00:00",
+  "requested_date": "2026-08-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-07-31",
+    "requested_date": "2026-08-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: CMA CGM says eight of its vessels remain trapped in the Gulf.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-07-31",
+        "report_label": "2026-08-01",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-07-31",
+        "report_label": "2026-08-01",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,106 +55,112 @@
       }
     ],
     "shared_warnings": [
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-07-31",
-    "last_updated": "2026-07-31 07:30",
+    "report_date": "2026-08-01",
+    "last_updated": "2026-08-01 08:32",
     "freshness": "current",
-    "status_note": "Market watch is led by CMA CGM says eight of its vessels remain trapped in the Gulf.",
+    "status_note": "Market watch is led by Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: CMA CGM says eight of its vessels remain trapped in the Gulf.",
+      "Lead market story: Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-07-31",
+      "report_date": "2026-08-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "CMA CGM says eight of its vessels remain trapped in the Gulf; Freight Efficiency: How to Solve the “Dumb Box” Problem in Trucking; Saudi Arabia Seeks International Coalition To Protect Red Sea Shipping From Houthis",
+      "headline": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy; Hapag-Lloyd adds surcharge following Twente Canal closure; INTERCARGO Urges Stronger Protection for Seafarers as Attacks on Merchant Ships Escalate",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "CMA CGM says eight of its vessels remain trapped in the Gulf",
+    "headline": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy",
     "key_news_radar": [
       {
-        "title": "CMA CGM says eight of its vessels remain trapped in the Gulf",
-        "summary": "French shipping major CMA CGM still has eight vessels inside the Gulf that have been unable to exit through the Strait of Hormuz, CMA CGM’s Chief Financial Officer Ramon Fernandez",
-        "source": "WorldCargo News",
-        "timestamp": "2026-07-30T08:50:31+00:00",
+        "title": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy",
+        "summary": "The launch of Gemini Cooperation marked more than another reshuffling of container shipping alliances.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-07-31T05:40:20+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/07/cma-cgm-says-eight-of-its-vessels-remain-trapped-in-the-gulf/",
+        "link": "https://container-news.com/gemini-cooperation-maersk-hapag-lloyd/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "INTERCARGO Urges Stronger Protection for Seafarers as Attacks on Merchant Ships Escalate",
+        "summary": "The International Association of Dry Cargo Shipowners (INTERCARGO) has called on governments, international organisations and parties involved in armed conflicts to strengthen prot",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-31T00:20:32+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/intercargo-urges-stronger-protection-for-seafarers-as-attacks-on-merchant-ships-escalate/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Freight Efficiency: How to Solve the “Dumb Box” Problem in Trucking",
-        "summary": "#fwtv_AMsGeNmIKoQ .fwtv-tab{display:none}#fwtv_AMsGeNmIKoQ input[type=radio]{position:absolute;left:-9999px}#fwtv_AMsGeNmIKoQ .fwtv-labels label{display:inline-block;padding:10px 1",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-30T01:54:57+00:00",
+        "title": "India Condemns Attacks on Commercial Ships in Strait of Hormuz, Calls for De-escalation in West Asia",
+        "summary": "India has expressed deep concern over the renewed escalation of hostilities in West Asia, strongly condemning recent attacks on commercial vessels transiting the Strait of Hormuz a",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-31T00:17:36+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/freight-efficiency-how-to-solve-the-dumb-box-problem-in-trucking",
+        "link": "https://indiaseatradenews.com/india-condemns-attacks-on-commercial-ships-in-strait-of-hormuz-calls-for-de-escalation-in-west-asia/",
         "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Exporters Flag West Asia Crisis Impact on Orders, Shipping Costs and Supply Chains",
+        "summary": "Indian exporters have expressed growing concern over the prolonged crisis in West Asia, warning that disruptions to key shipping routes, rising logistics costs and supply chain unc",
+        "source": "India Seatrade News",
+        "timestamp": "2026-07-31T00:27:49+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/exporters-flag-west-asia-crisis-impact-on-orders-shipping-costs-and-supply-chains/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Why ‘Shipper of Choice’ is a MUST in Chemical Logistics",
+        "summary": "#fwtv_jBH0EWWvnY .fwtv-tab{display:none}#fwtv_jBH0EWWvnY input[type=radio]{position:absolute;left:-9999px}#fwtv_jBH0EWWvnY .fwtv-labels label{display:inline-block;padding:10px 18px",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-07-31T00:38:40+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/why-shipper-of-choice-is-a-must-in-chemical-logistics",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "US-Owned Gas Storage Tanker Damaged In Egypt Drone Strike, Fire Spreads To Second LNG Vessel",
-        "summary": "Image for representation purposes only A drone struck a U.S.-owned floating gas storage vessel at Egypt’s Mediterranean port of Damietta on Wednesday, causing a fire that spread to",
-        "source": "Marine Insight",
-        "timestamp": "2026-07-30T12:04:32+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/us-owned-gas-storage-tanker-damaged-in-egypt-drone-strike-fire-spreads-to-second-lng-vessel/?utm_source=rss&utm_medium=rss&utm_campaign=us-owned-gas-storage-tanker-damaged-in-egypt-drone-strike-fire-spreads-to-second-lng-vessel",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The ‘Capacity Tax’: How AI Data Centers Alter Freight Markets",
-        "summary": "#fwtv_4KmLh5TdGPw .fwtv-tab{display:none}#fwtv_4KmLh5TdGPw input[type=radio]{position:absolute;left:-9999px}#fwtv_4KmLh5TdGPw .fwtv-labels label{display:inline-block;padding:10px 1",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-07-30T01:51:31+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/the-capacity-tax-how-ai-data-centers-alter-freight-markets",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "China accelerates its global logistics push",
-        "summary": "On 22 July 2026, China’s General Administration of Customs (GAC) and National Development and Reform Commission (NDRC) presented their logistics infrastructure modernisation plan f",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-07-30T08:54:29+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/china-accelerates-its-global-logistics-push/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -165,24 +171,20 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy; Hapag-Lloyd adds surcharge following Twente Canal closure; INTERCARGO Urges Stronger Protection for Seafarers as Attacks on Merchant Ships Escalate",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-07-31",
         "write_now": "Maybe",
@@ -239,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Customs Suspends CONCOR Dronagiri CFS Approval, Tightening Capacity at JN Port Logistics Hub; Development of Inland Waterways and related projects : MoPSW; Maersk launches integrated cold chain solution for Chile-US produce trade",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-25",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "U.S Will Use Iranian Funds To Pay For Ship Damages In Strait Of Hormuz, Trump Announces; New US tariffs also hit logistics supply chains; Regulatory cleanup fuels Knight-Swift’s bullish outlook",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 304,
-      "high_trust": 89,
-      "trade_press": 215,
+      "total_items": 87,
+      "high_trust": 37,
+      "trade_press": 50,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-07-31.md",
-      "news_pipeline/output/digests/daily-digest-2026-07-31.md",
-      "news_pipeline/output/trends/daily-trends-2026-07-31.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-07-31",
-    "run_started_at": "2026-07-31T07:30:55+09:00",
+    "report_date": "2026-08-01",
+    "run_started_at": "2026-08-01T08:33:05+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
-    "targets_fetched": 28,
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "targets_fetched": 27,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -296,7 +299,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and optimization / procurement."
       },
       {
         "company": "Wakeo",
@@ -325,20 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests expansion into operational execution workflows",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "Improve delivery experience with visibility, exception management, and insights"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -391,14 +381,16 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260731T073055+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-07-31.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260801T083305+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-01.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Transporeon Press releases: Network error for https://www.transporeon.com/en_US/company/press: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W31",
-    "week_end_date": "2026-07-31",
+    "week_end_date": "2026-08-01",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -425,8 +417,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -486,7 +477,7 @@
     "recent_history": [
       {
         "week_label": "2026-W31",
-        "week_end_date": "2026-07-31",
+        "week_end_date": "2026-08-01",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "5",
         "active_thesis_count": "1",
