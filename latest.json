@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-02T22:32:25+00:00",
-  "requested_date": "2026-08-03",
+  "built_at": "2026-08-03T22:32:18+00:00",
+  "requested_date": "2026-08-04",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-03",
+    "requested_date": "2026-08-04",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Drewry World Container Index falls for third consecutive week.",
+      "Lead daily item: Is Lufthansa giving up on its Airbus A321 cargo fleet?.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-03",
+        "report_label": "2026-08-04",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-03",
+        "report_label": "2026-08-04",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W32",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around unknown.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,63 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-03",
-    "last_updated": "2026-08-03 07:30",
+    "report_date": "2026-08-04",
+    "last_updated": "2026-08-04 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Drewry World Container Index falls for third consecutive week.",
+    "status_note": "Market watch is led by Is Lufthansa giving up on its Airbus A321 cargo fleet?.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Drewry World Container Index falls for third consecutive week.",
+      "Lead market story: Is Lufthansa giving up on its Airbus A321 cargo fleet?.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-03",
+      "report_date": "2026-08-04",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Drewry World Container Index falls for third consecutive week; Maritime Industry releases Ver.2 (2026) Best Management Practices (BMP) for Maritime Security; IndiGo Launches Freighter Operations from Navi Mumbai with Cargo Flight to Sharjah",
+      "headline": "2nd Qatari-LNG Tanker Hit By Iran In Hormuz While 22 Chinese Ships Safely Cross Red Sea Without Harm; Is Lufthansa giving up on its Airbus A321 cargo fleet?; Truck enforcement sweeps hit 32 drivers, 45 vehicles across US",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Drewry World Container Index falls for third consecutive week",
+    "headline": "Is Lufthansa giving up on its Airbus A321 cargo fleet?",
     "key_news_radar": [
       {
-        "title": "Drewry World Container Index falls for third consecutive week",
-        "summary": "The Drewry World Container Index (WCI) declined for the third consecutive week, falling 3% to US$4,255 per 40-foot container.",
-        "source": "Container News",
-        "timestamp": "2026-08-02T09:00:25+00:00",
+        "title": "Is Lufthansa giving up on its Airbus A321 cargo fleet?",
+        "summary": "Lufthansa Cargo insists it will soon resume commercial service with its four Airbus A321 converted freighters that were grounded nearly four months ago, but all signs suggest the c",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-03T13:32:34+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/drewry-world-container-index-falls-for-third-consecutive-week/",
+        "link": "https://www.freightwaves.com/news/is-lufthansa-giving-up-on-its-airbus-a321-cargo-fleet",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "container_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maritime Industry releases Ver.2 (2026) Best Management Practices (BMP) for Maritime Security",
-        "summary": "(www.MaritimeCyprus.com) Maritime Cyprus welcomes the announcement of the publication of the 2nd version of the Best Management Practices Maritime Security.",
-        "source": "Maritime Cyprus (Maritime Safety Innovation blog)",
-        "timestamp": "2026-08-02T19:30:33+00:00",
-        "confidence": "high",
-        "link": "https://maritimecyprus.com/2026/08/02/maritime-industry-releases-ver-2-2026-best-management-practices-bmp-for-maritime-security/",
+        "title": "2nd Qatari-LNG Tanker Hit By Iran In Hormuz While 22 Chinese Ships Safely Cross Red Sea Without Harm",
+        "summary": "Image for representation purposes only A Bermuda-flagged LNG tanker carrying Qatari gas was struck by a likely Iranian projectile near Oman’s coast, while Chinese-linked vessels co",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-03T11:50:14+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/2nd-qatari-lng-tanker-hit-by-iran-in-hormuz-while-22-chinese-ships-safely-cross-red-sea-without-harm/?utm_source=rss&utm_medium=rss&utm_campaign=2nd-qatari-lng-tanker-hit-by-iran-in-hormuz-while-22-chinese-ships-safely-cross-red-sea-without-harm",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "maritime_cyprus_blog",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "IndiGo Launches Freighter Operations from Navi Mumbai with Cargo Flight to Sharjah",
-        "summary": "IndiGo has commenced dedicated freighter operations from Navi Mumbai International Airport, operating its first cargo flight to Sharjah on Saturday.",
+        "title": "Hungary shuts down evening rail freight amid electricity emergency",
+        "summary": "The ongoing drought is diminishing capacity in the inland waterway shipping sector.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-08-03T08:23:22+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/railfreight/2026/08/03/hungary-shuts-down-evening-rail-freight-amid-electricity-emergency/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "railfreight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk Modifies Pricing on Far East-India and Pakistan Services",
+        "summary": "Maersk has announced revisions to its surcharge structure for container shipments moving between the Far East and India and Pakistan, reflecting changing market conditions and oper",
         "source": "India Seatrade News",
-        "timestamp": "2026-08-02T19:16:37+00:00",
+        "timestamp": "2026-08-03T19:17:17+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/indigo-launches-freighter-operations-from-navi-mumbai-with-cargo-flight-to-sharjah/",
+        "link": "https://indiaseatradenews.com/maersk-modifies-pricing-on-far-east-india-and-pakistan-services/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -128,44 +141,22 @@
         "confirmed_by": []
       },
       {
-        "title": "News in Brief Podcast | Week 31 2026 | Peak Season, Middle East Risks and AI",
-        "summary": "In this episode of The Loadstar Podcast News in Brief, we unpack another busy week across global supply chains.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-02T16:03:34+00:00",
+        "title": "Truck enforcement sweeps hit 32 drivers, 45 vehicles across US",
+        "summary": "Recent commercial vehicle enforcement operations across eight states placed at least 32 truck drivers and 45 commercial vehicles out of service, underscoring continued nationwide s",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-03T15:53:51+00:00",
         "confidence": "high",
-        "link": "https://theloadstar.com/news-in-brief-podcast-week-31-2026-peak-season-middle-east-risks-and-ai/",
+        "link": "https://www.freightwaves.com/news/truck-enforcement-sweeps-hit-32-drivers-45-vehicles-across-us",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "the_loadstar"
+          "s_news_via_shippers_association_on_inoreader"
         ]
-      },
-      {
-        "title": "Pilbara Ports sets trade record as Port Hedland advances road project",
-        "summary": "In the 2025-26 financial year, Pilbara Ports handled a record 804.1m tonnes of imports and exports through the ports of Ashburton, Dampier, Port Hedland and Varanus Island.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-02T05:52:54+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/pilbara-ports-sets-trade-record-as-port-hedland-advances-road-project/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -173,19 +164,27 @@
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -195,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-04",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "2nd Qatari-LNG Tanker Hit By Iran In Hormuz While 22 Chinese Ships Safely Cross Red Sea Without Harm; Is Lufthansa giving up on its Airbus A321 cargo fleet?; Truck enforcement sweeps hit 32 drivers, 45 vehicles across US",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-03",
         "write_now": "Maybe",
@@ -242,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "Low water levels on Rhine hit barge services, ‘switch to rail a limited option’; Shipping Industry Must Adapt to New Era of Geopolitical Risk; UPS shift away from Amazon shows bigger payoff",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-28",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Shell LNG Outlook 2026: Navigating Crisis, Securing Transition; Customs suspends Concor cargo facility near JNPA over security deficiencies; War sends Asia-US ocean rates soaring 234% since February",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 71,
-      "high_trust": 17,
-      "trade_press": 54,
+      "total_items": 286,
+      "high_trust": 70,
+      "trade_press": 216,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-03.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-03.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-03.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-04.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-04.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-04.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-03",
-    "run_started_at": "2026-08-03T07:30:54+09:00",
+    "report_date": "2026-08-04",
+    "run_started_at": "2026-08-04T07:31:04+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -279,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -382,39 +381,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260803T073054+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-03.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260804T073104+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-04.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W32",
-    "week_end_date": "2026-08-03",
+    "week_end_date": "2026-08-04",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around unknown.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around unknown.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around unknown."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -434,32 +432,17 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance. Service Under Maintenance",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
       {
         "week_label": "2026-W32",
-        "week_end_date": "2026-08-03",
-        "takeaway": "Project44 is signaling AI positioning around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-08-04",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_signature": "",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
