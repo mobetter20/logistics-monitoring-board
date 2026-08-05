@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-04T22:35:45+00:00",
-  "requested_date": "2026-08-05",
+  "built_at": "2026-08-05T22:32:06+00:00",
+  "requested_date": "2026-08-06",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-05",
+    "requested_date": "2026-08-06",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Supply Chain: Why Ocean Rates Skyrocketed 300% in 5.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-05",
+        "report_label": "2026-08-06",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-05",
+        "report_label": "2026-08-06",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging",
-        "supporting_note": "Shippeo is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,48 +64,35 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-05",
-    "last_updated": "2026-08-05 07:34",
+    "report_date": "2026-08-06",
+    "last_updated": "2026-08-06 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026.",
+    "status_note": "Market watch is led by Supply Chain: Why Ocean Rates Skyrocketed 300% in 5.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026.",
+      "Lead market story: Supply Chain: Why Ocean Rates Skyrocketed 300% in 5.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-05",
+      "report_date": "2026-08-06",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026; Freight Rates: Are they rising because of DEMAND or; Port of Rotterdam faces strike action on 4 September",
+      "headline": "Supply Chain: Why Ocean Rates Skyrocketed 300% in 5; Drone attack and collision with DHL aircraft in Leipzig; ONE announces Q1 FY2026 financial results",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026",
+    "headline": "Supply Chain: Why Ocean Rates Skyrocketed 300% in 5",
     "key_news_radar": [
       {
-        "title": "DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026",
-        "summary": "NEW DELHI : The Dedicated Freight Corridor Corporation of India Limited (DFCCIL) has achieved another landmark in India’s freight transportation sector by recording its highest-eve",
-        "source": "India Shipping News",
-        "timestamp": "2026-08-04T03:58:47+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/dfc/dfccil-achieves-record-monthly-freight-performance-with-highest-ever-gross-tonne-kilometres-in-july-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Freight Rates: Are they rising because of DEMAND or",
-        "summary": "SummaryView TranscriptThe latest Q2 earnings reports from major trucking and rail carriers paint a clear picture: the freight market is tight, and rates are rising.",
+        "title": "Supply Chain: Why Ocean Rates Skyrocketed 300% in 5",
+        "summary": "Months SummaryView TranscriptGEODIS Americas CEO Laura Ritchey reveals the stark reality of today’s “uneven” economy and its impact on supply chains.",
         "source": "direct__monitoring_feeds_via_shippers_association_on_inoreader",
-        "timestamp": "2026-08-04T22:34:31.810637+00:00",
+        "timestamp": "2026-08-05T22:30:50.232324+00:00",
         "confidence": "high",
         "link": "",
         "label": "Operational",
@@ -115,25 +102,38 @@
         "confirmed_by": []
       },
       {
-        "title": "Port operational updates from around the world (29 July - 4 August 2026)",
-        "summary": "Chinese ports faced hours-long closures due to bad weather, while congestion continues to impacts ports in the Middle East",
-        "source": "myKN Alert",
-        "timestamp": "2026-08-04T12:54:35+00:00",
+        "title": "ONE announces Q1 FY2026 financial results",
+        "summary": "Ocean Network Express (ONE) has announced its financial results for the first quarter of FY2026, covering the period from 1 April to 30 June 2026.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-04T08:46:29+00:00",
         "confidence": "high",
-        "link": "https://mykn.kuehne-nagel.com/news/article/port-operational-updates-from-03-08-2026",
+        "link": "https://container-news.com/one-announces-q1-fy2026-financial-results/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Port of Rotterdam faces strike action on 4 September",
-        "summary": "FNV Havens has chosen Friday, 4 September, for a planned strike at the Port of Rotterdam.",
+        "title": "Hormuz nears agreement but tension remains in the Red Sea",
+        "summary": "The United States, Iran and Oman are reportedly close to a 60-day provisional agreement to reopen the Strait of Hormuz: inbound traffic would follow the northern lane through Irani",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-05T12:09:15+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/hormuz-nears-agreement-but-tension-remains-in-the-red-sea/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Low Rhine water levels hit cargo volumes at Rotterdam",
+        "summary": "The impact of low water levels on the Rhine is clearly visible in the Port of Rotterdam, where the river flows into the sea after more than 1,200km.",
         "source": "WorldCargo News",
-        "timestamp": "2026-08-04T07:03:21+00:00",
+        "timestamp": "2026-08-05T05:51:48+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/port-of-rotterdam-faces-strike-action-on-4-september/",
+        "link": "https://www.worldcargonews.com/news/2026/08/low-rhine-water-levels-hit-cargo-volumes-at-rotterdam/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -141,15 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Argentina pilotage strike halts port operations and delays vessel movements",
-        "summary": "More than 100 vessels are awaiting entry or departure as disruptions affect multiple Argentine ports and some operations shift to Montevideo and southern Brazil",
-        "source": "myKN Alert",
-        "timestamp": "2026-08-04T20:23:42+00:00",
+        "title": "Declining Freight Rates Fail to Ease Apparel Logistics Costs",
+        "summary": "Despite a decline in global freight rates, apparel manufacturers and exporters are seeing little reduction in overall logistics costs as persistent supply chain expenses continue t",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-05T18:53:42+00:00",
         "confidence": "high",
-        "link": "https://mykn.kuehne-nagel.com/news/article/argentina-pilotage-strike-halts-port",
+        "link": "https://indiaseatradenews.com/declining-freight-rates-fail-to-ease-apparel-logistics-costs/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -165,20 +165,24 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -188,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-06",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Supply Chain: Why Ocean Rates Skyrocketed 300% in 5; Drone attack and collision with DHL aircraft in Leipzig; ONE announces Q1 FY2026 financial results",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-05",
         "write_now": "Maybe",
@@ -235,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "CMA CGM says eight of its vessels remain trapped in the Gulf; Freight Efficiency: How to Solve the “Dumb Box” Problem in Trucking; Saudi Arabia Seeks International Coalition To Protect Red Sea Shipping From Houthis",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-07-30",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "The Middle Corridor enters Russia-Ukraine conflict risk; How Red Sea shipping disruption is feeding energy inflation — according to Permutable data; Container traffic grows but margins fall",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 75,
-      "high_trust": 17,
-      "trade_press": 58,
+      "total_items": 421,
+      "high_trust": 75,
+      "trade_press": 346,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-05.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-05.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-05.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-06.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-06.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-06.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-05",
-    "run_started_at": "2026-08-05T07:34:35+09:00",
+    "report_date": "2026-08-06",
+    "run_started_at": "2026-08-06T07:30:55+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Shippeo Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Shippeo is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -321,21 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Shippeo",
-        "importance": "important",
-        "summary": "Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging -> suggests expansion into operational execution workflows",
-        "source_url": "https://www.shippeo.com/solutions/ecmr",
-        "evidence": [
-          "Connected eCMR Management",
-          "Digitize your consignment notes"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -388,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260805T073435+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-05.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260806T073055+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-06.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W32",
-    "week_end_date": "2026-08-05",
+    "week_end_date": "2026-08-06",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -416,7 +407,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -460,7 +451,7 @@
     "recent_history": [
       {
         "week_label": "2026-W32",
-        "week_end_date": "2026-08-05",
+        "week_end_date": "2026-08-06",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "1",
         "active_thesis_count": "0",
