@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-06T22:32:16+00:00",
-  "requested_date": "2026-08-07",
+  "built_at": "2026-08-07T22:32:12+00:00",
+  "requested_date": "2026-08-08",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-07",
+    "requested_date": "2026-08-08",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: In early August 2026, the Pacific drives container freight rates.",
+      "Lead daily item: Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-07",
+        "report_label": "2026-08-08",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-07",
+        "report_label": "2026-08-08",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,50 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-07",
-    "last_updated": "2026-08-07 07:31",
+    "report_date": "2026-08-08",
+    "last_updated": "2026-08-08 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by In early August 2026, the Pacific drives container freight rates.",
+    "status_note": "Market watch is led by Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: In early August 2026, the Pacific drives container freight rates.",
+      "Lead market story: Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-07",
+      "report_date": "2026-08-08",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "In early August 2026, the Pacific drives container freight rates; Strong peak demand pumps trans-Pac box rates; Reopening: Strait of Hormuz awaits Iran-Oman",
+      "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update; Hormuz disruption cuts deep into APM Terminals Bahrain profit; Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "In early August 2026, the Pacific drives container freight rates",
+    "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update",
     "key_news_radar": [
       {
-        "title": "In early August 2026, the Pacific drives container freight rates",
-        "summary": "The World Container Index, compiled by Drewry to track spot container shipping rates, rose to $4,297 per FEU, up 1%, in the week of 6 August 2026.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-08-06T15:51:17+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/in-early-august-2026-the-pacific-drives-container-freight-rates/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Strong peak demand pumps trans-Pac box rates",
-        "summary": "After what was seen as a tariffs-chasing early peak season, the trans-Pacific market is showing early signs of stronger demand.Asia-U.S West Coast prices decreased 1% to $6,129 per",
+        "title": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) decreased 1%.",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-06T16:52:50+00:00",
+        "timestamp": "2026-08-07T12:04:47+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/strong-peak-demand-pumps-trans-pac-box-rates",
+        "link": "https://www.freightos.com/freight-resources/transpac-peak-may-stretch-on-even-as-asia-europe-ocean-cools-august-7-2026-update/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -115,41 +102,56 @@
         "confirmed_by": []
       },
       {
-        "title": "Reopening: Strait of Hormuz awaits Iran-Oman",
-        "summary": "agreement A standoff between Iran and the United States is keeping the Strait of Hormuz all but closed to normal vessel traffic while Tehran and Oman finalize a proposed 60-day reo",
+        "title": "Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
+        "summary": "The global shipping industry has called on the United Nations (UN) and the International Maritime Organization (IMO) to reject any proposal that would introduce mandatory transit f",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-08-07T17:38:43+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/shipping-industry-pushes-back-against-proposed-hormuz-transit-fees/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Hormuz disruption cuts deep into APM Terminals Bahrain profit",
+        "summary": "The effective closure of the Strait of Hormuz and disruption to regional shipping activity have hit APM Terminals Bahrain’s 2026 performance, with container terminal revenue fallin",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-07T09:46:56+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/business/2026/08/hormuz-disruption-cuts-deep-into-apm-terminals-bahrain-profit/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Why 47.5 is a scary number for East Coast ports",
+        "summary": "Drier weather and drought conditions are expected to complicate supply chain operations on key water routes from Panama to Europe.The Panama Canal Authority this week announced it",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-07T19:08:02+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/why-47-5-is-a-scary-number-for-east-coast-ports",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Asia ocean line in $135M expansion of US box",
+        "summary": "terminal A West Coast port is upping its container game with a major equipment upgrade.The Port of Tacoma’s Washington United Terminals has signed a contract with HD Hyundai Samho",
         "source": "direct__monitoring_feeds_via_shippers_association_on_inoreader",
-        "timestamp": "2026-08-06T22:30:56.443383+00:00",
+        "timestamp": "2026-08-07T22:30:57.774184+00:00",
         "confidence": "high",
         "link": "",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "3,972 Indian Seafarers Repatriated As India Safely Moved 60 Merchant Vessels Through Strait Of Hormuz",
-        "summary": "Image for representation purposes only India safely moved 60 merchant vessels carrying cargo through the Strait of Hormuz during the recent Gulf crisis, while bringing back 3,972 I",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-06T08:49:14+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/3972-indian-seafarers-repatriated-as-india-safely-moved-60-merchant-vessels-through-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=3972-indian-seafarers-repatriated-as-india-safely-moved-60-merchant-vessels-through-strait-of-hormuz",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Matson expects strong Q3 as China service rides demand wave",
-        "summary": "US carrier Matson has raised its full-year outlook after a strong second quarter, with its China service driving earnings growth supported by stronger-than-expected freight rates.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-06T11:50:51+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/matson-expects-strong-q3-as-china-service-rides-demand-wave/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -165,11 +167,11 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
@@ -182,7 +184,7 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-08",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update; Hormuz disruption cuts deep into APM Terminals Bahrain profit; Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-07",
         "write_now": "Maybe",
@@ -239,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "Typhoon Noul worsens congestion at Chinese ports; Low water levels on Rhine disrupt barge services; Govt bolsters maritime supply chains and inland economic corridors amid geopolitical disruptions",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-01",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Gemini Cooperation: Maersk and Hapag-Lloyd redefine alliance strategy; Hapag-Lloyd adds surcharge following Twente Canal closure; INTERCARGO Urges Stronger Protection for Seafarers as Attacks on Merchant Ships Escalate",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 303,
-      "high_trust": 65,
-      "trade_press": 238,
+      "total_items": 266,
+      "high_trust": 61,
+      "trade_press": 205,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-07.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-07.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-07.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-08.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-08.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-08.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-07",
-    "run_started_at": "2026-08-07T07:31:01+09:00",
+    "report_date": "2026-08-08",
+    "run_started_at": "2026-08-08T07:31:02+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +278,12 @@
       "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -379,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260807T073101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-07.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260808T073102+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-08.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W32",
-    "week_end_date": "2026-08-07",
+    "week_end_date": "2026-08-08",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -407,7 +409,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Continue building weekly history and watch for repeated motifs before making a directional change."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -451,7 +453,7 @@
     "recent_history": [
       {
         "week_label": "2026-W32",
-        "week_end_date": "2026-08-07",
+        "week_end_date": "2026-08-08",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "1",
         "active_thesis_count": "0",
