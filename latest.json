@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-07T22:32:12+00:00",
-  "requested_date": "2026-08-08",
+  "built_at": "2026-08-09T01:03:01+00:00",
+  "requested_date": "2026-08-09",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-08",
+    "requested_date": "2026-08-09",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-08",
+        "report_label": "2026-08-09",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-08",
+        "report_label": "2026-08-09",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,103 +55,101 @@
       }
     ],
     "shared_warnings": [
+      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-08",
-    "last_updated": "2026-08-08 07:31",
+    "report_date": "2026-08-09",
+    "last_updated": "2026-08-09 08:51",
     "freshness": "current",
-    "status_note": "Market watch is led by Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
+    "status_note": "Market watch is led by Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update.",
+      "Lead market story: Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-08",
+      "report_date": "2026-08-09",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update; Hormuz disruption cuts deep into APM Terminals Bahrain profit; Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
+      "headline": "Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles; Full-Fledged DFC Operations and GCT Push accelerate Freight Growth; Loading Rises Consistently from 1,098 MT in 2014-15 to 1,670 MT in 2025-26; Government accelerates Inland Water Transport Development with Major Policy Reforms and Infrastructure push",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update",
+    "headline": "Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles",
     "key_news_radar": [
       {
-        "title": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) decreased 1%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-07T12:04:47+00:00",
+        "title": "Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles",
+        "summary": "A proposed arrangement between Iran and Oman to regulate shipping through the Strait of Hormuz is facing significant challenges over US sanctions, international maritime rules and",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-08T00:12:57+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/transpac-peak-may-stretch-on-even-as-asia-europe-ocean-cools-august-7-2026-update/",
+        "link": "https://indiaseatradenews.com/iran-oman-strait-of-hormuz-deal-faces-sanctions-insurance-hurdles/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
-        "summary": "The global shipping industry has called on the United Nations (UN) and the International Maritime Organization (IMO) to reject any proposal that would introduce mandatory transit f",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-07T17:38:43+00:00",
+        "title": "Full-Fledged DFC Operations and GCT Push accelerate Freight Growth; Loading Rises Consistently from 1,098 MT in 2014-15 to 1,670 MT in 2025-26",
+        "summary": "Indian Railways Strengthens Freight Ecosystem Through Terminal Development, Wagon Investment Schemes, Rapid Cargo Services and Improved First-and-Last-Mile Connectivity NEW DELHI:",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-08T03:48:29+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/shipping-industry-pushes-back-against-proposed-hormuz-transit-fees/",
+        "link": "https://indiashippingnews.com/infrastructure/full-fledged-dfc-operations-and-gct-push-accelerate-freight-growth-loading-rises-consistently-from-1098-mt-in-2014-15-to-1670-mt-in-2025-26/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Hormuz disruption cuts deep into APM Terminals Bahrain profit",
-        "summary": "The effective closure of the Strait of Hormuz and disruption to regional shipping activity have hit APM Terminals Bahrain’s 2026 performance, with container terminal revenue fallin",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-07T09:46:56+00:00",
+        "title": "Government accelerates Inland Water Transport Development with Major Policy Reforms and Infrastructure push",
+        "summary": "NEW DELHI: The Government has implemented several policy and promotional initiatives for the development of Inland Water Transport (IWT) sector, including notification of the Natio",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-08T03:49:08+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/08/hormuz-disruption-cuts-deep-into-apm-terminals-bahrain-profit/",
+        "link": "https://indiashippingnews.com/infrastructure/government-accelerates-inland-water-transport-development-with-major-policy-reforms-and-infrastructure-push/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Why 47.5 is a scary number for East Coast ports",
-        "summary": "Drier weather and drought conditions are expected to complicate supply chain operations on key water routes from Panama to Europe.The Panama Canal Authority this week announced it",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-07T19:08:02+00:00",
+        "title": "Kamarajar Port sets New Container Handling Record, Achieves Best-Ever Rail Performance in July 2026",
+        "summary": "67,561 TEUs handled in a single month; 31 rail rakes carrying 4,600 TEUs mark a new benchmark in multimodal logistics CHENNAI: Kamarajar Port has achieved a significant new milesto",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-08T03:53:21+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/why-47-5-is-a-scary-number-for-east-coast-ports",
-        "label": "Operational",
+        "link": "https://indiashippingnews.com/major-port/kamarajar-port-sets-new-container-handling-record-achieves-best-ever-rail-performance-in-july-2026/",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Asia ocean line in $135M expansion of US box",
-        "summary": "terminal A West Coast port is upping its container game with a major equipment upgrade.The Port of Tacoma’s Washington United Terminals has signed a contract with HD Hyundai Samho",
-        "source": "direct__monitoring_feeds_via_shippers_association_on_inoreader",
-        "timestamp": "2026-08-07T22:30:57.774184+00:00",
+        "title": "New Providence Gas selects ECOnnect’s marine transfer solution for Bahamas LNG project",
+        "summary": "ECOnnect Energy has signed an agreement with New Providence Gas Ltd (NPG) for floating LNG infrastructure in The Bahamas.",
+        "source": "Container News",
+        "timestamp": "2026-08-08T06:00:40+00:00",
         "confidence": "high",
-        "link": "",
-        "label": "Operational",
+        "link": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,10 +158,6 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -176,15 +170,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -194,6 +188,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-09",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles; Full-Fledged DFC Operations and GCT Push accelerate Freight Growth; Loading Rises Consistently from 1,098 MT in 2014-15 to 1,670 MT in 2025-26; Government accelerates Inland Water Transport Development with Major Policy Reforms and Infrastructure push",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-08",
         "write_now": "Maybe",
@@ -241,49 +243,40 @@
         "worth_attention_today": "5",
         "headline": "Drewry World Container Index falls for third consecutive week; Maritime Industry releases Ver.2 (2026) Best Management Practices (BMP) for Maritime Security; IndiGo Launches Freighter Operations from Navi Mumbai with Cargo Flight to Sharjah",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-02",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Typhoon Noul worsens congestion at Chinese ports; Low water levels on Rhine disrupt barge services; Govt bolsters maritime supply chains and inland economic corridors amid geopolitical disruptions",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 266,
-      "high_trust": 61,
-      "trade_press": 205,
+      "total_items": 37,
+      "high_trust": 17,
+      "trade_press": 20,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-08.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-08.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-08.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-09.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-09.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-09.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-08",
-    "run_started_at": "2026-08-08T07:31:02+09:00",
+    "report_date": "2026-08-09",
+    "run_started_at": "2026-08-09T08:51:28+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
-    "targets_fetched": 28,
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "targets_fetched": 27,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -299,7 +292,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and analytics and decision intelligence."
       },
       {
         "company": "Wakeo",
@@ -312,24 +305,38 @@
     ],
     "peer_themes": [
       {
+        "theme": "analytics",
+        "count": "4"
+      },
+      {
+        "theme": "decision intelligence",
+        "count": "4"
+      },
+      {
         "theme": "AI",
         "count": "3"
       },
       {
         "theme": "automation",
         "count": "3"
-      },
-      {
-        "theme": "data quality / connectivity",
-        "count": "3"
-      },
-      {
-        "theme": "optimization / procurement",
-        "count": "3"
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-08-05",
@@ -338,6 +345,14 @@
         "signal_type": "website change",
         "summary": "Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging",
         "source_url": "https://www.shippeo.com/solutions/ecmr"
+      },
+      {
+        "detected_date": "2026-08-03",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       },
       {
         "detected_date": "2026-08-02",
@@ -370,25 +385,19 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-07-28",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260808T073102+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-08.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260809T085128+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-09.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Transporeon Homepage: Network error for https://www.transporeon.com/en_US: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W32",
-    "week_end_date": "2026-08-08",
+    "week_end_date": "2026-08-09",
     "freshness": "current",
     "status_note": "Shippeo is signaling workflow deepening around facility execution.",
     "sparse_explanation": "",
@@ -409,7 +418,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -453,7 +462,7 @@
     "recent_history": [
       {
         "week_label": "2026-W32",
-        "week_end_date": "2026-08-08",
+        "week_end_date": "2026-08-09",
         "takeaway": "Shippeo is signaling workflow deepening around facility execution.",
         "signal_count": "1",
         "active_thesis_count": "0",
