@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-09T22:32:10+00:00",
-  "requested_date": "2026-08-10",
+  "built_at": "2026-08-10T22:32:26+00:00",
+  "requested_date": "2026-08-11",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-10",
+    "requested_date": "2026-08-11",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Drewry WCI rebounds after three-week decline.",
+      "Lead daily item: Nhava Sheva an unstable hub for the Gulf.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-10",
+        "report_label": "2026-08-11",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-10",
+        "report_label": "2026-08-11",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W33",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around unknown.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,96 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-10",
-    "last_updated": "2026-08-10 07:31",
+    "report_date": "2026-08-11",
+    "last_updated": "2026-08-11 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Drewry WCI rebounds after three-week decline.",
+    "status_note": "Market watch is led by Nhava Sheva an unstable hub for the Gulf.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Drewry WCI rebounds after three-week decline.",
+      "Lead market story: Nhava Sheva an unstable hub for the Gulf.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-10",
+      "report_date": "2026-08-11",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Drewry WCI rebounds after three-week decline; Indian Crew Member Dies In Custody After Portugal Seizes 5 Tonnes Of Cocaine From Ship; Oil Giant ADNOC Says 15 Vessels Attacked In Strait Of Hormuz Since Conflict Began",
+      "headline": "Nhava Sheva an unstable hub for the Gulf; SeaLead Shipping enters liquidation after US sanctions; Fumigation Rules tighten across Gujarat: Exporters face New Verification Regime, Longer cargo holds",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Drewry WCI rebounds after three-week decline",
+    "headline": "Nhava Sheva an unstable hub for the Gulf",
     "key_news_radar": [
       {
-        "title": "Drewry WCI rebounds after three-week decline",
-        "summary": "The Drewry World Container Index (WCI) increased after three consecutive weeks of decline.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-09T10:46:46+00:00",
+        "title": "Nhava Sheva an unstable hub for the Gulf",
+        "summary": "Since November 2023, Houthi attacks have caused container transits through Bab-el-Mandeb to collapse by 75%, pushing most container ships towards the Cape of Good Hope route.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-10T09:36:01+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/drewry-wci-rebounds-after-three-week-decline/",
+        "link": "https://www.trasportoeuropa.it/english/nhava-sheva-an-unstable-hub-for-the-gulf/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Indian Crew Member Dies In Custody After Portugal Seizes 5 Tonnes Of Cocaine From Ship",
-        "summary": "Screengrab from X video posted by Marinha An Indian crew member arrested after Portuguese authorities seized five tonnes of cocaine from a Hong Kong-flagged container ship off Port",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-08T12:13:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/indian-crew-member-dies-in-custody-after-portugal-seizes-5-tonnes-of-cocaine-from-ship/?utm_source=rss&utm_medium=rss&utm_campaign=indian-crew-member-dies-in-custody-after-portugal-seizes-5-tonnes-of-cocaine-from-ship",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Oil Giant ADNOC Says 15 Vessels Attacked In Strait Of Hormuz Since Conflict Began",
-        "summary": "Image for representation purposes only Abu Dhabi National Oil Company (ADNOC) said on Friday that 15 of its vessels had been attacked by missiles and drones while passing through t",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-08T13:13:17+00:00",
+        "title": "SeaLead Shipping enters liquidation after US sanctions",
+        "summary": "SeaLead Shipping, a shipping company based in Singapore, filed a voluntary liquidation application at the end of July 2026 and, on 4 August, Cosimo Borrelli was appointed liquidato",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-10T09:21:49+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/oil-giant-adnoc-says-15-vessels-attacked-in-strait-of-hormuz-since-conflict-began/?utm_source=rss&utm_medium=rss&utm_campaign=oil-giant-adnoc-says-15-vessels-attacked-in-strait-of-hormuz-since-conflict-began",
+        "link": "https://www.trasportoeuropa.it/english/sealead-shipping-enters-liquidation-after-us-sanctions/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Saudi Arabia Cuts Arab Light Price for Asia Amid Hormuz Shipping Talks",
-        "summary": "Saudi Arabia has again lowered the price of its main crude grade for Asian buyers, following a drop in oil prices driven by expectations of a possible agreement to increase tanker",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-08T23:42:18+00:00",
+        "title": "Sale of major shipping line in U.S. trade on the rocks:",
+        "summary": "Report The proposed sale of Israel’s flag carrier to a German liner for $4.2 billion is likely to be rejected by state authorities.The acquisition of Zim Integrated Shipping Servic",
+        "source": "direct__monitoring_feeds_via_shippers_association_on_inoreader",
+        "timestamp": "2026-08-10T22:30:50.960489+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/saudi-arabia-cuts-arab-light-price-for-asia-amid-hormuz-shipping-talks/",
+        "link": "",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Iran sets conditions for opening Strait of Hormuz after UAE says one of its ships was targeted by airstrike",
-        "summary": "Iran on Saturday laid out sweeping demands to the U.S.",
-        "source": "Hellenic Shipping News — International Shipping",
-        "timestamp": "2026-08-09T21:00:50+00:00",
+        "title": "Houthis Attack Red Sea Port Of Mokha And Saudi Oil Facility, Killing 7 And Injuring 15",
+        "summary": "Image for representation purposes only Yemen’s Houthi rebels attacked the government-held port of Mokha on the Red Sea with missiles and drones on Sunday, killing at least seven pe",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-10T13:28:25+00:00",
         "confidence": "medium",
-        "link": "https://www.hellenicshippingnews.com/iran-sets-conditions-for-opening-strait-of-hormuz-after-uae-says-one-of-its-ships-was-targeted-by-airstrike/",
+        "link": "https://www.marineinsight.com/houthis-attack-red-sea-port-of-mokha-and-saudi-oil-facility-killing-7-and-injuring-15/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-attack-red-sea-port-of-mokha-and-saudi-oil-facility-killing-7-and-injuring-15",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "hellenic_shipping_international",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Freight & Industrials Outlook: What’s Driving Growth into 2027?",
+        "summary": "SummaryView TranscriptThe US industrial sector is experiencing its strongest growth in years, with the ISM index hitting 55.6 for the seventh consecutive month.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-08-10T18:53:18+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/freight-industrials-outlook-whats-driving-growth-into-2027",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -162,6 +158,10 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -174,15 +174,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-11",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Nhava Sheva an unstable hub for the Gulf; SeaLead Shipping enters liquidation after US sanctions; Fumigation Rules tighten across Gujarat: Exporters face New Verification Regime, Longer cargo holds",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-10",
         "write_now": "Maybe",
@@ -239,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "DFCCIL achieves record monthly freight performance with highest-ever gross tonne kilometres in July 2026; Freight Rates: Are they rising because of DEMAND or; Port of Rotterdam faces strike action on 4 September",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-04",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "2nd Qatari-LNG Tanker Hit By Iran In Hormuz While 22 Chinese Ships Safely Cross Red Sea Without Harm; Is Lufthansa giving up on its Airbus A321 cargo fleet?; Truck enforcement sweeps hit 32 drivers, 45 vehicles across US",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 79,
-      "high_trust": 9,
-      "trade_press": 70,
+      "total_items": 286,
+      "high_trust": 75,
+      "trade_press": 211,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-10.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-10.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-10.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-11.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-11.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-11.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-10",
-    "run_started_at": "2026-08-10T07:31:04+09:00",
+    "report_date": "2026-08-11",
+    "run_started_at": "2026-08-11T07:30:55+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +276,12 @@
       "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
+    "last_signal_label": "6 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -360,58 +360,41 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-07-28",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Delay in Ocean Shipment Updates (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-07-28",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260810T073104+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-10.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260811T073055+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-11.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W33",
-    "week_end_date": "2026-08-10",
+    "week_end_date": "2026-08-11",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around unknown.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around unknown.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around unknown."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -431,32 +414,17 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance. Service Under Maintenance",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
       {
         "week_label": "2026-W33",
-        "week_end_date": "2026-08-10",
-        "takeaway": "Project44 is signaling AI positioning around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-08-11",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_signature": "",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
