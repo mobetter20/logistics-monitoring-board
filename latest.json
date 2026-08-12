@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-11T22:32:07+00:00",
-  "requested_date": "2026-08-12",
+  "built_at": "2026-08-12T22:32:14+00:00",
+  "requested_date": "2026-08-13",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-12",
+    "requested_date": "2026-08-13",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update.",
+      "Lead daily item: China’s EV dominance faces new challenges.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-12",
+        "report_label": "2026-08-13",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-12",
+        "report_label": "2026-08-13",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 7 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-12",
-    "last_updated": "2026-08-12 07:30",
+    "report_date": "2026-08-13",
+    "last_updated": "2026-08-13 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update.",
+    "status_note": "Market watch is led by China’s EV dominance faces new challenges.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update.",
+      "Lead market story: China’s EV dominance faces new challenges.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-12",
+      "report_date": "2026-08-13",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update; Extreme weather cramps logistics flows in Europe, China; Ukraine Halts Attacks On Oil Tankers & Infrastructure On Black Sea Coast After U.S Intervention",
+      "headline": "China’s EV dominance faces new challenges; Panama Canal auction slot reportedly sells for US$4m; India Prepares Ports for Full Container Scanning Amid Delay Fears",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update",
+    "headline": "China’s EV dominance faces new challenges",
     "key_news_radar": [
       {
-        "title": "Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 11%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-11T12:05:18+00:00",
-        "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/hormuz-hopes-dashed-asia-europe-and-transpac-ocean-rates-diverge-on-extended-us-peak-august-11-2026-update/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Ukraine Halts Attacks On Oil Tankers & Infrastructure On Black Sea Coast After U.S Intervention",
-        "summary": "Image for representation purposes only Ukraine will not attack non-Russian oil tankers and critical maritime infrastructure, including oil pipelines vital for Kazakhastan’s oil exp",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-11T09:55:26+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/ukraine-halts-attacks-on-oil-tankers-infrastructure-on-black-sea-coast-after-u-s-intervention/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-halts-attacks-on-oil-tankers-infrastructure-on-black-sea-coast-after-u-s-intervention",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Cyprus targets stability amid regional disruption",
-        "summary": "Amid ongoing disruption across the Middle East and Eastern Europe, Cyprus is positioning itself as a stable, EU-based logistics hub at the heart of the Eastern Mediterranean.",
+        "title": "China’s EV dominance faces new challenges",
+        "summary": "A report recently published by the Paris-based International Energy Agency (IEA) projects that global sales of electric vehicles (EVs) will hit a new record in 2026, with China’s d",
         "source": "WorldCargo News",
-        "timestamp": "2026-08-11T06:16:43+00:00",
+        "timestamp": "2026-08-12T06:18:37+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/08/cyprus-targets-stability-amid-regional-disruption/",
+        "link": "https://www.worldcargonews.com/shipping-logistics/2026/08/chinas-ev-dominance-faces-new-challenges/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -128,28 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Extreme weather cramps logistics flows in Europe, China",
-        "summary": "Logistics flows in Europe and East Asia have been slowed by extreme weather conditions this week, including record low water levels in major freight rivers in Germany and a typhoon",
-        "source": "DC Velocity",
-        "timestamp": "2026-08-11T19:23:26+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/maritime-ocean/extreme-weather-cramps-logistics-flows-in-europe-china",
+        "title": "Panama Canal auction slot reportedly sells for US$4m",
+        "summary": "A container ship has reportedly paid about US$4m for an auctioned slot to bypass the queue at the Panama Canal, where waiting times have stretched beyond a week as vessels seek alt",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-12T08:39:18+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/08/panama-canal-auction-slot-reportedly-sells-for-us4m/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "dcvelocity",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Sale of major shipping line in U.S. trade on the rocks: Report",
-        "summary": "The proposed sale of Israel’s flag carrier to a German liner for $4.2 billion is likely to be rejected by state authorities.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-10T14:47:22+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/sale-of-major-shipping-line-in-u-s-trade-on-the-rocks-report",
+        "title": "Rine low-water surcharges arrive",
+        "summary": "Mediterranean Shipping Company has introduced traffic congestion surcharges on rail, road and combined road-rail services to and from the ports of Antwerp and Rotterdam bound for G",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-12T09:30:20+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/rine-low-water-surcharges-arrive/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India Prepares Ports for Full Container Scanning Amid Delay Fears",
+        "summary": "Indian ports and container terminals are preparing for a major change in cargo security procedures as the government moves towards mandatory scanning of every export and import con",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-12T18:53:45+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/india-prepares-ports-for-full-container-scanning-amid-delay-fears/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Earthquake disrupts Buenaventura port operations",
+        "summary": "Container terminal operations at Colombia’s Buenaventura port have been suspended following a magnitude 7.4 earthquake that damaged infrastructure and closed key roads linking the",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-12T13:25:53+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/08/earthquake-disrupts-buenaventura-port-operations/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-13",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "China’s EV dominance faces new challenges; Panama Canal auction slot reportedly sells for US$4m; India Prepares Ports for Full Container Scanning Amid Delay Fears",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-12",
         "write_now": "Maybe",
@@ -239,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "In early August 2026, the Pacific drives container freight rates; Strong peak demand pumps trans-Pac box rates; Reopening: Strait of Hormuz awaits Iran-Oman",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-06",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Supply Chain: Why Ocean Rates Skyrocketed 300% in 5; Drone attack and collision with DHL aircraft in Leipzig; ONE announces Q1 FY2026 financial results",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 348,
-      "high_trust": 118,
-      "trade_press": 230,
+      "total_items": 283,
+      "high_trust": 83,
+      "trade_press": 200,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-12.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-12.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-12.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-13.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-13.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-13.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-12",
-    "run_started_at": "2026-08-12T07:30:57+09:00",
+    "report_date": "2026-08-13",
+    "run_started_at": "2026-08-13T07:30:56+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +276,12 @@
       "Latest lower-signal item came from Shippeo: Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 7 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "7 days ago",
+    "last_signal_label": "8 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -363,14 +363,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260812T073057+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-12.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260813T073056+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-13.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W33",
-    "week_end_date": "2026-08-12",
+    "week_end_date": "2026-08-13",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -420,7 +420,7 @@
     "recent_history": [
       {
         "week_label": "2026-W33",
-        "week_end_date": "2026-08-12",
+        "week_end_date": "2026-08-13",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
