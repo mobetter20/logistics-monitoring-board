@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-13T22:32:20+00:00",
-  "requested_date": "2026-08-14",
+  "built_at": "2026-08-14T22:32:23+00:00",
+  "requested_date": "2026-08-15",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-14",
+    "requested_date": "2026-08-15",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maersk targets full Suez return as Ocean Q2 earnings rebound.",
-      "Competitor watch: Watch-level movement detected.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Maersk delivers strong Q2 and raises full year guidance.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-14",
+        "report_label": "2026-08-15",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-14",
+        "report_label": "2026-08-15",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W33",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,97 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-14",
-    "last_updated": "2026-08-14 07:30",
+    "report_date": "2026-08-15",
+    "last_updated": "2026-08-15 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Maersk targets full Suez return as Ocean Q2 earnings rebound.",
+    "status_note": "Market watch is led by Maersk delivers strong Q2 and raises full year guidance.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maersk targets full Suez return as Ocean Q2 earnings rebound.",
+      "Lead market story: Maersk delivers strong Q2 and raises full year guidance.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-14",
+      "report_date": "2026-08-15",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maersk targets full Suez return as Ocean Q2 earnings rebound; DP World H1 profit, throughput hit by Hormuz impact at Jebel Ali; Yang Ming’s first-half rebound sets up a volatile second half",
+      "headline": "Container freight rates diverge between the Pacific and Europe in mid-August; What Can Operators Expect From a Modern Terminal Operating System (TOS) ?; Maersk delivers strong Q2 and raises full year guidance",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Maersk targets full Suez return as Ocean Q2 earnings rebound",
+    "headline": "Maersk delivers strong Q2 and raises full year guidance",
     "key_news_radar": [
       {
-        "title": "Maersk targets full Suez return as Ocean Q2 earnings rebound",
-        "summary": "Maersk is moving towards a full return of its container services through the Bab el-Mandeb and Suez Canal, as the carrier says current security conditions allow it to put more vess",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-13T10:48:04+00:00",
+        "title": "Maersk delivers strong Q2 and raises full year guidance",
+        "summary": "Moller - Maersk delivered a strong second quarter, driven by high demand, higher spot rates in Ocean, and growth across all business segments.",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-14T04:08:20+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/08/maersk-targets-full-suez-return-as-ocean-q2-earnings-rebound/",
+        "link": "https://indiashippingnews.com/international-shipping/maersk-delivers-strong-q2-and-raises-full-year-guidance/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DP World H1 profit, throughput hit by Hormuz impact at Jebel Ali",
-        "summary": "DP World reported first-half 2026 revenue of US$12.7 billion, up 13.1% year-on-year, as growth across its global logistics and ports network helped offset lower activity at Jebel A",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-13T07:15:32+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/08/dp-world-h1-profit-throughput-hit-by-hormuz-impact-at-jebel-ali/",
+        "title": "Container freight rates diverge between the Pacific and Europe in mid-August",
+        "summary": "In mid-August 2026, average spot container shipping freight rates, published by Drewry on 14 August 2026, showed different trends depending on the route.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-14T15:08:24+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-diverge-between-the-pacific-and-europe-in-mid-august/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Yang Ming’s first-half rebound sets up a volatile second half",
-        "summary": "Yang Ming Marine Transport’s first-half 2026 results show a substantial recovery in earnings as tariff-driven front-loading, a stronger early peak season and higher freight rates l",
+        "title": "Maersk and Hapag-Lloyd Shift AE19 Service Back to Suez Canal",
+        "summary": "Maersk and Hapag-Lloyd have rerouted another significant Asia-Europe container service through the Suez Canal, advancing the slow recovery of shipping along that corridor.",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-13T21:16:59+00:00",
+        "timestamp": "2026-08-14T20:09:17+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/yang-mings-first-half-rebound-sets-up-a-volatile-second-half",
+        "link": "https://www.globaltrademag.com/maersk-and-hapag-lloyd-shift-ae19-service-back-to-suez-canal/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "freightwaves_news"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Maersk raises 2026 outlook again as earnings surge",
-        "summary": "Moller-Maersk raised its full-year earnings outlook after second-quarter revenue climbed 20% year over year and EBITDA reached $3.0 billion, as robust Far East export demand, highe",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-13T14:21:08+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/maersk-raises-2026-outlook-again-as-earnings-surge",
+        "title": "What Can Operators Expect From a Modern Terminal Operating System (TOS) ?",
+        "summary": "Image for representation purposes only The Solent region in the United Kingdom is one of the most congested and busiest coastlines in Europe, as it is home to Bulk, RoRo and Contai",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-14T12:24:59+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/what-can-operators-expect-from-a-modern-terminal-operating-system-tos/?utm_source=rss&utm_medium=rss&utm_campaign=what-can-operators-expect-from-a-modern-terminal-operating-system-tos",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Maersk delivers strong Q2 as revenue jumps 20% and full-year outlook rises",
-        "summary": "Maersk delivered a strong financial performance in the second quarter of 2026, supported by higher container volumes, rising Ocean spot rates and growth across all three of its mai",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-13T10:04:09+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/maersk-delivers-strong-q2-as-revenue-jumps-20-and-full-year-outlook-rises/",
+        "title": "Maersk relaunches Suez despite Houthi attacks",
+        "summary": "Maersk and Hapag-Lloyd have moved the AE19 service to the Suez Canal, designated SE4 by the German carrier, linking Asia, Saudi Arabia, the Mediterranean and Europe.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-14T10:11:22+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/maersk-relaunches-suez-despite-houthi-attacks/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -162,32 +159,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
       {
         "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -197,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-15",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container freight rates diverge between the Pacific and Europe in mid-August; What Can Operators Expect From a Modern Terminal Operating System (TOS) ?; Maersk delivers strong Q2 and raises full year guidance",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-14",
         "write_now": "Maybe",
@@ -244,47 +249,39 @@
         "worth_attention_today": "5",
         "headline": "Iran-Oman Strait of Hormuz Deal Faces Sanctions, Insurance Hurdles; Full-Fledged DFC Operations and GCT Push accelerate Freight Growth; Loading Rises Consistently from 1,098 MT in 2014-15 to 1,670 MT in 2025-26; Government accelerates Inland Water Transport Development with Major Policy Reforms and Infrastructure push",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-08",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Transpac peak may stretch on even as Asia - Europe ocean cools - August 6, 2026 Update; Hormuz disruption cuts deep into APM Terminals Bahrain profit; Shipping Industry Pushes Back Against Proposed Hormuz Transit Fees",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 308,
-      "high_trust": 74,
-      "trade_press": 234,
+      "total_items": 258,
+      "high_trust": 66,
+      "trade_press": 192,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-14.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-14.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-14.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-15.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-15.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-15.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-14",
-    "run_started_at": "2026-08-14T07:30:56+09:00",
+    "report_date": "2026-08-15",
+    "run_started_at": "2026-08-15T07:31:03+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
-    "watch_count": 1,
+    "important_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -330,23 +327,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
-    "watch_items": [
+    "important_changes": [
       {
         "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
         "evidence": [
-          "All Systems Operational",
-          "CMA CGM Digital Factory - Scheduled Maintenance"
+          "Reuters Supply Chain Europe 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Let’s meet in Amsterdam Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering.We’ll be on the Main Stage, on the exhibition floor, and making great coffee. Come say hello. Main Stage Session Live Demo Booth Barista Corner Invite-only dinner We’re joining Unilever on the Main Stage on Day 1 for… Learn more AI Agents"
         ]
       }
     ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-08-15",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "detected_date": "2026-08-14",
         "company": "Project44",
@@ -381,38 +386,39 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260814T073056+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-14.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260815T073103+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-15.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W33",
-    "week_end_date": "2026-08-14",
+    "week_end_date": "2026-08-15",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling AI positioning around end to end orchestration."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -432,17 +438,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W33",
-        "week_end_date": "2026-08-14",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-08-15",
+        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
