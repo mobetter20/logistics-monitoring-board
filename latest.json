@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-15T22:32:25+00:00",
-  "requested_date": "2026-08-16",
+  "built_at": "2026-08-16T22:32:07+00:00",
+  "requested_date": "2026-08-17",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-16",
+    "requested_date": "2026-08-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Drewry WCI rises for second week as Transpacific rates climb.",
+      "Lead daily item: Maritime rates back on the rise.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-16",
+        "report_label": "2026-08-17",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,20 +36,20 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-16",
+        "report_label": "2026-08-17",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
         "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W33",
+        "report_label": "2026-W34",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
+        "summary": "Project44 is signaling unknown around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,78 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-16",
-    "last_updated": "2026-08-16 07:31",
+    "report_date": "2026-08-17",
+    "last_updated": "2026-08-17 07:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Drewry WCI rises for second week as Transpacific rates climb.",
+    "status_note": "Market watch is led by Maritime rates back on the rise.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Drewry WCI rises for second week as Transpacific rates climb.",
+      "Lead market story: Maritime rates back on the rise.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-16",
+      "report_date": "2026-08-17",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Drewry WCI rises for second week as Transpacific rates climb; EU Rejects US Demands to Renegotiate Green Rules Amid Trade Tensions; Why 22 States Are Suing to Block a Federal Demand for 17 Million Truckers’ Records.",
+      "headline": "Maritime rates back on the rise; Borderlands Mexico: ANPACT warns tariffs threaten truck trade as exports surge; Kamarajar Port Celebrates 80th Independence Day, Highlights Growth and Capacity Expansion",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Drewry WCI rises for second week as Transpacific rates climb",
+    "headline": "Maritime rates back on the rise",
     "key_news_radar": [
       {
-        "title": "Drewry WCI rises for second week as Transpacific rates climb",
-        "summary": "Drewry’s World Container Index (WCI) increased for the second consecutive week, supported by rising spot rates on the Transpacific trade.",
+        "title": "Maritime rates back on the rise",
+        "summary": "Chart of the Week: FreightosBaltic Daily Index - China to North America West and East Coasts SONAR: FBXD.CNAW, FBXD.CNAE Spot rates for shipping forty-foot containers from China to",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-15T07:36:38+00:00",
+        "timestamp": "2026-08-16T01:50:48+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/drewry-wci-rises-for-second-week-as-transpacific-rates-climb/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "India Plans First Cargo Ship On Northern Sea Route By 2027",
-        "summary": "India is planning to send its first cargo vessel along Russia’s Northern Sea Route in 2027, while New Delhi looks to expand trade with Moscow amidst Western sanctions and disruptio",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-15T12:43:39+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/india-first-cargo-ship-northern-sea-route/?utm_source=rss&utm_medium=rss&utm_campaign=india-first-cargo-ship-northern-sea-route",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Port of Aberdeen undergoes historic transformation",
-        "summary": "The North East Scotland city of Aberdeen remains synonymous with North Sea oil and gas logistics.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-15T06:18:01+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/08/port-of-aberdeen-undergoes-historic-transformation/",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Optimus previews digital twin of US freight network",
-        "summary": "on Thursday previewed a digital twin of the U.S.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-15T13:02:05+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/freight-digital-twin-optimus",
+        "link": "https://www.freightwaves.com/news/maritime-rates-back-on-the-rise",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
@@ -145,17 +104,60 @@
         ]
       },
       {
-        "title": "250 Days At Sea Forces US Navy To Replace Aircraft Carrier USS Abraham Lincoln",
-        "summary": "Representation image The aircraft carrier USS Abraham Lincoln will be replaced in the Middle East, US President Donald Trump said on August 14, amidst reports of supply shortages a",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-15T12:17:45+00:00",
+        "title": "Borderlands Mexico: ANPACT warns tariffs threaten truck trade as exports surge",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-08-16T12:53:19+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/uss-abraham-lincoln-replaced-middle-east/?utm_source=rss&utm_medium=rss&utm_campaign=uss-abraham-lincoln-replaced-middle-east",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-anpact-warns-tariffs-threaten-truck-trade-as-exports-surge",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "NWSA adds second electric forklift at Tacoma terminal",
+        "summary": "The Northwest Seaport Alliance (NWSA), a joint marine cargo operation of the Port of Seattle and Port of Tacoma, has added a second battery-electric forklift at its East Blair One",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-16T06:37:51+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/08/nwsa-adds-second-electric-forklift-at-tacoma-terminal/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
+      },
+      {
+        "title": "Kamarajar Port Celebrates 80th Independence Day, Highlights Growth and Capacity Expansion",
+        "summary": "Kamarajar Port Limited (KPL), a company of Chennai Port Authority under the Ministry of Ports, Shipping and Waterways, celebrated India’s 80th Independence Day with patriotic fervo",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-16T18:59:10+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/kamarajar-port-celebrates-80th-independence-day-highlights-growth-and-capacity-expansion/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk introduces reefer inland surcharge at Port of Algeciras",
+        "summary": "Maersk will introduce an Inland Peak Season Surcharge (IPI) for import reefer container haulage within the Port of Algeciras amid increased congestion during the citrus season.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-08-16T20:41:05+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/maersk-introduces-reefer-inland-surcharge-at-port-of-algeciras/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
       }
     ],
     "hot_topics": [
@@ -169,12 +171,12 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -182,12 +184,24 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is still present across high-trust, trade-press coverage, but below recent baseline. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-17",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Maritime rates back on the rise; Borderlands Mexico: ANPACT warns tariffs threaten truck trade as exports surge; Kamarajar Port Celebrates 80th Independence Day, Highlights Growth and Capacity Expansion",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-16",
         "write_now": "Maybe",
@@ -235,39 +249,31 @@
         "worth_attention_today": "5",
         "headline": "Nhava Sheva an unstable hub for the Gulf; SeaLead Shipping enters liquidation after US sanctions; Fumigation Rules tighten across Gujarat: Exporters face New Verification Regime, Longer cargo holds",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-10",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Drewry WCI rebounds after three-week decline; Indian Crew Member Dies In Custody After Portugal Seizes 5 Tonnes Of Cocaine From Ship; Oil Giant ADNOC Says 15 Vessels Attacked In Strait Of Hormuz Since Conflict Began",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 43,
-      "high_trust": 7,
-      "trade_press": 36,
+      "total_items": 63,
+      "high_trust": 13,
+      "trade_press": 50,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-16.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-16.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-16.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-17.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-17.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-17.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-16",
-    "run_started_at": "2026-08-16T07:31:10+09:00",
+    "report_date": "2026-08-17",
+    "run_started_at": "2026-08-17T07:30:50+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -280,7 +286,7 @@
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -326,14 +332,13 @@
       {
         "company": "Project44",
         "importance": "watch",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Project44 status page returned to all systems operational.",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
-          "Service Under Maintenance",
-          "Ocean Carrier (under maintenance)"
+          "All Systems Operational"
         ]
       }
     ],
@@ -355,6 +360,14 @@
         "source_url": "https://status.project44.com/api/v2/summary.json"
       },
       {
+        "detected_date": "2026-08-10",
+        "company": "Project44",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-08-09",
         "company": "Project44",
         "importance": "watch",
@@ -369,46 +382,38 @@
         "signal_type": "website change",
         "summary": "Shippeo platform page added stronger visibility, execution and workflow, and data quality / connectivity language and introduced yard / dock, document automation, invoice automation, and connectivity / integrations messaging",
         "source_url": "https://www.shippeo.com/solutions/ecmr"
-      },
-      {
-        "detected_date": "2026-08-03",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260816T073110+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-16.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260817T073050+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-17.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W33",
-    "week_end_date": "2026-08-16",
+    "week_label": "2026-W34",
+    "week_end_date": "2026-08-17",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Project44 is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -436,20 +441,30 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 status page returned to all systems operational.",
         "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "reduced manual work",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
+        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
+      {
+        "week_label": "2026-W34",
+        "week_end_date": "2026-08-17",
+        "takeaway": "Project44 is signaling unknown around unknown.",
+        "signal_count": "1",
+        "active_thesis_count": "0",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W33",
         "week_end_date": "2026-08-16",
@@ -479,21 +494,11 @@
         "signal_signature": "Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|ai_positioning|4759fdd2cc5203279b562b42996d0d0917c053c1 || Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac || Project44|direct_competitor|website_change|0e1adc0b0212a6afd304609e045f640d03a732a2 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W30",
-        "week_end_date": "2026-07-26",
-        "takeaway": "Project44 is signaling AI positioning around decision support.",
-        "signal_count": "4",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|product_update|f68143f534c4e9d4e706f4f9baa1780308efa371 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W33.json",
-      "strategic_intelligence/output/weekly-memo-2026-W33.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W34.json",
+      "strategic_intelligence/output/weekly-memo-2026-W34.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
