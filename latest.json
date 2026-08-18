@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-17T22:32:05+00:00",
-  "requested_date": "2026-08-18",
+  "built_at": "2026-08-18T22:32:32+00:00",
+  "requested_date": "2026-08-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-18",
+    "requested_date": "2026-08-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: New study: Hormuz just one of many shipping chokepoints.",
+      "Lead daily item: Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-18",
+        "report_label": "2026-08-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-18",
+        "report_label": "2026-08-19",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: FourKites FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
+        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W34",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
+        "summary": "FourKites is signaling AI positioning around facility execution.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,78 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-18",
-    "last_updated": "2026-08-18 07:31",
+    "report_date": "2026-08-19",
+    "last_updated": "2026-08-19 07:31",
     "freshness": "current",
-    "status_note": "Market watch is led by New study: Hormuz just one of many shipping chokepoints.",
+    "status_note": "Market watch is led by Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: New study: Hormuz just one of many shipping chokepoints.",
+      "Lead market story: Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-18",
+      "report_date": "2026-08-19",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "New study: Hormuz just one of many shipping chokepoints; AD Ports UAE port volumes fall 65% amid Hormuz disruption; Panama Canal under pressure as containership pays $4 million",
+      "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.; Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It; Germany launches plan for low water on the Rhine",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "New study: Hormuz just one of many shipping chokepoints",
+    "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.",
     "key_news_radar": [
       {
-        "title": "New study: Hormuz just one of many shipping chokepoints",
-        "summary": "The Strait of Hormuz deserves attention, but it is only one part of a wider network whose disruptions can expose economies and companies to abrupt trade, cost and supply-chain shoc",
+        "title": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.",
+        "summary": "You have probably noticed something strange lately.",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-17T14:09:14+00:00",
+        "timestamp": "2026-08-18T18:28:26+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-study-hormuz-just-one-of-many-shipping-chokepoints",
+        "link": "https://www.freightwaves.com/news/some-diesel-analysts-are-warning-of-a-supply-crunch-nobody-in-washington-is-talking-about-here-is-what-holds-up-and-what-it-could-mean-for-q4",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "AD Ports UAE port volumes fall 65% amid Hormuz disruption",
-        "summary": "AD Ports Group’s UAE ports business saw container and bulk cargo volumes fall sharply in the second quarter of 2026 as the Strait of Hormuz crisis disrupted regional trade.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-17T13:46:38+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/ad-ports-uae-port-volumes-fall-65-amid-hormuz-disruption/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Strait of Hormuz Shipping Nearly Halts After Tanker Attacks",
-        "summary": "Traffic through the Strait of Hormuz nearly came to a standstill over the weekend following attacks on tankers, highlighting the mounting threats to one of the world’s most critica",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-17T11:18:51+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/strait-of-hormuz-shipping-nearly-halts-after-tanker-attacks/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Why diesel is racing ahead while crude slows",
-        "summary": "Anyone refuelling an industrial vehicle in 2026 pays more for diesel than for petrol, a reversal that would have seemed implausible until two years ago and which the crude oil pric",
+        "title": "Germany launches plan for low water on the Rhine",
+        "summary": "The drought of summer 2026 is hitting inland waterway transport hard across Europe, and Germany has drawn up a plan to deal with the most serious emergency, on the Rhine, which is",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-08-17T07:37:10+00:00",
+        "timestamp": "2026-08-18T12:34:34+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/why-diesel-is-racing-ahead-while-crude-slows/",
+        "link": "https://www.trasportoeuropa.it/english/germany-launches-plan-for-low-water-on-the-rhine/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -143,15 +115,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Panama Canal under pressure as containership pays $4 million",
-        "summary": "A 10,100 TEU containership reportedly paid about US$4 million to secure priority transit through the Panama Canal, as surging demand and renewed water concerns put the key maritime",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-17T10:53:36+00:00",
+        "title": "Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It",
+        "summary": "#fwtv_o2pDN7Qs7JY .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_o2pDN7Qs7JY .fwtv-panel p{margin:0 0 12px}#fwtv_o2pDN7Qs7JY .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-18T19:12:57+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/panama-canal-under-pressure-as-containership-pays-4-million/",
+        "link": "https://www.freightwaves.com/news/ocean-freight-rates-surge-400-but-demand-isnt-driving-it",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Gulftainer targets 10m TEU at Khorfakkan",
+        "summary": "UAE port operator Gulftainer has announced plans to expand its Khorfakkan Commercial Terminal as it seeks to strengthen the gateway’s role in the UAE’s container and logistics netw",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-18T10:03:02+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/08/gulftainer-targets-10m-teu-at-khorfakkan/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Vessel Hit By Unknown Projectile In Strait Of Hormuz, Crew Casualty Reported",
+        "summary": "Image for representation purposes only A vessel was hit by an unknown projectile while leaving the Strait of Hormuz on Tuesday, damaging its engine room and causing a crew casualty",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-18T10:30:13+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-crew-casualty-reported/?utm_source=rss&utm_medium=rss&utm_campaign=vessel-hit-by-unknown-projectile-in-strait-of-hormuz-crew-casualty-reported",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,11 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -171,20 +165,24 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.; Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It; Germany launches plan for low water on the Rhine",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-18",
         "write_now": "Maybe",
@@ -241,52 +247,44 @@
         "worth_attention_today": "5",
         "headline": "China’s EV dominance faces new challenges; Panama Canal auction slot reportedly sells for US$4m; India Prepares Ports for Full Container Scanning Amid Delay Fears",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Hormuz hopes dashed; Asia - Europe and transpac ocean rates diverge on extended US peak - August 11, 2026 Update; Extreme weather cramps logistics flows in Europe, China; Ukraine Halts Attacks On Oil Tankers & Infrastructure On Black Sea Coast After U.S Intervention",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 278,
-      "high_trust": 82,
-      "trade_press": 196,
+      "total_items": 270,
+      "high_trust": 78,
+      "trade_press": 192,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-18",
-    "run_started_at": "2026-08-18T07:31:00+09:00",
+    "report_date": "2026-08-19",
+    "run_started_at": "2026-08-19T07:31:05+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+      "Newest meaningful competitor move: FourKites FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 2,
-    "watch_count": 0,
+    "important_count": 5,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -329,114 +327,169 @@
     ],
     "important_changes": [
       {
-        "company": "Project44",
+        "company": "FourKites",
         "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "summary": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
         "signal_type": "website_change",
         "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
+        "source_title": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging -> signals a broader platform / control tower story",
+        "source_url": "https://www.fourkites.com/",
         "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
+          "Your supply chain, running itself.",
+          "Our mission: one billion hours of operational work completed by AI agents over the next decade."
+        ]
+      },
+      {
+        "company": "FourKites",
+        "importance": "important",
+        "summary": "FourKites platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "FourKites platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.fourkites.com/platform/",
+        "evidence": [
+          "When your control tower detects a problem, what happens next?",
+          "Apply the test to three real scenarios. The gap becomes obvious."
+        ]
+      },
+      {
+        "company": "FourKites",
+        "importance": "important",
+        "summary": "FourKites solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "FourKites solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.fourkites.com/products",
+        "evidence": [
+          "When your control tower detects a problem, what happens next?",
+          "Apply the test to three real scenarios. The gap becomes obvious."
         ]
       },
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 status page shows degraded services: EU - Ocean (under maintenance) and NA - Ocean (under maintenance).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: EU - Ocean (under maintenance) and NA - Ocean (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/platform/",
         "evidence": [
-          "Service Under Maintenance",
-          "EU - Ocean (under maintenance)"
+          "Reuters Supply Chain Europe 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Let’s meet in Amsterdam Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering.We’ll be on the Main Stage, on the exhibition floor, and making great coffee. Come say hello. Main Stage Session Live Demo Booth Barista Corner Invite-only dinner We’re joining Unilever on the Main Stage on Day 1 for… Learn more AI Agents"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "Reuters Supply Chain Europe 2026",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Let’s meet in Amsterdam Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering.We’ll be on the Main Stage, on the exhibition floor, and making great coffee. Come say hello. Main Stage Session Live Demo Booth Barista Corner Invite-only dinner We’re joining Unilever on the Main Stage on Day 1 for… Learn more AI Agents"
         ]
       }
     ],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
-        "detected_date": "2026-08-18",
+        "detected_date": "2026-08-19",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
+        "source_url": "https://www.fourkites.com/"
+      },
+      {
+        "detected_date": "2026-08-19",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
+        "source_url": "https://www.fourkites.com/platform/"
+      },
+      {
+        "detected_date": "2026-08-19",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
+        "source_url": "https://www.fourkites.com/products"
+      },
+      {
+        "detected_date": "2026-08-19",
         "company": "Project44",
         "importance": "important",
         "signal_type": "website change",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/platform/"
       },
       {
-        "detected_date": "2026-08-18",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: EU - Ocean (under maintenance) and NA - Ocean (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-08-15",
+        "detected_date": "2026-08-19",
         "company": "Project44",
         "importance": "important",
         "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/industries/"
       },
       {
-        "detected_date": "2026-08-14",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-08-10",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page changed from Service Under Maintenance to Service Under Maintenance.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-08-09",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
+        "detected_date": "2026-08-19",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "FourKites press releases announced \"Intelligent Control Tower overview {{carriers}}K+ carriers {{countries}} countries {{brands}}+ brands",
+        "source_url": "https://www.fourkites.com/platform"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260818T073100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260819T073105+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-19.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W34",
-    "week_end_date": "2026-08-18",
+    "week_end_date": "2026-08-19",
     "freshness": "current",
-    "status_note": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
+    "status_note": "FourKites is signaling AI positioning around facility execution.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
+      "FourKites is signaling AI positioning around facility execution.",
+      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-      "Project44 is signaling AI positioning around unknown.",
-      "Project44 is signaling unknown around unknown."
+      "FourKites is signaling AI positioning around facility execution.",
+      "FourKites is reinforcing a intelligent control motif through AI positioning.",
+      "FourKites is signaling AI positioning around in transit visibility."
     ],
     "strategic_movements": [
+      "FourKites (direct competitor) is pushing AI positioning around facility execution with the claimed outcome of reduced manual work.",
+      "FourKites (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
+      "FourKites (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
       "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning.",
-      "Project44 (direct competitor) is pushing unknown."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
@@ -463,9 +516,25 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 3,
-    "active_theses": [],
+    "important_signal_count": 11,
+    "active_theses": [
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
+    ],
     "top_signals": [
+      {
+        "entity_name": "FourKites",
+        "source_title": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging -> signals a broader platform / control tower story",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "facility execution",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.fourkites.com/"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
@@ -498,11 +567,11 @@
     "recent_history": [
       {
         "week_label": "2026-W34",
-        "week_end_date": "2026-08-18",
-        "takeaway": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-        "signal_count": "3",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "week_end_date": "2026-08-19",
+        "takeaway": "FourKites is signaling AI positioning around facility execution.",
+        "signal_count": "11",
+        "active_thesis_count": "3",
+        "signal_signature": "FourKites|direct_competitor|ai_positioning|f6cb8aedb4af4ce4ff3beff438942afcedbc2a41 || FourKites|direct_competitor|ai_positioning|1ba5d1daac6dd41407b2f54053c8d987cc570e04 || FourKites|direct_competitor|ai_positioning|e93f4e8df10558897cc262c9c9efc0c6564b9da8 || FourKites|direct_competitor|product_update|cdc12168d0fa6e105c0874b30402e117fa917577 || FourKites|direct_competitor|product_update|3d2ce74b50a953deea14a0113f99c789b2d13011",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
