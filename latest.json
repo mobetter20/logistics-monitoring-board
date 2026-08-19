@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-18T22:32:32+00:00",
-  "requested_date": "2026-08-19",
+  "built_at": "2026-08-19T22:50:04+00:00",
+  "requested_date": "2026-08-20",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-19",
+    "requested_date": "2026-08-20",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Congestion playing a bigger role in container rates - August 18, 2026 Update.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-19",
+        "report_label": "2026-08-20",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-19",
+        "report_label": "2026-08-20",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: FourKites FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
-        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,79 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-19",
-    "last_updated": "2026-08-19 07:31",
+    "report_date": "2026-08-20",
+    "last_updated": "2026-08-20 07:49",
     "freshness": "current",
-    "status_note": "Market watch is led by Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
+    "status_note": "Market watch is led by Congestion playing a bigger role in container rates - August 18, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4..",
+      "Lead market story: Congestion playing a bigger role in container rates - August 18, 2026 Update.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-19",
+      "report_date": "2026-08-20",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.; Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It; Germany launches plan for low water on the Rhine",
+      "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update; Freightos Weekly Update: Congestion playing a bigger role in container rates; Liners and Red Sea: Damn the Houthis, full speed ahead!",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.",
+    "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update",
     "key_news_radar": [
       {
-        "title": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.",
-        "summary": "You have probably noticed something strange lately.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-18T18:28:26+00:00",
+        "title": "Congestion playing a bigger role in container rates - August 18, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 9%.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-19T06:06:43+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/some-diesel-analysts-are-warning-of-a-supply-crunch-nobody-in-washington-is-talking-about-here-is-what-holds-up-and-what-it-could-mean-for-q4",
+        "link": "https://www.freightos.com/freight-resources/congestion-playing-a-bigger-role-in-container-rates-august-18-2026-update/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Freightos Weekly Update: Congestion playing a bigger role in container rates",
+        "summary": "The US-Iran Memorandum of Understanding - signed sixty days ago and aimed at reopening the Strait of Hormuz and kickstarting negotiations to end the war - expired yesterday.",
+        "source": "Container News",
+        "timestamp": "2026-08-19T21:01:54+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/freightos-weekly-update-congestion-playing-a-bigger-role-in-container-rates/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Liners and Red Sea: Damn the Houthis, full speed ahead!",
+        "summary": "Container spot rates are splitting in two directions, but that’s most of the good news in ocean shipping.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-19T17:55:47+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/liners-and-red-sea-damn-the-houthis-full-speed-ahead",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Trucking’s New Reality: Why Regulations Benefit the Industry",
+        "summary": "#fwtv_Hk7Ey9o8hfw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_Hk7Ey9o8hfw .fwtv-panel p{margin:0 0 12px}#fwtv_Hk7Ey9o8hfw .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-19T19:55:45+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/truckings-new-reality-why-regulations-benefit-the-industry",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -102,54 +144,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Germany launches plan for low water on the Rhine",
-        "summary": "The drought of summer 2026 is hitting inland waterway transport hard across Europe, and Germany has drawn up a plan to deal with the most serious emergency, on the Rhine, which is",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-08-18T12:34:34+00:00",
+        "title": "ZIM Reports Strong Results for the Second Quarter of 2026, Benefiting from its Leading Transpacific Position, Agile Commercial Approach and Efficient Cost Structure",
+        "summary": "//<![CDATA[ .q4default span.prnews_span { font-size: 8pt; font-family: \"Arial\"; color: rgb(0, 0, 0) } .q4default a.prnews_a { color: rgb(0, 0, 255) } .q4default li.prnews_li { font",
+        "source": "ZIM Integrated Shipping — Press Releases (Investor Relations)",
+        "timestamp": "2026-08-19T11:00:00+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/germany-launches-plan-for-low-water-on-the-rhine/",
+        "link": "https://investors.zim.com/news/news-details/2026/ZIM-Reports-Strong-Results-for-the-Second-Quarter-of-2026-Benefiting-from-its-Leading-Transpacific-Position-Agile-Commercial-Approach-and-Efficient-Cost-Structure/default.aspx",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It",
-        "summary": "#fwtv_o2pDN7Qs7JY .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_o2pDN7Qs7JY .fwtv-panel p{margin:0 0 12px}#fwtv_o2pDN7Qs7JY .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-18T19:12:57+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ocean-freight-rates-surge-400-but-demand-isnt-driving-it",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Gulftainer targets 10m TEU at Khorfakkan",
-        "summary": "UAE port operator Gulftainer has announced plans to expand its Khorfakkan Commercial Terminal as it seeks to strengthen the gateway’s role in the UAE’s container and logistics netw",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-18T10:03:02+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/gulftainer-targets-10m-teu-at-khorfakkan/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Vessel Hit By Unknown Projectile In Strait Of Hormuz, Crew Casualty Reported",
-        "summary": "Image for representation purposes only A vessel was hit by an unknown projectile while leaving the Strait of Hormuz on Tuesday, damaging its engine room and causing a crew casualty",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-18T10:30:13+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-crew-casualty-reported/?utm_source=rss&utm_medium=rss&utm_campaign=vessel-hit-by-unknown-projectile-in-strait-of-hormuz-crew-casualty-reported",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "zim_investor_relations",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +160,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -169,12 +172,12 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -192,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-20",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update; Freightos Weekly Update: Congestion playing a bigger role in container rates; Liners and Red Sea: Damn the Houthis, full speed ahead!",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-19",
         "write_now": "Maybe",
@@ -239,48 +250,41 @@
         "worth_attention_today": "5",
         "headline": "Maersk targets full Suez return as Ocean Q2 earnings rebound; DP World H1 profit, throughput hit by Hormuz impact at Jebel Ali; Yang Ming’s first-half rebound sets up a volatile second half",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-13",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "China’s EV dominance faces new challenges; Panama Canal auction slot reportedly sells for US$4m; India Prepares Ports for Full Container Scanning Amid Delay Fears",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 270,
-      "high_trust": 78,
-      "trade_press": 192,
+      "total_items": 296,
+      "high_trust": 83,
+      "trade_press": 213,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-19.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-19.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-19.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-20.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-20.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-20.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-19",
-    "run_started_at": "2026-08-19T07:31:05+09:00",
+    "report_date": "2026-08-20",
+    "run_started_at": "2026-08-20T07:49:06+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: FourKites FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from FourKites: FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 5,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "important_count": 0,
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,87 +329,8 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging -> signals a broader platform / control tower story",
-        "source_url": "https://www.fourkites.com/",
-        "evidence": [
-          "Your supply chain, running itself.",
-          "Our mission: one billion hours of operational work completed by AI agents over the next decade."
-        ]
-      },
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "FourKites platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.fourkites.com/platform/",
-        "evidence": [
-          "When your control tower detects a problem, what happens next?",
-          "Apply the test to three real scenarios. The gap becomes obvious."
-        ]
-      },
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "FourKites solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, routing / optimization, and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.fourkites.com/products",
-        "evidence": [
-          "When your control tower detects a problem, what happens next?",
-          "Apply the test to three real scenarios. The gap becomes obvious."
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/platform/",
-        "evidence": [
-          "Reuters Supply Chain Europe 2026",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Let’s meet in Amsterdam Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering.We’ll be on the Main Stage, on the exhibition floor, and making great coffee. Come say hello. Main Stage Session Live Demo Booth Barista Corner Invite-only dinner We’re joining Unilever on the Main Stage on Day 1 for… Learn more AI Agents"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "Reuters Supply Chain Europe 2026",
-          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Let’s meet in Amsterdam Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering.We’ll be on the Main Stage, on the exhibition floor, and making great coffee. Come say hello. Main Stage Session Live Demo Booth Barista Corner Invite-only dinner We’re joining Unilever on the Main Stage on Day 1 for… Learn more AI Agents"
-        ]
-      }
-    ],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "important_changes": [],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-08-19",
@@ -457,14 +382,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260819T073105+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-19.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260820T074906+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-20.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W34",
-    "week_end_date": "2026-08-19",
+    "week_end_date": "2026-08-20",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around facility execution.",
     "sparse_explanation": "",
@@ -492,8 +417,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -567,7 +491,7 @@
     "recent_history": [
       {
         "week_label": "2026-W34",
-        "week_end_date": "2026-08-19",
+        "week_end_date": "2026-08-20",
         "takeaway": "FourKites is signaling AI positioning around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
