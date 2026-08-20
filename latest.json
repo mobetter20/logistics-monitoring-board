@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-19T22:50:04+00:00",
-  "requested_date": "2026-08-20",
+  "built_at": "2026-08-20T21:32:39+00:00",
+  "requested_date": "2026-08-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-20",
+    "requested_date": "2026-08-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Congestion playing a bigger role in container rates - August 18, 2026 Update.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-20",
+        "report_label": "2026-08-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-20",
+        "report_label": "2026-08-21",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Wakeo Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
+        "supporting_note": "Wakeo is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,95 +64,95 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-20",
-    "last_updated": "2026-08-20 07:49",
+    "report_date": "2026-08-21",
+    "last_updated": "2026-08-21 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Congestion playing a bigger role in container rates - August 18, 2026 Update.",
+    "status_note": "Market watch is led by UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Congestion playing a bigger role in container rates - August 18, 2026 Update.",
+      "Lead market story: UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-20",
+      "report_date": "2026-08-21",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update; Freightos Weekly Update: Congestion playing a bigger role in container rates; Liners and Red Sea: Damn the Houthis, full speed ahead!",
+      "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack; Luxembourg fuel flows hit by drought, now three-week rail closure looms; Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update",
+    "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack",
     "key_news_radar": [
       {
-        "title": "Congestion playing a bigger role in container rates - August 18, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 9%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-19T06:06:43+00:00",
-        "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/congestion-playing-a-bigger-role-in-container-rates-august-18-2026-update/",
+        "title": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack",
+        "summary": "Image for representation purposes only The United Arab Emirates has suspended all trade, commercial exchanges and financial transactions with Iran until further notice after accusi",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-20T13:16:10+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/uae-halts-all-trade-and-commercial-exchanges-with-iran-over-alleged-missile-attack/?utm_source=rss&utm_medium=rss&utm_campaign=uae-halts-all-trade-and-commercial-exchanges-with-iran-over-alleged-missile-attack",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Freightos Weekly Update: Congestion playing a bigger role in container rates",
-        "summary": "The US-Iran Memorandum of Understanding - signed sixty days ago and aimed at reopening the Strait of Hormuz and kickstarting negotiations to end the war - expired yesterday.",
-        "source": "Container News",
-        "timestamp": "2026-08-19T21:01:54+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-congestion-playing-a-bigger-role-in-container-rates/",
+        "title": "Luxembourg fuel flows hit by drought, now three-week rail closure looms",
+        "summary": "Luxembourg has warned that simultaneous constraints on rail and inland shipping are putting increasing pressure on fuel deliveries, saying it is “closely monitoring developments”.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-08-20T07:09:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/business/2026/08/20/luxembourg-fuel-flows-hit-by-drought-now-three-week-rail-closure-looms/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "container_news",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Liners and Red Sea: Damn the Houthis, full speed ahead!",
-        "summary": "Container spot rates are splitting in two directions, but that’s most of the good news in ocean shipping.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-19T17:55:47+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/liners-and-red-sea-damn-the-houthis-full-speed-ahead",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Trucking’s New Reality: Why Regulations Benefit the Industry",
-        "summary": "#fwtv_Hk7Ey9o8hfw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_Hk7Ey9o8hfw .fwtv-panel p{margin:0 0 12px}#fwtv_Hk7Ey9o8hfw .fwtv-note{f",
+        "title": "China growth straining global auto shipping capacity: Liner CEO",
+        "summary": "There’s a capacity pinch in the specialized world of ocean-going vehicle shipping.",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-19T19:55:45+00:00",
+        "timestamp": "2026-08-20T18:06:03+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/truckings-new-reality-why-regulations-benefit-the-industry",
+        "link": "https://www.freightwaves.com/news/china-growth-straining-global-auto-shipping-capacity-liner-ceo",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
+        "summary": "Image for representation purposes only Two of China’s biggest state-owned oil shipping companies have stopped sending tankers through the Strait of Hormuz and Bab al-Mandab, and ar",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-20T11:35:09+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/chinese-oil-giants-stop-sending-tankers-via-hormuz-bab-al-mandab-amid-middle-east-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-oil-giants-stop-sending-tankers-via-hormuz-bab-al-mandab-amid-middle-east-conflict",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "ZIM Reports Strong Results for the Second Quarter of 2026, Benefiting from its Leading Transpacific Position, Agile Commercial Approach and Efficient Cost Structure",
-        "summary": "//<![CDATA[ .q4default span.prnews_span { font-size: 8pt; font-family: \"Arial\"; color: rgb(0, 0, 0) } .q4default a.prnews_a { color: rgb(0, 0, 255) } .q4default li.prnews_li { font",
-        "source": "ZIM Integrated Shipping — Press Releases (Investor Relations)",
-        "timestamp": "2026-08-19T11:00:00+00:00",
-        "confidence": "medium",
-        "link": "https://investors.zim.com/news/news-details/2026/ZIM-Reports-Strong-Results-for-the-Second-Quarter-of-2026-Benefiting-from-its-Leading-Transpacific-Position-Agile-Commercial-Approach-and-Efficient-Cost-Structure/default.aspx",
+        "title": "Beyond Tariffs: Geopolitics & Climate Reroute Global Freight",
+        "summary": "Global supply chains are facing a “double whammy” of disruptions at critical choke points like the Red Sea and Strait of Hormuz.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-19T22:59:20+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/beyond-tariffs-geopolitics-climate-reroute-global-freight",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "zim_investor_relations",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,7 +160,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -168,7 +168,7 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -177,7 +177,7 @@
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -185,7 +185,7 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -195,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack; Luxembourg fuel flows hit by drought, now three-week rail closure looms; Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-20",
         "write_now": "Maybe",
@@ -242,49 +250,40 @@
         "worth_attention_today": "5",
         "headline": "Container freight rates diverge between the Pacific and Europe in mid-August; What Can Operators Expect From a Modern Terminal Operating System (TOS) ?; Maersk delivers strong Q2 and raises full year guidance",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Maersk targets full Suez return as Ocean Q2 earnings rebound; DP World H1 profit, throughput hit by Hormuz impact at Jebel Ali; Yang Ming’s first-half rebound sets up a volatile second half",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 296,
-      "high_trust": 83,
-      "trade_press": 213,
+      "total_items": 282,
+      "high_trust": 95,
+      "trade_press": 187,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-20",
-    "run_started_at": "2026-08-20T07:49:06+09:00",
+    "report_date": "2026-08-21",
+    "run_started_at": "2026-08-21T06:31:05+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from FourKites: FourKites homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced control tower, yard / dock, order management, document automation, and analytics messaging"
+      "Closest current peer watch item: Wakeo Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Wakeo is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,8 +329,29 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Wakeo",
+        "importance": "watch",
+        "summary": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging -> suggests a meaningful positioning refresh",
+        "source_url": "https://wakeo.co/solution/shippers/",
+        "evidence": [
+          "Reduce emissions and costs with better visibility. Discover how Wakeo helps organisations manage..."
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-08-21",
+        "company": "Wakeo",
+        "importance": "watch",
+        "signal_type": "website change",
+        "summary": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
+        "source_url": "https://wakeo.co/solution/shippers/"
+      },
       {
         "detected_date": "2026-08-19",
         "company": "FourKites",
@@ -371,25 +391,17 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-08-19",
-        "company": "FourKites",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "FourKites press releases announced \"Intelligent Control Tower overview {{carriers}}K+ carriers {{countries}} countries {{brands}}+ brands",
-        "source_url": "https://www.fourkites.com/platform"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260820T074906+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260821T063105+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-21.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W34",
-    "week_end_date": "2026-08-20",
+    "week_end_date": "2026-08-21",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around facility execution.",
     "sparse_explanation": "",
@@ -417,7 +429,8 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -474,6 +487,20 @@
         "source_url": "https://www.project44.com/"
       },
       {
+        "entity_name": "Wakeo",
+        "source_title": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging -> suggests a meaningful positioning refresh",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging -> suggests a meaningful positioning refresh Reduce emissions and costs with better...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://wakeo.co/solution/shippers/"
+      },
+      {
         "entity_name": "Project44",
         "source_title": "Project44 status page returned to all systems operational.",
         "source_layer": "direct competitor",
@@ -491,7 +518,7 @@
     "recent_history": [
       {
         "week_label": "2026-W34",
-        "week_end_date": "2026-08-20",
+        "week_end_date": "2026-08-21",
         "takeaway": "FourKites is signaling AI positioning around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
