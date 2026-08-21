@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-20T21:32:39+00:00",
-  "requested_date": "2026-08-21",
+  "built_at": "2026-08-21T21:32:42+00:00",
+  "requested_date": "2026-08-22",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-21",
+    "requested_date": "2026-08-22",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-21",
+        "report_label": "2026-08-22",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-21",
+        "report_label": "2026-08-22",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Wakeo Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
-        "supporting_note": "Wakeo is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,95 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-21",
-    "last_updated": "2026-08-21 06:31",
+    "report_date": "2026-08-22",
+    "last_updated": "2026-08-22 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
+    "status_note": "Market watch is led by Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack.",
+      "Lead market story: Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-21",
+      "report_date": "2026-08-22",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack; Luxembourg fuel flows hit by drought, now three-week rail closure looms; Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
+      "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong; The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive; Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack",
+    "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong",
     "key_news_radar": [
       {
-        "title": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack",
-        "summary": "Image for representation purposes only The United Arab Emirates has suspended all trade, commercial exchanges and financial transactions with Iran until further notice after accusi",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-20T13:16:10+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/uae-halts-all-trade-and-commercial-exchanges-with-iran-over-alleged-missile-attack/?utm_source=rss&utm_medium=rss&utm_campaign=uae-halts-all-trade-and-commercial-exchanges-with-iran-over-alleged-missile-attack",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Luxembourg fuel flows hit by drought, now three-week rail closure looms",
-        "summary": "Luxembourg has warned that simultaneous constraints on rail and inland shipping are putting increasing pressure on fuel deliveries, saying it is “closely monitoring developments”.",
-        "source": "RailFreight.com",
-        "timestamp": "2026-08-20T07:09:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.railfreight.com/business/2026/08/20/luxembourg-fuel-flows-hit-by-drought-now-three-week-rail-closure-looms/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "railfreight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "China growth straining global auto shipping capacity: Liner CEO",
-        "summary": "There’s a capacity pinch in the specialized world of ocean-going vehicle shipping.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-20T18:06:03+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/china-growth-straining-global-auto-shipping-capacity-liner-ceo",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
-        "summary": "Image for representation purposes only Two of China’s biggest state-owned oil shipping companies have stopped sending tankers through the Strait of Hormuz and Bab al-Mandab, and ar",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-20T11:35:09+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/chinese-oil-giants-stop-sending-tankers-via-hormuz-bab-al-mandab-amid-middle-east-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-oil-giants-stop-sending-tankers-via-hormuz-bab-al-mandab-amid-middle-east-conflict",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Beyond Tariffs: Geopolitics & Climate Reroute Global Freight",
-        "summary": "Global supply chains are facing a “double whammy” of disruptions at critical choke points like the Red Sea and Strait of Hormuz.",
+        "title": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong",
+        "summary": "The Drewry World Container Index (WCI), a widely cited independent benchmark for container freight pricing, advanced 4% to $4,526 per 40-foot container in the latest reading, prope",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-19T22:59:20+00:00",
+        "timestamp": "2026-08-21T08:50:03+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/beyond-tariffs-geopolitics-climate-reroute-global-freight",
+        "link": "https://www.globaltrademag.com/container-freight-rates-rise-4-as-transpacific-demand-stays-strong/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Sohar container volumes rise 40% as Hormuz disruption reshapes Gulf shipping",
+        "summary": "SOHAR Port and Freezone handled 545,000 TEU in the first half of 2026, up 40% from a year earlier, as the Omani gateway benefited from increased transhipment activity amid the disr",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-21T10:07:57+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/business/2026/08/sohar-container-volumes-rise-40-as-hormuz-disruption-reshapes-gulf-shipping/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive",
+        "summary": "Image for representation purposes only Think of a bulk carrier which arrives at a port, and instead of moving to a berth, it has to drop its anchor off the coast and wait.",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-21T13:26:42+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/the-6-9-billion-cost-of-non-automated-port-operations-why-delays-are-becoming-more-expensive/?utm_source=rss&utm_medium=rss&utm_campaign=the-6-9-billion-cost-of-non-automated-port-operations-why-delays-are-becoming-more-expensive",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
+        "summary": "We would like to inform you of an important operational update concerning transit shipments discharged at Jeddah, Saudi Arabia, with onward movement to the Upper Gulf.",
+        "source": "Hapag-Lloyd",
+        "timestamp": "2026-08-21T08:00:00+00:00",
+        "confidence": "high",
+        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/08/saudi-arabia--update-on-transit-shipments-via-jeddah-to-the-uppe.html",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "customernews_feeds_2",
+        "paywalled": false,
+        "confirmed_by": [
+          "customernews_5"
+        ]
+      },
+      {
+        "title": "U.S Secretly Set Up Trade Corridor In Strait Of Hormuz Moving 10 Million Barrels Of Oil Daily",
+        "summary": "Image for representation purposes only U.S.",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-21T13:53:00+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -168,24 +167,24 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -195,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-22",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong; The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive; Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-21",
         "write_now": "Maybe",
@@ -242,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Drewry WCI rises for second week as Transpacific rates climb; EU Rejects US Demands to Renegotiate Green Rules Amid Trade Tensions; Why 22 States Are Suing to Block a Federal Demand for 17 Million Truckers’ Records.",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-15",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container freight rates diverge between the Pacific and Europe in mid-August; What Can Operators Expect From a Modern Terminal Operating System (TOS) ?; Maersk delivers strong Q2 and raises full year guidance",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 282,
-      "high_trust": 95,
-      "trade_press": 187,
+      "total_items": 275,
+      "high_trust": 83,
+      "trade_press": 192,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-21.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-21.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-21.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-22.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-22.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-22.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-21",
-    "run_started_at": "2026-08-21T06:31:05+09:00",
+    "report_date": "2026-08-22",
+    "run_started_at": "2026-08-22T06:31:01+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Wakeo Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Wakeo: Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging"
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Wakeo is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -329,20 +329,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Wakeo",
-        "importance": "watch",
-        "summary": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging -> suggests a meaningful positioning refresh",
-        "source_url": "https://wakeo.co/solution/shippers/",
-        "evidence": [
-          "Reduce emissions and costs with better visibility. Discover how Wakeo helps organisations manage..."
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-08-21",
@@ -394,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260821T063105+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-21.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260822T063101+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-22.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W34",
-    "week_end_date": "2026-08-21",
+    "week_end_date": "2026-08-22",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around facility execution.",
     "sparse_explanation": "",
@@ -429,8 +416,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -518,7 +504,7 @@
     "recent_history": [
       {
         "week_label": "2026-W34",
-        "week_end_date": "2026-08-21",
+        "week_end_date": "2026-08-22",
         "takeaway": "FourKites is signaling AI positioning around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
