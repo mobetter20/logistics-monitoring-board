@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-21T21:32:42+00:00",
-  "requested_date": "2026-08-22",
+  "built_at": "2026-08-22T21:32:05+00:00",
+  "requested_date": "2026-08-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-22",
+    "requested_date": "2026-08-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Transpacific Container Rates Jump as Carriers Tighten Capacity.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-22",
+        "report_label": "2026-08-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-22",
+        "report_label": "2026-08-23",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,91 +64,91 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-22",
-    "last_updated": "2026-08-22 06:31",
+    "report_date": "2026-08-23",
+    "last_updated": "2026-08-23 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
+    "status_note": "Market watch is led by Transpacific Container Rates Jump as Carriers Tighten Capacity.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container Freight Rates Rise 4% as Transpacific Demand Stays Strong.",
+      "Lead market story: Transpacific Container Rates Jump as Carriers Tighten Capacity.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-22",
+      "report_date": "2026-08-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong; The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive; Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
+      "headline": "Transpacific Container Rates Jump as Carriers Tighten Capacity; Two Commercial Vessels Hijacked Off Yemen and Somalia, 22 Indian Seafarers Among Crew; 3rd Edition of the CII Gujarat Export Conclave 2026 highlights New Pathways for Export Growth through FTAs, Trusted Partnerships and Emerging Markets",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong",
+    "headline": "Transpacific Container Rates Jump as Carriers Tighten Capacity",
     "key_news_radar": [
       {
-        "title": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong",
-        "summary": "The Drewry World Container Index (WCI), a widely cited independent benchmark for container freight pricing, advanced 4% to $4,526 per 40-foot container in the latest reading, prope",
+        "title": "Transpacific Container Rates Jump as Carriers Tighten Capacity",
+        "summary": "Global container shipping rates moved higher for a second consecutive week, with tighter capacity and steady demand pushing Transpacific prices sharply upward, according to the lat",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-21T08:50:03+00:00",
+        "timestamp": "2026-08-22T17:17:20+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/container-freight-rates-rise-4-as-transpacific-demand-stays-strong/",
+        "link": "https://www.globaltrademag.com/transpacific-container-rates-jump-as-carriers-tighten-capacity/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Sohar container volumes rise 40% as Hormuz disruption reshapes Gulf shipping",
-        "summary": "SOHAR Port and Freezone handled 545,000 TEU in the first half of 2026, up 40% from a year earlier, as the Omani gateway benefited from increased transhipment activity amid the disr",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-21T10:07:57+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/business/2026/08/sohar-container-volumes-rise-40-as-hormuz-disruption-reshapes-gulf-shipping/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive",
-        "summary": "Image for representation purposes only Think of a bulk carrier which arrives at a port, and instead of moving to a berth, it has to drop its anchor off the coast and wait.",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-21T13:26:42+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/the-6-9-billion-cost-of-non-automated-port-operations-why-delays-are-becoming-more-expensive/?utm_source=rss&utm_medium=rss&utm_campaign=the-6-9-billion-cost-of-non-automated-port-operations-why-delays-are-becoming-more-expensive",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
-        "summary": "We would like to inform you of an important operational update concerning transit shipments discharged at Jeddah, Saudi Arabia, with onward movement to the Upper Gulf.",
-        "source": "Hapag-Lloyd",
-        "timestamp": "2026-08-21T08:00:00+00:00",
-        "confidence": "high",
-        "link": "https://www.hapag-lloyd.com/en/services-information/offices-localinfo/local-news/2026/08/saudi-arabia--update-on-transit-shipments-via-jeddah-to-the-uppe.html",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "customernews_feeds_2",
-        "paywalled": false,
         "confirmed_by": [
-          "customernews_5"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "U.S Secretly Set Up Trade Corridor In Strait Of Hormuz Moving 10 Million Barrels Of Oil Daily",
-        "summary": "Image for representation purposes only U.S.",
+        "title": "Two Commercial Vessels Hijacked Off Yemen and Somalia, 22 Indian Seafarers Among Crew",
+        "summary": "Two commercial vessels carrying a total of 22 Indian nationals have been hijacked by armed pirates in separate incidents off Yemen and Somalia, raising fresh concerns over the safe",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-22T00:56:45+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/two-commercial-vessels-hijacked-off-yemen-and-somalia-22-indian-seafarers-among-crew/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk updates intermodal fuel fees in the UK and Ireland",
+        "summary": "Maersk has announced updated Intermodal Fuel Fee levels for truck transportation in the United Kingdom and the Republic of Ireland.",
+        "source": "Container News",
+        "timestamp": "2026-08-22T18:22:47+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/maersk-updates-intermodal-fuel-fees-in-the-uk-and-ireland/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "“Safety of our seafaring community high priority”: MEA after FSUI releases video claiming attack by IRGC",
+        "summary": "NEW DELHI: The Ministry of External Affairs said on Friday that it is closely monitoring incidents involving Indian sailors in high-risk maritime zones, including the Strait of Hor",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-22T03:47:32+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/maritime-safety/safety-of-our-seafaring-community-high-priority-mea-after-fsui-releases-video-claiming-attack-by-irgc/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Iran Threatens ‘Devastating’ Response As New US Sanctions Raise Risks For Hormuz Shipping",
+        "summary": "Image Credits: Wikipedia Iran warned on Friday that it would respond with a “devastating” reaction to any new U.S.",
         "source": "Marine Insight",
-        "timestamp": "2026-08-21T13:53:00+00:00",
+        "timestamp": "2026-08-22T09:40:27+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-secretly-set-up-trade-corridor-in-strait-of-hormuz-moving-10-million-barrels-of-oil-daily",
+        "link": "https://www.marineinsight.com/iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=iran-threatens-devastating-response-as-new-us-sanctions-raise-risks-for-hormuz-shipping",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -159,6 +159,10 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
@@ -167,24 +171,20 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
         "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -194,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Transpacific Container Rates Jump as Carriers Tighten Capacity; Two Commercial Vessels Hijacked Off Yemen and Somalia, 22 Indian Seafarers Among Crew; 3rd Edition of the CII Gujarat Export Conclave 2026 highlights New Pathways for Export Growth through FTAs, Trusted Partnerships and Emerging Markets",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-22",
         "write_now": "Maybe",
@@ -241,53 +249,44 @@
         "worth_attention_today": "5",
         "headline": "Maritime rates back on the rise; Borderlands Mexico: ANPACT warns tariffs threaten truck trade as exports surge; Kamarajar Port Celebrates 80th Independence Day, Highlights Growth and Capacity Expansion",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Drewry WCI rises for second week as Transpacific rates climb; EU Rejects US Demands to Renegotiate Green Rules Amid Trade Tensions; Why 22 States Are Suing to Block a Federal Demand for 17 Million Truckers’ Records.",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 275,
-      "high_trust": 83,
-      "trade_press": 192,
+      "total_items": 61,
+      "high_trust": 21,
+      "trade_press": 40,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-22",
-    "run_started_at": "2026-08-22T06:31:01+09:00",
+    "report_date": "2026-08-23",
+    "run_started_at": "2026-08-23T06:31:01+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Wakeo: Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -329,7 +328,21 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-08-21",
@@ -381,14 +394,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260822T063101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260823T063101+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W34",
-    "week_end_date": "2026-08-22",
+    "week_end_date": "2026-08-23",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around facility execution.",
     "sparse_explanation": "",
@@ -504,7 +517,7 @@
     "recent_history": [
       {
         "week_label": "2026-W34",
-        "week_end_date": "2026-08-22",
+        "week_end_date": "2026-08-23",
         "takeaway": "FourKites is signaling AI positioning around facility execution.",
         "signal_count": "11",
         "active_thesis_count": "3",
