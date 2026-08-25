@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-24T21:32:30+00:00",
-  "requested_date": "2026-08-25",
+  "built_at": "2026-08-25T21:33:14+00:00",
+  "requested_date": "2026-08-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-25",
+    "requested_date": "2026-08-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Panama Canal new capacity cuts put US ports on notice.",
+      "Lead daily item: New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-25",
+        "report_label": "2026-08-26",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-25",
+        "report_label": "2026-08-26",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-25",
-    "last_updated": "2026-08-25 06:31",
+    "report_date": "2026-08-26",
+    "last_updated": "2026-08-26 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Panama Canal new capacity cuts put US ports on notice.",
+    "status_note": "Market watch is led by New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Panama Canal new capacity cuts put US ports on notice.",
+      "Lead market story: New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-25",
+      "report_date": "2026-08-26",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Panama Canal new capacity cuts put US ports on notice; ‘European rail freight has reached disruption limit’; Transpacific continues to drive freight rate increases",
+      "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update; New return: Another container line is back in the Red Sea; More than 90 seafarers now held captive in Gulf of Aden",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Panama Canal new capacity cuts put US ports on notice",
+    "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update",
     "key_news_radar": [
       {
-        "title": "Panama Canal new capacity cuts put US ports on notice",
-        "summary": "One of ocean shipping’s critical chokepoints just got a little tighter.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-24T18:22:22+00:00",
+        "title": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 1%.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-25T12:36:00+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/panama-canal-new-capacity-cuts-put-us-ports-on-notice",
+        "link": "https://www.freightos.com/freight-resources/new-us-ca-tariffs-and-sanctions-for-iran-which-could-rock-us-cn-boat-august-25-2026-update/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "New return: Another container line is back in the Red Sea",
+        "summary": "While unfounded fears of higher tariffs helped drive what amounted to unexpected demand by anxious shippers this summer, other assorted geopolitical intrigue is keeping the contain",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-25T18:46:05+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/new-return-another-container-line-is-back-in-the-red-sea",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -105,54 +118,41 @@
         ]
       },
       {
-        "title": "‘European rail freight has reached disruption limit’",
-        "summary": "All across Europe, countries are working to improve their rail infrastructure.",
-        "source": "RailFreight.com",
-        "timestamp": "2026-08-24T08:55:24+00:00",
-        "confidence": "medium",
-        "link": "https://www.railfreight.com/railfreight/2026/08/24/european-rail-freight-has-reached-disruption-limit/",
+        "title": "More than 90 seafarers now held captive in Gulf of Aden",
+        "summary": "A vessel identified as the product tanker Seamull was hijacked in the Gulf of Aden on August 20, adding to a recent series of piracy incidents that has left more than 90 seafarers",
+        "source": "WorldCargo News",
+        "timestamp": "2026-08-25T08:42:52+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/08/more-than-90-seafarers-now-held-captive-in-gulf-of-aden/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "railfreight",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Diesel Prices Surge, Spot Rates Plunge: Why Trucking Costs Are Disconnected",
-        "summary": "#fwtv_tCDcsHYyTCU .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_tCDcsHYyTCU .fwtv-panel p{margin:0 0 12px}#fwtv_tCDcsHYyTCU .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-24T19:39:17+00:00",
+        "title": "Maersk Mega-Ships Return to Suez Canal as Red Sea Routes Reopen",
+        "summary": "On Saturday, August 22, two of Maersk’s biggest container ships passed through the Suez Canal together, marking another step in the carrier’s push to bring more vessels back to the",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-25T08:34:37+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/diesel-prices-surge-spot-rates-plunge-why-trucking-costs-are-disconnected",
+        "link": "https://www.globaltrademag.com/maersk-mega-ships-return-to-suez-canal-as-red-sea-routes-reopen/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "BMO Trucking Credit: The END of Transparent Data? | FreightWaves",
+        "summary": "#fwtv_q6TlMLWRgaI .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_q6TlMLWRgaI .fwtv-panel p{margin:0 0 12px}#fwtv_q6TlMLWRgaI .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-25T18:44:04+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/bmo-trucking-credit-the-end-of-transparent-data-freightwaves",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Iran Allows Select Iraqi Oil Tankers To Transit Strait Of Hormuz After Requests From Baghdad",
-        "summary": "Image for representation purposes only Iran has granted permission for some Iraqi oil tankers to navigate the Strait of Hormuz following several diplomatic requests from Baghdad.",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-24T11:03:59+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-allows-select-iraqi-oil-tankers-to-transit-strait-of-hormuz-after-requests-from-baghdad/?utm_source=rss&utm_medium=rss&utm_campaign=iran-allows-select-iraqi-oil-tankers-to-transit-strait-of-hormuz-after-requests-from-baghdad",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Transpacific continues to drive freight rate increases",
-        "summary": "The World Container Index published by Drewry ended the week of 20 August with a composite container spot freight rate index of $4,526 per feu, up 4% on the previous seven days, eq",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-08-24T17:37:07+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transpacific-continues-to-drive-freight-rate-increases/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -164,11 +164,11 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -181,11 +181,11 @@
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -195,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update; New return: Another container line is back in the Red Sea; More than 90 seafarers now held captive in Gulf of Aden",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-25",
         "write_now": "Maybe",
@@ -242,33 +250,25 @@
         "worth_attention_today": "5",
         "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update; Freightos Weekly Update: Congestion playing a bigger role in container rates; Liners and Red Sea: Damn the Houthis, full speed ahead!",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Some Diesel Analysts Are Warning of a Supply Crunch Nobody in Washington Is Talking About. Here Is What Holds Up, and What It Could Mean for Q4.; Ocean Freight Rates Surge +400% — But Demand Isn’t Driving It; Germany launches plan for low water on the Rhine",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 308,
-      "high_trust": 85,
-      "trade_press": 223,
+      "total_items": 321,
+      "high_trust": 79,
+      "trade_press": 242,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-25",
-    "run_started_at": "2026-08-25T06:31:13+09:00",
+    "report_date": "2026-08-26",
+    "run_started_at": "2026-08-26T06:31:06+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -279,12 +279,12 @@
       "Latest lower-signal item came from Wakeo: Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "4 days ago",
+    "last_signal_label": "5 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -382,14 +382,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260825T063113+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260826T063106+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-26.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W35",
-    "week_end_date": "2026-08-25",
+    "week_end_date": "2026-08-26",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -439,7 +439,7 @@
     "recent_history": [
       {
         "week_label": "2026-W35",
-        "week_end_date": "2026-08-25",
+        "week_end_date": "2026-08-26",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
