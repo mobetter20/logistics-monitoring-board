@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-25T21:33:14+00:00",
-  "requested_date": "2026-08-26",
+  "built_at": "2026-08-26T21:32:35+00:00",
+  "requested_date": "2026-08-27",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-26",
+    "requested_date": "2026-08-27",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-26",
+        "report_label": "2026-08-27",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-26",
+        "report_label": "2026-08-27",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W35",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is reinforcing a partial service disruption minor motif through macro pressure.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,50 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-26",
-    "last_updated": "2026-08-26 06:31",
+    "report_date": "2026-08-27",
+    "last_updated": "2026-08-27 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
+    "status_note": "Market watch is led by Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update.",
+      "Lead market story: Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-26",
+      "report_date": "2026-08-27",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update; New return: Another container line is back in the Red Sea; More than 90 seafarers now held captive in Gulf of Aden",
+      "headline": "Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis; CBIC extends customs facilitation for international cargo disrupted by Strait of Hormuz closure till 31 October 2026; Global Port Congestion Reaches New High With 4.3 Million TEU Vessel Capacity Waiting To Berth",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update",
+    "headline": "Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis",
     "key_news_radar": [
       {
-        "title": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 1%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-25T12:36:00+00:00",
+        "title": "Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis",
+        "summary": "India is preparing its ports and airports to handle additional foreign cargo that could be diverted to the country as disruption in the Strait of Hormuz continues to affect interna",
+        "source": "India Seatrade News",
+        "timestamp": "2026-08-26T18:40:33+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/new-us-ca-tariffs-and-sanctions-for-iran-which-could-rock-us-cn-boat-august-25-2026-update/",
+        "link": "https://indiaseatradenews.com/indian-ports-airports-prepare-for-foreign-cargo-diverted-by-hormuz-crisis/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "New return: Another container line is back in the Red Sea",
-        "summary": "While unfounded fears of higher tariffs helped drive what amounted to unexpected demand by anxious shippers this summer, other assorted geopolitical intrigue is keeping the contain",
+        "title": "Ocean rate concerns as orders for new container ships near 40% of global fleet",
+        "summary": "The global containership orderbook is, frankly, exceptionally large.",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-25T18:46:05+00:00",
+        "timestamp": "2026-08-26T16:19:22+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-return-another-container-line-is-back-in-the-red-sea",
+        "link": "https://www.freightwaves.com/news/ocean-rate-concerns-as-orders-for-new-container-ships-near-40-of-global-fleet",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -118,12 +118,12 @@
         ]
       },
       {
-        "title": "More than 90 seafarers now held captive in Gulf of Aden",
-        "summary": "A vessel identified as the product tanker Seamull was hijacked in the Gulf of Aden on August 20, adding to a recent series of piracy incidents that has left more than 90 seafarers",
+        "title": "DP World’s Jeddah terminal returns to pre-Red Sea crisis levels",
+        "summary": "DP World’s South Container Terminal (SCT) at Jeddah Islamic Port handled more than 221,200 TEU in July, its strongest monthly performance since DP World began operating the termina",
         "source": "WorldCargo News",
-        "timestamp": "2026-08-25T08:42:52+00:00",
+        "timestamp": "2026-08-26T11:41:34+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/more-than-90-seafarers-now-held-captive-in-gulf-of-aden/",
+        "link": "https://www.worldcargonews.com/business-commerce-miscellaneous/2026/08/dp-worlds-jeddah-terminal-returns-to-pre-red-sea-crisis-levels/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -131,28 +131,28 @@
         "confirmed_by": []
       },
       {
-        "title": "Maersk Mega-Ships Return to Suez Canal as Red Sea Routes Reopen",
-        "summary": "On Saturday, August 22, two of Maersk’s biggest container ships passed through the Suez Canal together, marking another step in the carrier’s push to bring more vessels back to the",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-08-25T08:34:37+00:00",
+        "title": "CBIC extends customs facilitation for international cargo disrupted by Strait of Hormuz closure till 31 October 2026",
+        "summary": "NEW DELHI : The Central Board of Indirect Taxes and Customs (CBIC), Department of Revenue, Ministry of Finance, has issued Circular No.",
+        "source": "India Shipping News",
+        "timestamp": "2026-08-26T04:02:43+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/maersk-mega-ships-return-to-suez-canal-as-red-sea-routes-reopen/",
+        "link": "https://indiashippingnews.com/customs/cbic-extends-customs-facilitation-for-international-cargo-disrupted-by-strait-of-hormuz-closure-till-31-october-2026/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "BMO Trucking Credit: The END of Transparent Data? | FreightWaves",
-        "summary": "#fwtv_q6TlMLWRgaI .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_q6TlMLWRgaI .fwtv-panel p{margin:0 0 12px}#fwtv_q6TlMLWRgaI .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-25T18:44:04+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/bmo-trucking-credit-the-end-of-transparent-data-freightwaves",
+        "title": "Iran, Oman Discuss Temporary Shipping Corridor Through Strait Of Hormuz",
+        "summary": "Image for representation purposes only Iran and Oman discussed plans to set up a temporary joint shipping corridor through the Strait of Hormuz and carry out a mine-clearing projec",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-26T11:27:48+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/iran-oman-discuss-temporary-shipping-corridor-through-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-oman-discuss-temporary-shipping-corridor-through-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,32 +160,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -195,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-27",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis; CBIC extends customs facilitation for international cargo disrupted by Strait of Hormuz closure till 31 October 2026; Global Port Congestion Reaches New High With 4.3 Million TEU Vessel Capacity Waiting To Berth",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-26",
         "write_now": "Maybe",
@@ -242,53 +250,44 @@
         "worth_attention_today": "5",
         "headline": "UAE Halts All Trade And Commercial Exchanges With Iran Over Alleged Missile Attack; Luxembourg fuel flows hit by drought, now three-week rail closure looms; Chinese Oil Giants Stop Sending Tankers Via Hormuz, Bab al-Mandab Amid Middle East Conflict",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-20",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Congestion playing a bigger role in container rates - August 18, 2026 Update; Freightos Weekly Update: Congestion playing a bigger role in container rates; Liners and Red Sea: Damn the Houthis, full speed ahead!",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 321,
+      "total_items": 277,
       "high_trust": 79,
-      "trade_press": 242,
+      "trade_press": 198,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-26.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-26.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-26.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-27.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-27.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-27.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-26",
-    "run_started_at": "2026-08-26T06:31:06+09:00",
+    "report_date": "2026-08-27",
+    "run_started_at": "2026-08-27T06:31:07+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Wakeo: Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging"
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
       },
       {
         "company": "FourKites",
@@ -329,9 +328,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "Container Track & Trace (CTT) – Partial Service Disruption (minor)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-08-27",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-08-21",
         "company": "Wakeo",
@@ -371,49 +392,41 @@
         "signal_type": "website change",
         "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/platform/"
-      },
-      {
-        "detected_date": "2026-08-19",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/industries/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260826T063106+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-26.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260827T063107+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-27.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W35",
-    "week_end_date": "2026-08-26",
+    "week_end_date": "2026-08-27",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is reinforcing a partial service disruption minor motif through macro pressure.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is reinforcing a partial service disruption minor motif through macro pressure.",
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is reinforcing a partial service disruption minor motif through macro pressure."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -433,17 +446,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Macro pressure",
+        "workflow_scope": "exception management",
+        "claimed_outcome": "greater resilience",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor). Partially Degraded Service",
+        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
+        "emerging_motif": "partial service disruption minor",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W35",
-        "week_end_date": "2026-08-26",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-08-27",
+        "takeaway": "Project44 is reinforcing a partial service disruption minor motif through macro pressure.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
