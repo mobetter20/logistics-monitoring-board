@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-27T21:32:34+00:00",
-  "requested_date": "2026-08-28",
+  "built_at": "2026-08-28T21:32:34+00:00",
+  "requested_date": "2026-08-29",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-28",
+    "requested_date": "2026-08-29",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: NAVIS N4 rollout leaves Durban Gateway fighting operational backlog.",
+      "Lead daily item: Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-28",
+        "report_label": "2026-08-29",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-28",
+        "report_label": "2026-08-29",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: GoComet GoComet homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced order management, routing / optimization, analytics, and carbon / sustainability messaging",
-        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,78 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-28",
-    "last_updated": "2026-08-28 06:31",
+    "report_date": "2026-08-29",
+    "last_updated": "2026-08-29 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by NAVIS N4 rollout leaves Durban Gateway fighting operational backlog.",
+    "status_note": "Market watch is led by Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: NAVIS N4 rollout leaves Durban Gateway fighting operational backlog.",
+      "Lead market story: Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-28",
+      "report_date": "2026-08-29",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "NAVIS N4 rollout leaves Durban Gateway fighting operational backlog; New typhoon deals fresh blow to Shanghai, Ningbo recovery as congestion mounts; Over 70 Ships Await Clearance Near Danube’s Sulina Canal To Load Ukrainian Grain",
+      "headline": "Rhine low water reopens the contest between European ports; Freight rates pause as Shanghai congestion builds; World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk’s Bookings After Ship Attack",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "NAVIS N4 rollout leaves Durban Gateway fighting operational backlog",
+    "headline": "Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum",
     "key_news_radar": [
       {
-        "title": "NAVIS N4 rollout leaves Durban Gateway fighting operational backlog",
-        "summary": "Durban Gateway Terminal (DGT) is working through a backlog of cargo and equipment constraints following the transition to the NAVIS N4 terminal operating system, with the terminal",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-27T07:52:08+00:00",
+        "title": "Strait of Hormuz Traffic Remains Limited; Red Sea Return Gains Momentum",
+        "summary": "Ship movements through the Strait of Hormuz stayed constrained on Wednesday, even as indications emerged that Iran and Oman were nearing a pact to coordinate passage through the st",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-28T17:57:59+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/navis-n4-rollout-leaves-durban-gateway-fighting-operational-backlog/",
+        "link": "https://www.globaltrademag.com/strait-of-hormuz-traffic-remains-limited-red-sea-return-gains-momentum/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
       },
       {
-        "title": "US sanctions on Iran: China’s scramble for oil may add to India’s crude, freight costs",
-        "summary": "NEW DELHI : The latest US sanctions on Iran could hit India through higher crude oil prices, costlier freight and insurance, tighter payment channels and renewed pressure on the ru",
-        "source": "India Shipping News",
-        "timestamp": "2026-08-27T04:00:57+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/fuel/us-sanctions-on-iran-chinas-scramble-for-oil-may-add-to-indias-crude-freight-costs/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Over 70 Ships Await Clearance Near Danube’s Sulina Canal To Load Ukrainian Grain",
-        "summary": "Image for representation purposes only Russian attacks at Ukrainian Ports in the Black Sea have forced shippers to rely on facilities on the Danube for exporting grain.",
-        "source": "Marine Insight",
-        "timestamp": "2026-08-27T10:49:49+00:00",
+        "title": "Rhine low water reopens the contest between European ports",
+        "summary": "Despite some rainfall in northern Europe, the level of the Rhine remains at seasonal lows: at 10.00 on 27 August 2026, the level recorded at Kaub, the point on the Middle Rhine mos",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-28T10:49:42+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/over-70-ships-await-clearance-near-danubes-sulina-canal-to-load-ukrainian-grain/?utm_source=rss&utm_medium=rss&utm_campaign=over-70-ships-await-clearance-near-danubes-sulina-canal-to-load-ukrainian-grain",
+        "link": "https://www.trasportoeuropa.it/english/rhine-low-water-reopens-the-contest-between-european-ports/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Freight rates pause as Shanghai congestion builds",
+        "summary": "After a period of growth on the transpacific and decline between China and Europe, average spot rates for container shipping are in a phase of relative stability at the end of Augu",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-28T08:04:42+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/freight-rates-pause-as-shanghai-congestion-builds/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk’s Bookings After Ship Attack",
+        "summary": "Image for representation purposes only MSC has stopped new cargo bookings to and from Novorossiysk, Russia, after a drone hit its container ship MSC Ulsan III.",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-28T13:29:17+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/worlds-largest-shipping-firm-suspends-russian-port-of-novorossiysks-bookings-after-ship-attack/?utm_source=rss&utm_medium=rss&utm_campaign=worlds-largest-shipping-firm-suspends-russian-port-of-novorossiysks-bookings-after-ship-attack",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -128,37 +143,22 @@
         "confirmed_by": []
       },
       {
-        "title": "New typhoon deals fresh blow to Shanghai, Ningbo recovery as congestion mounts",
-        "summary": "A fresh round of typhoon disruption is threatening to deepen congestion at China’s major container ports, with carriers already facing prolonged waits at Shanghai and Ningbo after",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-27T09:35:02+00:00",
+        "title": "OOIL reports US$728 million profit in first half of 2026",
+        "summary": "Orient Overseas (International) Limited reported a profit attributable to equity holders of US$728 million for the first half of 2026.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-08-28T13:22:03+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/new-typhoon-deals-fresh-blow-to-shanghai-ningbo-recovery-as-congestion-mounts/",
+        "link": "https://container-news.com/ooil-reports-us728-million-profit-in-first-half-of-2026/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Dutch seaports brace for strike as Rotterdam operations face shutdown",
-        "summary": "Dutch seaports are preparing for a nationwide strike on September 4 that is expected to disrupt vessel and cargo handling across Rotterdam, Amsterdam and Zeeland.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-08-27T12:00:51+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/dutch-seaports-brace-for-strike-as-rotterdam-operations-face-shutdown/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "container_news"
+        ]
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -170,13 +170,13 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
@@ -186,12 +186,24 @@
         "summary": ""
       },
       {
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-08-29",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Rhine low water reopens the contest between European ports; Freight rates pause as Shanghai congestion builds; World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk’s Bookings After Ship Attack",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-28",
         "write_now": "Maybe",
@@ -239,47 +251,39 @@
         "worth_attention_today": "5",
         "headline": "Transpacific Container Rates Jump as Carriers Tighten Capacity; Two Commercial Vessels Hijacked Off Yemen and Somalia, 22 Indian Seafarers Among Crew; 3rd Edition of the CII Gujarat Export Conclave 2026 highlights New Pathways for Export Growth through FTAs, Trusted Partnerships and Emerging Markets",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-22",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container Freight Rates Rise 4% as Transpacific Demand Stays Strong; The $6.9 Billion Cost of Non-Automated Port Operations: Why Delays Are Becoming More Expensive; Saudi Arabia: Update on transit shipments via Jeddah to the Upper Gulf",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 318,
-      "high_trust": 79,
-      "trade_press": 239,
+      "total_items": 273,
+      "high_trust": 65,
+      "trade_press": 208,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-28.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-28.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-28.json"
+      "news_pipeline/output/reports/daily-brief-2026-08-29.md",
+      "news_pipeline/output/digests/daily-digest-2026-08-29.md",
+      "news_pipeline/output/trends/daily-trends-2026-08-29.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-28",
-    "run_started_at": "2026-08-28T06:31:04+09:00",
+    "report_date": "2026-08-29",
+    "run_started_at": "2026-08-29T06:31:06+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: GoComet GoComet homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced order management, routing / optimization, analytics, and carbon / sustainability messaging",
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 4,
-    "watch_count": 1,
+    "important_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -327,74 +331,28 @@
     ],
     "important_changes": [
       {
-        "company": "GoComet",
+        "company": "Project44",
         "importance": "important",
-        "summary": "GoComet homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced order management, routing / optimization, analytics, and carbon / sustainability messaging",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
         "signal_type": "website_change",
         "page_slug": "homepage",
-        "source_title": "GoComet homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced order management, routing / optimization, analytics, and carbon / sustainability messaging -> suggests a move beyond visibility into AI-driven optimization and procurement",
-        "source_url": "https://www.gocomet.com/",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
         "evidence": [
-          "AI-Native Platform for Global Trade Automate the manual coordination behind logistics workflows.",
-          "Humans decide. AI executes workflows."
-        ]
-      },
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"Lead Time Benchmark Obtain the most accurate transit time of all carriers",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Lead Time Benchmark Obtain the most accurate transit time of all carriers",
-        "source_url": "https://www.gocomet.com/transit-lead-time-calculator",
-        "evidence": [
-          "Lead Time Benchmark Obtain the most accurate transit time of all carriers",
-          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
-        ]
-      },
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"Disruption Control Connect disruption signals with exposed freight.",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Disruption Control Connect disruption signals with exposed freight.",
-        "source_url": "https://www.gocomet.com/products/market-intelligence",
-        "evidence": [
-          "Disruption Control Connect disruption signals with exposed freight.",
-          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
-        ]
-      },
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"GoComet Vs Project44 A comparison between the pioneers of supply chain visibility solutions",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "GoComet Vs Project44 A comparison between the pioneers of supply chain visibility solutions",
-        "source_url": "https://www.gocomet.com/gocomet-vs-p44",
-        "evidence": [
-          "GoComet Vs Project44 A comparison between the pioneers of supply chain visibility solutions",
-          "GoComet is a pioneering technology company specializing in logistics and supply chain management solutions. Offering a comprehensive platform, businesses gain real-time shipment visibility, efficient freight procurement, and advanced automation tools to streamline processes, all"
+          "On its first appearance in G2’s TMS Grid, Intelligent TMS outscored key competitors on customer satisfaction across every segment, earning Leader status in seven reports CHICAGO, August 28, 2026 —project44, the Decision Intelligence Platform for the modern supply chain, today announced that its Intelligent TMS has been named a Leader in the G2 Fall 2026 Enterprise Grid Report for Transportation Management Systems. The…"
         ]
       }
     ],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational",
-          "Agentic Workflow Manager (AWM)- Scheduled Maintenance"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-08-29",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "detected_date": "2026-08-28",
         "company": "GoComet",
@@ -434,32 +392,24 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-08-21",
-        "company": "Wakeo",
-        "importance": "watch",
-        "signal_type": "website change",
-        "summary": "Wakeo solutions page added stronger visibility and sustainability language and introduced carbon / sustainability messaging",
-        "source_url": "https://wakeo.co/solution/shippers/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260828T063104+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-28.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260829T063106+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-08-29.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W35",
-    "week_end_date": "2026-08-28",
+    "week_end_date": "2026-08-29",
     "freshness": "current",
     "status_note": "GoComet is reinforcing a disruption control connect disruption motif through AI positioning.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
       "GoComet is reinforcing a disruption control connect disruption motif through AI positioning.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Current working thesis: Signals are converging around decision intelligence sustainability and as a meaningful market motif.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
@@ -473,6 +423,7 @@
       "GoComet (direct competitor) is pushing AI positioning around exception management with the claimed outcome of reduced manual work.",
       "GoComet (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of better visibility.",
       "GoComet (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions.",
       "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience."
     ],
     "team_implications": [
@@ -504,8 +455,9 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 5,
+    "important_signal_count": 6,
     "active_theses": [
+      "Signals are converging around decision intelligence sustainability and as a meaningful market motif.",
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
     "top_signals": [
@@ -525,6 +477,20 @@
       },
       {
         "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "faster decisions",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "entity_name": "Project44",
         "source_title": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
         "source_layer": "direct competitor",
         "strategic_move": "Macro pressure",
@@ -541,11 +507,11 @@
     "recent_history": [
       {
         "week_label": "2026-W35",
-        "week_end_date": "2026-08-28",
+        "week_end_date": "2026-08-29",
         "takeaway": "GoComet is reinforcing a disruption control connect disruption motif through AI positioning.",
-        "signal_count": "5",
-        "active_thesis_count": "1",
-        "signal_signature": "GoComet|direct_competitor|product_update|7d521c3e4d047be218c25b9345cc691c239707a1 || GoComet|direct_competitor|product_update|a710c096dba27c2f328e845b248e5e54c2c6d7dc || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|product_update|7f240ade88b43873648f28e0f01cc4a7ce0319ff || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
+        "signal_count": "6",
+        "active_thesis_count": "2",
+        "signal_signature": "GoComet|direct_competitor|product_update|7d521c3e4d047be218c25b9345cc691c239707a1 || GoComet|direct_competitor|product_update|a710c096dba27c2f328e845b248e5e54c2c6d7dc || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|product_update|7f240ade88b43873648f28e0f01cc4a7ce0319ff || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
