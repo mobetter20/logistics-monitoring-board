@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-30T21:33:01+00:00",
-  "requested_date": "2026-08-31",
+  "built_at": "2026-08-31T21:32:36+00:00",
+  "requested_date": "2026-09-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-08-31",
+    "requested_date": "2026-09-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: APM Terminals breaks ground for Laldia Container Terminal.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-08-31",
+        "report_label": "2026-09-01",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-08-31",
+        "report_label": "2026-09-01",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,96 +64,96 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-08-31",
-    "last_updated": "2026-08-31 06:31",
+    "report_date": "2026-09-01",
+    "last_updated": "2026-09-01 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges.",
+    "status_note": "Market watch is led by APM Terminals breaks ground for Laldia Container Terminal.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges.",
+      "Lead market story: APM Terminals breaks ground for Laldia Container Terminal.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-08-31",
+      "report_date": "2026-09-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
-      "worth_attention_today": "4",
-      "headline": "Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges; Hapag-Lloyd updates inland fuel surcharge in Spain; Georgia Ports schedules Savannah terminal system update",
+      "worth_attention_today": "5",
+      "headline": "Chennai Port Authority strengthens supply chain resilience by facilitating alternative port calls; APM Terminals breaks ground for Laldia Container Terminal; $5.3 million a new record for Panama Canal transit",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges",
+    "headline": "APM Terminals breaks ground for Laldia Container Terminal",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-30T14:17:04+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-nuevo-leon-governor-pitches-border-boom-as-texas-mexico-freight-surges",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Hapag-Lloyd updates inland fuel surcharge in Spain",
-        "summary": "Hapag-Lloyd will adjust its Inland Fuel Floater for applicable inland services in Spain.",
-        "source": "Container News",
-        "timestamp": "2026-08-30T20:21:07+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/hapag-lloyd-updates-inland-fuel-surcharge-in-spain/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Georgia Ports schedules Savannah terminal system update",
-        "summary": "The Georgia Ports Authority will update the Savannah Terminal Operating System on Labor Day, 7 September 2026.",
-        "source": "Container News",
-        "timestamp": "2026-08-29T22:12:06+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/georgia-ports-schedules-savannah-terminal-system-update/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Supply driven trucking market cycle explained in the data",
-        "summary": "Chart of the Week: Accepted Truckload Volume Index, SONAR Truckload Rejection Index - USA SONAR: ASTVI.USA, STRI.USA The Accepted SONAR Truckload Volume Index (ASTVI), which measur",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-30T02:16:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/supply-driven-trucking-market-cycle-explained-in-the-data",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "MoU signed for Korean green methanol supply to carriers",
-        "summary": "EcoMethanol has signed a Memorandum of Understanding on the supply of green methanol with Taebaek City, Hyundai Corporation, Wallenius Wilhelmsen and EUKOR Car Carriers.",
+        "title": "APM Terminals breaks ground for Laldia Container Terminal",
+        "summary": "On 30 August, APM Terminals marked the official groundbreaking of the Laldia Container Terminal (APM Terminals Laldia) in Chattogram, Bangladesh.",
         "source": "WorldCargo News",
-        "timestamp": "2026-08-30T06:16:09+00:00",
+        "timestamp": "2026-08-31T09:20:22+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/mou-signed-for-korean-green-methanol-supply-to-carriers/",
-        "label": "Watch",
+        "link": "https://www.worldcargonews.com/news/2026/08/apm-terminals-breaks-ground-for-laldia-container-terminal/",
+        "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Container ship orders approach 40% of the fleet",
+        "summary": "The global container ship orderbook is approaching 40% of the capacity of the fleet in service, a level that brings renewed attention to the risk of overcapacity in liner shipping.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-08-31T09:06:43+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/container-ship-orders-approach-40-of-the-fleet/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "$5.3 million a new record for Panama Canal transit",
+        "summary": "The Panama Canal set a new single-trip toll record amid looming traffic restrictions and global pressure on energy supplies.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-08-31T16:19:19+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/5-3-million-a-new-record-for-panama-canal-transit",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "How to “digest” your IoT data",
+        "summary": "Logistics practitioners have applied internet of things (IoT) technologies to their operations at increasing rates in recent years, seeking to collect new data that could help elim",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-08-31T17:32:32+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/technology/how-to-digest-your-iot-data",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "dcvelocity"
+        ]
+      },
+      {
+        "title": "Iran’s Supreme Leader Mojtaba Khamenei Urges Muslim Nations To Recognise ‘Real Enemy’ As Hormuz Traffic Falls To New Lows",
+        "summary": "Image for representation purposes only Supreme Leader of Iran, Mojtaba Khamenei, has urged Muslim nations, especially the Gulf countries, to recognise their ‘real enemy’ instead of",
+        "source": "Marine Insight",
+        "timestamp": "2026-08-31T11:57:15+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/irans-supreme-leader-mojtaba-khamenei-urges-muslim-nations-to-recognise-real-enemy-as-hormuz-traffic-falls-to-new-lows/?utm_source=rss&utm_medium=rss&utm_campaign=irans-supreme-leader-mojtaba-khamenei-urges-muslim-nations-to-recognise-real-enemy-as-hormuz-traffic-falls-to-new-lows",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,11 +161,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -173,20 +169,24 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -196,6 +196,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Chennai Port Authority strengthens supply chain resilience by facilitating alternative port calls; APM Terminals breaks ground for Laldia Container Terminal; $5.3 million a new record for Panama Canal transit",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-08-31",
         "write_now": "Maybe",
@@ -243,47 +251,40 @@
         "worth_attention_today": "5",
         "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update; New return: Another container line is back in the Red Sea; More than 90 seafarers now held captive in Gulf of Aden",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-25",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Panama Canal new capacity cuts put US ports on notice; ‘European rail freight has reached disruption limit’; Transpacific continues to drive freight rate increases",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 58,
-      "high_trust": 7,
-      "trade_press": 51,
+      "total_items": 271,
+      "high_trust": 83,
+      "trade_press": 188,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-08-31.md",
-      "news_pipeline/output/digests/daily-digest-2026-08-31.md",
-      "news_pipeline/output/trends/daily-trends-2026-08-31.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-08-31",
-    "run_started_at": "2026-08-31T06:31:16+09:00",
+    "report_date": "2026-09-01",
+    "run_started_at": "2026-09-01T06:31:05+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo homepage added stronger visibility language"
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -296,7 +297,7 @@
       },
       {
         "company": "Shippeo",
-        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and visibility."
+        "summary": "Current narrative leans toward data quality / connectivity, visibility, and execution and workflow."
       },
       {
         "company": "Transporeon",
@@ -330,21 +331,16 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-01",
+        "company": "Shippeo",
+        "importance": "minor",
+        "signal_type": "website change",
+        "summary": "Shippeo homepage added stronger visibility language",
+        "source_url": "https://www.shippeo.com/"
+      },
       {
         "detected_date": "2026-08-29",
         "company": "Project44",
@@ -384,25 +380,17 @@
         "signal_type": "press announcement",
         "summary": "GoComet press releases announced \"GoComet Vs Project44 A comparison between the pioneers of supply chain visibility solutions",
         "source_url": "https://www.gocomet.com/gocomet-vs-p44"
-      },
-      {
-        "detected_date": "2026-08-27",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Container Track & Trace (CTT) – Partial Service Disruption (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260831T063116+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-08-31.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260901T063105+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-01.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W36",
-    "week_end_date": "2026-08-31",
+    "week_end_date": "2026-09-01",
     "freshness": "current",
     "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -414,10 +402,12 @@
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around unknown."
+      "Project44 is signaling unknown around unknown.",
+      "Shippeo is signaling unknown around in transit visibility."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown."
+      "Project44 (direct competitor) is pushing unknown.",
+      "Shippeo (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
@@ -446,7 +436,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
       {
@@ -462,16 +452,30 @@
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
+        "entity_name": "Shippeo",
+        "source_title": "Shippeo homepage added stronger visibility language -> signals sharper focus on shippers and carriers",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Shippeo homepage added stronger visibility language -> signals sharper focus on shippers and carriers Shippeo tackles the challenges of onboarding and adoption to unite shippers, carriers and systems across every...",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.shippeo.com/"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W36",
-        "week_end_date": "2026-08-31",
+        "week_end_date": "2026-09-01",
         "takeaway": "Project44 is signaling unknown around unknown.",
-        "signal_count": "1",
+        "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Shippeo|direct_competitor|website_change|99354d95fd4552cdd0dff5048068b192b89c8433",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
