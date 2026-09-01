@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-08-31T21:32:36+00:00",
-  "requested_date": "2026-09-01",
+  "built_at": "2026-09-01T21:32:50+00:00",
+  "requested_date": "2026-09-02",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-01",
+    "requested_date": "2026-09-02",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: APM Terminals breaks ground for Laldia Container Terminal.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Strike disrupts Mundra empty-container flows.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-01",
+        "report_label": "2026-09-02",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-01",
+        "report_label": "2026-09-02",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W36",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around unknown.",
+        "summary": "FourKites is signaling AI positioning around in transit visibility.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-01",
-    "last_updated": "2026-09-01 06:31",
+    "report_date": "2026-09-02",
+    "last_updated": "2026-09-02 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by APM Terminals breaks ground for Laldia Container Terminal.",
+    "status_note": "Market watch is led by Strike disrupts Mundra empty-container flows.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: APM Terminals breaks ground for Laldia Container Terminal.",
+      "Lead market story: Strike disrupts Mundra empty-container flows.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-01",
+      "report_date": "2026-09-02",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Chennai Port Authority strengthens supply chain resilience by facilitating alternative port calls; APM Terminals breaks ground for Laldia Container Terminal; $5.3 million a new record for Panama Canal transit",
+      "headline": "Strike disrupts Mundra empty-container flows; Mundra Port Disruption: 5,000 Containers a Day Held Up Amid Empty-Yard Strike; $10.75 million in meth found inside leek shipment at Texas border bridge",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "APM Terminals breaks ground for Laldia Container Terminal",
+    "headline": "Strike disrupts Mundra empty-container flows",
     "key_news_radar": [
       {
-        "title": "APM Terminals breaks ground for Laldia Container Terminal",
-        "summary": "On 30 August, APM Terminals marked the official groundbreaking of the Laldia Container Terminal (APM Terminals Laldia) in Chattogram, Bangladesh.",
+        "title": "Strike disrupts Mundra empty-container flows",
+        "summary": "A strike by empty-container yard operators is disrupting container movements at India’s Mundra port, with around 5,000 containers a day reportedly being held up as a dispute over t",
         "source": "WorldCargo News",
-        "timestamp": "2026-08-31T09:20:22+00:00",
+        "timestamp": "2026-09-01T07:23:03+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/08/apm-terminals-breaks-ground-for-laldia-container-terminal/",
+        "link": "https://www.worldcargonews.com/news/2026/09/strike-disrupts-mundra-empty-container-flows/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,58 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "Container ship orders approach 40% of the fleet",
-        "summary": "The global container ship orderbook is approaching 40% of the capacity of the fleet in service, a level that brings renewed attention to the risk of overcapacity in liner shipping.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-08-31T09:06:43+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-ship-orders-approach-40-of-the-fleet/",
+        "title": "Mundra Port Disruption: 5,000 Containers a Day Held Up Amid Empty-Yard Strike",
+        "summary": "Around 5,000 containers a day are being held up at Mundra Port, disrupting import and export cargo movement amid a strike by empty-container yard operators, according to estimates",
+        "source": "India Seatrade News",
+        "timestamp": "2026-09-01T19:03:11+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/mundra-port-disruption-5000-containers-a-day-held-up-amid-empty-yard-strike/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "$5.3 million a new record for Panama Canal transit",
-        "summary": "The Panama Canal set a new single-trip toll record amid looming traffic restrictions and global pressure on energy supplies.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-08-31T16:19:19+00:00",
+        "title": "A Quarter-Century of Trade. One Unbroken Connection",
+        "summary": "AILBIEA celebrates its Silver Jubilee on 11 September 2026 in Mumbai — a full day of trade dialogue, tributes to Shri Nadir B.",
+        "source": "India Shipping News",
+        "timestamp": "2026-09-01T04:16:20+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/5-3-million-a-new-record-for-panama-canal-transit",
+        "link": "https://indiashippingnews.com/association/a-quarter-century-of-trade-one-unbroken-connection/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "How to “digest” your IoT data",
-        "summary": "Logistics practitioners have applied internet of things (IoT) technologies to their operations at increasing rates in recent years, seeking to collect new data that could help elim",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-08-31T17:32:32+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/technology/how-to-digest-your-iot-data",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "dcvelocity"
-        ]
-      },
-      {
-        "title": "Iran’s Supreme Leader Mojtaba Khamenei Urges Muslim Nations To Recognise ‘Real Enemy’ As Hormuz Traffic Falls To New Lows",
-        "summary": "Image for representation purposes only Supreme Leader of Iran, Mojtaba Khamenei, has urged Muslim nations, especially the Gulf countries, to recognise their ‘real enemy’ instead of",
+        "title": "Iran Says It Shot Down US MQ-9 Reaper Drone Over Strait Of Hormuz",
+        "summary": "Image Credits: Wikipedia Iran said on Monday it had shot down a US MQ-9 Reaper drone over the Strait of Hormuz.",
         "source": "Marine Insight",
-        "timestamp": "2026-08-31T11:57:15+00:00",
+        "timestamp": "2026-09-01T11:01:02+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/irans-supreme-leader-mojtaba-khamenei-urges-muslim-nations-to-recognise-real-enemy-as-hormuz-traffic-falls-to-new-lows/?utm_source=rss&utm_medium=rss&utm_campaign=irans-supreme-leader-mojtaba-khamenei-urges-muslim-nations-to-recognise-real-enemy-as-hormuz-traffic-falls-to-new-lows",
+        "link": "https://www.marineinsight.com/iran-says-it-shot-down-us-mq-9-reaper-drone-over-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-shot-down-us-mq-9-reaper-drone-over-strait-of-hormuz",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Cma Cgm joins forces with China’s Cccc on ports and logistics",
+        "summary": "French shipping group Cma Cgm and China Communications Construction Company (Cccc) signed a memorandum of understanding in Shenzhen on 28 August 2026 to launch international cooper",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-01T08:08:37+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/cma-cgm-joins-forces-with-chinas-cccc-on-ports-and-logistics/",
+        "label": "Watch",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -186,7 +182,7 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -196,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-02",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Strike disrupts Mundra empty-container flows; Mundra Port Disruption: 5,000 Containers a Day Held Up Amid Empty-Yard Strike; $10.75 million in meth found inside leek shipment at Texas border bridge",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-01",
         "write_now": "Maybe",
@@ -243,53 +247,44 @@
         "worth_attention_today": "5",
         "headline": "Indian Ports, Airports Prepare for Foreign Cargo Diverted by Hormuz Crisis; CBIC extends customs facilitation for international cargo disrupted by Strait of Hormuz closure till 31 October 2026; Global Port Congestion Reaches New High With 4.3 Million TEU Vessel Capacity Waiting To Berth",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-26",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "New US - CA tariffs, and sanctions for Iran which could rock US-CN boat - August 25, 2026 Update; New return: Another container line is back in the Red Sea; More than 90 seafarers now held captive in Gulf of Aden",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 271,
-      "high_trust": 83,
-      "trade_press": 188,
+      "total_items": 342,
+      "high_trust": 75,
+      "trade_press": 267,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-01.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-01.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-01.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-02.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-02.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-02.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-01",
-    "run_started_at": "2026-09-01T06:31:05+09:00",
+    "report_date": "2026-09-02",
+    "run_started_at": "2026-09-02T06:31:17+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo homepage added stronger visibility language"
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 2,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
       },
       {
         "company": "FourKites",
@@ -330,9 +325,52 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "Shipment Shared-Visibility Degraded for Carrier Tenants (minor)"
+        ]
+      },
+      {
+        "company": "FourKites",
+        "importance": "important",
+        "summary": "FourKites press releases announced \"Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
+        "source_url": "https://www.fourkites.com/platform/network",
+        "evidence": [
+          "Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
+          "Alan runs ETA-driven dock appointment automation. He creates, reschedules, and manages appointments based on live shipment status."
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-02",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
+        "detected_date": "2026-09-02",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "FourKites press releases announced \"Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
+        "source_url": "https://www.fourkites.com/platform/network"
+      },
       {
         "detected_date": "2026-09-01",
         "company": "Shippeo",
@@ -364,55 +402,44 @@
         "signal_type": "press announcement",
         "summary": "GoComet press releases announced \"Lead Time Benchmark Obtain the most accurate transit time of all carriers",
         "source_url": "https://www.gocomet.com/transit-lead-time-calculator"
-      },
-      {
-        "detected_date": "2026-08-28",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "GoComet press releases announced \"Disruption Control Connect disruption signals with exposed freight.",
-        "source_url": "https://www.gocomet.com/products/market-intelligence"
-      },
-      {
-        "detected_date": "2026-08-28",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "GoComet press releases announced \"GoComet Vs Project44 A comparison between the pioneers of supply chain visibility solutions",
-        "source_url": "https://www.gocomet.com/gocomet-vs-p44"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260901T063105+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-01.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260902T063117+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-02.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W36",
-    "week_end_date": "2026-09-01",
+    "week_end_date": "2026-09-02",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around unknown.",
+    "status_note": "FourKites is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "FourKites is signaling AI positioning around in transit visibility.",
+      "Current working thesis: Buyer-facing narratives are clustering around better_visibility.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling unknown around unknown.",
+      "FourKites is signaling AI positioning around in transit visibility.",
+      "Project44 is signaling unknown around in transit visibility.",
       "Shippeo is signaling unknown around in transit visibility."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown.",
+      "FourKites (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
+      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility.",
       "Shippeo (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
       "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
@@ -436,19 +463,35 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 2,
-    "active_theses": [],
+    "important_signal_count": 3,
+    "active_theses": [
+      "Buyer-facing narratives are clustering around better_visibility."
+    ],
     "top_signals": [
       {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page returned to all systems operational.",
+        "entity_name": "FourKites",
+        "source_title": "Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
         "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
+        "evidence_excerpt": "FourKites press releases announced \"Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.\" -> signals a stronger AI / automation...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.fourkites.com/platform/network"
+      },
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Shipment Shared-Visibility Degraded for Carrier Tenants (minor). Partially Degraded Service",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
@@ -471,11 +514,11 @@
     "recent_history": [
       {
         "week_label": "2026-W36",
-        "week_end_date": "2026-09-01",
-        "takeaway": "Project44 is signaling unknown around unknown.",
-        "signal_count": "2",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Shippeo|direct_competitor|website_change|99354d95fd4552cdd0dff5048068b192b89c8433",
+        "week_end_date": "2026-09-02",
+        "takeaway": "FourKites is signaling AI positioning around in transit visibility.",
+        "signal_count": "3",
+        "active_thesis_count": "1",
+        "signal_signature": "FourKites|direct_competitor|product_update|9b5bb8951bdcb64f067d358d7ce938234afe5878 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765 || Shippeo|direct_competitor|website_change|99354d95fd4552cdd0dff5048068b192b89c8433",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
