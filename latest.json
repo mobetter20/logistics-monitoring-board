@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-03T21:32:56+00:00",
-  "requested_date": "2026-09-04",
+  "built_at": "2026-09-04T21:34:57+00:00",
+  "requested_date": "2026-09-05",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-04",
+    "requested_date": "2026-09-05",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays.",
+      "Lead daily item: Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-04",
+        "report_label": "2026-09-05",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-04",
+        "report_label": "2026-09-05",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: FourKites FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-04",
-    "last_updated": "2026-09-04 06:31",
+    "report_date": "2026-09-05",
+    "last_updated": "2026-09-05 06:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays.",
+    "status_note": "Market watch is led by Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays.",
+      "Lead market story: Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-04",
+      "report_date": "2026-09-05",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays; Mundra empty-container disruption raises questions about the implementation of the new depot policy; Mundra empty-container disruption raises questions about the implementation of the new depot policy",
+      "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs; Cautious return of container ships to Suez; METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays",
+    "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs",
     "key_news_radar": [
       {
-        "title": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays",
-        "summary": "MUNDRA: Container movement at Mundra Port has come under significant pressure following a strike by empty-container yard operators, with industry estimates suggesting that around 5",
-        "source": "India Shipping News",
-        "timestamp": "2026-09-03T04:15:46+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/port-strikes/mundra-container-yard-strike-disrupts-exim-supply-chain-as-around-5000-containers-a-day-face-delays/",
+        "title": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs",
+        "summary": "Screengrab from X video A 48-hour strike by port workers is disrupting operations at major German seaports, while workers at Rotterdam and other Dutch ports are preparing to strike",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-04T13:17:41+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/port-strikes-disrupt-operations-at-hamburg-rotterdam-and-other-major-european-shipping-hubs/?utm_source=rss&utm_medium=rss&utm_campaign=port-strikes-disrupt-operations-at-hamburg-rotterdam-and-other-major-european-shipping-hubs",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Mundra empty-container disruption raises questions about the implementation of the new depot policy",
-        "summary": "MUMBAI: The disruption around empty-container movements at Mundra has now spread from empty-container depot operators to transporters and shipping lines, with implications for expo",
-        "source": "India Shipping News",
-        "timestamp": "2026-09-03T04:14:41+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/export-import/mundra-empty-container-disruption-raises-questions-about-the-implementation-of-the-new-depot-policy/",
+        "title": "Cautious return of container ships to Suez",
+        "summary": "While the Strait of Hormuz remains largely blocked, the southern gateway to the Suez Canal, the Bab el-Mandeb Strait, seems gradually to be opening up.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-04T13:58:46+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/cautious-return-of-container-ships-to-suez/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Mundra empty-container disruption raises questions about the implementation of the new depot policy",
-        "summary": "Supal Shah, CEO, Sarjak Container Lines, says the immediate priority should be to restore empty-container movements and protect exporters from delays and additional costs The disru",
-        "source": "Container News",
-        "timestamp": "2026-09-03T14:00:56+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/mundra-empty-container-disruption-raises-questions-about-the-implementation-of-the-new-depot-policy/",
+        "title": "Dubai’s Jebel Ali Port Falls Out Of Global Top 30 As Strait Of Hormuz Disruption Cuts Gulf Traffic",
+        "summary": "Image Credits: Wikipedia Dubai’s Jebel Ali port has fallen from 10th to 32nd place in the global container port rankings after a sharp drop in container traffic linked to disruptio",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-04T12:40:28+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/dubais-jebel-ali-port-falls-out-of-global-top-30-as-strait-of-hormuz-disruption-cuts-gulf-traffic/?utm_source=rss&utm_medium=rss&utm_campaign=dubais-jebel-ali-port-falls-out-of-global-top-30-as-strait-of-hormuz-disruption-cuts-gulf-traffic",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "container_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "200,000 Railcars Face Retirement — What Comes Next?",
-        "summary": "#fwtv_VtuAhEh0cY .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_VtuAhEh0cY .fwtv-panel p{margin:0 0 12px}#fwtv_VtuAhEh0cY .fwtv-note{font",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-02T23:31:17+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/200000-railcars-face-retirement-what-comes-next",
+        "title": "Air cargo gains altitude in July 2026",
+        "summary": "International air cargo traffic grew by 3.9% year on year in July 2026, according to figures from Iata, with capacity rising at a slower pace, up 1.7%, pushing the global load fact",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-04T13:44:23+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/air-cargo-gains-altitude-in-july-2026/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Diesel at 5-Year Highs: Why This Surge Isn’t a Blip",
-        "summary": "#fwtv_rH4tPklnzio .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_rH4tPklnzio .fwtv-panel p{margin:0 0 12px}#fwtv_rH4tPklnzio .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-02T23:32:39+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/diesel-at-5-year-highs-why-this-surge-isnt-a-blip",
+        "title": "METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
+        "summary": "The rail freight market is changing, and in more ways than one: geopolitical developments are reshaping supply chains, European industrial output is down and demand for the transpo",
+        "source": "RailFreight.com",
+        "timestamp": "2026-09-04T08:01:05+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/railfreight/2026/09/04/metrans-ceo-peter-kiss-our-base-expectation-is-continued-pressure/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-05",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs; Cautious return of container ships to Suez; METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-04",
         "write_now": "Maybe",
@@ -239,46 +247,38 @@
         "worth_attention_today": "5",
         "headline": "6,000 Seafarers And 400 Ships Remain Trapped In Persian Gulf As US-Iran War Enters Sixth Month; Iran Urges Nations To Reject New U.S Sanctions As Talks Focus On Reopening Strait Of Hormuz; Surge in container volumes on direct services between Gothenburg and Asia",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-29",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Rhine low water reopens the contest between European ports; Freight rates pause as Shanghai congestion builds; World’s Largest Shipping Firm Suspends Russian Port of Novorossiysk’s Bookings After Ship Attack",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 344,
-      "high_trust": 81,
-      "trade_press": 263,
+      "total_items": 255,
+      "high_trust": 65,
+      "trade_press": 190,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-04.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-04.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-04.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-05.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-05.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-05.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-04",
-    "run_started_at": "2026-09-04T06:31:16+09:00",
+    "report_date": "2026-09-05",
+    "run_started_at": "2026-09-05T06:32:22+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+      "Newest meaningful competitor move: FourKites FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 2,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
@@ -327,20 +327,48 @@
     ],
     "important_changes": [
       {
-        "company": "Project44",
+        "company": "FourKites",
         "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "summary": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
         "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
+        "page_slug": "platform",
+        "source_title": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.fourkites.com/platform/",
         "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network."
+          "You need four things working together: a proprietary data network, real-time digital twins of every order and shipment, an AI orchestration layer that can act on exceptions, and an analytics layer that turns data into answers. Most attempts stop at dashboards."
+        ]
+      },
+      {
+        "company": "FourKites",
+        "importance": "important",
+        "summary": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.fourkites.com/products",
+        "evidence": [
+          "You need four things working together: a proprietary data network, real-time digital twins of every order and shipment, an AI orchestration layer that can act on exceptions, and an analytics layer that turns data into answers. Most attempts stop at dashboards."
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-05",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+        "source_url": "https://www.fourkites.com/platform/"
+      },
+      {
+        "detected_date": "2026-09-05",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
+        "source_url": "https://www.fourkites.com/products"
+      },
       {
         "detected_date": "2026-09-04",
         "company": "Project44",
@@ -372,39 +400,24 @@
         "signal_type": "website change",
         "summary": "Shippeo homepage added stronger visibility language",
         "source_url": "https://www.shippeo.com/"
-      },
-      {
-        "detected_date": "2026-08-29",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-08-28",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "GoComet homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced order management, routing / optimization, analytics, and carbon / sustainability messaging",
-        "source_url": "https://www.gocomet.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260904T063116+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-04.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260905T063222+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-05.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W36",
-    "week_end_date": "2026-09-04",
+    "week_end_date": "2026-09-05",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
       "FourKites is signaling AI positioning around in transit visibility.",
+      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
@@ -449,22 +462,24 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
-    "active_theses": [],
+    "important_signal_count": 6,
+    "active_theses": [
+      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
+    ],
     "top_signals": [
       {
         "entity_name": "FourKites",
-        "source_title": "Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.",
+        "source_title": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
         "workflow_scope": "in transit visibility",
         "claimed_outcome": "better visibility",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "FourKites press releases announced \"Supply Chain Network {{carriers}}K+ carriers, {{brands}}+ brands, {{countries}} countries. {{years}} years of multi-tenant Fortune 500 data.\" -> signals a stronger AI / automation...",
+        "evidence_excerpt": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward...",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.fourkites.com/platform/network"
+        "source_url": "https://www.fourkites.com/platform/"
       },
       {
         "entity_name": "Project44",
@@ -498,11 +513,11 @@
     "recent_history": [
       {
         "week_label": "2026-W36",
-        "week_end_date": "2026-09-04",
+        "week_end_date": "2026-09-05",
         "takeaway": "FourKites is signaling AI positioning around in transit visibility.",
-        "signal_count": "4",
-        "active_thesis_count": "0",
-        "signal_signature": "FourKites|direct_competitor|product_update|9b5bb8951bdcb64f067d358d7ce938234afe5878 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Shippeo|direct_competitor|website_change|99354d95fd4552cdd0dff5048068b192b89c8433",
+        "signal_count": "6",
+        "active_thesis_count": "1",
+        "signal_signature": "FourKites|direct_competitor|ai_positioning|1ba5d1daac6dd41407b2f54053c8d987cc570e04 || FourKites|direct_competitor|ai_positioning|e93f4e8df10558897cc262c9c9efc0c6564b9da8 || FourKites|direct_competitor|product_update|9b5bb8951bdcb64f067d358d7ce938234afe5878 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
