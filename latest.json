@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-04T21:34:57+00:00",
-  "requested_date": "2026-09-05",
+  "built_at": "2026-09-05T21:32:41+00:00",
+  "requested_date": "2026-09-06",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-05",
+    "requested_date": "2026-09-06",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Tropical cyclones disrupt China-South Pacific container services.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-05",
+        "report_label": "2026-09-06",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-05",
+        "report_label": "2026-09-06",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: FourKites FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-05",
-    "last_updated": "2026-09-05 06:32",
+    "report_date": "2026-09-06",
+    "last_updated": "2026-09-06 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
+    "status_note": "Market watch is led by Tropical cyclones disrupt China-South Pacific container services.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs.",
+      "Lead market story: Tropical cyclones disrupt China-South Pacific container services.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-05",
+      "report_date": "2026-09-06",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs; Cautious return of container ships to Suez; METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
+      "headline": "Tropical cyclones disrupt China-South Pacific container services; COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing; India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs",
+    "headline": "Tropical cyclones disrupt China-South Pacific container services",
     "key_news_radar": [
       {
-        "title": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs",
-        "summary": "Screengrab from X video A 48-hour strike by port workers is disrupting operations at major German seaports, while workers at Rotterdam and other Dutch ports are preparing to strike",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-04T13:17:41+00:00",
+        "title": "Tropical cyclones disrupt China-South Pacific container services",
+        "summary": "Neptune Pacific has warned of continued disruptions to its Asia-Pacific services after a series of tropical cyclones affected ports and vessel schedules across China and wider Asia",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-09-04T23:32:12+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/port-strikes-disrupt-operations-at-hamburg-rotterdam-and-other-major-european-shipping-hubs/?utm_source=rss&utm_medium=rss&utm_campaign=port-strikes-disrupt-operations-at-hamburg-rotterdam-and-other-major-european-shipping-hubs",
+        "link": "https://container-news.com/tropical-cyclones-disrupt-china-south-pacific-container-services/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing",
+        "summary": "Image for representation purposes only China’s state-owned shipping company COSCO has denied claims that its vessels were used to collect military intelligence for Beijing, calling",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-05T10:12:38+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing/?utm_source=rss&utm_medium=rss&utm_campaign=cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -102,25 +115,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Cautious return of container ships to Suez",
-        "summary": "While the Strait of Hormuz remains largely blocked, the southern gateway to the Suez Canal, the Bab el-Mandeb Strait, seems gradually to be opening up.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-04T13:58:46+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/cautious-return-of-container-ships-to-suez/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Dubai’s Jebel Ali Port Falls Out Of Global Top 30 As Strait Of Hormuz Disruption Cuts Gulf Traffic",
-        "summary": "Image Credits: Wikipedia Dubai’s Jebel Ali port has fallen from 10th to 32nd place in the global container port rankings after a sharp drop in container traffic linked to disruptio",
+        "title": "India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
+        "summary": "Image for representation purposes only India has launched a new module on its e-NAVIK portal to track Indian seafarers working on ships in high-risk maritime areas, including the S",
         "source": "Marine Insight",
-        "timestamp": "2026-09-04T12:40:28+00:00",
+        "timestamp": "2026-09-05T08:23:48+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/dubais-jebel-ali-port-falls-out-of-global-top-30-as-strait-of-hormuz-disruption-cuts-gulf-traffic/?utm_source=rss&utm_medium=rss&utm_campaign=dubais-jebel-ali-port-falls-out-of-global-top-30-as-strait-of-hormuz-disruption-cuts-gulf-traffic",
+        "link": "https://www.marineinsight.com/india-launches-new-system-to-monitor-seafarers-in-high-risk-maritime-regions/?utm_source=rss&utm_medium=rss&utm_campaign=india-launches-new-system-to-monitor-seafarers-in-high-risk-maritime-regions",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -128,28 +128,30 @@
         "confirmed_by": []
       },
       {
-        "title": "Air cargo gains altitude in July 2026",
-        "summary": "International air cargo traffic grew by 3.9% year on year in July 2026, according to figures from Iata, with capacity rising at a slower pace, up 1.7%, pushing the global load fact",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-04T13:44:23+00:00",
+        "title": "Maersk updates local charges and fuel surcharges across several markets",
+        "summary": "Maersk has announced a series of pricing updates covering Brazil, Cyprus and North Macedonia, including revised local charges and inland fuel surcharges.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-09-05T18:41:13+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/air-cargo-gains-altitude-in-july-2026/",
-        "label": "Operational",
+        "link": "https://container-news.com/maersk-updates-local-charges-and-fuel-surcharges-across-several-markets/",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "container_news"
+        ]
       },
       {
-        "title": "METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
-        "summary": "The rail freight market is changing, and in more ways than one: geopolitical developments are reshaping supply chains, European industrial output is down and demand for the transpo",
-        "source": "RailFreight.com",
-        "timestamp": "2026-09-04T08:01:05+00:00",
+        "title": "Maersk keeps Mexico inland fuel surcharge at 2% in September",
+        "summary": "Maersk will maintain its temporary inland fuel surcharge in Mexico at 2% of inland haulage costs during September 2026.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-09-05T05:35:12+00:00",
         "confidence": "medium",
-        "link": "https://www.railfreight.com/railfreight/2026/09/04/metrans-ceo-peter-kiss-our-base-expectation-is-continued-pressure/",
-        "label": "Operational",
+        "link": "https://container-news.com/maersk-keeps-mexico-inland-fuel-surcharge-at-2-in-september/",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "railfreight",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -174,7 +176,7 @@
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -182,7 +184,7 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-06",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Tropical cyclones disrupt China-South Pacific container services; COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing; India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-05",
         "write_now": "Maybe",
@@ -239,48 +249,41 @@
         "worth_attention_today": "4",
         "headline": "Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges; Hapag-Lloyd updates inland fuel surcharge in Spain; Georgia Ports schedules Savannah terminal system update",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-30",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "6,000 Seafarers And 400 Ships Remain Trapped In Persian Gulf As US-Iran War Enters Sixth Month; Iran Urges Nations To Reject New U.S Sanctions As Talks Focus On Reopening Strait Of Hormuz; Surge in container volumes on direct services between Gothenburg and Asia",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 255,
-      "high_trust": 65,
-      "trade_press": 190,
+      "total_items": 99,
+      "high_trust": 25,
+      "trade_press": 74,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-05.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-05.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-05.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-06.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-06.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-06.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-05",
-    "run_started_at": "2026-09-05T06:32:22+09:00",
+    "report_date": "2026-09-06",
+    "run_started_at": "2026-09-06T06:31:08+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: FourKites FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from FourKites: FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 2,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,32 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.fourkites.com/platform/",
-        "evidence": [
-          "You need four things working together: a proprietary data network, real-time digital twins of every order and shipment, an AI orchestration layer that can act on exceptions, and an analytics layer that turns data into answers. Most attempts stop at dashboards."
-        ]
-      },
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.fourkites.com/products",
-        "evidence": [
-          "You need four things working together: a proprietary data network, real-time digital twins of every order and shipment, an AI orchestration layer that can act on exceptions, and an analytics layer that turns data into answers. Most attempts stop at dashboards."
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -403,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260905T063222+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-05.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260906T063108+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-06.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W36",
-    "week_end_date": "2026-09-05",
+    "week_end_date": "2026-09-06",
     "freshness": "current",
     "status_note": "FourKites is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -513,7 +491,7 @@
     "recent_history": [
       {
         "week_label": "2026-W36",
-        "week_end_date": "2026-09-05",
+        "week_end_date": "2026-09-06",
         "takeaway": "FourKites is signaling AI positioning around in transit visibility.",
         "signal_count": "6",
         "active_thesis_count": "1",
