@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-05T21:32:41+00:00",
-  "requested_date": "2026-09-06",
+  "built_at": "2026-09-06T21:32:40+00:00",
+  "requested_date": "2026-09-07",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-06",
+    "requested_date": "2026-09-07",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Tropical cyclones disrupt China-South Pacific container services.",
+      "Lead daily item: Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-06",
+        "report_label": "2026-09-07",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-06",
+        "report_label": "2026-09-07",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W36",
+        "report_label": "2026-W37",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "FourKites is signaling AI positioning around in transit visibility.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,77 +64,53 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-06",
-    "last_updated": "2026-09-06 06:31",
+    "report_date": "2026-09-07",
+    "last_updated": "2026-09-07 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Tropical cyclones disrupt China-South Pacific container services.",
+    "status_note": "Market watch is led by Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Tropical cyclones disrupt China-South Pacific container services.",
+      "Lead market story: Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-06",
+      "report_date": "2026-09-07",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Tropical cyclones disrupt China-South Pacific container services; COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing; India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
+      "headline": "More carriers halt Russian port calls as Black Sea risks escalate; Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute; Bangladesh-India Trade Resumes Through Hili Land Port",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Tropical cyclones disrupt China-South Pacific container services",
+    "headline": "Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute",
     "key_news_radar": [
       {
-        "title": "Tropical cyclones disrupt China-South Pacific container services",
-        "summary": "Neptune Pacific has warned of continued disruptions to its Asia-Pacific services after a series of tropical cyclones affected ports and vessel schedules across China and wider Asia",
+        "title": "Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-04T23:32:12+00:00",
+        "timestamp": "2026-09-06T14:10:29+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/tropical-cyclones-disrupt-china-south-pacific-container-services/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-trucker-protest-raises-stakes-in-mexico-us-b-1-visa-dispute",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing",
-        "summary": "Image for representation purposes only China’s state-owned shipping company COSCO has denied claims that its vessels were used to collect military intelligence for Beijing, calling",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-05T10:12:38+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing/?utm_source=rss&utm_medium=rss&utm_campaign=cosco-denies-u-s-allegations-that-its-ships-used-concealed-equipment-to-spy-for-beijing",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
-        "summary": "Image for representation purposes only India has launched a new module on its e-NAVIK portal to track Indian seafarers working on ships in high-risk maritime areas, including the S",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-05T08:23:48+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/india-launches-new-system-to-monitor-seafarers-in-high-risk-maritime-regions/?utm_source=rss&utm_medium=rss&utm_campaign=india-launches-new-system-to-monitor-seafarers-in-high-risk-maritime-regions",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Maersk updates local charges and fuel surcharges across several markets",
-        "summary": "Maersk has announced a series of pricing updates covering Brazil, Cyprus and North Macedonia, including revised local charges and inland fuel surcharges.",
+        "title": "More carriers halt Russian port calls as Black Sea risks escalate",
+        "summary": "Container shipping disruptions in the Black Sea are increasing as more carriers suspend calls to Russian ports following recent attacks on commercial vessels.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-05T18:41:13+00:00",
+        "timestamp": "2026-09-06T17:38:05+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/maersk-updates-local-charges-and-fuel-surcharges-across-several-markets/",
-        "label": "Watch",
+        "link": "https://container-news.com/more-carriers-halt-russian-port-calls-as-black-sea-risks-escalate/",
+        "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
@@ -143,24 +119,48 @@
         ]
       },
       {
-        "title": "Maersk keeps Mexico inland fuel surcharge at 2% in September",
-        "summary": "Maersk will maintain its temporary inland fuel surcharge in Mexico at 2% of inland haulage costs during September 2026.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-05T05:35:12+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/maersk-keeps-mexico-inland-fuel-surcharge-at-2-in-september/",
+        "title": "CMA CGM announces new FAK rates and surcharges from October",
+        "summary": "CMA CGM has announced a series of freight rate and surcharge changes across several trades, effective 1 October 2026.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-06T10:46:35+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/cma-cgm-announces-new-fak-rates-and-surcharges-from-october/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Hutchison Ports BEST commissions two STS cranes",
+        "summary": "Hutchison Ports BEST has brought two STS cranes into service at its Barcelona terminal, increasing its ability to handle the biggest container vessels calling at the port.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-06T14:05:26+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/cargo-handling-equipment/2026/09/hutchison-ports-best-commissions-two-sts-cranes/",
         "label": "Watch",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "News in Brief Podcast | Week 36 2026 | Geopolitics, port congestion & rising air freight rates",
+        "summary": "Geopolitical tensions, port congestion and shifting freight rates dominate this week’s News in Brief.",
+        "source": "The Loadstar",
+        "timestamp": "2026-09-06T16:00:14+00:00",
+        "confidence": "medium",
+        "link": "https://theloadstar.com/news-in-brief-podcast-week-36-2026-geopolitics-port-congestion-rising-air-freight-rates/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "the_loadstar",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
@@ -171,14 +171,14 @@
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
@@ -188,12 +188,24 @@
         "summary": ""
       },
       {
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-07",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "More carriers halt Russian port calls as Black Sea risks escalate; Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute; Bangladesh-India Trade Resumes Through Hili Land Port",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-06",
         "write_now": "Maybe",
@@ -241,33 +253,25 @@
         "worth_attention_today": "5",
         "headline": "Chennai Port Authority strengthens supply chain resilience by facilitating alternative port calls; APM Terminals breaks ground for Laldia Container Terminal; $5.3 million a new record for Panama Canal transit",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-08-31",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "4",
-        "headline": "Borderlands Mexico: Nuevo León governor pitches border boom as Texas-Mexico freight surges; Hapag-Lloyd updates inland fuel surcharge in Spain; Georgia Ports schedules Savannah terminal system update",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 99,
-      "high_trust": 25,
-      "trade_press": 74,
+      "total_items": 68,
+      "high_trust": 17,
+      "trade_press": 51,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-06.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-06.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-06.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-07.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-07.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-07.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-06",
-    "run_started_at": "2026-09-06T06:31:08+09:00",
+    "report_date": "2026-09-07",
+    "run_started_at": "2026-09-07T06:31:04+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +282,12 @@
       "Latest lower-signal item came from FourKites: FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,46 +385,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260906T063108+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-06.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260907T063104+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-07.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W36",
-    "week_end_date": "2026-09-06",
+    "week_label": "2026-W37",
+    "week_end_date": "2026-09-07",
     "freshness": "current",
-    "status_note": "FourKites is signaling AI positioning around in transit visibility.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "FourKites is signaling AI positioning around in transit visibility.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "FourKites is signaling AI positioning around in transit visibility.",
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "FourKites (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions.",
-      "Shippeo (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -440,55 +436,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 6,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
-    "top_signals": [
-      {
-        "entity_name": "FourKites",
-        "source_title": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging -> suggests a shift from visibility toward...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.fourkites.com/platform/"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging ->...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "stronger optimization procurement execution",
-        "source_url": "https://www.project44.com/"
-      },
-      {
-        "entity_name": "Shippeo",
-        "source_title": "Shippeo homepage added stronger visibility language -> signals sharper focus on shippers and carriers",
-        "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Shippeo homepage added stronger visibility language -> signals sharper focus on shippers and carriers Shippeo tackles the challenges of onboarding and adoption to unite shippers, carriers and systems across every...",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.shippeo.com/"
-      }
-    ],
+    "important_signal_count": 0,
+    "active_theses": [],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W37",
+        "week_end_date": "2026-09-07",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W36",
         "week_end_date": "2026-09-06",
@@ -518,21 +479,11 @@
         "signal_signature": "FourKites|direct_competitor|ai_positioning|f6cb8aedb4af4ce4ff3beff438942afcedbc2a41 || FourKites|direct_competitor|ai_positioning|1ba5d1daac6dd41407b2f54053c8d987cc570e04 || FourKites|direct_competitor|ai_positioning|e93f4e8df10558897cc262c9c9efc0c6564b9da8 || FourKites|direct_competitor|product_update|cdc12168d0fa6e105c0874b30402e117fa917577 || FourKites|direct_competitor|product_update|3d2ce74b50a953deea14a0113f99c789b2d13011",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W33",
-        "week_end_date": "2026-08-16",
-        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
-        "signal_count": "1",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W36.json",
-      "strategic_intelligence/output/weekly-memo-2026-W36.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W37.json",
+      "strategic_intelligence/output/weekly-memo-2026-W37.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
