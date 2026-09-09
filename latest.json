@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-08T21:32:24+00:00",
-  "requested_date": "2026-09-09",
+  "built_at": "2026-09-09T21:32:43+00:00",
+  "requested_date": "2026-09-10",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-09",
+    "requested_date": "2026-09-10",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Fuel, congestion push trans-Pacific ocean rates near $9,500.",
+      "Lead daily item: Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-09",
+        "report_label": "2026-09-10",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-09",
+        "report_label": "2026-09-10",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
         "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
@@ -64,65 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-09",
-    "last_updated": "2026-09-09 06:31",
+    "report_date": "2026-09-10",
+    "last_updated": "2026-09-10 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Fuel, congestion push trans-Pacific ocean rates near $9,500.",
+    "status_note": "Market watch is led by Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Fuel, congestion push trans-Pacific ocean rates near $9,500.",
+      "Lead market story: Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-09",
+      "report_date": "2026-09-10",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Fuel, congestion push trans-Pacific ocean rates near $9,500; Mediterranean ocean rates pull even with Asia - EU, possibly from Red Sea transit bump - September 8, 2026 Update; Montevideo container terminal operations severely restricted amid indefinite strike",
+      "headline": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions; Beyond visibility: Building a supply chain that can act when conditions change; Hormuz shipping disruption deepens amid new attacks on vessels",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Fuel, congestion push trans-Pacific ocean rates near $9,500",
+    "headline": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions",
     "key_news_radar": [
       {
-        "title": "Fuel, congestion push trans-Pacific ocean rates near $9,500",
-        "summary": "The Iran war is pushing bunker fuel prices back toward mid-year levels, setting a higher cost floor for container shipping even as trans-Pacific spot rates show early signs of cool",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-08T16:31:02+00:00",
+        "title": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions",
+        "summary": "MUNDRA: The continuing confrontation over empty-container handling at Mundra Port is increasingly raising concerns among exporters, importers, freight forwarders and the wider logi",
+        "source": "India Shipping News",
+        "timestamp": "2026-09-09T03:56:06+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/fuel-congestion-push-trans-pacific-ocean-rates-near-9500",
+        "link": "https://indiashippingnews.com/container/mundra-port-empty-container-standoff-deepens-rajkot-chamber-seeks-urgent-government-intervention-as-exporters-face-mounting-disruptions/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Mediterranean ocean rates pull even with Asia - EU, possibly from Red Sea transit bump - September 8, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) decreased 1%.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-08T12:16:46+00:00",
-        "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/mediterranean-ocean-rates-pull-even-with-asia-eu-possibly-from-red-sea-transit-bump-september-8-2026-update/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maersk tightens EU cargo loading rules and restricts SOC exports from Hungary",
-        "summary": "Maersk has announced two operational changes affecting cargo moving through the European Union and exports from Hungary.",
-        "source": "Container News",
-        "timestamp": "2026-09-08T13:30:43+00:00",
+        "title": "Truckload Volumes Drop 15% — But Spot Rates Stay Hot",
+        "summary": "#fwtv_g4WtyOlpBKE .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_g4WtyOlpBKE .fwtv-panel p{margin:0 0 12px}#fwtv_g4WtyOlpBKE .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-09T18:51:21+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/maersk-tightens-eu-cargo-loading-rules-and-restricts-soc-exports-from-hungary/",
+        "link": "https://www.freightwaves.com/news/truckload-volumes-drop-15-but-spot-rates-stay-hot",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Beyond visibility: Building a supply chain that can act when conditions change",
+        "summary": "Most supply chain teams have more visibility than they did a few years ago.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-09T13:00:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/beyond-visibility-building-a-supply-chain-that-can-act-when-conditions-change",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Hormuz shipping disruption deepens amid new attacks on vessels",
+        "summary": "Security conditions around the Strait of Hormuz have deteriorated further following a new series of attacks involving commercial and military vessels.",
+        "source": "Container News",
+        "timestamp": "2026-09-09T15:30:16+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/hormuz-shipping-disruption-deepens-amid-new-attacks-on-vessels/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "container_news",
@@ -130,28 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Iran Says New Anti-Ship Missile Was Tested Over US Navy Warship As Strait Of Hormuz Tensions Rise",
-        "summary": "Image Credits: Wikipedia Iran says it has tested a new anti-ship missile near a U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-08T13:22:41+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-says-new-anti-ship-missile-was-tested-over-us-navy-warship-as-strait-of-hormuz-tensions-rise/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-new-anti-ship-missile-was-tested-over-us-navy-warship-as-strait-of-hormuz-tensions-rise",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "APM Terminals renews push for Badagry port",
-        "summary": "APM Terminals has signed a Memorandum of Understanding (MoU) with Badagry Port Development Ltd and Quinn McGrath Marine and Environmental Services Ltd to enter exclusive negotiatio",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-08T09:33:01+00:00",
+        "title": "Canada trade fight not so broad for key imports: Analyst",
+        "summary": "Headlines blare about sweeping bans on Canadian imports, but the reality of President Donald Trump’s newest trade war with Canada is something just as newsworthy for logistics spec",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-09T17:03:47+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/09/apm-terminals-renews-push-for-badagry-port/",
+        "link": "https://www.freightwaves.com/news/canada-trade-fight-not-so-broad-for-key-imports-analyst",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,10 +158,6 @@
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -180,20 +174,24 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-10",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions; Beyond visibility: Building a supply chain that can act when conditions change; Hormuz shipping disruption deepens amid new attacks on vessels",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-09",
         "write_now": "Maybe",
@@ -241,39 +239,31 @@
         "worth_attention_today": "5",
         "headline": "Mundra Container Yard strike disrupts EXIM supply chain as around 5,000 containers a day face delays; Mundra empty-container disruption raises questions about the implementation of the new depot policy; Mundra empty-container disruption raises questions about the implementation of the new depot policy",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-03",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Trans-Pacific spot rates reach new highs on resilient demand, port congestion; CSP Abu Dhabi volumes plunge 44% as Hormuz crisis bites; Due strikes to hit Dutch logistics in September 2026",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 304,
-      "high_trust": 86,
-      "trade_press": 218,
+      "total_items": 279,
+      "high_trust": 80,
+      "trade_press": 199,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-09.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-09.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-09.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-10.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-10.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-10.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-09",
-    "run_started_at": "2026-09-09T06:31:00+09:00",
+    "report_date": "2026-09-10",
+    "run_started_at": "2026-09-10T06:31:10+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
@@ -331,45 +321,69 @@
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
         "signal_type": "website_change",
         "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/",
         "evidence": [
-          "Beyond the Build Livestream Premiere",
-          "project44 creates two businesses and launches LSP44, the AI agent and API infrastructure that 9 of the world’s 10 largest logistics providers already run"
+          "project44 and LSP44: frequently asked questions",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering. Learn more AI Agents"
         ]
       },
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
         "signal_type": "website_change",
         "page_slug": "platform",
-        "source_title": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/platform/",
         "evidence": [
-          "Beyond the Build Livestream Premiere",
-          "project44 creates two businesses and launches LSP44, the AI agent and API infrastructure that 9 of the world’s 10 largest logistics providers already run"
+          "project44 and LSP44: frequently asked questions",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering. Learn more AI Agents"
         ]
       },
       {
         "company": "Project44",
         "importance": "important",
-        "summary": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
+        "summary": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
         "signal_type": "website_change",
         "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/industries/",
         "evidence": [
-          "Beyond the Build Livestream Premiere",
-          "project44 creates two businesses and launches LSP44, the AI agent and API infrastructure that 9 of the world’s 10 largest logistics providers already run"
+          "project44 and LSP44: frequently asked questions",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data Reuters Supply Chain Europe 2026 Join project44 at Reuters Supply Chain Europe – Europe’s most senior supply chain gathering. Learn more AI Agents"
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-10",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "detected_date": "2026-09-10",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/platform/"
+      },
+      {
+        "detected_date": "2026-09-10",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
       {
         "detected_date": "2026-09-09",
         "company": "Project44",
@@ -393,41 +407,17 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-09-05",
-        "company": "FourKites",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "FourKites platform page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "source_url": "https://www.fourkites.com/platform/"
-      },
-      {
-        "detected_date": "2026-09-05",
-        "company": "FourKites",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "FourKites solutions page added stronger AI and automation, analytics and decision intelligence, and data quality / connectivity language and introduced analytics messaging",
-        "source_url": "https://www.fourkites.com/products"
-      },
-      {
-        "detected_date": "2026-09-04",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260909T063100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-09.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260910T063110+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-10.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W37",
-    "week_end_date": "2026-09-09",
+    "week_end_date": "2026-09-10",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -480,14 +470,14 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
         "workflow_scope": "end to end orchestration",
         "claimed_outcome": "reduced manual work",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS...",
+        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and...",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://www.project44.com/"
@@ -496,7 +486,7 @@
     "recent_history": [
       {
         "week_label": "2026-W37",
-        "week_end_date": "2026-09-09",
+        "week_end_date": "2026-09-10",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "3",
         "active_thesis_count": "1",
