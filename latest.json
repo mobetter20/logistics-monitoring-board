@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-10T21:32:59+00:00",
-  "requested_date": "2026-09-11",
+  "built_at": "2026-09-11T21:38:15+00:00",
+  "requested_date": "2026-09-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-11",
+    "requested_date": "2026-09-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Espino de Marotta takes the helm of a water-starved Panama Canal.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-11",
+        "report_label": "2026-09-12",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-11",
+        "report_label": "2026-09-12",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-11",
-    "last_updated": "2026-09-11 06:31",
+    "report_date": "2026-09-12",
+    "last_updated": "2026-09-12 06:35",
     "freshness": "current",
-    "status_note": "Market watch is led by Espino de Marotta takes the helm of a water-starved Panama Canal.",
+    "status_note": "Market watch is led by Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Espino de Marotta takes the helm of a water-starved Panama Canal.",
+      "Lead market story: Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-11",
+      "report_date": "2026-09-12",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Espino de Marotta takes the helm of a water-starved Panama Canal; Golden Week and congestion squeeze container capacity; Teamsters president throws down gauntlet to UPS: Strike coming in 2028",
+      "headline": "Samsung seeks $186m compensation from CMA CGM; India’s Mundra Port Operations Resume As Container Yard Operators Call Off 13-Day Strike; Uber Freight warns tight capacity could fuel Q4 freight rate surge",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Espino de Marotta takes the helm of a water-starved Panama Canal",
+    "headline": "Uber Freight warns tight capacity could fuel Q4 freight rate surge",
     "key_news_radar": [
       {
-        "title": "Espino de Marotta takes the helm of a water-starved Panama Canal",
-        "summary": "Ilya Espino de Marotta took over the leadership of the Autoridad del Canal de Panamá (Panama Canal Authority) on 7 September 2026 for the 2026-2033 term, becoming the first woman t",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-10T10:31:19+00:00",
+        "title": "Uber Freight warns tight capacity could fuel Q4 freight rate surge",
+        "summary": "freight market is entering the fourth quarter with truck capacity struggling to recover, truckload rates sharply above year-ago levels and shippers facing the possibility of anothe",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-11T14:00:00+00:00",
         "confidence": "high",
-        "link": "https://www.trasportoeuropa.it/english/espino-de-marotta-takes-the-helm-of-a-water-starved-panama-canal/",
+        "link": "https://www.freightwaves.com/news/uber-freight-warns-tight-capacity-could-fuel-q4-freight-rate-surge",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The Houthis seize the gateway to Bab el-Mandeb",
+        "summary": "After taking the port of Mokha from Yemen’s Government in Aden, which is internationally recognised, the Houthis continued their advance along the coast on 11 September 2026 and ca",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-11T15:23:29+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/the-houthis-seize-the-gateway-to-bab-el-mandeb/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -102,12 +115,25 @@
         "confirmed_by": []
       },
       {
-        "title": "Maersk imposes emergency freight charge as Hormuz crisis deepens",
-        "summary": "Maersk has introduced an emergency freight charge of US$1,800 per 20ft dry container and US$3,000 per 40ft dry container for existing bookings and cargo in transit to or from ports",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-10T13:51:20+00:00",
+        "title": "Hormuz Ship Traffic Drops to Seven Vessels as Red Sea Activity Holds Steady",
+        "summary": "Commercial shipping activity through the Strait of Hormuz fell sharply on Wednesday, with just seven commodity vessels recorded crossing the key energy chokepoint, according to pre",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-11T10:40:50+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/09/maersk-imposes-emergency-freight-charge-as-hormuz-crisis-deepens/",
+        "link": "https://www.globaltrademag.com/hormuz-ship-traffic-drops-to-seven-vessels-as-red-sea-activity-holds-steady/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Transnet returns to profit as revenue rises 7.1%",
+        "summary": "Transnet has announced its financial results for the year ended 31 March 2026, reporting “improved operational performance, stronger cash generation and continued progress in imple",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-11T08:16:44+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/09/transnet-returns-to-profit-as-revenue-rises-7-1/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -115,55 +141,27 @@
         "confirmed_by": []
       },
       {
-        "title": "Golden Week and congestion squeeze container capacity",
-        "summary": "Chinese factories will close from 1 to 7 October for the national holiday known as Golden Week, so container shippers are concentrating deliveries to terminals in the second half o",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-10T09:47:52+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/golden-week-and-congestion-squeeze-container-capacity/",
+        "title": "US container imports hit third-highest monthly level on record",
+        "summary": "US container imports reached 2.60 million TEUs in August 2026, marking the third-highest monthly volume on record, according to the latest Global Shipping Report from Descartes.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-11T10:22:09+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/us-container-imports-hit-third-highest-monthly-level-on-record/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
-      },
-      {
-        "title": "Port of Los Angeles posts record 2.9M TEUs, eyes strong finish to 2026",
-        "summary": "The Port of Los Angeles processed 955,907 container units in August, capping the busiest three-month stretch in its history as resilient consumer demand and early holiday shipments",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-10T13:07:48+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/port-of-los-angeles-posts-record-2-9m-teus-eyes-strong-finish-to-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Groundbreaking for $669M East Coast container terminal",
-        "summary": "Construction is underway on Delaware’s largest-ever maritime infrastructure project, a $669 million container terminal that state officials say will quadruple the state’s cargo-han",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-10T17:38:11+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/groundbreaking-for-669m-east-coast-container-terminal",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -171,20 +169,20 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Samsung seeks $186m compensation from CMA CGM; India’s Mundra Port Operations Resume As Container Yard Operators Call Off 13-Day Strike; Uber Freight warns tight capacity could fuel Q4 freight rate surge",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-11",
         "write_now": "Maybe",
@@ -241,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "Tropical cyclones disrupt China-South Pacific container services; COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing; India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Port Strikes Disrupt Operations At Hamburg, Rotterdam And Other Major European Shipping Hubs; Cautious return of container ships to Suez; METRANS CEO Peter Kiss: “Our base expectation is continued pressure”",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 318,
-      "high_trust": 84,
-      "trade_press": 234,
+      "total_items": 298,
+      "high_trust": 72,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-11",
-    "run_started_at": "2026-09-11T06:31:03+09:00",
+    "report_date": "2026-09-12",
+    "run_started_at": "2026-09-12T06:35:07+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 2,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -327,33 +326,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "This recognition is built on verified customer reviews, with the highest review count and Market Presence score in the Leaders quadrant CHICAGO, September 10, 2026 — project44, the Decision Intelligence Platform for the modern supply chain, has been named a Leader in the G2 Fall 2026 Enterprise Grid® Report for Supply Chain Visibility Software. This Fall recognition, earned through verified reviews submitted…"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 status page shows active incident activity: AI Disruption Navigator Experiencing Partial Impact (minor).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: AI Disruption Navigator Experiencing Partial Impact (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "Partially Degraded Service",
-          "AI Disruption Navigator Experiencing Partial Impact (minor)"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -406,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260911T063103+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260912T063507+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W37",
-    "week_end_date": "2026-09-11",
+    "week_end_date": "2026-09-12",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -426,16 +399,13 @@
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "Project44 is reinforcing a disruption navigator experiencing partial motif through macro pressure."
+      "Project44 is signaling AI positioning around end to end orchestration."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing macro pressure around exception management with the claimed outcome of greater resilience."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-      "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
       "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
@@ -462,7 +432,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 5,
+    "important_signal_count": 4,
     "active_theses": [
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
@@ -480,30 +450,16 @@
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: AI Disruption Navigator Experiencing Partial Impact (minor).",
-        "source_layer": "direct competitor",
-        "strategic_move": "Macro pressure",
-        "workflow_scope": "exception management",
-        "claimed_outcome": "greater resilience",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: AI Disruption Navigator Experiencing Partial Impact (minor). Partially Degraded Service",
-        "team_implication": "Pressure for reliable operational guidance is likely to rise; this makes it more important to connect product claims to decision quality under volatility.",
-        "emerging_motif": "disruption navigator experiencing partial",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W37",
-        "week_end_date": "2026-09-11",
+        "week_end_date": "2026-09-12",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
-        "signal_count": "5",
+        "signal_count": "4",
         "active_thesis_count": "1",
-        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1 || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
+        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
