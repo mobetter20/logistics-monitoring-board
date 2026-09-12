@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-11T21:38:15+00:00",
-  "requested_date": "2026-09-12",
+  "built_at": "2026-09-12T22:16:37+00:00",
+  "requested_date": "2026-09-13",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-12",
+    "requested_date": "2026-09-13",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-12",
+        "report_label": "2026-09-13",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-12",
+        "report_label": "2026-09-13",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,101 +55,103 @@
       }
     ],
     "shared_warnings": [
+      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: The read operation timed out",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-12",
-    "last_updated": "2026-09-12 06:35",
+    "report_date": "2026-09-13",
+    "last_updated": "2026-09-13 06:55",
     "freshness": "current",
-    "status_note": "Market watch is led by Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
+    "status_note": "Market watch is led by Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Uber Freight warns tight capacity could fuel Q4 freight rate surge.",
+      "Lead market story: Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-13",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Samsung seeks $186m compensation from CMA CGM; India’s Mundra Port Operations Resume As Container Yard Operators Call Off 13-Day Strike; Uber Freight warns tight capacity could fuel Q4 freight rate surge",
+      "headline": "Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack; Export volumes rise 6% at APM Terminals Apapa; Piyush Goyal calls for deeper, resilient and more balanced Intra-BRICS Trade",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Uber Freight warns tight capacity could fuel Q4 freight rate surge",
+    "headline": "Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack",
     "key_news_radar": [
       {
-        "title": "Uber Freight warns tight capacity could fuel Q4 freight rate surge",
-        "summary": "freight market is entering the fourth quarter with truck capacity struggling to recover, truckload rates sharply above year-ago levels and shippers facing the possibility of anothe",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-11T14:00:00+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/uber-freight-warns-tight-capacity-could-fuel-q4-freight-rate-surge",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The Houthis seize the gateway to Bab el-Mandeb",
-        "summary": "After taking the port of Mokha from Yemen’s Government in Aden, which is internationally recognised, the Houthis continued their advance along the coast on 11 September 2026 and ca",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-11T15:23:29+00:00",
+        "title": "Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack",
+        "summary": "Image for representation purposes only Saudi Arabia has temporarily shut its East-West oil pipeline after drones attacked the facility, the kingdom’s Energy Ministry said.",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-12T16:14:08+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/the-houthis-seize-the-gateway-to-bab-el-mandeb/",
+        "link": "https://www.marineinsight.com/saudi-arabia-shuts-key-oil-pipeline-used-to-bypass-strait-of-hormuz-after-drone-attack/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-shuts-key-oil-pipeline-used-to-bypass-strait-of-hormuz-after-drone-attack",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Hormuz Ship Traffic Drops to Seven Vessels as Red Sea Activity Holds Steady",
-        "summary": "Commercial shipping activity through the Strait of Hormuz fell sharply on Wednesday, with just seven commodity vessels recorded crossing the key energy chokepoint, according to pre",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-11T10:40:50+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/hormuz-ship-traffic-drops-to-seven-vessels-as-red-sea-activity-holds-steady/",
+        "title": "Export volumes rise 6% at APM Terminals Apapa",
+        "summary": "APM Terminals Apapa recorded a 6% increase in export volumes during the first half of 2026.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-09-12T07:07:06+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/export-volumes-rise-6-at-apm-terminals-apapa/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "Houthis Seize Yemen’s Perim Island, Tightening Their Grip On Bab-el-Mandeb Strait",
+        "summary": "Image for representation purposes only Houthis have gained control of Yemen’s Perim Island, a small piece of rocky land which divides the Bab El-Mandeb, raising concerns that the I",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-12T14:00:07+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/houthis-seize-yemens-perim-island-tightening-their-grip-on-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=houthis-seize-yemens-perim-island-tightening-their-grip-on-bab-el-mandeb-strait",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Transnet returns to profit as revenue rises 7.1%",
-        "summary": "Transnet has announced its financial results for the year ended 31 March 2026, reporting “improved operational performance, stronger cash generation and continued progress in imple",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-11T08:16:44+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/09/transnet-returns-to-profit-as-revenue-rises-7-1/",
+        "title": "Indian PM Urges Iran To Safeguard Freedom Of Navigation, Commercial Shipping And Seafarers Safety",
+        "summary": "Image for representation purposes only Indian Prime Minister Narendra Modi raised concerns about shipping safety and the protection of seafarers during talks with Iranian President",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-12T14:44:07+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/indian-pm-urges-iran-to-safeguard-freedom-of-navigation-commercial-shipping-and-seafarers-safety/?utm_source=rss&utm_medium=rss&utm_campaign=indian-pm-urges-iran-to-safeguard-freedom-of-navigation-commercial-shipping-and-seafarers-safety",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "US container imports hit third-highest monthly level on record",
-        "summary": "US container imports reached 2.60 million TEUs in August 2026, marking the third-highest monthly volume on record, according to the latest Global Shipping Report from Descartes.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-11T10:22:09+00:00",
+        "title": "Piyush Goyal calls for deeper, resilient and more balanced Intra-BRICS Trade",
+        "summary": "NEW DELHI: With BRICS accounting for nearly one-fourth of global trade, Union Minister of Commerce and Industry Shri Piyush Goyal on Friday underlined the need for member and partn",
+        "source": "India Shipping News",
+        "timestamp": "2026-09-12T04:09:03+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/us-container-imports-hit-third-highest-monthly-level-on-record/",
+        "link": "https://indiashippingnews.com/trade/piyush-goyal-calls-for-deeper-resilient-and-more-balanced-intra-brics-trade/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,32 +159,20 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +182,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-13",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack; Export volumes rise 6% at APM Terminals Apapa; Piyush Goyal calls for deeper, resilient and more balanced Intra-BRICS Trade",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-12",
         "write_now": "Maybe",
@@ -239,49 +237,40 @@
         "worth_attention_today": "5",
         "headline": "More carriers halt Russian port calls as Black Sea risks escalate; Borderlands Mexico: Trucker protest raises stakes in Mexico-US B-1 visa dispute; Bangladesh-India Trade Resumes Through Hili Land Port",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-06",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Tropical cyclones disrupt China-South Pacific container services; COSCO Denies U.S. Allegations That Its Ships Used Concealed Equipment To Spy For Beijing; India Launches New System To Monitor Seafarers In High-Risk Maritime Regions",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 298,
-      "high_trust": 72,
-      "trade_press": 226,
+      "total_items": 62,
+      "high_trust": 18,
+      "trade_press": 44,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-12.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-12.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-12.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-13.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-13.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-13.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-12",
-    "run_started_at": "2026-09-12T06:35:07+09:00",
+    "report_date": "2026-09-13",
+    "run_started_at": "2026-09-13T06:55:16+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger visibility, AI and automation, platform / control tower, and analytics and decision intelligence language and introduced analytics messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
-    "targets_fetched": 28,
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "targets_fetched": 27,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -297,7 +286,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward execution and workflow, optimization / procurement, and data quality / connectivity."
       },
       {
         "company": "Wakeo",
@@ -327,8 +316,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-13",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-09-11",
         "company": "Project44",
@@ -368,25 +379,19 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-09-09",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger visibility, AI and automation, platform / control tower, optimization / procurement, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260912T063507+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-12.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260913T065516+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-13.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Transporeon Solutions page: Network error for https://www.transporeon.com/en_US/platform/shipper: The read operation timed out"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W37",
-    "week_end_date": "2026-09-12",
+    "week_end_date": "2026-09-13",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -399,10 +404,12 @@
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
@@ -432,7 +439,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
+    "important_signal_count": 5,
     "active_theses": [
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
@@ -455,11 +462,11 @@
     "recent_history": [
       {
         "week_label": "2026-W37",
-        "week_end_date": "2026-09-12",
+        "week_end_date": "2026-09-13",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
-        "signal_count": "4",
+        "signal_count": "5",
         "active_thesis_count": "1",
-        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
+        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
