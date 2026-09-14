@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-13T21:32:19+00:00",
-  "requested_date": "2026-09-14",
+  "built_at": "2026-09-14T21:32:14+00:00",
+  "requested_date": "2026-09-15",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-14",
+    "requested_date": "2026-09-15",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Iranian Seafarer Killed As Unidentified Strike Hits Ship Near Strait Of Hormuz.",
+      "Lead daily item: Container shipping hits a new record.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-14",
+        "report_label": "2026-09-15",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-14",
+        "report_label": "2026-09-15",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,79 +64,64 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-14",
-    "last_updated": "2026-09-14 06:30",
+    "report_date": "2026-09-15",
+    "last_updated": "2026-09-15 06:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Iranian Seafarer Killed As Unidentified Strike Hits Ship Near Strait Of Hormuz.",
+    "status_note": "Market watch is led by Container shipping hits a new record.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Iranian Seafarer Killed As Unidentified Strike Hits Ship Near Strait Of Hormuz.",
+      "Lead market story: Container shipping hits a new record.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-14",
+      "report_date": "2026-09-15",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
-      "worth_attention_today": "3",
-      "headline": "Imports and inventories stabilize in 2026, but for how long; Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back; Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
+      "worth_attention_today": "5",
+      "headline": "Container shipping hits a new record; The container clears the port. In India, the real delay often starts on the highway; Los Angeles sails through the turbulence, but a diesel storm is brewing",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Iranian Seafarer Killed As Unidentified Strike Hits Ship Near Strait Of Hormuz",
+    "headline": "Container shipping hits a new record",
     "key_news_radar": [
       {
-        "title": "Iranian Seafarer Killed As Unidentified Strike Hits Ship Near Strait Of Hormuz",
-        "summary": "Representation image A merchant vessel was struck in the Strait of Hormuz, according to reports by the Iranian state media.",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-13T11:40:49+00:00",
+        "title": "Container shipping hits a new record",
+        "summary": "Global container shipping reached 17.3 million TEU in July 2026, around 25,000 TEU above the previous record set in May.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-14T09:12:13+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/strait-of-hormuz-vessel-struck-qeshm/?utm_source=rss&utm_medium=rss&utm_campaign=strait-of-hormuz-vessel-struck-qeshm",
+        "link": "https://www.trasportoeuropa.it/english/container-shipping-hits-a-new-record/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maritime compliance: HNS Convention Set to Enter into Force in November 2027",
-        "summary": "(www.MaritimeCyprus.com) The international maritime regime for liability and compensation following marine casualties is preparing for its most significant structural evolution in",
-        "source": "Maritime Cyprus (Maritime Safety Innovation blog)",
-        "timestamp": "2026-09-13T19:30:58+00:00",
+        "title": "Strait of Hormuz: could rail become an energy security asset?",
+        "summary": "Twenty million barrels of oil a day moved through the Strait of Hormuz in 2025, close to a quarter of the world’s seaborne crude trade, according to International Energy Agency (IE",
+        "source": "RailFreight.com",
+        "timestamp": "2026-09-14T07:38:05+00:00",
         "confidence": "medium",
-        "link": "https://maritimecyprus.com/2026/09/13/hns-convention-set-to-enter-into-force-in-november-2027/",
+        "link": "https://www.railfreight.com/beltandroad/2026/09/14/strait-of-hormuz-could-rail-become-an-energy-security-asset/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "maritime_cyprus_blog",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "title": "The container clears the port. In India, the real delay often starts on the highway",
+        "summary": "Container shipping measures performance obsessively at the ocean and the terminal: vessel schedules, berth waiting times, freight indexes, and port throughput.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-13T12:44:49+00:00",
+        "timestamp": "2026-09-14T19:37:03+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-exports-of-mexican-made-heavy-duty-trucks-to-us-roar-back",
+        "link": "https://container-news.com/the-container-clears-the-port-in-india-the-real-delay-often-starts-on-the-highway/",
         "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "MOL names world’s first LNG carrier with Wind Challenger sails",
-        "summary": "Lines (MOL) has named FUJIN SAILOR, the world’s first LNG carrier equipped with wind-assisted propulsion.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-13T07:52:12+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/mol-names-worlds-first-lng-carrier-with-wind-challenger-sails/",
-        "label": "Watch",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
@@ -145,43 +130,78 @@
         ]
       },
       {
-        "title": "Imports and inventories stabilize in 2026, but for how long",
-        "summary": "Chart of the Week: Import Ocean TEUs Volume Index - USA, Logistics Managers’ Index - Inventory Levels SONAR: IOTI.USA, LMI.INVL Import bookings (IOTI) have been averaging lower tha",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-13T01:45:22+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/imports-and-inventories-stabilize-in-2026-but-for-how-long",
+        "title": "Los Angeles sails through the turbulence, but a diesel storm is brewing",
+        "summary": "Over three months of record container throughput the Port of Los Angeles is turning 12,000 TEU vessel calls in 3.7 days.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-14T18:39:33+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/09/los-angeles-sails-through-the-turbulence-but-a-diesel-storm-is-brewing/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
         "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
+      },
+      {
+        "title": "PM Modi Proposes Seafarers’ Emergency Support Network at BRICS Summit 2026 to Strengthen Global Maritime Safety",
+        "summary": "NEW DELHI: Prime Minister Shri Narendra Modi has proposed the creation of a “Seafarers’ Emergency Support Network” among BRICS countries, marking a significant push for greater int",
+        "source": "India Shipping News",
+        "timestamp": "2026-09-14T03:49:37+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/maritime/pm-modi-proposes-seafarers-emergency-support-network-at-brics-summit-2026-to-strengthen-global-maritime-safety/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-15",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container shipping hits a new record; The container clears the port. In India, the real delay often starts on the highway; Los Angeles sails through the turbulence, but a diesel storm is brewing",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-14",
         "write_now": "Maybe",
@@ -229,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "Fuel, congestion push trans-Pacific ocean rates near $9,500; Mediterranean ocean rates pull even with Asia - EU, possibly from Red Sea transit bump - September 8, 2026 Update; Montevideo container terminal operations severely restricted amid indefinite strike",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-08",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Empty-Container Standoff Disrupts Operations at Mundra Port; Transport and logistics news - 7 September 2026; Container freight rates steady at 4,465 dollars",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 43,
-      "high_trust": 4,
-      "trade_press": 39,
+      "total_items": 322,
+      "high_trust": 84,
+      "trade_press": 238,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-14.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-14.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-14.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-15.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-15.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-15.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-14",
-    "run_started_at": "2026-09-14T06:30:55+09:00",
+    "report_date": "2026-09-15",
+    "run_started_at": "2026-09-15T06:30:59+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -266,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 status page changed from Partially Degraded Service to Partially Degraded Service."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -369,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260914T063055+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-14.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260915T063059+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-15.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W38",
-    "week_end_date": "2026-09-14",
+    "week_end_date": "2026-09-15",
     "freshness": "current",
     "status_note": "Project44 is signaling narrative shift around unknown.",
     "sparse_explanation": "",
@@ -397,7 +409,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -441,7 +453,7 @@
     "recent_history": [
       {
         "week_label": "2026-W38",
-        "week_end_date": "2026-09-14",
+        "week_end_date": "2026-09-15",
         "takeaway": "Project44 is signaling narrative shift around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
