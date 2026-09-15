@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-14T21:32:14+00:00",
-  "requested_date": "2026-09-15",
+  "built_at": "2026-09-15T21:32:33+00:00",
+  "requested_date": "2026-09-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-15",
+    "requested_date": "2026-09-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container shipping hits a new record.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-15",
+        "report_label": "2026-09-16",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-15",
+        "report_label": "2026-09-16",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W38",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling narrative shift around unknown.",
+        "summary": "Project44 is reinforcing a carrier tracking motif through unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,94 +64,101 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-15",
-    "last_updated": "2026-09-15 06:30",
+    "report_date": "2026-09-16",
+    "last_updated": "2026-09-16 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Container shipping hits a new record.",
+    "status_note": "Market watch is led by U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container shipping hits a new record.",
+      "Lead market story: U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-15",
+      "report_date": "2026-09-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container shipping hits a new record; The container clears the port. In India, the real delay often starts on the highway; Los Angeles sails through the turbulence, but a diesel storm is brewing",
+      "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level; Houthi gains deepen risk as carriers restore Red Sea services; Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container shipping hits a new record",
+    "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level",
     "key_news_radar": [
       {
-        "title": "Container shipping hits a new record",
-        "summary": "Global container shipping reached 17.3 million TEU in July 2026, around 25,000 TEU above the previous record set in May.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-14T09:12:13+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-shipping-hits-a-new-record/",
+        "title": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level",
+        "summary": "containerized imports rose 3.8% from July to 2.60 million TEUs in August, supported by higher volumes at major East, Gulf and West Coast ports and broad gains across sourcing count",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-15T15:57:06+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/u-s-container-imports-climb-3-8-to-2-6-million-teus-3rd-highest-monthly-level",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Strait of Hormuz: could rail become an energy security asset?",
-        "summary": "Twenty million barrels of oil a day moved through the Strait of Hormuz in 2025, close to a quarter of the world’s seaborne crude trade, according to International Energy Agency (IE",
-        "source": "RailFreight.com",
-        "timestamp": "2026-09-14T07:38:05+00:00",
-        "confidence": "medium",
-        "link": "https://www.railfreight.com/beltandroad/2026/09/14/strait-of-hormuz-could-rail-become-an-energy-security-asset/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "railfreight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The container clears the port. In India, the real delay often starts on the highway",
-        "summary": "Container shipping measures performance obsessively at the ocean and the terminal: vessel schedules, berth waiting times, freight indexes, and port throughput.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-14T19:37:03+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/the-container-clears-the-port-in-india-the-real-delay-often-starts-on-the-highway/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "container_news"
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Los Angeles sails through the turbulence, but a diesel storm is brewing",
-        "summary": "Over three months of record container throughput the Port of Los Angeles is turning 12,000 TEU vessel calls in 3.7 days.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-14T18:39:33+00:00",
+        "title": "Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
+        "summary": "Hapag-Lloyd Chief Executive Rolf Habben Jansen said container shipping demand has remained more resilient than expected, but warned that conflict-driven route disruptions, rising o",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-15T18:04:53+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/09/los-angeles-sails-through-the-turbulence-but-a-diesel-storm-is-brewing/",
+        "link": "https://www.freightwaves.com/news/hapag-lloyd-ceo-cites-resilient-demand-but-sees-shipping-market-exposed-to-middle-east-disruption",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Houthi gains deepen risk as carriers restore Red Sea services",
+        "summary": "Container lines are restoring more Suez Canal and southern Red Sea capacity despite a widening Houthi threat on the Suez Canal route, a shift that is helping bring down Asia-Europe",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-15T13:30:04+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/houthi-gains-deepen-risk-as-carriers-restore-red-sea-services",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Maersk, Hapag-Lloyd Expand Suez Canal Return Despite Red Sea Risks",
+        "summary": "Maersk and Hapag-Lloyd are moving more Gemini Cooperation services back through the Suez Canal, increasing their exposure to the Red Sea despite renewed security concerns in the re",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-15T10:53:41+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/maersk-hapag-lloyd-expand-suez-canal-return-despite-red-sea-risks/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "PM Modi Proposes Seafarers’ Emergency Support Network at BRICS Summit 2026 to Strengthen Global Maritime Safety",
-        "summary": "NEW DELHI: Prime Minister Shri Narendra Modi has proposed the creation of a “Seafarers’ Emergency Support Network” among BRICS countries, marking a significant push for greater int",
-        "source": "India Shipping News",
-        "timestamp": "2026-09-14T03:49:37+00:00",
+        "title": "Tariffs. War. Big Macs. Follow the Money",
+        "summary": "We’re in for a bumpy ride Like a sailor reading the wind, three telltale signs of something larger underfoot are the latest round of inventory pre-positioning ahead of a new wave o",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-15T10:53:41+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/maritime/pm-modi-proposes-seafarers-emergency-support-network-at-brics-summit-2026-to-strengthen-global-maritime-safety/",
+        "link": "https://www.globaltrademag.com/tariffs-war-big-macs-follow-the-money/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,11 +166,11 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -171,16 +178,16 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -194,6 +201,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level; Houthi gains deepen risk as carriers restore Red Sea services; Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-15",
         "write_now": "Maybe",
@@ -241,49 +256,40 @@
         "worth_attention_today": "5",
         "headline": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions; Beyond visibility: Building a supply chain that can act when conditions change; Hormuz shipping disruption deepens amid new attacks on vessels",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Fuel, congestion push trans-Pacific ocean rates near $9,500; Mediterranean ocean rates pull even with Asia - EU, possibly from Red Sea transit bump - September 8, 2026 Update; Montevideo container terminal operations severely restricted amid indefinite strike",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 322,
+      "total_items": 312,
       "high_trust": 84,
-      "trade_press": 238,
+      "trade_press": 228,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-15",
-    "run_started_at": "2026-09-15T06:30:59+09:00",
+    "report_date": "2026-09-16",
+    "run_started_at": "2026-09-16T06:31:10+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page changed from Partially Degraded Service to Partially Degraded Service."
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,9 +334,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "Carrier tracking update delayed (minor)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-16",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-09-14",
         "company": "Project44",
@@ -370,46 +398,38 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-09-10",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 platform page added stronger visibility, AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/platform/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260915T063059+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260916T063110+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-16.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W38",
-    "week_end_date": "2026-09-15",
+    "week_end_date": "2026-09-16",
     "freshness": "current",
-    "status_note": "Project44 is signaling narrative shift around unknown.",
+    "status_note": "Project44 is reinforcing a carrier tracking motif through unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling narrative shift around unknown.",
+      "Project44 is reinforcing a carrier tracking motif through unknown.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling narrative shift around unknown."
+      "Project44 is reinforcing a carrier tracking motif through unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing narrative shift."
+      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Continue building weekly history and watch for repeated motifs before making a directional change."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -437,24 +457,24 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
+        "source_title": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
         "source_layer": "direct competitor",
-        "strategic_move": "Narrative shift",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
+        "strategic_move": "Unknown",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service. Partially Degraded Service",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor). Partially Degraded Service",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
+        "emerging_motif": "carrier tracking",
         "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W38",
-        "week_end_date": "2026-09-15",
-        "takeaway": "Project44 is signaling narrative shift around unknown.",
+        "week_end_date": "2026-09-16",
+        "takeaway": "Project44 is reinforcing a carrier tracking motif through unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
         "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
