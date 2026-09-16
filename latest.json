@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-15T21:32:33+00:00",
-  "requested_date": "2026-09-16",
+  "built_at": "2026-09-16T21:32:22+00:00",
+  "requested_date": "2026-09-17",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-16",
+    "requested_date": "2026-09-17",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Container shipping fuel prices remain elevated as supply fears ease.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-16",
+        "report_label": "2026-09-17",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-16",
+        "report_label": "2026-09-17",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W38",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is reinforcing a carrier tracking motif through unknown.",
+        "summary": "Project44 is signaling unknown around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-16",
-    "last_updated": "2026-09-16 06:31",
+    "report_date": "2026-09-17",
+    "last_updated": "2026-09-17 06:30",
     "freshness": "current",
-    "status_note": "Market watch is led by U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
+    "status_note": "Market watch is led by Container shipping fuel prices remain elevated as supply fears ease.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level.",
+      "Lead market story: Container shipping fuel prices remain elevated as supply fears ease.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-16",
+      "report_date": "2026-09-17",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level; Houthi gains deepen risk as carriers restore Red Sea services; Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
+      "headline": "Container shipping fuel prices remain elevated as supply fears ease; Rotterdam seeks to avoid the Piraeus scenario; Diesel Prices Just Broke Records. Worse Ahead?",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level",
+    "headline": "Container shipping fuel prices remain elevated as supply fears ease",
     "key_news_radar": [
       {
-        "title": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level",
-        "summary": "containerized imports rose 3.8% from July to 2.60 million TEUs in August, supported by higher volumes at major East, Gulf and West Coast ports and broad gains across sourcing count",
+        "title": "Container shipping fuel prices remain elevated as supply fears ease",
+        "summary": "Bunker fuel prices for ships remain at historically elevated levels, keeping pressure on vessel operating costs even as the marine-fuel supply squeeze that followed disruption arou",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-15T15:57:06+00:00",
+        "timestamp": "2026-09-16T19:09:52+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/u-s-container-imports-climb-3-8-to-2-6-million-teus-3rd-highest-monthly-level",
+        "link": "https://www.freightwaves.com/news/container-shipping-fuel-prices-remain-elevated-as-supply-fears-ease",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -105,57 +105,53 @@
         ]
       },
       {
-        "title": "Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
-        "summary": "Hapag-Lloyd Chief Executive Rolf Habben Jansen said container shipping demand has remained more resilient than expected, but warned that conflict-driven route disruptions, rising o",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-15T18:04:53+00:00",
+        "title": "Rotterdam seeks to avoid the Piraeus scenario",
+        "summary": "Europe’s largest port needs Asian cargo, equipment and investment, but its landlord is determined to avoid a Piraeus-style concentration of control.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-16T06:04:51+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/hapag-lloyd-ceo-cites-resilient-demand-but-sees-shipping-market-exposed-to-middle-east-disruption",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/09/rotterdam-seeks-to-avoid-the-piraeus-scenario/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Houthi gains deepen risk as carriers restore Red Sea services",
-        "summary": "Container lines are restoring more Suez Canal and southern Red Sea capacity despite a widening Houthi threat on the Suez Canal route, a shift that is helping bring down Asia-Europe",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-15T13:30:04+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/houthi-gains-deepen-risk-as-carriers-restore-red-sea-services",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Maersk, Hapag-Lloyd Expand Suez Canal Return Despite Red Sea Risks",
-        "summary": "Maersk and Hapag-Lloyd are moving more Gemini Cooperation services back through the Suez Canal, increasing their exposure to the Red Sea despite renewed security concerns in the re",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-15T10:53:41+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/maersk-hapag-lloyd-expand-suez-canal-return-despite-red-sea-risks/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Tariffs. War. Big Macs. Follow the Money",
-        "summary": "We’re in for a bumpy ride Like a sailor reading the wind, three telltale signs of something larger underfoot are the latest round of inventory pre-positioning ahead of a new wave o",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-15T10:53:41+00:00",
+        "title": "Savannah port moves 1 million TEUs to start fiscal year",
+        "summary": "The Port of Savannah handled 529,523 TEUs in August, essentially flat from a year earlier, as weather disruptions in Asia and Panama constrained supply-chain activity despite conti",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-16T14:18:00+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/tariffs-war-big-macs-follow-the-money/",
+        "link": "https://www.freightwaves.com/news/savannah-port-moves-1-million-teus-to-start-fiscal-year",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Maersk, Hapag-Lloyd Resume More Suez Canal Voyages Despite Red Sea Risks",
+        "summary": "Image Credits: Wikipedia Maersk and Hapag-Lloyd will move four more container services through the Suez Canal as the two companies bring more ships back to the shorter route betwee",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-16T14:00:34+00:00",
+        "confidence": "high",
+        "link": "https://www.marineinsight.com/maersk-hapag-lloyd-resume-more-suez-canal-voyages-despite-red-sea-risks/?utm_source=rss&utm_medium=rss&utm_campaign=maersk-hapag-lloyd-resume-more-suez-canal-voyages-despite-red-sea-risks",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Freightos Weekly Update: Red Sea transits accelerate, even as Houthis advance",
+        "summary": "The Houthis - previously in control of the elevated area miles from the Red Sea - recently seized a strategic port and island directly on the Bab el-Mandeb Strait chokepoint.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-16T09:57:14+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/freightos-weekly-update-red-sea-transits-accelerate-even-as-houthis-advance/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -166,11 +162,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -178,20 +170,24 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -201,6 +197,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-17",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Container shipping fuel prices remain elevated as supply fears ease; Rotterdam seeks to avoid the Piraeus scenario; Diesel Prices Just Broke Records. Worse Ahead?",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-16",
         "write_now": "Maybe",
@@ -248,47 +252,39 @@
         "worth_attention_today": "5",
         "headline": "Espino de Marotta takes the helm of a water-starved Panama Canal; Golden Week and congestion squeeze container capacity; Teamsters president throws down gauntlet to UPS: Strike coming in 2028",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-10",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Mundra Port Empty-Container Standoff Deepens: Rajkot Chamber seeks Urgent Government Intervention as Exporters face mounting disruptions; Beyond visibility: Building a supply chain that can act when conditions change; Hormuz shipping disruption deepens amid new attacks on vessels",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 312,
-      "high_trust": 84,
-      "trade_press": 228,
+      "total_items": 339,
+      "high_trust": 89,
+      "trade_press": 250,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-16.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-16.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-16.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-17.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-17.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-17.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-16",
-    "run_started_at": "2026-09-16T06:31:10+09:00",
+    "report_date": "2026-09-17",
+    "run_started_at": "2026-09-17T06:30:56+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+      "Closest current peer watch item: Project44 Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
-    "watch_count": 0,
+    "important_count": 0,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -334,23 +330,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [
+    "important_changes": [],
+    "watch_items": [
       {
         "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "importance": "watch",
+        "summary": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "source_title": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
           "Partially Degraded Service",
-          "Carrier tracking update delayed (minor)"
+          "FTP Service Issue – EU Production (minor)"
         ]
       }
     ],
-    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-17",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-09-16",
         "company": "Project44",
@@ -390,40 +394,32 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: AI Disruption Navigator Experiencing Partial Impact (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-09-10",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS, order management, analytics, and connectivity / integrations messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260916T063110+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-16.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260917T063056+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-17.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W38",
-    "week_end_date": "2026-09-16",
+    "week_end_date": "2026-09-17",
     "freshness": "current",
-    "status_note": "Project44 is reinforcing a carrier tracking motif through unknown.",
+    "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is reinforcing a carrier tracking motif through unknown.",
+      "Project44 is signaling unknown around unknown.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is reinforcing a carrier tracking motif through unknown."
+      "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
+      "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
@@ -457,24 +453,24 @@
     "top_signals": [
       {
         "entity_name": "Project44",
-        "source_title": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor).",
+        "source_title": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
         "source_layer": "direct competitor",
         "strategic_move": "Unknown",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Project44 status page shows active incident activity: Carrier tracking update delayed (minor). Partially Degraded Service",
+        "evidence_excerpt": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor). Partially Degraded Service",
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "carrier tracking",
+        "emerging_motif": "unknown",
         "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W38",
-        "week_end_date": "2026-09-16",
-        "takeaway": "Project44 is reinforcing a carrier tracking motif through unknown.",
+        "week_end_date": "2026-09-17",
+        "takeaway": "Project44 is signaling unknown around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
         "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
