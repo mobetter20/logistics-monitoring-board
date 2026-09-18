@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-17T21:32:30+00:00",
-  "requested_date": "2026-09-18",
+  "built_at": "2026-09-18T21:32:48+00:00",
+  "requested_date": "2026-09-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-18",
+    "requested_date": "2026-09-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Norfolk Southern: New intermodal era about removing rail friction.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Global port congestion approaches 4 million TEUs as peak season extends.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-18",
+        "report_label": "2026-09-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-18",
+        "report_label": "2026-09-19",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor).",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,65 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-18",
-    "last_updated": "2026-09-18 06:31",
+    "report_date": "2026-09-19",
+    "last_updated": "2026-09-19 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Norfolk Southern: New intermodal era about removing rail friction.",
+    "status_note": "Market watch is led by Global port congestion approaches 4 million TEUs as peak season extends.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Norfolk Southern: New intermodal era about removing rail friction.",
+      "Lead market story: Global port congestion approaches 4 million TEUs as peak season extends.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Asian container freight rates move at two speeds; Xeneta Schedule Reliability Scorecard - August 2026; Cyber attack disrupts operations at Tanjung Pelepas port",
+      "headline": "Global port congestion approaches 4 million TEUs as peak season extends; Can NEOM Terminal 1 ramp up fast enough to capture Hormuz-driven cargo?; Food distributors warn cyberattacks can quickly become supply chain disruptions",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Norfolk Southern: New intermodal era about removing rail friction",
+    "headline": "Global port congestion approaches 4 million TEUs as peak season extends",
     "key_news_radar": [
       {
-        "title": "Norfolk Southern: New intermodal era about removing rail friction",
-        "summary": "Norfolk Southern’s intermodal business is entering a new phase in which success will depend less on simply matching trucking on cost and more on making rail freight easier to buy,",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-17T13:09:03+00:00",
+        "title": "Global port congestion approaches 4 million TEUs as peak season extends",
+        "summary": "Global port congestion is approaching 4 million TEUs as strong container demand, weather disruption and tight vessel capacity continue to pressure major trade lanes, according to D",
+        "source": "Container News",
+        "timestamp": "2026-09-18T16:00:04+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/norfolk-southern-new-intermodal-era-about-removing-rail-friction",
+        "link": "https://container-news.com/global-port-congestion-approaches-4-million-teus-as-peak-season-extends/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Xeneta Schedule Reliability Scorecard - August 2026",
-        "summary": "Global reliability plummets as Far East to Europe collapses to 6% on-time Global reliability declined for the third month running in August, effectively erasing the recovery from F",
-        "source": "Xeneta — Blog",
-        "timestamp": "2026-09-17T06:59:04+00:00",
-        "confidence": "medium",
-        "link": "https://www.xeneta.com/blog/xeneta-schedule-reliability-scorecard-august-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "xeneta_blog",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Spanish ports push for sustainability",
-        "summary": "Terminals at ports in Spain are being modernised, digitalised and expanded to cope efficiently with the envisaged growth in trade.",
+        "title": "Can NEOM Terminal 1 ramp up fast enough to capture Hormuz-driven cargo?",
+        "summary": "Port of NEOM, formerly known as Duba Port, has told WorldCargo News that its Terminal 1 container facility remains expected to open this year, following media reports suggesting th",
         "source": "WorldCargo News",
-        "timestamp": "2026-09-17T06:28:01+00:00",
+        "timestamp": "2026-09-18T09:18:31+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/09/spanish-ports-push-for-sustainability/",
+        "link": "https://www.worldcargonews.com/automation/2026/09/can-neom-terminal-1-ramp-up-fast-enough-to-capture-hormuz-driven-cargo/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -130,25 +115,41 @@
         "confirmed_by": []
       },
       {
-        "title": "Cyber attack disrupts operations at Tanjung Pelepas port",
-        "summary": "At 23:34 local time on Wednesday 9 September 2026, a cyber attack hit the operating systems of the container terminal at Tanjung Pelepas, in the Malaysian state of Johor.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-17T08:22:31+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/cyber-attack-disrupts-operations-at-tanjung-pelepas-port/",
+        "title": "Asia-US container rates soar past $11,000, near pandemic records",
+        "summary": "Ocean carriers are capitalizing on an extraordinary spike in container freight rates from Asia to the United States, with spot prices now within roughly 18% of their pandemic-era h",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-18T16:00:15+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/asia-us-container-rates-soar-past-11000-near-pandemic-records",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Food distributors warn cyberattacks can quickly become supply chain disruptions",
+        "summary": "Cybersecurity executives are urging foodservice distributors to prepare for cyberattacks as operational disruptions that can affect warehouses, trucks, customer orders and even the",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-18T13:15:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/food-distributors-warn-cyberattacks-can-quickly-become-supply-chain-disruptions",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Asian container freight rates move at two speeds",
-        "summary": "Container shipping on East-West routes is moving at two speeds.",
+        "title": "Transport and logistics news - 18 September 2026",
+        "summary": "Dfds to double Trieste-Damietta frequency Dfds has announced that it will increase the frequency of its ro-ro service between Trieste and Damietta from one to two weekly sailings f",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-17T15:42:21+00:00",
+        "timestamp": "2026-09-18T17:52:28+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/asian-container-freight-rates-move-at-two-speeds/",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-18-september-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -157,10 +158,6 @@
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -172,19 +169,23 @@
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Global port congestion approaches 4 million TEUs as peak season extends; Can NEOM Terminal 1 ramp up fast enough to capture Hormuz-driven cargo?; Food distributors warn cyberattacks can quickly become supply chain disruptions",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-18",
         "write_now": "Maybe",
@@ -241,48 +250,41 @@
         "worth_attention_today": "5",
         "headline": "Saudi Arabia Shuts Key Oil Pipeline Used To Bypass Strait Of Hormuz After Drone Attack; Export volumes rise 6% at APM Terminals Apapa; Piyush Goyal calls for deeper, resilient and more balanced Intra-BRICS Trade",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Samsung seeks $186m compensation from CMA CGM; India’s Mundra Port Operations Resume As Container Yard Operators Call Off 13-Day Strike; Uber Freight warns tight capacity could fuel Q4 freight rate surge",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 294,
-      "high_trust": 71,
-      "trade_press": 223,
+      "total_items": 296,
+      "high_trust": 79,
+      "trade_press": 217,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-18",
-    "run_started_at": "2026-09-18T06:31:01+09:00",
+    "report_date": "2026-09-19",
+    "run_started_at": "2026-09-19T06:31:11+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor).",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor)."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,21 +330,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor).",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "Partially Degraded Service",
-          "Collaboration Tab Degraded in Movement - NA (minor)"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-09-18",
@@ -394,14 +382,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260918T063101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260919T063111+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-19.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W38",
-    "week_end_date": "2026-09-18",
+    "week_end_date": "2026-09-19",
     "freshness": "current",
     "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -466,7 +454,7 @@
     "recent_history": [
       {
         "week_label": "2026-W38",
-        "week_end_date": "2026-09-18",
+        "week_end_date": "2026-09-19",
         "takeaway": "Project44 is signaling unknown around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
