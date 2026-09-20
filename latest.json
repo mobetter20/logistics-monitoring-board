@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-19T21:32:26+00:00",
-  "requested_date": "2026-09-20",
+  "built_at": "2026-09-20T21:32:27+00:00",
+  "requested_date": "2026-09-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-20",
+    "requested_date": "2026-09-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher.",
+      "Lead daily item: Maersk Trims ECS Surcharge on S5S Service.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-20",
+        "report_label": "2026-09-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-20",
+        "report_label": "2026-09-21",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W38",
+        "report_label": "2026-W39",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling narrative shift around unknown.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,64 +64,66 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-20",
-    "last_updated": "2026-09-20 06:31",
+    "report_date": "2026-09-21",
+    "last_updated": "2026-09-21 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher.",
+    "status_note": "Market watch is led by Maersk Trims ECS Surcharge on S5S Service.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher.",
+      "Lead market story: Maersk Trims ECS Surcharge on S5S Service.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-20",
+      "report_date": "2026-09-21",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher; Federal probe into diversion of F-35 parts to Hong Kong; DGFT Digital System raises Questions over Exporter Access and Error Correction",
+      "headline": "Partial closure of Suurhoffbrug disrupts road access to Maasvlakte; Maersk Trims ECS Surcharge on S5S Service; Kenya enforces mandatory Advance Cargo Declaration for container imports",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher",
+    "headline": "Maersk Trims ECS Surcharge on S5S Service",
     "key_news_radar": [
       {
-        "title": "Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher",
-        "summary": "Global shipping markets are entering another period of elevated costs as geopolitical conflicts, fuel pressures and trade bottlenecks reshape the movement of goods around the world",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-19T11:20:08+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/shipping-disruptions-push-tanker-earnings-and-carrier-surcharges-higher/",
+        "title": "Maersk Trims ECS Surcharge on S5S Service",
+        "summary": "Maersk has reduced its Emergency Cost Surcharge (ECS) on the S5S service connecting India and South Africa, lowering the additional charges applicable to shipments on the route.",
+        "source": "India Seatrade News",
+        "timestamp": "2026-09-20T18:37:51+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/maersk-trims-ecs-surcharge-on-s5s-service/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Far East-US Freight Rates Surge 324% After Hormuz Crisis",
-        "summary": "Spot freight rates on the Far East to US West Coast and Far East to US East Coast trades have climbed sharply since the disruption tied to the Hormuz crisis, according to the Xenet",
+        "title": "Partial closure of Suurhoffbrug disrupts road access to Maasvlakte",
+        "summary": "A partial closure of the western Suurhoffbrug on the A15 motorway, in effect since 5pm on Wednesday September 17, is causing significant disruption to road access to the Maasvlakte",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-19T11:20:08+00:00",
+        "timestamp": "2026-09-20T10:41:33+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/far-east-us-freight-rates-surge-324-after-hormuz-crisis/",
+        "link": "https://container-news.com/partial-closure-of-suurhoffbrug-disrupts-road-access-to-maasvlakte/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "container_news"
+        ]
       },
       {
-        "title": "Federal probe into diversion of F-35 parts to Hong Kong",
-        "summary": "lawmakers and the Pentagon are investigating the diversion of a shipment of unserviceable F-35 Lightning II fighter jet components from Australia to Hong Kong, an incident that has",
+        "title": "Borderlands Mexico: Tesla plans massive Texas distribution center",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-09-18T23:27:42+00:00",
+        "timestamp": "2026-09-20T13:18:47+00:00",
         "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/federal-probe-into-diversion-of-f-35-parts-to-hong-kong",
-        "label": "Operational",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-tesla-plans-massive-texas-distribution-center",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
@@ -130,30 +132,32 @@
         ]
       },
       {
-        "title": "Iran Says It Struck And Detained An Oil Tanker In Strait Of Hormuz Over ‘Illegal’ Passage",
-        "summary": "Image for representation purposes only Iran’s Revolutionary Guards said that they struck and detained a Togo-flagged oil tanker in the Strait of Hormuz on Friday, September 18.",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-19T07:46:39+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-says-it-struck-and-detained-an-oil-tanker-in-strait-of-hormuz-over-illegal-passage/?utm_source=rss&utm_medium=rss&utm_campaign=iran-says-it-struck-and-detained-an-oil-tanker-in-strait-of-hormuz-over-illegal-passage",
-        "label": "Operational",
+        "title": "Rail traffic grows at France’s two largest container ports in H1 2026",
+        "summary": "France’s two biggest container ports, Le Havre and Marseille-Fos, posted further strong growth in rail traffic in the first half of the year.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-20T06:07:38+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/09/rail-traffic-grows-at-frances-two-largest-container-ports-in-h1-2026/",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "LNG Tanker Carrying US Cargo To Europe Turns Back After Crew Reports Suspected Cyberattack",
-        "summary": "Image for representation purposes only An LNG tanker carrying U.S.",
-        "source": "Marine Insight",
-        "timestamp": "2026-09-19T11:54:07+00:00",
+        "title": "Crew claims hackers seized control of LNG carrier safety systems",
+        "summary": "A US LNG cargo bound for Italy has been diverted after the crew of its carrier reported a systems failure as a suspected cyberattack, adding to growing concerns over attacks on shi",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-09-20T10:11:26+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/lng-tanker-carrying-us-cargo-to-europe-turns-back-after-crew-reports-suspected-cyberattack/?utm_source=rss&utm_medium=rss&utm_campaign=lng-tanker-carrying-us-cargo-to-europe-turns-back-after-crew-reports-suspected-cyberattack",
+        "link": "https://splash247.com/crew-claims-hackers-seized-control-of-lng-carrier-safety-systems/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "splash247"
+        ]
       }
     ],
     "hot_topics": [
@@ -194,6 +198,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Partial closure of Suurhoffbrug disrupts road access to Maasvlakte; Maersk Trims ECS Surcharge on S5S Service; Kenya enforces mandatory Advance Cargo Declaration for container imports",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-20",
         "write_now": "Maybe",
@@ -241,33 +253,25 @@
         "worth_attention_today": "5",
         "headline": "Container shipping hits a new record; The container clears the port. In India, the real delay often starts on the highway; Los Angeles sails through the turbulence, but a diesel storm is brewing",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "3",
-        "headline": "Imports and inventories stabilize in 2026, but for how long; Borderlands Mexico: Exports of Mexican-made heavy-duty trucks to US roar back; Iraq Under Pressure After Drone Strikes Close Key Saudi Pipeline",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 80,
-      "high_trust": 23,
-      "trade_press": 57,
+      "total_items": 59,
+      "high_trust": 13,
+      "trade_press": 46,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-20",
-    "run_started_at": "2026-09-20T06:31:09+09:00",
+    "report_date": "2026-09-21",
+    "run_started_at": "2026-09-21T06:31:05+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -278,12 +282,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -381,38 +385,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260920T063109+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260921T063105+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-21.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W38",
-    "week_end_date": "2026-09-20",
+    "week_label": "2026-W39",
+    "week_end_date": "2026-09-21",
     "freshness": "current",
-    "status_note": "Project44 is signaling narrative shift around unknown.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling narrative shift around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling narrative shift around unknown."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing narrative shift."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -432,25 +436,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
-        "source_layer": "direct competitor",
-        "strategic_move": "Narrative shift",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service. Partially Degraded Service",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W39",
+        "week_end_date": "2026-09-21",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W38",
         "week_end_date": "2026-09-20",
@@ -480,21 +479,11 @@
         "signal_signature": "FourKites|direct_competitor|ai_positioning|1ba5d1daac6dd41407b2f54053c8d987cc570e04 || FourKites|direct_competitor|ai_positioning|e93f4e8df10558897cc262c9c9efc0c6564b9da8 || FourKites|direct_competitor|product_update|9b5bb8951bdcb64f067d358d7ce938234afe5878 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W35",
-        "week_end_date": "2026-08-30",
-        "takeaway": "GoComet is reinforcing a disruption control connect disruption motif through AI positioning.",
-        "signal_count": "5",
-        "active_thesis_count": "2",
-        "signal_signature": "GoComet|direct_competitor|product_update|7d521c3e4d047be218c25b9345cc691c239707a1 || GoComet|direct_competitor|product_update|a710c096dba27c2f328e845b248e5e54c2c6d7dc || GoComet|direct_competitor|ai_positioning|152498323d643b3f9f3eed45caf154d0c9e17af1 || GoComet|direct_competitor|product_update|7f240ade88b43873648f28e0f01cc4a7ce0319ff || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W38.json",
-      "strategic_intelligence/output/weekly-memo-2026-W38.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W39.json",
+      "strategic_intelligence/output/weekly-memo-2026-W39.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
