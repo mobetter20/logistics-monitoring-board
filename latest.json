@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-21T21:32:43+00:00",
-  "requested_date": "2026-09-22",
+  "built_at": "2026-09-22T21:36:19+00:00",
+  "requested_date": "2026-09-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-22",
+    "requested_date": "2026-09-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Diesel Supply Down 8%: What Trucking Faces Next.",
-      "Competitor watch: Watch-level movement detected.",
-      "Weekly strategy: Same evidence as prior run."
+      "Lead daily item: New report: Just a third of container shipping on-time.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-22",
+        "report_label": "2026-09-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-22",
+        "report_label": "2026-09-23",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: GoComet GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
+        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W39",
         "freshness": "current",
-        "change_label": "Same evidence as prior run",
-        "summary": "Project44 is signaling AI positioning around unknown.",
-        "supporting_note": "The weekly layer is current, but it is still being led by the same underlying signals as the prior run.",
+        "change_label": "Signal set changed",
+        "summary": "GoComet is signaling AI positioning around unknown.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,103 +64,102 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-22",
-    "last_updated": "2026-09-22 06:30",
+    "report_date": "2026-09-23",
+    "last_updated": "2026-09-23 06:33",
     "freshness": "current",
-    "status_note": "Market watch is led by Diesel Supply Down 8%: What Trucking Faces Next.",
+    "status_note": "Market watch is led by New report: Just a third of container shipping on-time.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Diesel Supply Down 8%: What Trucking Faces Next.",
+      "Lead market story: New report: Just a third of container shipping on-time.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-22",
+      "report_date": "2026-09-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Asia Pacific Supply Chains Adapt as Q4 Planning and Golden Week Approach; Diesel Supply Down 8%: What Trucking Faces Next; Diesel Supply Down 8%: What Trucking Faces Next",
+      "headline": "Record-low Rhine levels choke barge traffic, stress ground transport; New report: Just a third of container shipping on-time; Transport and logistics news - 22 September 2026",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Diesel Supply Down 8%: What Trucking Faces Next",
+    "headline": "New report: Just a third of container shipping on-time",
     "key_news_radar": [
       {
-        "title": "Diesel Supply Down 8%: What Trucking Faces Next",
-        "summary": "#fwtv_cD3wMEJOJ0 .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_cD3wMEJOJ0 .fwtv-panel p{margin:0 0 12px}#fwtv_cD3wMEJOJ0 .fwtv-note{font",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-21T19:41:34+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/diesel-supply-down-8-what-trucking-faces-next",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Asia Pacific Supply Chains Adapt as Q4 Planning and Golden Week Approach",
-        "summary": "As companies throughout Asia Pacific gear up for the fourth quarter, their supply networks keep adjusting to shifting operating conditions and trade rules.",
+        "title": "New report: Just a third of container shipping on-time",
+        "summary": "Global container shipping schedule reliability fell for a third consecutive month in August, with just 29% of vessels arriving on time as disruption on the Far East-Europe trade pu",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-21T09:23:11+00:00",
+        "timestamp": "2026-09-22T21:15:03+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/asia-pacific-supply-chains-adapt-as-q4-planning-and-golden-week-approach/",
+        "link": "https://www.freightwaves.com/news/new-report-just-a-third-of-container-shipping-on-time",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "Maersk ends market speculation, confirms 26-vessel order",
-        "summary": "After weeks of market speculation over a major newbuilding programme, A.P.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-21T08:19:30+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/09/maersk-ends-market-speculation-confirms-26-vessel-order/",
+        "title": "Transport and logistics news - 22 September 2026",
+        "summary": "Kuehne+Nagel partners with Amazon Kuehne+Nagel is expanding its partnership with Amazon through a strategic agreement that also includes Amazon Web Services (AWS), focusing its log",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-09-22T13:55:15+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-22-september-2026/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "U.S. emissions rollback on Boeing 777 freighter helps air logistics",
-        "summary": "The Federal Aviation Administration’s decision last week to waive an upcoming production ban for the Boeing 777 freighter is welcome news for airlines and freight forwarders becaus",
+        "title": "Record-low Rhine levels choke barge traffic, stress ground transport",
+        "summary": "Water levels in the shallowest middle section of the Rhine River have fallen to 16 centimeters below the low-water threshold, threatening to halt all barge transportation on a crit",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-21T18:05:04+00:00",
+        "timestamp": "2026-09-22T13:14:37+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/u-s-emissions-rollback-on-boeing-777-freighter-helps-air-logistics",
+        "link": "https://www.freightwaves.com/news/record-low-rhine-levels-choke-barge-traffic-stress-ground-transport",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The Suez Route Is Returning. The Voyage Is Not Yet Normal.",
+        "summary": "By Hugo Federico Hernandez Varela The return of container services to the Suez Canal is becoming increasingly visible.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-22T16:02:31+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/the-suez-route-is-returning-the-voyage-is-not-yet-normal/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
+          "container_news"
         ]
       },
       {
-        "title": "Hybrid straddle carriers take centre stage",
-        "summary": "While some straddle carrier terminals are phasing in yard gantry cranes to increase capacity, other facilities are sticking with the fast and flexible straddle carrier system.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-09-21T06:04:46+00:00",
+        "title": "West Asia Conflict Pushes India’s Shipping Costs Towards $100 Billion",
+        "summary": "India’s shipping costs are moving towards $100 billion as the ongoing conflict in West Asia disrupts maritime trade routes and drives up freight rates, adding pressure on exporters",
+        "source": "India Seatrade News",
+        "timestamp": "2026-09-22T18:58:02+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/cargo-handling-equipment/2026/09/hybrid-straddle-carriers-take-centre-stage/",
-        "label": "Watch",
+        "link": "https://indiaseatradenews.com/west-asia-conflict-pushes-indias-shipping-costs-towards-100-billion/",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -172,13 +171,13 @@
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
@@ -188,12 +187,24 @@
         "summary": ""
       },
       {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Record-low Rhine levels choke barge traffic, stress ground transport; New report: Just a third of container shipping on-time; Transport and logistics news - 22 September 2026",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-22",
         "write_now": "Maybe",
@@ -241,47 +252,39 @@
         "worth_attention_today": "5",
         "headline": "Container shipping fuel prices remain elevated as supply fears ease; Rotterdam seeks to avoid the Piraeus scenario; Diesel Prices Just Broke Records. Worse Ahead?",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "U.S. container imports climb 3.8% to 2.6 million TEUs, 3rd highest monthly level; Houthi gains deepen risk as carriers restore Red Sea services; Hapag-Lloyd CEO cites resilient demand, but sees shipping market exposed to Middle East disruption",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 327,
-      "high_trust": 81,
+      "total_items": 320,
+      "high_trust": 74,
       "trade_press": 246,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-22",
-    "run_started_at": "2026-09-22T06:31:00+09:00",
+    "report_date": "2026-09-23",
+    "run_started_at": "2026-09-23T06:33:28+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
+      "Newest meaningful competitor move: GoComet GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Important change detected",
+    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
-    "watch_count": 1,
+    "important_count": 1,
+    "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -327,23 +330,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
-    "watch_items": [
+    "important_changes": [
       {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "company": "GoComet",
+        "importance": "important",
+        "summary": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Media Coverage GoComet in the news. Check what the buzz is all about",
+        "source_url": "https://www.gocomet.com/company/media-coverage",
         "evidence": [
-          "All Systems Operational",
-          "Sailing Schedules CSS database maintenance"
+          "Media Coverage GoComet in the news. Check what the buzz is all about",
+          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
         ]
       }
     ],
+    "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-09-23",
+        "company": "GoComet",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
+        "source_url": "https://www.gocomet.com/company/media-coverage"
+      },
       {
         "detected_date": "2026-09-22",
         "company": "Project44",
@@ -383,39 +394,33 @@
         "signal_type": "status change",
         "summary": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-09-13",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260922T063100+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260923T063328+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W39",
-    "week_end_date": "2026-09-22",
+    "week_end_date": "2026-09-23",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around unknown.",
+    "status_note": "GoComet is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around unknown.",
+      "GoComet is signaling AI positioning around unknown.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Same evidence as prior run",
-    "change_detail": "The weekly layer is current, but it is still being led by the same underlying signals as the prior run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "GoComet is signaling AI positioning around unknown.",
       "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
+      "GoComet (direct competitor) is pushing AI positioning with the claimed outcome of reduced manual work.",
       "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
@@ -446,9 +451,23 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "GoComet",
+        "source_title": "Media Coverage GoComet in the news. Check what the buzz is all about",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about\" -> signals a stronger AI / automation narrative Media Coverage GoComet in the news. Check what the buzz is all about",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.gocomet.com/company/media-coverage"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 status page returned to all systems operational.",
@@ -467,11 +486,11 @@
     "recent_history": [
       {
         "week_label": "2026-W39",
-        "week_end_date": "2026-09-22",
-        "takeaway": "Project44 is signaling AI positioning around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-09-23",
+        "takeaway": "GoComet is signaling AI positioning around unknown.",
+        "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "GoComet|direct_competitor|product_update|2f3c50eefad6d94a4c8a4da68178fec5710c1711 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
