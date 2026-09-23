@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-22T21:36:19+00:00",
-  "requested_date": "2026-09-23",
+  "built_at": "2026-09-23T21:32:30+00:00",
+  "requested_date": "2026-09-24",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-23",
+    "requested_date": "2026-09-24",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: New report: Just a third of container shipping on-time.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: China’s box ports continue to grow, investing in capacity and automation.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-23",
+        "report_label": "2026-09-24",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-23",
+        "report_label": "2026-09-24",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: GoComet GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
-        "supporting_note": "GoComet is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,102 +64,103 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-23",
-    "last_updated": "2026-09-23 06:33",
+    "report_date": "2026-09-24",
+    "last_updated": "2026-09-24 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by New report: Just a third of container shipping on-time.",
+    "status_note": "Market watch is led by China’s box ports continue to grow, investing in capacity and automation.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: New report: Just a third of container shipping on-time.",
+      "Lead market story: China’s box ports continue to grow, investing in capacity and automation.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-23",
+      "report_date": "2026-09-24",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Record-low Rhine levels choke barge traffic, stress ground transport; New report: Just a third of container shipping on-time; Transport and logistics news - 22 September 2026",
+      "headline": "China’s box ports continue to grow, investing in capacity and automation; Dual labor shocks in 2028? UPS, West Coast port bargaining to overlap; New report: US imports fell 4.5% in year after Liberation Day tariffs",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "New report: Just a third of container shipping on-time",
+    "headline": "China’s box ports continue to grow, investing in capacity and automation",
     "key_news_radar": [
       {
-        "title": "New report: Just a third of container shipping on-time",
-        "summary": "Global container shipping schedule reliability fell for a third consecutive month in August, with just 29% of vessels arriving on time as disruption on the Far East-Europe trade pu",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-22T21:15:03+00:00",
+        "title": "China’s box ports continue to grow, investing in capacity and automation",
+        "summary": "In H1 2026, China’s main ports handled 6.9% more containers than in the same half of 2025, with investment in new infrastructure, equipment and systems surpassing RMB60 billion.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-09-23T07:40:43+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-report-just-a-third-of-container-shipping-on-time",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/09/chinas-box-ports-continue-to-grow-investing-in-capacity-and-automation/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Transport and logistics news - 22 September 2026",
-        "summary": "Kuehne+Nagel partners with Amazon Kuehne+Nagel is expanding its partnership with Amazon through a strategic agreement that also includes Amazon Web Services (AWS), focusing its log",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-22T13:55:15+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-22-september-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Record-low Rhine levels choke barge traffic, stress ground transport",
-        "summary": "Water levels in the shallowest middle section of the Rhine River have fallen to 16 centimeters below the low-water threshold, threatening to halt all barge transportation on a crit",
+        "title": "New report: US imports fell 4.5% in year after Liberation Day tariffs",
+        "summary": "imports declined 4.5% in the 12 months following the April 2025 “Liberation Day” tariff announcement, while ocean containerized imports dropped 4.3%, according to a Descartes Datam",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-22T13:14:37+00:00",
+        "timestamp": "2026-09-23T14:42:00+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/record-low-rhine-levels-choke-barge-traffic-stress-ground-transport",
+        "link": "https://www.freightwaves.com/news/new-report-us-imports-fell-4-5-in-year-after-liberation-day-tariffs",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The Suez Route Is Returning. The Voyage Is Not Yet Normal.",
-        "summary": "By Hugo Federico Hernandez Varela The return of container services to the Suez Canal is becoming increasingly visible.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-22T16:02:31+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/the-suez-route-is-returning-the-voyage-is-not-yet-normal/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
         "confirmed_by": [
-          "container_news"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "West Asia Conflict Pushes India’s Shipping Costs Towards $100 Billion",
-        "summary": "India’s shipping costs are moving towards $100 billion as the ongoing conflict in West Asia disrupts maritime trade routes and drives up freight rates, adding pressure on exporters",
-        "source": "India Seatrade News",
-        "timestamp": "2026-09-22T18:58:02+00:00",
+        "title": "Maersk updates emergency inland fuel surcharges across Nordic region",
+        "summary": "Maersk has announced updated Emergency Inland Fuel and Energy Surcharge levels for store-door shipments across the Nordic and Baltic region.",
+        "source": "Container News",
+        "timestamp": "2026-09-23T15:00:00+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/west-asia-conflict-pushes-indias-shipping-costs-towards-100-billion/",
+        "link": "https://container-news.com/maersk-updates-emergency-inland-fuel-surcharges-across-nordic-region/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Saudi Arabia Denies Buying 25 Oil Tankers After Iraq Blames Purchases For Higher Costs",
+        "summary": "Image for representation purposes only Saudi Arabia denied buying 25 oil tankers worth an estimated $4.5 billion on Tuesday, September 22, after Iraq blamed the alleged purchases f",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-23T12:34:04+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/saudi-arabia-denies-buying-25-oil-tankers-after-iraq-blames-purchases-for-higher-costs/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-denies-buying-25-oil-tankers-after-iraq-blames-purchases-for-higher-costs",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Suez return cuts India-Savannah transit times by up to 14 days",
+        "summary": "The return of some container services to the Suez Canal is cutting transit times between India and the Port of Savannah by as much as 10 to 14 days, according to the Georgia Ports",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-09-23T06:59:49+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/suez-return-cuts-india-savannah-transit-times-by-up-to-14-days/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
       {
         "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
@@ -170,14 +171,14 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
@@ -187,16 +188,20 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
         "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-24",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "China’s box ports continue to grow, investing in capacity and automation; Dual labor shocks in 2028? UPS, West Coast port bargaining to overlap; New report: US imports fell 4.5% in year after Liberation Day tariffs",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-23",
         "write_now": "Maybe",
@@ -244,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Asian container freight rates move at two speeds; Xeneta Schedule Reliability Scorecard - August 2026; Cyber attack disrupts operations at Tanjung Pelepas port",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-17",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Container shipping fuel prices remain elevated as supply fears ease; Rotterdam seeks to avoid the Piraeus scenario; Diesel Prices Just Broke Records. Worse Ahead?",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 320,
-      "high_trust": 74,
+      "total_items": 328,
+      "high_trust": 82,
       "trade_press": 246,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-23.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-23.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-23.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-24.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-24.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-24.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-23",
-    "run_started_at": "2026-09-23T06:33:28+09:00",
+    "report_date": "2026-09-24",
+    "run_started_at": "2026-09-24T06:31:10+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: GoComet GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from GoComet: GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "GoComet is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,21 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "GoComet",
-        "importance": "important",
-        "summary": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Media Coverage GoComet in the news. Check what the buzz is all about",
-        "source_url": "https://www.gocomet.com/company/media-coverage",
-        "evidence": [
-          "Media Coverage GoComet in the news. Check what the buzz is all about",
-          "One architecture connecting your products, your AI agents, your data, and your off-platform partners into a single adaptive workflow."
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -397,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260923T063328+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-23.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260924T063110+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-24.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W39",
-    "week_end_date": "2026-09-23",
+    "week_end_date": "2026-09-24",
     "freshness": "current",
     "status_note": "GoComet is signaling AI positioning around unknown.",
     "sparse_explanation": "",
@@ -427,8 +411,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -486,7 +469,7 @@
     "recent_history": [
       {
         "week_label": "2026-W39",
-        "week_end_date": "2026-09-23",
+        "week_end_date": "2026-09-24",
         "takeaway": "GoComet is signaling AI positioning around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
