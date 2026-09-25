@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-24T21:32:39+00:00",
-  "requested_date": "2026-09-25",
+  "built_at": "2026-09-25T21:32:20+00:00",
+  "requested_date": "2026-09-26",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-25",
+    "requested_date": "2026-09-26",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: New data shows Suez route transits rose 27% in August.",
+      "Lead daily item: Transport and logistics news - 25 September 2026.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-25",
+        "report_label": "2026-09-26",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-25",
+        "report_label": "2026-09-26",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,80 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-25",
-    "last_updated": "2026-09-25 06:31",
+    "report_date": "2026-09-26",
+    "last_updated": "2026-09-26 06:30",
     "freshness": "current",
-    "status_note": "Market watch is led by New data shows Suez route transits rose 27% in August.",
+    "status_note": "Market watch is led by Transport and logistics news - 25 September 2026.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: New data shows Suez route transits rose 27% in August.",
+      "Lead market story: Transport and logistics news - 25 September 2026.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-25",
+      "report_date": "2026-09-26",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "But no pandemic high: Asia-US container rate at $9,600; Freightos Weekly Update: Asia - Med rates back to pre-peak levels as Red Sea transits increase; New data shows Suez route transits rose 27% in August",
+      "headline": "Could Washington Ban Diesel Exports? What Truckers Need to Know; The Hidden Cost Of Gate Congestion At Ports; Transport and logistics news - 25 September 2026",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "New data shows Suez route transits rose 27% in August",
+    "headline": "Transport and logistics news - 25 September 2026",
     "key_news_radar": [
       {
-        "title": "New data shows Suez route transits rose 27% in August",
-        "summary": "Suez Canal vessel transits increased 27% year over year in August as more shipping lines returned selectively to the Red Sea route, lifting the Egyptian waterway’s monthly revenue",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-24T14:32:35+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/new-data-shows-suez-route-transits-rose-27-in-august",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "But no pandemic high: Asia-US container rate at $9,600",
-        "summary": "Resilient U.S.-bound demand, Far East port congestion and blanked sailings are keeping trans-Pacific spot rates near their early July highs, even as Asia-Europe pricing continues t",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-24T17:35:44+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/but-no-pandemic-high-asia-us-container-rate-at-9600",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Freightos Weekly Update: Asia - Med rates back to pre-peak levels as Red Sea transits increase",
-        "summary": "Trade talks continue between the US and China as representatives work to prepare the ground for the Xi - Trump meeting this week.",
-        "source": "Container News",
-        "timestamp": "2026-09-24T18:00:35+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-asia-med-rates-back-to-pre-peak-levels-as-red-sea-transits-increase/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Diesel prices could continue to rise into 2027",
-        "summary": "Diesel will remain expensive for longer than estimated only a few weeks ago, and its price may continue to rise until at least mid-2027.",
+        "title": "Transport and logistics news - 25 September 2026",
+        "summary": "New proposal to acquire Zim Hapag-Lloyd and Fimi have submitted a revised proposal to the Israeli government for the acquisition of Zim, without changing the financial terms alread",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-24T09:19:47+00:00",
+        "timestamp": "2026-09-25T17:48:53+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/diesel-prices-could-continue-to-rise-into-2027/",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-25-september-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -145,15 +102,54 @@
         "confirmed_by": []
       },
       {
-        "title": "IMO Celebrates World Maritime Day 2026 on theme ‘From Policy to Practice: Powering Maritime Excellence’",
-        "summary": "LONDON: Global regulations will deliver safer, more resilient shipping when they are implemented worldwide.",
-        "source": "India Shipping News",
-        "timestamp": "2026-09-24T04:28:41+00:00",
+        "title": "Could Washington Ban Diesel Exports? What Truckers Need to Know",
+        "summary": "This article is contributed content from an independent writer.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-25T19:46:59+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/maritime/imo-celebrates-world-maritime-day-2026-on-theme-from-policy-to-practice-powering-maritime-excellence/",
+        "link": "https://www.freightwaves.com/news/could-washington-ban-diesel-exports-what-truckers-need-to-know",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The Hidden Cost Of Gate Congestion At Ports",
+        "summary": "In September 2026, the container port of Nhava Sheva, Mumbai, experienced a long truck queue at its gates.",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-25T12:49:08+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/the-hidden-cost-of-gate-congestion-at-ports/?utm_source=rss&utm_medium=rss&utm_campaign=the-hidden-cost-of-gate-congestion-at-ports",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India-Middle East Shipping Costs Surge Amid Port Congestion",
+        "summary": "Spot shipping costs on the India-Middle East trade lane have risen sharply as port congestion and operational disruptions put pressure on available vessel capacity, according to in",
+        "source": "India Seatrade News",
+        "timestamp": "2026-09-25T18:38:32+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/india-middle-east-shipping-costs-surge-amid-port-congestion/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "80 UN Member States Demand Urgent Reopening Of Strait Of Hormuz",
+        "summary": "Image for representation purposes only The foreign minister of Bahrain, Abdullatif bin Rashid Al Zayani, led 80 member states of the United Nations in a call for the reopening of t",
+        "source": "Marine Insight",
+        "timestamp": "2026-09-25T13:13:53+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/80-un-member-states-demand-urgent-reopening-of-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=80-un-member-states-demand-urgent-reopening-of-strait-of-hormuz",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,33 +157,49 @@
     "hot_topics": [
       {
         "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-09-26",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Could Washington Ban Diesel Exports? What Truckers Need to Know; The Hidden Cost Of Gate Congestion At Ports; Transport and logistics news - 25 September 2026",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-25",
         "write_now": "Maybe",
@@ -235,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "Shipping Disruptions Push Tanker Earnings and Carrier Surcharges Higher; Federal probe into diversion of F-35 parts to Hong Kong; DGFT Digital System raises Questions over Exporter Access and Error Correction",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-19",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Global port congestion approaches 4 million TEUs as peak season extends; Can NEOM Terminal 1 ramp up fast enough to capture Hormuz-driven cargo?; Food distributors warn cyberattacks can quickly become supply chain disruptions",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 316,
-      "high_trust": 67,
-      "trade_press": 249,
+      "total_items": 264,
+      "high_trust": 75,
+      "trade_press": 189,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-25.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-25.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-25.json"
+      "news_pipeline/output/reports/daily-brief-2026-09-26.md",
+      "news_pipeline/output/digests/daily-digest-2026-09-26.md",
+      "news_pipeline/output/trends/daily-trends-2026-09-26.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-25",
-    "run_started_at": "2026-09-25T06:31:17+09:00",
+    "report_date": "2026-09-26",
+    "run_started_at": "2026-09-26T06:30:59+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -272,12 +276,12 @@
       "Latest lower-signal item came from GoComet: GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "3 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -375,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260925T063117+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-25.md"
+      "competitor_monitor/output/runs/competitor-monitor-20260926T063059+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-09-26.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W39",
-    "week_end_date": "2026-09-25",
+    "week_end_date": "2026-09-26",
     "freshness": "current",
     "status_note": "GoComet is signaling AI positioning around unknown.",
     "sparse_explanation": "",
@@ -405,7 +409,8 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -463,7 +468,7 @@
     "recent_history": [
       {
         "week_label": "2026-W39",
-        "week_end_date": "2026-09-25",
+        "week_end_date": "2026-09-26",
         "takeaway": "GoComet is signaling AI positioning around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
