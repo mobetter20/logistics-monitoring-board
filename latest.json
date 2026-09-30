@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-09-29T21:33:41+00:00",
-  "requested_date": "2026-09-30",
+  "built_at": "2026-09-30T21:32:52+00:00",
+  "requested_date": "2026-10-01",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-09-30",
+    "requested_date": "2026-10-01",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Transport and logistics news - 29 September 2026.",
+      "Lead daily item: Ocean rates highest in a year amid US-China trade truce.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-09-30",
+        "report_label": "2026-10-01",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-09-30",
+        "report_label": "2026-10-01",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 7 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,80 +64,66 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-09-30",
-    "last_updated": "2026-09-30 06:31",
+    "report_date": "2026-10-01",
+    "last_updated": "2026-10-01 06:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Transport and logistics news - 29 September 2026.",
+    "status_note": "Market watch is led by Ocean rates highest in a year amid US-China trade truce.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Transport and logistics news - 29 September 2026.",
+      "Lead market story: Ocean rates highest in a year amid US-China trade truce.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Transport and logistics news - 29 September 2026; 10 Blind Spots in Cold Chain Risk Management You Might Not Know You Have; Maersk Revises Emergency Surcharge on India-Latin America Trade",
+      "headline": "Ocean rates highest in a year amid US-China trade truce; Nearshoring growth collides with tightening US-Mexico trucking capacity; Flexport launches MCP Server for AI agents to book freight",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Transport and logistics news - 29 September 2026",
+    "headline": "Ocean rates highest in a year amid US-China trade truce",
     "key_news_radar": [
       {
-        "title": "Transport and logistics news - 29 September 2026",
-        "summary": "Asian congestion could last into 2027 Congestion at Asia’s main container ports could take up to ten months to return to the particularly low levels recorded in mid-2025.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-29T15:39:49+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-29-september-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "10 Blind Spots in Cold Chain Risk Management You Might Not Know You Have",
-        "summary": "Most shippers, by this point, tend to believe they have visibility into their cold chain.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-09-29T17:48:31+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/10-blind-spots-in-cold-chain-risk-management-you-might-not-know-you-have",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "When the route becomes the lever",
-        "summary": "Trade corridors have become geopolitical assets and their day-to-day operation is becoming a source of strategic uncertainty.",
+        "title": "Ocean rates highest in a year amid US-China trade truce",
+        "summary": "A two-month extension of the U.S.-China trade truce could postpone planned U.S.",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-09-29T20:27:48+00:00",
+        "timestamp": "2026-09-30T19:23:51+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/when-the-route-becomes-the-lever/",
+        "link": "https://www.freightwaves.com/news/ocean-rates-highest-in-a-year-amid-us-china-trade-truce",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
+          "s_news_via_shippers_association_on_inoreader",
+          "freightwaves_news"
         ]
       },
       {
-        "title": "Air cargo demand outpaces capacity in August 2026",
-        "summary": "More cargo flying in aircraft holds that are not expanding: this sums up IATA’s air cargo report for August 2026, when global demand, measured in cargo tonne-kilometres (CTKs), rec",
+        "title": "Nearshoring growth collides with tightening US-Mexico trucking capacity",
+        "summary": "SAN DIEGO — Nearshoring continues to drive freight between the U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-30T19:23:17+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/nearshoring-growth-collides-with-tightening-us-mexico-trucking-capacity",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Transport and logistics news - 30 September 2026",
+        "summary": "New CHEP hub in Lacchiarella CHEP has opened its largest Italian service centre by pallet throughput in Lacchiarella, south of Milan, developed in partnership with AF Group.",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-09-29T15:21:23+00:00",
+        "timestamp": "2026-09-30T16:32:36+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/air-cargo-demand-outpaces-capacity-in-august-2026/",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-30-september-2026/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -145,15 +131,28 @@
         "confirmed_by": []
       },
       {
-        "title": "Maersk Revises Emergency Surcharge on India-Latin America Trade",
-        "summary": "Maersk has revised its emergency surcharge on cargo moving from the Indian Subcontinent to Latin America, reducing the additional cost applied to shipments on the trade lane.",
-        "source": "India Seatrade News",
-        "timestamp": "2026-09-29T18:51:18+00:00",
+        "title": "Flexport launches MCP Server for AI agents to book freight",
+        "summary": "Flexport launched a Model Context Protocol server on Tuesday that lets shippers’ AI agents track, quote, and book freight on its platform.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-09-29T22:19:22+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/maersk-revises-emergency-surcharge-on-india-latin-america-trade/",
+        "link": "https://www.freightwaves.com/news/flexport-mcp-server-ai-agents-freight-booking",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Rhine waters hit new historical low, add tension to rail and road transport",
+        "summary": "New historic lows in water levels have been recorded on Rhine in Germany in recent daysraising the prospect of increased disruption to barge traffic and the transfer of freight to",
+        "source": "RailFreight.com",
+        "timestamp": "2026-09-30T12:20:47+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/business/2026/09/30/rhine-waters-hit-new-historical-low-add-tension-to-rail-and-road-transport/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,32 +160,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
-        "summary": ""
-      },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -196,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-01",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Ocean rates highest in a year amid US-China trade truce; Nearshoring growth collides with tightening US-Mexico trucking capacity; Flexport launches MCP Server for AI agents to book freight",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-09-30",
         "write_now": "Maybe",
@@ -243,33 +250,25 @@
         "worth_attention_today": "5",
         "headline": "But no pandemic high: Asia-US container rate at $9,600; Freightos Weekly Update: Asia - Med rates back to pre-peak levels as Red Sea transits increase; New data shows Suez route transits rose 27% in August",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-24",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "China’s box ports continue to grow, investing in capacity and automation; Dual labor shocks in 2028? UPS, West Coast port bargaining to overlap; New report: US imports fell 4.5% in year after Liberation Day tariffs",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 321,
-      "high_trust": 89,
-      "trade_press": 232,
+      "total_items": 344,
+      "high_trust": 80,
+      "trade_press": 264,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-09-30.md",
-      "news_pipeline/output/digests/daily-digest-2026-09-30.md",
-      "news_pipeline/output/trends/daily-trends-2026-09-30.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-01.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-01.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-01.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-09-30",
-    "run_started_at": "2026-09-30T06:31:15+09:00",
+    "report_date": "2026-10-01",
+    "run_started_at": "2026-10-01T06:30:59+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -280,12 +279,12 @@
       "Latest lower-signal item came from GoComet: GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 7 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 8 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "7 days ago",
+    "last_signal_label": "8 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -364,25 +363,17 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Collaboration Tab Degraded in Movement - NA (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-09-17",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: FTP Service Issue – EU Production (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20260930T063115+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-09-30.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261001T063059+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-01.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W40",
-    "week_end_date": "2026-09-30",
+    "week_end_date": "2026-10-01",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -432,7 +423,7 @@
     "recent_history": [
       {
         "week_label": "2026-W40",
-        "week_end_date": "2026-09-30",
+        "week_end_date": "2026-10-01",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
