@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-01T21:33:33+00:00",
-  "requested_date": "2026-10-02",
+  "built_at": "2026-10-02T21:33:47+00:00",
+  "requested_date": "2026-10-03",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-02",
+    "requested_date": "2026-10-03",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container congestion risk between Asia and Europe in October 2026.",
+      "Lead daily item: Maersk Reduces Contingency Surcharges on India-Europe Trade.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-02",
+        "report_label": "2026-10-03",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-02",
+        "report_label": "2026-10-03",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 9 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 10 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,50 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-02",
-    "last_updated": "2026-10-02 06:31",
+    "report_date": "2026-10-03",
+    "last_updated": "2026-10-03 06:31",
     "freshness": "current",
-    "status_note": "Market watch is led by Container congestion risk between Asia and Europe in October 2026.",
+    "status_note": "Market watch is led by Maersk Reduces Contingency Surcharges on India-Europe Trade.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container congestion risk between Asia and Europe in October 2026.",
+      "Lead market story: Maersk Reduces Contingency Surcharges on India-Europe Trade.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Container congestion risk between Asia and Europe in October 2026; Global ports caught in a perfect storm; Colombo’s CWIT doubles capacity",
+      "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade; Trump’s ultimatum to Europe over diesel supplies; Rhine water levels hit record low, adding pressure on rail and road transport",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container congestion risk between Asia and Europe in October 2026",
+    "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade",
     "key_news_radar": [
       {
-        "title": "Container congestion risk between Asia and Europe in October 2026",
-        "summary": "On the Asia-North Europe trade, shipping lines have scheduled 1.50 million teu of capacity in the four weeks around China’s Golden Week, up 27% on 2025 and 60% above the 2017-2019",
+        "title": "Maersk Reduces Contingency Surcharges on India-Europe Trade",
+        "summary": "Maersk has reduced its contingency surcharges on cargo moving from the Indian Subcontinent to Europe, providing some relief to shippers facing additional costs on the trade lane.",
+        "source": "India Seatrade News",
+        "timestamp": "2026-10-02T18:46:10+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/maersk-reduces-contingency-surcharges-on-india-europe-trade/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Trump’s ultimatum to Europe over diesel supplies",
+        "summary": "Either the European Union releases 120 million barrels of diesel from its emergency stocks onto the market over the next six months, or the United States will block exports of its",
         "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-01T15:43:44+00:00",
+        "timestamp": "2026-10-02T12:09:47+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-congestion-risk-between-asia-and-europe-in-october-2026/",
+        "link": "https://www.trasportoeuropa.it/english/trumps-ultimatum-to-europe-over-diesel-supplies/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "english_archives_trasportoeuropa",
@@ -102,25 +115,12 @@
         "confirmed_by": []
       },
       {
-        "title": "Five dead on Honour 25 in battle with pirates",
-        "summary": "Puntland authorities retook the tanker Honour 25 on 29 September 2026, after it was hijacked on 21 April with seventeen seafarers on board.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-01T10:50:40+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/five-dead-on-honour-25-in-battle-with-pirates/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Global ports caught in a perfect storm",
-        "summary": "Global ports are facing a perfect storm as geopolitics, extreme weather and labour unrest reshape cargo flows, disrupt established trade routes and redraw the hierarchy of the worl",
+        "title": "Rhine water levels hit record low, adding pressure on rail and road transport",
+        "summary": "New historic lows in water levels have been recorded on the Rhine in Germany in recent days, raising the prospect of increased disruption to barge traffic and the transfer of freig",
         "source": "WorldCargo News",
-        "timestamp": "2026-10-01T06:15:53+00:00",
+        "timestamp": "2026-10-02T06:51:39+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/global-ports-caught-in-a-perfect-storm/",
+        "link": "https://www.worldcargonews.com/news/2026/10/rhine-water-levels-hit-record-low-adding-pressure-on-rail-and-road-transport/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -128,28 +128,31 @@
         "confirmed_by": []
       },
       {
-        "title": "Colombo’s CWIT doubles capacity",
-        "summary": "Colombo West International Terminal (CWIT), Sri Lanka’s first fully automated container terminal, has doubled its annual capacity to 3.2m TEU with the inauguration of a US$750m exp",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-01T07:43:59+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/10/colombos-cwit-doubles-capacity/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "China-US truce to reduce some tariffs, and likely postpone port fees - September 30, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 4%.",
+        "title": "Dockworkers protest at Port of Vancouver over automation, AI",
+        "summary": "About 100 dockworker union delegates from Canada, the United States, Australia and New Zealand rallied outside DP World’s Centerm container terminal at the Port of Vancouver last w",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-01T06:17:24+00:00",
+        "timestamp": "2026-10-02T17:10:16+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/china-us-truce-to-reduce-some-tariffs-and-likely-postpone-port-fees-september-30-2026-update/",
+        "link": "https://www.freightwaves.com/news/dockworkers-protest-at-port-of-vancouver-over-automation-ai",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Port of Rotterdam needs tens of billions of euros to remain competitive",
+        "summary": "The Port of Rotterdam will require tens of billions of euros in investment in sustainability and infrastructure by 2050 to remain globally competitive.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-02T08:08:05+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/10/port-of-rotterdam-needs-tens-of-billions-of-euros-to-remain-competitive/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,33 +160,49 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-03",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade; Trump’s ultimatum to Europe over diesel supplies; Rhine water levels hit record low, adding pressure on rail and road transport",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-02",
         "write_now": "Maybe",
@@ -231,33 +250,25 @@
         "worth_attention_today": "5",
         "headline": "World Maritime Day 2026: IMO Calls for Action as Conflict Puts Seafarers at Risk; Iran Offers Seven-Day Plan to Reopen Strait of Hormuz Amid US Diplomatic Push; Gulf Of Oman Ship-to-Ship Oil Transfers Reach Capacity As Saudi Exports Surge",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-26",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Could Washington Ban Diesel Exports? What Truckers Need to Know; The Hidden Cost Of Gate Congestion At Ports; Transport and logistics news - 25 September 2026",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 349,
-      "high_trust": 84,
-      "trade_press": 265,
+      "total_items": 267,
+      "high_trust": 57,
+      "trade_press": 210,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-02.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-02.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-02.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-03.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-03.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-03.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-02",
-    "run_started_at": "2026-10-02T06:31:52+09:00",
+    "report_date": "2026-10-03",
+    "run_started_at": "2026-10-03T06:31:38+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -268,12 +279,12 @@
       "Latest lower-signal item came from GoComet: GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 9 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 10 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "9 days ago",
+    "last_signal_label": "10 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -347,14 +358,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261002T063152+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-02.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261003T063138+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-03.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W40",
-    "week_end_date": "2026-10-02",
+    "week_end_date": "2026-10-03",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -404,7 +415,7 @@
     "recent_history": [
       {
         "week_label": "2026-W40",
-        "week_end_date": "2026-10-02",
+        "week_end_date": "2026-10-03",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
