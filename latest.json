@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-02T21:33:47+00:00",
-  "requested_date": "2026-10-03",
+  "built_at": "2026-10-03T21:32:27+00:00",
+  "requested_date": "2026-10-04",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-03",
+    "requested_date": "2026-10-04",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maersk Reduces Contingency Surcharges on India-Europe Trade.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade.",
+      "Competitor watch: Watch-level movement detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-03",
+        "report_label": "2026-10-04",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-03",
+        "report_label": "2026-10-04",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 10 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W40",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling AI positioning around unknown.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,95 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-03",
-    "last_updated": "2026-10-03 06:31",
+    "report_date": "2026-10-04",
+    "last_updated": "2026-10-04 06:30",
     "freshness": "current",
-    "status_note": "Market watch is led by Maersk Reduces Contingency Surcharges on India-Europe Trade.",
+    "status_note": "Market watch is led by Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maersk Reduces Contingency Surcharges on India-Europe Trade.",
+      "Lead market story: Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-03",
+      "report_date": "2026-10-04",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade; Trump’s ultimatum to Europe over diesel supplies; Rhine water levels hit record low, adding pressure on rail and road transport",
+      "headline": "Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade; Nippon Express launches five-day US delivery option for Asia-US ocean freight; YMX yard technology helps retailer trace $60,000 in missing freight",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade",
+    "headline": "Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade",
     "key_news_radar": [
       {
-        "title": "Maersk Reduces Contingency Surcharges on India-Europe Trade",
-        "summary": "Maersk has reduced its contingency surcharges on cargo moving from the Indian Subcontinent to Europe, providing some relief to shippers facing additional costs on the trade lane.",
-        "source": "India Seatrade News",
-        "timestamp": "2026-10-02T18:46:10+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/maersk-reduces-contingency-surcharges-on-india-europe-trade/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Trump’s ultimatum to Europe over diesel supplies",
-        "summary": "Either the European Union releases 120 million barrels of diesel from its emergency stocks onto the market over the next six months, or the United States will block exports of its",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-02T12:09:47+00:00",
+        "title": "Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade",
+        "summary": "DAR ES SALAAM, Tanzania — Dar es Salaam Port is handling ships faster while processing record cargo volumes, strengthening Tanzania’s role as an Indian Ocean gateway for trade exte",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-10-03T10:54:48+00:00",
         "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/trumps-ultimatum-to-europe-over-diesel-supplies/",
+        "link": "https://www.globaltrademag.com/dar-es-salaam-cuts-vessel-times-as-tanzania-expands-its-role-in-african-trade/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Rhine water levels hit record low, adding pressure on rail and road transport",
-        "summary": "New historic lows in water levels have been recorded on the Rhine in Germany in recent days, raising the prospect of increased disruption to barge traffic and the transfer of freig",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-02T06:51:39+00:00",
+        "title": "Sarbananda Sonowal calls on SCI to lead India’s Maritime and Shipbuilding Growth",
+        "summary": "MUMBAI: Union Minister for Ports, Shipping and Waterways Shri Sarbananda Sonowal has called upon the Shipping Corporation of India (SCI) to strengthen its role as a key driver of I",
+        "source": "India Shipping News",
+        "timestamp": "2026-10-03T03:53:31+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/10/rhine-water-levels-hit-record-low-adding-pressure-on-rail-and-road-transport/",
+        "link": "https://indiashippingnews.com/shipping/sarbananda-sonowal-calls-on-sci-to-lead-indias-maritime-and-shipbuilding-growth/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Dockworkers protest at Port of Vancouver over automation, AI",
-        "summary": "About 100 dockworker union delegates from Canada, the United States, Australia and New Zealand rallied outside DP World’s Centerm container terminal at the Port of Vancouver last w",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-02T17:10:16+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/dockworkers-protest-at-port-of-vancouver-over-automation-ai",
+        "title": "Unknown Projectile Hits Saudi Arabia’s Yanbu Port, Causing Fire & Halting Tanker Loading",
+        "summary": "Image for representation purposes only An unidentified projectile struck inside Saudi Arabia’s Yanbu port on Oct.",
+        "source": "Marine Insight",
+        "timestamp": "2026-10-03T11:43:35+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/unknown-projectile-hits-saudi-arabias-yanbu-port-causing-fire-halting-tanker-loading/?utm_source=rss&utm_medium=rss&utm_campaign=unknown-projectile-hits-saudi-arabias-yanbu-port-causing-fire-halting-tanker-loading",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "freightwaves_news"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Port of Rotterdam needs tens of billions of euros to remain competitive",
-        "summary": "The Port of Rotterdam will require tens of billions of euros in investment in sustainability and infrastructure by 2050 to remain globally competitive.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-02T08:08:05+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/10/port-of-rotterdam-needs-tens-of-billions-of-euros-to-remain-competitive/",
+        "title": "Nippon Express launches five-day US delivery option for Asia-US ocean freight",
+        "summary": "Nippon Express has expanded its NX Ocean Fast Track service with a new option offering delivery from the Port of Los Angeles to major destinations across the United States within f",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-10-03T07:30:42+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/nippon-express-launches-five-day-us-delivery-option-for-asia-us-ocean-freight/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Two Oil Tankers Hit By Unidentified Projectiles Near Strait Of Hormuz",
+        "summary": "Image for representation purposes only Two oil tankers have reportedly been targeted by unidentified projectiles near the Strait of Hormuz, as per the report issued by the UK Marit",
+        "source": "Marine Insight",
+        "timestamp": "2026-10-03T11:01:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/two-oil-tankers-hit-by-unidentified-projectiles-near-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=two-oil-tankers-hit-by-unidentified-projectiles-near-strait-of-hormuz",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,7 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -168,7 +165,7 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -177,15 +174,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -195,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-04",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade; Nippon Express launches five-day US delivery option for Asia-US ocean freight; YMX yard technology helps retailer trace $60,000 in missing freight",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-03",
         "write_now": "Maybe",
@@ -242,53 +247,44 @@
         "worth_attention_today": "5",
         "headline": "Trans-Pacific rates soar, Mediterranean sinks, and demand doesn’t explain either; Borderlands Mexico: Customs proposal raises concerns over border delays, cargo seizures; Etihad Rail inaugurates new Abu Dhabi-Fujairah freight link",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-27",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "World Maritime Day 2026: IMO Calls for Action as Conflict Puts Seafarers at Risk; Iran Offers Seven-Day Plan to Reopen Strait of Hormuz Amid US Diplomatic Push; Gulf Of Oman Ship-to-Ship Oil Transfers Reach Capacity As Saudi Exports Surge",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 267,
-      "high_trust": 57,
-      "trade_press": 210,
+      "total_items": 89,
+      "high_trust": 22,
+      "trade_press": 67,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-03.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-03.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-03.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-04.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-04.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-04.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-03",
-    "run_started_at": "2026-10-03T06:31:38+09:00",
+    "report_date": "2026-10-04",
+    "run_started_at": "2026-10-04T06:30:52+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from GoComet: GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 10 days ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "10 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -330,8 +326,30 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-04",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-09-23",
         "company": "GoComet",
@@ -347,49 +365,42 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-09-20",
-        "company": "Project44",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Project44 status page changed from Partially Degraded Service to Partially Degraded Service.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261003T063138+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-03.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261004T063052+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-04.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W40",
-    "week_end_date": "2026-10-03",
+    "week_end_date": "2026-10-04",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling AI positioning around unknown.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -409,17 +420,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance). Service Under Maintenance",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W40",
-        "week_end_date": "2026-10-03",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-10-04",
+        "takeaway": "Project44 is signaling AI positioning around unknown.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
