@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-04T21:32:42+00:00",
-  "requested_date": "2026-10-05",
+  "built_at": "2026-10-05T21:35:29+00:00",
+  "requested_date": "2026-10-06",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-05",
+    "requested_date": "2026-10-06",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Port Unions Demand Greater Protection for Indian Seafarers.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: DP World plots US port comeback with Corpus Christi container terminal.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-05",
+        "report_label": "2026-10-06",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-05",
+        "report_label": "2026-10-06",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,94 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-05",
-    "last_updated": "2026-10-05 06:31",
+    "report_date": "2026-10-06",
+    "last_updated": "2026-10-06 06:32",
     "freshness": "current",
-    "status_note": "Market watch is led by Port Unions Demand Greater Protection for Indian Seafarers.",
+    "status_note": "Market watch is led by DP World plots US port comeback with Corpus Christi container terminal.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Port Unions Demand Greater Protection for Indian Seafarers.",
+      "Lead market story: DP World plots US port comeback with Corpus Christi container terminal.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-05",
+      "report_date": "2026-10-06",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: Identity thieves target customs payments in cross-border freight; Hapag-Lloyd Changes LOLO Payment Rules for Chennai, Ennore; Port Unions Demand Greater Protection for Indian Seafarers",
+      "headline": "Dwell Time: The Hidden Cost Inside A RoRo Terminal; DP World plots US port comeback with Corpus Christi container terminal; Russia Strikes Liberian-Flagged Cargo Ship At Ukraine’s Odesa Port, Killing One",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Port Unions Demand Greater Protection for Indian Seafarers",
+    "headline": "DP World plots US port comeback with Corpus Christi container terminal",
     "key_news_radar": [
       {
-        "title": "Port Unions Demand Greater Protection for Indian Seafarers",
-        "summary": "Port and maritime unions have called for urgent measures to strengthen the safety and protection of Indian seafarers operating on conflict-affected shipping routes.",
-        "source": "India Seatrade News",
-        "timestamp": "2026-10-04T19:13:49+00:00",
+        "title": "DP World plots US port comeback with Corpus Christi container terminal",
+        "summary": "Global terminal operator DP World has taken another step toward returning to U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-05T17:59:12+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/port-unions-demand-greater-protection-for-indian-seafarers/",
+        "link": "https://www.freightwaves.com/news/dp-world-plots-us-port-comeback-with-corpus-christi-container-terminal",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Borderlands Mexico: Identity thieves target customs payments in cross-border freight",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-04T12:05:53+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-identity-thieves-target-customs-payments-in-cross-border-freight",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "freightwaves_news"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Iran Keeps Up Pace of Strikes With Attack on Brand New LR2 Tanker",
-        "summary": "On Sunday, Iran hit another tanker in the Strait of Hormuz, extending a fast-paced run of attacks on the \"shuttle\" shipping trade between Gulf oil pro...",
-        "source": "The Maritime Executive",
-        "timestamp": "2026-10-04T19:14:49+00:00",
-        "confidence": "medium",
-        "link": "https://maritime-executive.com/article/iran-keeps-up-pace-of-strikes-with-attack-on-brand-new-lr2-tanker",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "maritime_executive",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "European Union Technical study on the future of the ship energy efficiency measures",
-        "summary": "(www.MaritimeCyprus.com) This report reviews and provides recommendations on the energy efficiency framework of the IMO.",
-        "source": "Maritime Cyprus (Maritime Safety Innovation blog)",
-        "timestamp": "2026-10-04T19:30:39+00:00",
-        "confidence": "medium",
-        "link": "https://maritimecyprus.com/2026/10/04/european-union-technical-study-on-the-future-of-the-ship-energy-efficiency-measures/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "maritime_cyprus_blog",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Hapag-Lloyd Changes LOLO Payment Rules for Chennai, Ennore",
-        "summary": "Hapag-Lloyd has revised its payment procedures for lift-on/lift-off (LOLO) charges at Chennai and Ennore, introducing changes to the process applicable to customers handling contai",
-        "source": "India Seatrade News",
-        "timestamp": "2026-10-04T19:13:08+00:00",
+        "title": "5 Indians rescued after Kuwait-Flagged Tanker ‘MT Kazimah III’ struck in Strait of Hormuz",
+        "summary": "OMAN: Five Indian nationals aboard a Kuwait-flagged tanker were safely shifted ashore after the vessel was struck by a projectile in the Strait of Hormuz, the Embassy of India in O",
+        "source": "India Shipping News",
+        "timestamp": "2026-10-05T03:29:33+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/hapag-lloyd-changes-lolo-payment-rules-for-chennai-ennore/",
+        "link": "https://indiashippingnews.com/international-shipping/5-indians-rescued-after-kuwait-flagged-tanker-mt-kazimah-iii-struck-in-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "INTERVIEW: India-UK CETA opens New Trade Corridors, but Competitiveness will define the Winners, says WTCA",
+        "summary": "India Shipping News Exclusive Interview with Scott Wang, Vice President, Asia Pacific, WTCA, and Badal Saboo, Business Development Lead, India & Asia Pacific, WTCA India-UK CETA ha",
+        "source": "India Shipping News",
+        "timestamp": "2026-10-05T03:42:28+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/trade/interview-india-uk-ceta-opens-new-trade-corridors-but-competitiveness-will-define-the-winners-says-wtca/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Dwell Time: The Hidden Cost Inside A RoRo Terminal",
+        "summary": "Image for representation purposes only For most cargo terminals, available land and storage capacity play a major role in determining how much cargo a terminal can handle.",
+        "source": "Marine Insight",
+        "timestamp": "2026-10-05T12:25:57+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/dwell-time-the-hidden-cost-inside-a-roro-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=dwell-time-the-hidden-cost-inside-a-roro-terminal",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Ocean Freight Risk: Late Is Now the Likely Outcome",
+        "summary": "#fwtv_fdqa10spKw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_fdqa10spKw .fwtv-panel p{margin:0 0 12px}#fwtv_fdqa10spKw .fwtv-note{font",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-05T14:23:02+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/ocean-freight-risk-late-is-now-the-likely-outcome",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,32 +159,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -194,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-06",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Dwell Time: The Hidden Cost Inside A RoRo Terminal; DP World plots US port comeback with Corpus Christi container terminal; Russia Strikes Liberian-Flagged Cargo Ship At Ukraine’s Odesa Port, Killing One",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-05",
         "write_now": "Maybe",
@@ -241,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Transport and logistics news - 29 September 2026; 10 Blind Spots in Cold Chain Risk Management You Might Not Know You Have; Maersk Revises Emergency Surcharge on India-Latin America Trade",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-29",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Transport and logistics news - 28 September 2026; Italian port workers begin 24-hour national strike; No mention of U.S.-China ship taxes in trade truce",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 68,
-      "high_trust": 16,
-      "trade_press": 52,
+      "total_items": 325,
+      "high_trust": 77,
+      "trade_press": 248,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-05.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-05.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-05.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-06.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-06.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-06.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-05",
-    "run_started_at": "2026-10-05T06:31:01+09:00",
+    "report_date": "2026-10-06",
+    "run_started_at": "2026-10-06T06:32:19+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page returned to all systems operational."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,21 +329,16 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
+    "watch_items": [],
+    "recent_signal_history": [
       {
+        "detected_date": "2026-10-05",
         "company": "Project44",
         "importance": "watch",
+        "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
-    "recent_signal_history": [
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-10-04",
         "company": "Project44",
@@ -358,25 +354,17 @@
         "signal_type": "press announcement",
         "summary": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
         "source_url": "https://www.gocomet.com/company/media-coverage"
-      },
-      {
-        "detected_date": "2026-09-22",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261005T063101+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-05.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261006T063219+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-06.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W41",
-    "week_end_date": "2026-10-05",
+    "week_end_date": "2026-10-06",
     "freshness": "current",
     "status_note": "Project44 is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -397,7 +385,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Continue building weekly history and watch for repeated motifs before making a directional change."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -441,7 +429,7 @@
     "recent_history": [
       {
         "week_label": "2026-W41",
-        "week_end_date": "2026-10-05",
+        "week_end_date": "2026-10-06",
         "takeaway": "Project44 is signaling unknown around unknown.",
         "signal_count": "1",
         "active_thesis_count": "0",
