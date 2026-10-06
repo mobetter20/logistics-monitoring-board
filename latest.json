@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-05T21:35:29+00:00",
-  "requested_date": "2026-10-06",
+  "built_at": "2026-10-06T21:36:03+00:00",
+  "requested_date": "2026-10-07",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-06",
+    "requested_date": "2026-10-07",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: DP World plots US port comeback with Corpus Christi container terminal.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Durban terminal delays drag on as minister calls for action to clear backlog.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-06",
+        "report_label": "2026-10-07",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-06",
+        "report_label": "2026-10-07",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 press releases announced \"Predictive Delivery Dates Predictive pre-purchase delivery dates",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W41",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling unknown around unknown.",
+        "summary": "Project44 is signaling AI positioning around in transit visibility.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,78 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-06",
-    "last_updated": "2026-10-06 06:32",
+    "report_date": "2026-10-07",
+    "last_updated": "2026-10-07 06:32",
     "freshness": "current",
-    "status_note": "Market watch is led by DP World plots US port comeback with Corpus Christi container terminal.",
+    "status_note": "Market watch is led by Durban terminal delays drag on as minister calls for action to clear backlog.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: DP World plots US port comeback with Corpus Christi container terminal.",
+      "Lead market story: Durban terminal delays drag on as minister calls for action to clear backlog.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-06",
+      "report_date": "2026-10-07",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Dwell Time: The Hidden Cost Inside A RoRo Terminal; DP World plots US port comeback with Corpus Christi container terminal; Russia Strikes Liberian-Flagged Cargo Ship At Ukraine’s Odesa Port, Killing One",
+      "headline": "Durban terminal delays drag on as minister calls for action to clear backlog; Sea-Intelligence: Asian port congestion could persist into mid-2027; ZIM Raises Full-Year 2026 Guidance",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "DP World plots US port comeback with Corpus Christi container terminal",
+    "headline": "Durban terminal delays drag on as minister calls for action to clear backlog",
     "key_news_radar": [
       {
-        "title": "DP World plots US port comeback with Corpus Christi container terminal",
-        "summary": "Global terminal operator DP World has taken another step toward returning to U.S.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-05T17:59:12+00:00",
+        "title": "Durban terminal delays drag on as minister calls for action to clear backlog",
+        "summary": "Durban Gateway Terminal (DGT) is still facing severe vessel and landside delays following the August migration to the a new instance of the Navis N4 terminal operating system, with",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-06T10:07:53+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/dp-world-plots-us-port-comeback-with-corpus-christi-container-terminal",
+        "link": "https://www.worldcargonews.com/news/2026/10/durban-terminal-delays-drag-on-as-minister-calls-for-action-to-clear-backlog/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "5 Indians rescued after Kuwait-Flagged Tanker ‘MT Kazimah III’ struck in Strait of Hormuz",
-        "summary": "OMAN: Five Indian nationals aboard a Kuwait-flagged tanker were safely shifted ashore after the vessel was struck by a projectile in the Strait of Hormuz, the Embassy of India in O",
-        "source": "India Shipping News",
-        "timestamp": "2026-10-05T03:29:33+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/5-indians-rescued-after-kuwait-flagged-tanker-mt-kazimah-iii-struck-in-strait-of-hormuz/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "INTERVIEW: India-UK CETA opens New Trade Corridors, but Competitiveness will define the Winners, says WTCA",
-        "summary": "India Shipping News Exclusive Interview with Scott Wang, Vice President, Asia Pacific, WTCA, and Badal Saboo, Business Development Lead, India & Asia Pacific, WTCA India-UK CETA ha",
-        "source": "India Shipping News",
-        "timestamp": "2026-10-05T03:42:28+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/trade/interview-india-uk-ceta-opens-new-trade-corridors-but-competitiveness-will-define-the-winners-says-wtca/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Dwell Time: The Hidden Cost Inside A RoRo Terminal",
-        "summary": "Image for representation purposes only For most cargo terminals, available land and storage capacity play a major role in determining how much cargo a terminal can handle.",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-05T12:25:57+00:00",
+        "title": "ZIM Raises Full-Year 2026 Guidance",
+        "summary": "//<![CDATA[ .q4default span.prnews_span { font-size: 8pt; font-family: \"Arial\"; color: rgb(0, 0, 0) } .q4default a.prnews_a { color: rgb(0, 0, 255) } .q4default li.prnews_li { font",
+        "source": "ZIM Integrated Shipping — Press Releases (Investor Relations)",
+        "timestamp": "2026-10-06T20:05:00+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/dwell-time-the-hidden-cost-inside-a-roro-terminal/?utm_source=rss&utm_medium=rss&utm_campaign=dwell-time-the-hidden-cost-inside-a-roro-terminal",
+        "link": "https://investors.zim.com/news/news-details/2026/ZIM-Raises-Full-Year-2026-Guidance/default.aspx",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "zim_investor_relations",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Saudi-Backed Yemeni Forces Claim Control Of Strategic Bab el-Mandeb Strait",
+        "summary": "Image for representation purposes only Saudi-backed Yemeni government forces said they had secured control of the Bab el-Mandeb Strait after a rapid advance along Yemen’s Red Sea c",
+        "source": "Marine Insight",
+        "timestamp": "2026-10-06T11:31:51+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/saudi-backed-yemeni-forces-claim-control-of-strategic-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-backed-yemeni-forces-claim-control-of-strategic-bab-el-mandeb-strait",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
@@ -143,15 +128,28 @@
         "confirmed_by": []
       },
       {
-        "title": "Ocean Freight Risk: Late Is Now the Likely Outcome",
-        "summary": "#fwtv_fdqa10spKw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_fdqa10spKw .fwtv-panel p{margin:0 0 12px}#fwtv_fdqa10spKw .fwtv-note{font",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-05T14:23:02+00:00",
+        "title": "Premier Alliance joins Red Sea return - October 6, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) decreased 1%.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-06T13:33:50+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ocean-freight-risk-late-is-now-the-likely-outcome",
+        "link": "https://www.freightos.com/freight-resources/premier-alliance-joins-red-sea-return-october-6-2026-update/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Sea-Intelligence: Asian port congestion could persist into mid-2027",
+        "summary": "Congestion at Asian ports, driven by the latest typhoon season, has pushed global container shipping schedule reliability below 50% for the first time since the pandemic, according",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-06T09:01:43+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/10/sea-intelligence-asian-port-congestion-could-persist-into-mid-2027/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -163,7 +161,7 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
@@ -171,7 +169,7 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
@@ -180,7 +178,7 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-07",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Durban terminal delays drag on as minister calls for action to clear backlog; Sea-Intelligence: Asian port congestion could persist into mid-2027; ZIM Raises Full-Year 2026 Guidance",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-06",
         "write_now": "Maybe",
@@ -241,49 +247,40 @@
         "worth_attention_today": "5",
         "headline": "Ocean rates highest in a year amid US-China trade truce; Nearshoring growth collides with tightening US-Mexico trucking capacity; Flexport launches MCP Server for AI agents to book freight",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-09-30",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Transport and logistics news - 29 September 2026; 10 Blind Spots in Cold Chain Risk Management You Might Not Know You Have; Maersk Revises Emergency Surcharge on India-Latin America Trade",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 325,
-      "high_trust": 77,
-      "trade_press": 248,
+      "total_items": 338,
+      "high_trust": 82,
+      "trade_press": 256,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-06.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-06.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-06.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-07.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-07.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-07.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-06",
-    "run_started_at": "2026-10-06T06:32:19+09:00",
+    "report_date": "2026-10-07",
+    "run_started_at": "2026-10-07T06:32:32+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 status page returned to all systems operational."
+      "Newest meaningful competitor move: Project44 Project44 press releases announced \"Predictive Delivery Dates Predictive pre-purchase delivery dates",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 2,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,9 +325,52 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 press releases announced \"Predictive Delivery Dates Predictive pre-purchase delivery dates",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Predictive Delivery Dates Predictive pre-purchase delivery dates",
+        "source_url": "https://www.project44.com/platform/ecommerce/predictive-delivery-dates/",
+        "evidence": [
+          "Predictive Delivery Dates Predictive pre-purchase delivery dates",
+          "Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount."
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 press releases announced \"Consumer Visibility Post-purchase consumer visibility",
+        "signal_type": "press_announcement",
+        "page_slug": "press",
+        "source_title": "Consumer Visibility Post-purchase consumer visibility",
+        "source_url": "https://www.project44.com/platform/ecommerce/consumer-visibility/",
+        "evidence": [
+          "Consumer Visibility Post-purchase consumer visibility",
+          "Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount."
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-07",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Project44 press releases announced \"Predictive Delivery Dates Predictive pre-purchase delivery dates",
+        "source_url": "https://www.project44.com/platform/ecommerce/predictive-delivery-dates/"
+      },
+      {
+        "detected_date": "2026-10-07",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "press announcement",
+        "summary": "Project44 press releases announced \"Consumer Visibility Post-purchase consumer visibility",
+        "source_url": "https://www.project44.com/platform/ecommerce/consumer-visibility/"
+      },
       {
         "detected_date": "2026-10-05",
         "company": "Project44",
@@ -346,46 +386,44 @@
         "signal_type": "status change",
         "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-09-23",
-        "company": "GoComet",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "GoComet press releases announced \"Media Coverage GoComet in the news. Check what the buzz is all about",
-        "source_url": "https://www.gocomet.com/company/media-coverage"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261006T063219+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-06.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261007T063232+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-07.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W41",
-    "week_end_date": "2026-10-06",
+    "week_end_date": "2026-10-07",
     "freshness": "current",
-    "status_note": "Project44 is signaling unknown around unknown.",
+    "status_note": "Project44 is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling unknown around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Project44 is signaling AI positioning around in transit visibility.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "Project44 is signaling AI positioning around in transit visibility.",
+      "Project44 is signaling AI positioning around exception management.",
       "Project44 is signaling unknown around unknown."
     ],
     "strategic_movements": [
+      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing AI positioning around exception management with the claimed outcome of reduced manual work.",
       "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Continue building weekly history and watch for repeated motifs before making a directional change."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -408,9 +446,23 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 3,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Consumer Visibility Post-purchase consumer visibility",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 press releases announced \"Consumer Visibility Post-purchase consumer visibility\" -> suggests expansion into AI-driven optimization and execution Consumer Visibility Post-purchase consumer visibility",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/platform/ecommerce/consumer-visibility/"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 status page returned to all systems operational.",
@@ -429,11 +481,11 @@
     "recent_history": [
       {
         "week_label": "2026-W41",
-        "week_end_date": "2026-10-06",
-        "takeaway": "Project44 is signaling unknown around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-10-07",
+        "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
+        "signal_count": "3",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "Project44|direct_competitor|product_update|18a5c7583f601eb4f79599b1a877923fa2da5dde || Project44|direct_competitor|product_update|aaca878d248f127e7dc39eea155d154b2899e765 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
