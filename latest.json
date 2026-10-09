@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-08T19:47:38+00:00",
-  "requested_date": "2026-10-09",
+  "built_at": "2026-10-09T19:48:01+00:00",
+  "requested_date": "2026-10-10",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-09",
+    "requested_date": "2026-10-10",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Global container volumes hit record 17.46 million TEUs.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-09",
+        "report_label": "2026-10-10",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-09",
+        "report_label": "2026-10-10",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-09",
-    "last_updated": "2026-10-09 04:46",
+    "report_date": "2026-10-10",
+    "last_updated": "2026-10-10 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Global container volumes hit record 17.46 million TEUs.",
+    "status_note": "Market watch is led by Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Global container volumes hit record 17.46 million TEUs.",
+      "Lead market story: Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Global container volumes hit record 17.46 million TEUs; AI gold rush transforms trans-Pacific trade and logistics; Hurricane Isaias: Category 3 Threat to Gulf & Supply Chain",
+      "headline": "First hurricane to reach U.S. in 2026 could arrive by Friday night; Germany finalises overhaul of DB’s troubled corridor renovation plan, eight delayed projects named; DP World signs 15-year NCT concession amid worker opposition in Bangladesh",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Global container volumes hit record 17.46 million TEUs",
+    "headline": "Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict",
     "key_news_radar": [
       {
-        "title": "Global container volumes hit record 17.46 million TEUs",
-        "summary": "Global container shipping volumes reached a record 17.46 million twenty-foot equivalent units in August, while freight pricing climbed to its highest level in more than two years,",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-08T18:20:17+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/global-container-volumes-hit-record-17-46-million-teus",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Factory backlogs build as freight and steel costs climb",
-        "summary": "factories rose 0.6% to $1,609.6 billion in August, and shipments stalled, the Census Bureau said in its Oct.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-08T16:30:58+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/factory-backlogs-freight-steel-costs",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "AI gold rush transforms trans-Pacific trade and logistics",
-        "summary": "The artificial intelligence infrastructure boom is creating significant new trade flows and opportunities for third-party logistics providers and carriers.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-08T14:52:07+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ai-gold-rush-transforms-trans-pacific-trade-and-logistics",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Hurricane Isaias: Category 3 Threat to Gulf & Supply Chain",
-        "summary": "#fwtv_50EBU11H0S0 .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_50EBU11H0S0 .fwtv-panel p{margin:0 0 12px}#fwtv_50EBU11H0S0 .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-07T21:26:57+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/hurricane-isaias-category-3-threat-to-gulf-supply-chain",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Tanker Captains Offered $100,000 A Month Plus Bonus To Transit Strait Of Hormuz",
-        "summary": "Image for representation purposes only Oil tanker captains sailing through the Strait of Hormuz are being offered up to $100,000 a month, plus a $50,000 bonus for each crossing.",
+        "title": "Maersk Raises UK & Ireland Inland Fuel Surcharges Amid Middle East Conflict",
+        "summary": "Image for representation purposes only A.P.",
         "source": "Marine Insight",
-        "timestamp": "2026-10-08T13:21:02+00:00",
+        "timestamp": "2026-10-09T12:42:01+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/tanker-captains-offered-100000-a-month-plus-bonus-to-transit-strait-of-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=tanker-captains-offered-100000-a-month-plus-bonus-to-transit-strait-of-hormuz",
+        "link": "https://www.marineinsight.com/maersk-raises-uk-ireland-inland-fuel-surcharges-amid-middle-east-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=maersk-raises-uk-ireland-inland-fuel-surcharges-amid-middle-east-conflict",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Germany finalises overhaul of DB’s troubled corridor renovation plan, eight delayed projects named",
+        "summary": "Germany has formally agreed a five-point overhaul of Deutsche Bahn’s troubled Generalsanierung programme, with a revised timetable revealing which major corridor renovations have b",
+        "source": "RailFreight.com",
+        "timestamp": "2026-10-09T14:24:23+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/railfreight/2026/10/09/germany-finalises-overhaul-of-dbs-troubled-corridor-renovation-plan-eight-delayed-projects-named/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "railfreight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "First hurricane to reach U.S. in 2026 could arrive by Friday night",
+        "summary": "The first major storm of the 2026 Atlantic hurricane season strengthened to dangerous category 3 status over the Gulf of Mexico last night, but is forecasted to weaken quickly once",
+        "source": "DC Velocity",
+        "timestamp": "2026-10-09T14:08:46+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/supply-chain/other-services/disaster-response/first-hurricane-to-reach-u-s-in-2026-could-arrive-by-friday-night",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "dcvelocity",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "DP World signs 15-year NCT concession amid worker opposition in Bangladesh",
+        "summary": "DP World has signed a 15-year concession with the Chittagong Port Authority (CPA) to operate and maintain the New Mooring Container Terminal (NCT) and its Overflow Container Yard a",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-09T07:37:52+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/10/dp-world-signs-15-year-nct-concession-amid-worker-opposition-in-bangladesh/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Trucking Rates Spike: Contracts at 52-Week High",
+        "summary": "#fwtv_zgPsNoyuRFk .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_zgPsNoyuRFk .fwtv-panel p{margin:0 0 12px}#fwtv_zgPsNoyuRFk .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-09T18:26:42+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/trucking-rates-spike-contracts-at-52-week-high",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +159,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -166,19 +168,23 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -188,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-10",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "First hurricane to reach U.S. in 2026 could arrive by Friday night; Germany finalises overhaul of DB’s troubled corridor renovation plan, eight delayed projects named; DP World signs 15-year NCT concession amid worker opposition in Bangladesh",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-09",
         "write_now": "Maybe",
@@ -235,49 +249,40 @@
         "worth_attention_today": "5",
         "headline": "Dar es Salaam Cuts Vessel Times as Tanzania Expands Its Role in African Trade; Nippon Express launches five-day US delivery option for Asia-US ocean freight; YMX yard technology helps retailer trace $60,000 in missing freight",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-03",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Maersk Reduces Contingency Surcharges on India-Europe Trade; Trump’s ultimatum to Europe over diesel supplies; Rhine water levels hit record low, adding pressure on rail and road transport",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 305,
-      "high_trust": 71,
-      "trade_press": 234,
+      "total_items": 315,
+      "high_trust": 67,
+      "trade_press": 248,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-09.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-09.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-09.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-10.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-10.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-10.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-09",
-    "run_started_at": "2026-10-09T04:46:02+09:00",
+    "report_date": "2026-10-10",
+    "run_started_at": "2026-10-10T04:46:19+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 press releases announced \"Predictive Delivery Dates Predictive pre-purchase delivery dates"
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -322,9 +327,30 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
+        "source_url": "https://www.project44.com/",
+        "evidence": [
+          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network. Jamie Bragg EVP & Chief Supply Chain Office at Tailored Brands"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-10",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "detected_date": "2026-10-07",
         "company": "Project44",
@@ -359,14 +385,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261009T044602+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-09.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261010T044619+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-10.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W41",
-    "week_end_date": "2026-10-09",
+    "week_end_date": "2026-10-10",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -380,11 +406,12 @@
     "executive_takeaways": [
       "Project44 is signaling AI positioning around in transit visibility.",
       "Project44 is signaling AI positioning around exception management.",
-      "Project44 is signaling unknown around unknown."
+      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning."
     ],
     "strategic_movements": [
       "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work.",
       "Project44 (direct competitor) is pushing AI positioning around exception management with the claimed outcome of reduced manual work.",
+      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
       "Project44 (direct competitor) is pushing unknown."
     ],
     "team_implications": [
@@ -392,7 +419,8 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -415,7 +443,7 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 3,
+    "important_signal_count": 4,
     "active_theses": [],
     "top_signals": [
       {
@@ -450,11 +478,11 @@
     "recent_history": [
       {
         "week_label": "2026-W41",
-        "week_end_date": "2026-10-09",
+        "week_end_date": "2026-10-10",
         "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
-        "signal_count": "3",
+        "signal_count": "4",
         "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|product_update|18a5c7583f601eb4f79599b1a877923fa2da5dde || Project44|direct_competitor|product_update|aaca878d248f127e7dc39eea155d154b2899e765 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
+        "signal_signature": "Project44|direct_competitor|product_update|18a5c7583f601eb4f79599b1a877923fa2da5dde || Project44|direct_competitor|product_update|aaca878d248f127e7dc39eea155d154b2899e765 || Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
