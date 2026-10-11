@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-10T19:47:43+00:00",
-  "requested_date": "2026-10-11",
+  "built_at": "2026-10-11T19:47:21+00:00",
+  "requested_date": "2026-10-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-11",
+    "requested_date": "2026-10-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage.",
+      "Lead daily item: Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge.",
       "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Signal set changed."
+      "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-11",
+        "report_label": "2026-10-12",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,21 +36,21 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-11",
+        "report_label": "2026-10-12",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W41",
+        "report_label": "2026-W42",
         "freshness": "current",
-        "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around in transit visibility.",
-        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
+        "change_label": "Low-change week",
+        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,92 +64,98 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-11",
-    "last_updated": "2026-10-11 04:46",
+    "report_date": "2026-10-12",
+    "last_updated": "2026-10-12 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage.",
+    "status_note": "Market watch is led by Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage.",
+      "Lead market story: Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-11",
+      "report_date": "2026-10-12",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "U.S. Navy To Build First 160-Meter Missile-Tracking Ship For Pacific Defense Tests; New York Fed Study: Trump Tariffs Raised Consumer Goods Prices 2.9% by February 2026; TIDCO invites proposals to select consultant for setting up multi-modal logistics hub in Tiruchi",
+      "headline": "Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge; Orlando trucking owner pleads guilty in $1M USPS freight auction fraud; Maersk raises Durban congestion fee",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage",
+    "headline": "Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge",
     "key_news_radar": [
       {
-        "title": "Oil Tanker With 22 Indian Seafarers Becomes Target Of Drone Attack At Sharjah Anchorage",
-        "summary": "Image for representation purposes only A crude oil tanker, MT GEM No.2, sailing under the flag of Panama with 22 Indian crew members, became the target of a drone attack at the Sha",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-10T11:21:49+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/oil-tanker-with-22-indian-seafarers-becomes-target-of-drone-attack-at-sharjah-anchorage/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-with-22-indian-seafarers-becomes-target-of-drone-attack-at-sharjah-anchorage",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Ethanol Emerges as Potential Alternative Fuel for the Shipping Industry",
-        "summary": "The shipping industry could gain another option in its transition to lower-emission operations, with new research identifying ethanol as a potential marine fuel for both methanol-c",
+        "title": "Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-10T13:26:05+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/ethanol-emerges-as-potential-alternative-fuel-for-the-shipping-industry/",
+        "timestamp": "2026-10-11T12:27:33+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-us-takes-76-of-vehicle-exports-as-september-shipments-plunge",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "TIDCO invites proposals to select consultant for setting up multi-modal logistics hub in Tiruchi",
-        "summary": "CHENNAI: The Tamil Nadu Industrial Development Corporation Limited (TIDCO) has floated a tender to select a consultant to prepare a Detailed Feasibility Report and Project Structur",
-        "source": "India Shipping News",
-        "timestamp": "2026-10-10T03:46:16+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/logistics/tidco-invites-proposals-to-select-consultant-for-setting-up-multi-modal-logistics-hub-in-tiruchi/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Sri Lanka Weighs U.S. Sanction Risks As Stranded Iranian Ships Run Low On Supplies",
-        "summary": "Image for representation purposes only At least 19 Iranian cargo ships are stranded off Sri Lanka with fuel, food, and water supplies running low.",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-10T11:02:56+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/sri-lanka-weighs-u-s-sanction-risks-as-stranded-iranian-ships-run-low-on-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=sri-lanka-weighs-u-s-sanction-risks-as-stranded-iranian-ships-run-low-on-supplies",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "New York Fed Study: Trump Tariffs Raised Consumer Goods Prices 2.9% by February 2026",
-        "summary": "Researchers at the New York Fed have concluded that tariffs imposed by President Donald Trump raised the level of consumer goods prices by 2.9% as of February 2026, and that prices",
+        "title": "Orlando trucking owner pleads guilty in $1M USPS freight auction fraud",
+        "summary": "An Orlando trucking and freight brokerage owner has pleaded guilty in a scheme that collected more than $1 million, federal prosecutors announced Friday.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-10T12:27:07+00:00",
+        "timestamp": "2026-10-11T12:27:33+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/new-york-fed-study-trump-tariffs-raised-consumer-goods-prices-2-9-by-february-2026/",
+        "link": "https://www.freightwaves.com/news/orlando-trucking-owner-pleads-guilty-in-1m-usps-freight-auction-fraud",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Hapag-Lloyd completes first biomethanol bunkering",
+        "summary": "Hapag-Lloyd has completed its first simultaneous operations (SIMOPS) bunkering of ISCC EU-certified biomethanol supplied by Goldwind to the 10,100-TEU Seaspan Amazon in Busan, Sout",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-11T05:55:36+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/10/hapag-lloyd-completes-first-biomethanol-bunkering/",
+        "label": "Watch",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Maersk raises Durban congestion fee",
+        "summary": "Maersk will increase its Congestion Fee Destination (CFD) for imports from Far East Asia, the Indian Subcontinent and the Middle East to Durban.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-10-11T01:05:01+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/maersk-raises-durban-congestion-fee/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "More Tankers Hit in Hormuz as U.S. Strikes Cargo Ship",
+        "summary": "Two more tankers have been struck in the Strait of Hormuz as U.S.",
+        "source": "gCaptain",
+        "timestamp": "2026-10-11T14:28:20+00:00",
+        "confidence": "medium",
+        "link": "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "gcaptain",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -166,6 +172,10 @@
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
@@ -178,7 +188,7 @@
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -188,6 +198,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge; Orlando trucking owner pleads guilty in $1M USPS freight auction fraud; Maersk raises Durban congestion fee",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-11",
         "write_now": "Maybe",
@@ -235,33 +253,25 @@
         "worth_attention_today": "5",
         "headline": "Dwell Time: The Hidden Cost Inside A RoRo Terminal; DP World plots US port comeback with Corpus Christi container terminal; Russia Strikes Liberian-Flagged Cargo Ship At Ukraine’s Odesa Port, Killing One",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Borderlands Mexico: Identity thieves target customs payments in cross-border freight; Hapag-Lloyd Changes LOLO Payment Rules for Chennai, Ennore; Port Unions Demand Greater Protection for Indian Seafarers",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 102,
-      "high_trust": 19,
-      "trade_press": 83,
+      "total_items": 41,
+      "high_trust": 4,
+      "trade_press": 37,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-11",
-    "run_started_at": "2026-10-11T04:46:05+09:00",
+    "report_date": "2026-10-12",
+    "run_started_at": "2026-10-12T04:46:03+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -272,12 +282,12 @@
       "Latest lower-signal item came from FourKites: FourKites homepage added stronger platform / control tower language"
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -375,48 +385,38 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261011T044605+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261012T044603+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W41",
-    "week_end_date": "2026-10-11",
+    "week_label": "2026-W42",
+    "week_end_date": "2026-10-12",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around in transit visibility.",
+    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around in transit visibility.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
-    "change_label": "Signal set changed",
-    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
+    "change_label": "Low-change week",
+    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around in transit visibility.",
-      "Project44 is signaling AI positioning around exception management.",
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning."
+      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around exception management with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "FourKites (direct competitor) is pushing scope expansion around end to end orchestration with the claimed outcome of greater control.",
-      "Project44 (direct competitor) is pushing unknown."
+      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
     ],
     "team_implications": [
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-      "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Decide explicitly where we wants to widen workflow ownership versus where it should partner or counter-position against broader platform narratives.",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -436,53 +436,20 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 5,
+    "important_signal_count": 0,
     "active_theses": [],
-    "top_signals": [
-      {
-        "entity_name": "Project44",
-        "source_title": "Consumer Visibility Post-purchase consumer visibility",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "reduced manual work",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 press releases announced \"Consumer Visibility Post-purchase consumer visibility\" -> suggests expansion into AI-driven optimization and execution Consumer Visibility Post-purchase consumer visibility",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/platform/ecommerce/consumer-visibility/"
-      },
-      {
-        "entity_name": "FourKites",
-        "source_title": "FourKites homepage added stronger platform / control tower language -> signals a broader platform / control tower story",
-        "source_layer": "direct competitor",
-        "strategic_move": "Scope expansion",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "greater control",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "FourKites homepage added stronger platform / control tower language -> signals a broader platform / control tower story {{outcomes-count-total}} outcomes. 5 domains. One platform.",
-        "team_implication": "Broader platform narratives are strengthening; this makes it more important to decide where to counter-position and where to widen workflow ownership.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.fourkites.com/"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_layer": "direct competitor",
-        "strategic_move": "Unknown",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 status page returned to all systems operational. All Systems Operational",
-        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-        "emerging_motif": "unknown",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
-      }
-    ],
+    "top_signals": [],
     "recent_history": [
+      {
+        "week_label": "2026-W42",
+        "week_end_date": "2026-10-12",
+        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+        "signal_count": "0",
+        "active_thesis_count": "0",
+        "signal_signature": "",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W41",
         "week_end_date": "2026-10-11",
@@ -512,21 +479,11 @@
         "signal_signature": "GoComet|direct_competitor|product_update|2f3c50eefad6d94a4c8a4da68178fec5710c1711 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W38",
-        "week_end_date": "2026-09-20",
-        "takeaway": "Project44 is signaling narrative shift around unknown.",
-        "signal_count": "1",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W41.json",
-      "strategic_intelligence/output/weekly-memo-2026-W41.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W42.json",
+      "strategic_intelligence/output/weekly-memo-2026-W42.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
