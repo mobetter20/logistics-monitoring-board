@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-12T19:47:24+00:00",
-  "requested_date": "2026-10-13",
+  "built_at": "2026-10-13T19:47:32+00:00",
+  "requested_date": "2026-10-14",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-13",
+    "requested_date": "2026-10-14",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Transport and logistics news - 12 October 2026.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-13",
+        "report_label": "2026-10-14",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-13",
+        "report_label": "2026-10-14",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W42",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling unknown around in transit visibility.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-13",
-    "last_updated": "2026-10-13 04:46",
+    "report_date": "2026-10-14",
+    "last_updated": "2026-10-14 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Transport and logistics news - 12 October 2026.",
+    "status_note": "Market watch is led by Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Transport and logistics news - 12 October 2026.",
+      "Lead market story: Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-13",
+      "report_date": "2026-10-14",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Transport and logistics news - 12 October 2026; Hili Land Port to Suspend Import-Export Operations for Seven Days; Russia Says It Hit Ukrainian Data Centre And Military Cargo Ship At Chornomorsk Port",
+      "headline": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time; Shippers waiting an extra week for US-bound containers; Over 60 Countries Oppose Tolls on International Shipping Routes Amid Strait of Hormuz Crisis",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Transport and logistics news - 12 October 2026",
+    "headline": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time",
     "key_news_radar": [
       {
-        "title": "Transport and logistics news - 12 October 2026",
-        "summary": "Global container traffic hits record high Global maritime container traffic reached a new monthly record in August 2026, with 17.46 million TEU transported, according to data from",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-12T17:20:30+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-12-october-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Los Angeles - a booming harbour in a storm",
-        "summary": "The port of Los Angeles set an all time monthly record for container throughput in September as shippers opted for the “shorter, quicker route to market” while taking advantage of",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-12T02:14:09+00:00",
+        "title": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time",
+        "summary": "Volumes are growing, but in the face of geopolitical challenges and regulatory change, companies are shipping their goods earlier and adjusting their transport strategies to build",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-13T09:09:21+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/los-angeles-a-booming-harbour-in-a-storm/",
+        "link": "https://www.globaltrademag.com/peak-shipping-season-2026-higher-volumes-and-shipments-more-spread-over-time/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Iran Attacks 3 Tankers Near Oman And Strait Of Hormuz After U.S. Disables Bulker",
-        "summary": "Screengrab from X video Three tankers came under attack near Oman and the Strait of Hormuz over the weekend, while US forces struck a cargo ship accused of trying to violate the US",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-12T13:51:28+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/iran-attacks-3-tankers-near-oman-and-strait-of-hormuz-after-u-s-disables-bulker/?utm_source=rss&utm_medium=rss&utm_campaign=iran-attacks-3-tankers-near-oman-and-strait-of-hormuz-after-u-s-disables-bulker",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Xeneta Schedule Reliability Scorecard - September 2026",
-        "summary": "The end of Q3 knocked global reliability down to 27% on-time as delay climbed to 6.0 days Global reliability fell for the fourth consecutive month down to 27% on-time, 2pp lower th",
-        "source": "Xeneta — Blog",
-        "timestamp": "2026-10-12T11:06:54+00:00",
-        "confidence": "medium",
-        "link": "https://www.xeneta.com/blog/xeneta-schedule-reliability-scorecard-september-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "xeneta_blog",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "India condemns attacks on two vessels in Hormuz region, calls for de-escalation",
-        "summary": "NEW DELHI: The Ministry of External Affairs (MEA) on Sunday condemned attacks on two commercial vessels in the Strait of Hormuz region, including a drone attack on tanker MT Petro",
-        "source": "India Shipping News",
-        "timestamp": "2026-10-12T03:48:21+00:00",
+        "title": "Over 60 Countries Oppose Tolls on International Shipping Routes Amid Strait of Hormuz Crisis",
+        "summary": "More than 60 countries have pledged to oppose tolls and fees on international shipping routes, sending a strong diplomatic message against attempts to impose charges on vessels tra",
+        "source": "India Seatrade News",
+        "timestamp": "2026-10-13T00:53:24+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/maritime/india-condemns-attacks-on-two-vessels-in-hormuz-region-calls-for-de-escalation/",
+        "link": "https://indiaseatradenews.com/over-60-countries-oppose-tolls-on-international-shipping-routes-amid-strait-of-hormuz-crisis/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "The AI Boom: Why It’s Replacing E-commerce in Global Freight",
+        "summary": "#fwtv_iMyxbERwpJw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_iMyxbERwpJw .fwtv-panel p{margin:0 0 12px}#fwtv_iMyxbERwpJw .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-13T14:36:54+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/the-ai-boom-why-its-replacing-e-commerce-in-global-freight",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Shippers waiting an extra week for US-bound containers",
+        "summary": "Global ocean container schedule reliability fell for a fourth consecutive month in September, dropping 2 percentage points to 27% on-time, according to Xeneta’s September Schedule",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-13T14:01:30+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/shippers-waiting-an-extra-week-for-us-bound-containers",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Mexico trucker shortages, visa restrictions squeeze cross-border capacity",
+        "summary": "North American cross-border trucking capacity is expected to remain constrained into 2027 despite softer freight demand.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-12T19:07:46+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/mexico-trucker-shortages-visa-restrictions-squeeze-cross-border-capacity",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,7 +163,7 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -169,7 +171,7 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
@@ -178,7 +180,7 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-14",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time; Shippers waiting an extra week for US-bound containers; Over 60 Countries Oppose Tolls on International Shipping Routes Amid Strait of Hormuz Crisis",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-13",
         "write_now": "Maybe",
@@ -239,53 +249,44 @@
         "worth_attention_today": "5",
         "headline": "Peak season runs long as AI demand and port congestion keep capacity tight; 11 Indian Seafarers Injured After Attack On Commercial Tanker In Strait of Hormuz; Transport and logistics news - 7 October 2026",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-07",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Durban terminal delays drag on as minister calls for action to clear backlog; Sea-Intelligence: Asian port congestion could persist into mid-2027; ZIM Raises Full-Year 2026 Guidance",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 244,
-      "high_trust": 57,
-      "trade_press": 187,
+      "total_items": 319,
+      "high_trust": 84,
+      "trade_press": 235,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-13.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-13.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-13.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-14.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-14.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-14.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-13",
-    "run_started_at": "2026-10-13T04:46:02+09:00",
+    "report_date": "2026-10-14",
+    "run_started_at": "2026-10-14T04:46:09+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from FourKites: FourKites homepage added stronger platform / control tower language"
+      "Newest meaningful competitor move: Project44 Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Partially Degraded Service."
       },
       {
         "company": "FourKites",
@@ -326,9 +327,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Partially Degraded Service",
+          "Delayed LTL Tracking Updates – NA Production (minor)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-14",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-10-11",
         "company": "FourKites",
@@ -368,49 +391,41 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-10-04",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261013T044602+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-13.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261014T044609+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-14.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W42",
-    "week_end_date": "2026-10-13",
+    "week_end_date": "2026-10-14",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling unknown around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling unknown around in transit visibility.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling unknown around in transit visibility."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing unknown around in transit visibility with the claimed outcome of better visibility."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -430,17 +445,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "better visibility",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor). Partially Degraded Service",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W42",
-        "week_end_date": "2026-10-13",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-10-14",
+        "takeaway": "Project44 is signaling unknown around in transit visibility.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
