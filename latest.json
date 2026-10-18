@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-17T19:47:18+00:00",
-  "requested_date": "2026-10-18",
+  "built_at": "2026-10-18T19:47:42+00:00",
+  "requested_date": "2026-10-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-18",
+    "requested_date": "2026-10-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Container Carriers Adjust Rates and Services to the Americas.",
+      "Lead daily item: Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-18",
+        "report_label": "2026-10-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,20 +36,20 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-18",
+        "report_label": "2026-10-19",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "summary": "Closest current peer watch item: Transporeon Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "supporting_note": "Transporeon is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W42",
+        "report_label": "2026-W43",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "GoComet is signaling AI positioning around unknown.",
+        "summary": "Transporeon is signaling AI positioning around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,94 +64,100 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-18",
-    "last_updated": "2026-10-18 04:46",
+    "report_date": "2026-10-19",
+    "last_updated": "2026-10-19 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Container Carriers Adjust Rates and Services to the Americas.",
+    "status_note": "Market watch is led by Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Container Carriers Adjust Rates and Services to the Americas.",
+      "Lead market story: Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-18",
+      "report_date": "2026-10-19",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "French Navy Shoots Down Drone Near CMA CGM Ship In Bab el-Mandeb Strait; Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz; Container Carriers Adjust Rates and Services to the Americas",
+      "headline": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; CMA CGM and MSC return Europe-Australia service to Suez; GT Lines launches Khorfakkan-Djibouti shuttle",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Container Carriers Adjust Rates and Services to the Americas",
+    "headline": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
     "key_news_radar": [
       {
-        "title": "Container Carriers Adjust Rates and Services to the Americas",
-        "summary": "Several global container lines are lifting prices on certain routes, introducing extra port calls on services to the Americas and shortening India-to-US-East-Coast journey times as",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-17T08:50:49+00:00",
+        "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-18T11:00:00+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/container-carriers-adjust-rates-and-services-to-the-americas/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
           "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz",
-        "summary": "A Singapore-flagged containership has sunk following an attack in the Strait of Hormuz, marking another major escalation in threats to commercial shipping as vessels continue to co",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-17T08:49:19+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/singapore-flagged-containership-sinks-after-attack-in-strait-of-hormuz/",
+        "title": "GT Lines launches Khorfakkan-Djibouti shuttle",
+        "summary": "Gulftainer’s shipping arm, GT Lines, has launched a new direct container service connecting Khorfakkan in the United Arab Emirates with Djibouti.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-18T18:59:07+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/gt-lines-launches-khorfakkan-djibouti-shuttle/",
         "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "container_news"
+        ]
+      },
+      {
+        "title": "Middle East shipping attacks widen as tug and LNG carrier come under fire",
+        "summary": "Fresh violence off UAE and Yemen follows a string of strikes on commercial vessels",
+        "source": "Tradewinds",
+        "timestamp": "2026-10-18T05:34:09+00:00",
+        "confidence": "medium",
+        "link": "https://www.tradewindsnews.com/casualties/middle-east-shipping-attacks-widen-as-tug-and-lng-carrier-come-under-fire/2-1-2060291",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "tradewinds",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "CMA CGM and MSC return Europe-Australia service to Suez",
+        "summary": "CMA CGM and MSC have resumed routing their joint North Europe-Australasia service through the Suez Canal in both directions, according to DynaLiners.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-18T18:03:47+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/cma-cgm-and-msc-return-europe-australia-service-to-suez/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader",
+          "container_news"
+        ]
+      },
+      {
+        "title": "DP World deploys electric yard tractors at Busan",
+        "summary": "DP World has deployed 55 electric yard tractors at its Busan terminal in South Korea, replacing LNG-powered vehicles and accounting for approximately 36 percent of the terminal’s 1",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-10-17T21:38:38+00:00",
+        "confidence": "medium",
+        "link": "https://container-news.com/dp-world-deploys-electric-yard-tractors-at-busan/",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "French Navy Shoots Down Drone Near CMA CGM Ship In Bab el-Mandeb Strait",
-        "summary": "Image Credits: EUNAVFOR Aspides A French Navy frigate shot down a drone while escorting a CMA CGM container ship through the Bab el-Mandeb Strait on the night of October 1-2.",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-17T08:32:50+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/french-navy-shoots-down-drone-near-cma-cgm-ship-in-bab-el-mandeb-strait/?utm_source=rss&utm_medium=rss&utm_campaign=french-navy-shoots-down-drone-near-cma-cgm-ship-in-bab-el-mandeb-strait",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "marine_insight",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "DP World Plans $3-5 Billion Investment in India Amid West Asia Trade Disruptions",
-        "summary": "Global logistics company DP World plans to invest between $3 billion and $5 billion in India, signalling continued confidence in the country’s trade and logistics potential as the",
-        "source": "India Seatrade News",
-        "timestamp": "2026-10-16T18:44:50+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/dp-world-plans-3-5-billion-investment-in-india-amid-west-asia-trade-disruptions/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Port of Long Beach sets monthly cargo record in September",
-        "summary": "The Port of Long Beach achieved its busiest month in 115 years of history in September 2026, handling 997,177 TEUs and eclipsing the previous record of 987,191 TEUs set in October",
-        "source": "Container News",
-        "timestamp": "2026-10-17T05:30:20+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/port-of-long-beach-sets-monthly-cargo-record-in-september/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -168,15 +174,11 @@
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -194,6 +196,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; CMA CGM and MSC return Europe-Australia service to Suez; GT Lines launches Khorfakkan-Djibouti shuttle",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-18",
         "write_now": "Maybe",
@@ -241,52 +251,44 @@
         "worth_attention_today": "5",
         "headline": "Transport and logistics news - 12 October 2026; Hili Land Port to Suspend Import-Export Operations for Seven Days; Russia Says It Hit Ukrainian Data Centre And Military Cargo Ship At Chornomorsk Port",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Borderlands Mexico: US takes 76% of vehicle exports as September shipments plunge; Orlando trucking owner pleads guilty in $1M USPS freight auction fraud; Maersk raises Durban congestion fee",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 110,
-      "high_trust": 34,
-      "trade_press": 76,
+      "total_items": 41,
+      "high_trust": 12,
+      "trade_press": 29,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-18",
-    "run_started_at": "2026-10-18T04:46:01+09:00",
+    "report_date": "2026-10-19",
+    "run_started_at": "2026-10-19T04:46:05+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Closest current peer watch item: Transporeon Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_detail": "Transporeon is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
+    "watch_count": 2,
     "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
       },
       {
         "company": "FourKites",
@@ -298,7 +300,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow. Status page: Service Under Maintenance."
       },
       {
         "company": "Wakeo",
@@ -330,20 +332,40 @@
     "important_changes": [],
     "watch_items": [
       {
-        "company": "Project44",
+        "company": "Transporeon",
         "importance": "watch",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
         "evidence": [
           "Service Under Maintenance",
-          "Ocean Carrier (under maintenance)"
+          "Data transmission (under maintenance)"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page returned to all systems operational.",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "All Systems Operational"
         ]
       }
     ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-19",
+        "company": "Transporeon",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-10-16",
         "company": "Project44",
@@ -369,64 +391,53 @@
         "source_url": "https://www.gocomet.com/ai-workers"
       },
       {
+        "detected_date": "2026-10-15",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-10-14",
         "company": "Project44",
         "importance": "important",
         "signal_type": "status change",
         "summary": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-10-11",
-        "company": "FourKites",
-        "importance": "minor",
-        "signal_type": "website change",
-        "summary": "FourKites homepage added stronger platform / control tower language",
-        "source_url": "https://www.fourkites.com/"
-      },
-      {
-        "detected_date": "2026-10-10",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261018T044601+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261019T044605+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-19.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W42",
-    "week_end_date": "2026-10-18",
+    "week_label": "2026-W43",
+    "week_end_date": "2026-10-19",
     "freshness": "current",
-    "status_note": "GoComet is signaling AI positioning around unknown.",
+    "status_note": "Transporeon is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "GoComet is signaling AI positioning around unknown.",
+      "Transporeon is signaling AI positioning around unknown.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "GoComet is signaling AI positioning around unknown.",
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "Project44 is signaling AI positioning around unknown."
+      "Transporeon is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "GoComet (direct competitor) is pushing AI positioning with the claimed outcome of reduced manual work.",
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning."
+      "Transporeon (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -449,39 +460,35 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 3,
+    "important_signal_count": 1,
     "active_theses": [],
     "top_signals": [
       {
-        "entity_name": "GoComet",
-        "source_title": "AI Workers Workers that watch, act and follow up before your team has to.",
+        "entity_name": "Transporeon",
+        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
         "workflow_scope": "unknown",
-        "claimed_outcome": "reduced manual work",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "GoComet press releases announced \"AI Workers Workers that watch, act and follow up before your team has to.\" -> signals a stronger AI / automation narrative AI Workers Workers that watch, act and follow up before...",
+        "evidence_excerpt": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance). Service Under Maintenance",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.gocomet.com/ai-workers"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "recent_history": [
+      {
+        "week_label": "2026-W43",
+        "week_end_date": "2026-10-19",
+        "takeaway": "Transporeon is signaling AI positioning around unknown.",
+        "signal_count": "1",
+        "active_thesis_count": "0",
+        "signal_signature": "Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W42",
         "week_end_date": "2026-10-18",
@@ -511,21 +518,11 @@
         "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W39",
-        "week_end_date": "2026-09-27",
-        "takeaway": "GoComet is signaling AI positioning around unknown.",
-        "signal_count": "2",
-        "active_thesis_count": "0",
-        "signal_signature": "GoComet|direct_competitor|product_update|2f3c50eefad6d94a4c8a4da68178fec5710c1711 || Project44|direct_competitor|status_change|0bdd376d6cb39ad3e88303ea6049a1ae3bcc8765",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W42.json",
-      "strategic_intelligence/output/weekly-memo-2026-W42.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W43.json",
+      "strategic_intelligence/output/weekly-memo-2026-W43.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
