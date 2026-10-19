@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-18T19:47:42+00:00",
-  "requested_date": "2026-10-19",
+  "built_at": "2026-10-19T19:47:13+00:00",
+  "requested_date": "2026-10-20",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-19",
+    "requested_date": "2026-10-20",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
+      "Lead daily item: Competition heats up as Central American ports develop into regional hubs.",
       "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-19",
+        "report_label": "2026-10-20",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,10 +36,10 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-19",
+        "report_label": "2026-10-20",
         "freshness": "current",
         "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Transporeon Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "summary": "Closest current peer watch item: Transporeon Transporeon status page returned to all systems operational.",
         "supporting_note": "Transporeon is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
@@ -49,7 +49,7 @@
         "report_label": "2026-W43",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Transporeon is signaling AI positioning around unknown.",
+        "summary": "Transporeon is signaling unknown around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,100 +64,95 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-19",
-    "last_updated": "2026-10-19 04:46",
+    "report_date": "2026-10-20",
+    "last_updated": "2026-10-20 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
+    "status_note": "Market watch is led by Competition heats up as Central American ports develop into regional hubs.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions.",
+      "Lead market story: Competition heats up as Central American ports develop into regional hubs.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-19",
+      "report_date": "2026-10-20",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions; CMA CGM and MSC return Europe-Australia service to Suez; GT Lines launches Khorfakkan-Djibouti shuttle",
+      "headline": "Competition heats up as Central American ports develop into regional hubs; Trans-Pacific facing new booking risks as reliability sinks; Chaos In St. Petersburg As Massive Oil Terminal Reports Blasts During Ukrainian Drone Strikes",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
+    "headline": "Competition heats up as Central American ports develop into regional hubs",
     "key_news_radar": [
       {
-        "title": "Borderlands Mexico: US trucking crackdown raises concerns over freight disruptions",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-18T11:00:00+00:00",
+        "title": "Competition heats up as Central American ports develop into regional hubs",
+        "summary": "Many ports in Central America are being transformed into regional hubs and integrated logistics and cargo processing centres, a process that is set to continue.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-19T12:43:56+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-us-trucking-crackdown-raises-concerns-over-freight-disruptions",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/competition-heats-up-as-central-american-ports-develop-into-regional-hubs/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "GT Lines launches Khorfakkan-Djibouti shuttle",
-        "summary": "Gulftainer’s shipping arm, GT Lines, has launched a new direct container service connecting Khorfakkan in the United Arab Emirates with Djibouti.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-18T18:59:07+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/gt-lines-launches-khorfakkan-djibouti-shuttle/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
-          "container_news"
-        ]
-      },
-      {
-        "title": "Middle East shipping attacks widen as tug and LNG carrier come under fire",
-        "summary": "Fresh violence off UAE and Yemen follows a string of strikes on commercial vessels",
-        "source": "Tradewinds",
-        "timestamp": "2026-10-18T05:34:09+00:00",
-        "confidence": "medium",
-        "link": "https://www.tradewindsnews.com/casualties/middle-east-shipping-attacks-widen-as-tug-and-lng-carrier-come-under-fire/2-1-2060291",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "tradewinds",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "CMA CGM and MSC return Europe-Australia service to Suez",
-        "summary": "CMA CGM and MSC have resumed routing their joint North Europe-Australasia service through the Suez Canal in both directions, according to DynaLiners.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-18T18:03:47+00:00",
+        "title": "No. 2 container line studying US-UK route for nuclear ships",
+        "summary": "Moller-Maersk is participating in industry studies examining what would be required for nuclear-powered container ships to make routine port calls, with the work centered on regula",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-19T17:37:31+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/cma-cgm-and-msc-return-europe-australia-service-to-suez/",
+        "link": "https://www.freightwaves.com/news/no-2-container-line-studying-us-uk-route-for-nuclear-ships",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Trans-Pacific facing new booking risks as reliability sinks",
+        "summary": "Shippers moving cargo from Asia to North America face tighter vessel capacity and greater difficulty securing bookings in the weeks ahead, while deteriorating service reliability t",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-19T17:53:24+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/trans-pacific-facing-new-booking-risks-as-reliability-sinks",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
           "s_news_via_shippers_association_on_inoreader",
-          "container_news"
+          "freightwaves_news"
         ]
       },
       {
-        "title": "DP World deploys electric yard tractors at Busan",
-        "summary": "DP World has deployed 55 electric yard tractors at its Busan terminal in South Korea, replacing LNG-powered vehicles and accounting for approximately 36 percent of the terminal’s 1",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-17T21:38:38+00:00",
+        "title": "Chaos In St. Petersburg As Massive Oil Terminal Reports Blasts During Ukrainian Drone Strikes",
+        "summary": "Image for representation purposes only Ukraine reportedly launched a massive overnight drone attack on Russia, targeting the St.",
+        "source": "Marine Insight",
+        "timestamp": "2026-10-19T11:15:48+00:00",
         "confidence": "medium",
-        "link": "https://container-news.com/dp-world-deploys-electric-yard-tractors-at-busan/",
-        "label": "Watch",
+        "link": "https://www.marineinsight.com/chaos-in-st-petersburg-as-massive-oil-terminal-reports-blasts-during-ukrainian-drone-strikes/?utm_source=rss&utm_medium=rss&utm_campaign=chaos-in-st-petersburg-as-massive-oil-terminal-reports-blasts-during-ukrainian-drone-strikes",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Middle East Conflict Reshapes Global Ship Fuel Market as Bunkering Costs Rise",
+        "summary": "The escalating Middle East conflict is disrupting the global marine fuel market, forcing shipowners to reconsider where, when and how they refuel as vessel diversions increase and",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-19T10:09:53+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/middle-east-conflict-reshapes-global-ship-fuel-market-as-bunkering-costs-rise/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -166,6 +161,10 @@
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -178,15 +177,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -196,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-20",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Competition heats up as Central American ports develop into regional hubs; Trans-Pacific facing new booking risks as reliability sinks; Chaos In St. Petersburg As Massive Oil Terminal Reports Blasts During Ukrainian Drone Strikes",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-19",
         "write_now": "Maybe",
@@ -243,39 +250,31 @@
         "worth_attention_today": "5",
         "headline": "Peak Shipping Season 2026: Higher Volumes and Shipments more Spread Over Time; Shippers waiting an extra week for US-bound containers; Over 60 Countries Oppose Tolls on International Shipping Routes Amid Strait of Hormuz Crisis",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-13",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Transport and logistics news - 12 October 2026; Hili Land Port to Suspend Import-Export Operations for Seven Days; Russia Says It Hit Ukrainian Data Centre And Military Cargo Ship At Chornomorsk Port",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 41,
-      "high_trust": 12,
-      "trade_press": 29,
+      "total_items": 305,
+      "high_trust": 79,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-19.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-19.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-19.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-20.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-20.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-20.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-19",
-    "run_started_at": "2026-10-19T04:46:05+09:00",
+    "report_date": "2026-10-20",
+    "run_started_at": "2026-10-20T04:45:58+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Transporeon Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+      "Closest current peer watch item: Transporeon Transporeon status page returned to all systems operational.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Watch-level movement detected",
@@ -283,7 +282,7 @@
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 2,
+    "watch_count": 1,
     "last_signal_label": "Today",
     "company_summaries": [
       {
@@ -300,7 +299,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow. Status page: Service Under Maintenance."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
       },
       {
         "company": "Wakeo",
@@ -334,30 +333,25 @@
       {
         "company": "Transporeon",
         "importance": "watch",
-        "summary": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "summary": "Transporeon status page returned to all systems operational.",
         "signal_type": "status_change",
         "page_slug": "status",
-        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
+        "source_title": "Transporeon status page returned to all systems operational.",
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
-        "evidence": [
-          "Service Under Maintenance",
-          "Data transmission (under maintenance)"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
         "evidence": [
           "All Systems Operational"
         ]
       }
     ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-20",
+        "company": "Transporeon",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Transporeon status page returned to all systems operational.",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-10-19",
         "company": "Transporeon",
@@ -397,42 +391,37 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-10-14",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows active incident activity: Delayed LTL Tracking Updates – NA Production (minor).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261019T044605+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-19.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261020T044558+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-20.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W43",
-    "week_end_date": "2026-10-19",
+    "week_end_date": "2026-10-20",
     "freshness": "current",
-    "status_note": "Transporeon is signaling AI positioning around unknown.",
+    "status_note": "Transporeon is signaling unknown around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Transporeon is signaling AI positioning around unknown.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "Transporeon is signaling unknown around unknown.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "Transporeon is signaling unknown around unknown.",
       "Transporeon is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
+      "Transporeon (direct competitor) is pushing unknown.",
       "Transporeon (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
@@ -460,9 +449,23 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 1,
+    "important_signal_count": 2,
     "active_theses": [],
     "top_signals": [
+      {
+        "entity_name": "Transporeon",
+        "source_title": "Transporeon status page returned to all systems operational.",
+        "source_layer": "direct competitor",
+        "strategic_move": "Unknown",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Transporeon status page returned to all systems operational. All Systems Operational",
+        "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
+        "emerging_motif": "unknown",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "entity_name": "Transporeon",
         "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
@@ -481,11 +484,11 @@
     "recent_history": [
       {
         "week_label": "2026-W43",
-        "week_end_date": "2026-10-19",
-        "takeaway": "Transporeon is signaling AI positioning around unknown.",
-        "signal_count": "1",
+        "week_end_date": "2026-10-20",
+        "takeaway": "Transporeon is signaling unknown around unknown.",
+        "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
+        "signal_signature": "Transporeon|direct_competitor|status_change|80a08bc78590777cfd946448913364d3a2372299 || Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
