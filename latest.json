@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-20T19:48:10+00:00",
-  "requested_date": "2026-10-21",
+  "built_at": "2026-10-21T19:47:19+00:00",
+  "requested_date": "2026-10-22",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-21",
+    "requested_date": "2026-10-22",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: How new capacity is raising rates in chaotic ocean market.",
+      "Lead daily item: The empty container problem isn’t a shortage. It’s a data problem..",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-21",
+        "report_label": "2026-10-22",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-21",
+        "report_label": "2026-10-22",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,53 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-21",
-    "last_updated": "2026-10-21 04:46",
+    "report_date": "2026-10-22",
+    "last_updated": "2026-10-22 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by How new capacity is raising rates in chaotic ocean market.",
+    "status_note": "Market watch is led by The empty container problem isn’t a shortage. It’s a data problem..",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: How new capacity is raising rates in chaotic ocean market.",
+      "Lead market story: The empty container problem isn’t a shortage. It’s a data problem..",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-21",
+      "report_date": "2026-10-22",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "How new capacity is raising rates in chaotic ocean market; Oman not renewing concession with APMT-linked Salalah Port Services; ATTs move from pilots to deployment",
+      "headline": "Red Sea container traffic set for full return in Q1 - October 20, 2026 Update; The empty container problem isn’t a shortage. It’s a data problem.; Project Cargo East of Suez: Routing Oversized Freight When the Short Way Is Not Simple",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "How new capacity is raising rates in chaotic ocean market",
+    "headline": "The empty container problem isn’t a shortage. It’s a data problem.",
     "key_news_radar": [
       {
-        "title": "How new capacity is raising rates in chaotic ocean market",
-        "summary": "Container shipping lines are pushing freight rates higher even as a gradual return to the Red Sea promises to release capacity into a softening market, as competing forces shape oc",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-20T14:58:59+00:00",
+        "title": "The empty container problem isn’t a shortage. It’s a data problem.",
+        "summary": "Container shipping has just lived through its third consecutive year of a peak season that arrived early and left just as fast.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-21T06:52:25+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/how-new-capacity-is-raising-rates-in-chaotic-ocean-market",
+        "link": "https://container-news.com/the-empty-container-problem-isnt-a-shortage-its-a-data-problem/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Oman not renewing concession with APMT-linked Salalah Port Services",
-        "summary": "Oman will not renew the concession agreements held by Salalah Port Services Company, in which APM Terminals is a minority shareholder, beyond their expiry on 1 November 2028.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-20T09:19:28+00:00",
+        "title": "Red Sea container traffic set for full return in Q1 - October 20, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) were level Asia-US East Coast prices (FBX03 Weekly) increased 1% Asia-N.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-21T06:18:29+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/10/oman-not-renewing-concession-with-apmt-linked-salalah-port-services/",
+        "link": "https://www.freightos.com/freight-resources/red-sea-container-traffic-set-for-full-return-in-q1-october-20-2026-update/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "South America builds a pipeline of port projects",
+        "summary": "Countries in South America are investing heavily in container ports, with several major projects already adding capacity.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-21T15:40:08+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/south-america-builds-a-pipeline-of-port-projects/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -118,41 +128,28 @@
         "confirmed_by": []
       },
       {
-        "title": "ATTs move from pilots to deployment",
-        "summary": "Autonomous Terminal Tractors (ATTs) are moving beyond the pilot stage into operational deployment.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-20T09:16:23+00:00",
+        "title": "Project Cargo East of Suez: Routing Oversized Freight When the Short Way Is Not Simple",
+        "summary": "Since late 2023, attacks on merchant shipping around the southern Red Sea have changed how many carriers route between Asia, the Red Sea, the Gulf and East Africa.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-10-21T03:48:36+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/cargo-handling-equipment/2026/10/atts-move-from-pilots-to-deployment/",
+        "link": "https://container-news.com/project-cargo-east-of-suez-routing-oversized-freight-when-the-short-way-is-not-simple/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Iran claims three tankers hit by mines near Hormuz",
-        "summary": "Both attacks on merchant shipping and the propaganda war are continuing in the Strait of Hormuz, with competing claims from Washington and Tehran.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-20T09:27:32+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/iran-claims-three-tankers-hit-by-mines-near-hormuz/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Time-definite ocean delivery? Container ship completes new Arctic route trial",
-        "summary": "A South Korean container ship has completed that country’s first commercial round-trip to Europe through the Arctic, demonstrating a potentially faster alternative to the Suez Cana",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-20T17:00:00+00:00",
+        "title": "DP World CEO urges India to rethink port concession model to attract long-term investment",
+        "summary": "DUBAI: DP World Group CEO Yuvraj Narayan has called for a fundamental rethink of India’s port development model, arguing that traditional time-bound concessions discourage long-ter",
+        "source": "India Shipping News",
+        "timestamp": "2026-10-21T04:05:37+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/time-definite-ocean-delivery-container-ship-completes-new-arctic-route-trial",
+        "link": "https://indiashippingnews.com/company/dp-world-ceo-urges-india-to-rethink-port-concession-model-to-attract-long-term-investment/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -195,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-22",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Red Sea container traffic set for full return in Q1 - October 20, 2026 Update; The empty container problem isn’t a shortage. It’s a data problem.; Project Cargo East of Suez: Routing Oversized Freight When the Short Way Is Not Simple",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-21",
         "write_now": "Maybe",
@@ -242,33 +247,25 @@
         "worth_attention_today": "5",
         "headline": "UAE-managed container ship GFS PRIDE sinks near Strait of Hormuz amid escalating maritime security threats; Suez Canal container ship transits exceed half of pre-crisis levels; Two Container Ships Sink Near Strait of Hormuz Amid Escalating Attacks on Commercial Shipping",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-15",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Houthi attacks add new geopolitical risk to softening container rates; U.S. container imports reached their highest September on record; Freightos Weekly Update: Attacks disrupt Saudi air cargo; China-Europe air rates slump",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 269,
-      "high_trust": 61,
-      "trade_press": 208,
+      "total_items": 304,
+      "high_trust": 81,
+      "trade_press": 223,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-21.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-21.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-21.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-22.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-22.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-22.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-21",
-    "run_started_at": "2026-10-21T04:46:36+09:00",
+    "report_date": "2026-10-22",
+    "run_started_at": "2026-10-22T04:46:08+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -279,12 +276,12 @@
       "Latest lower-signal item came from Transporeon: Transporeon status page returned to all systems operational."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -382,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261021T044636+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-21.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261022T044608+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-22.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W43",
-    "week_end_date": "2026-10-21",
+    "week_end_date": "2026-10-22",
     "freshness": "current",
     "status_note": "Transporeon is signaling unknown around unknown.",
     "sparse_explanation": "",
@@ -471,7 +468,7 @@
     "recent_history": [
       {
         "week_label": "2026-W43",
-        "week_end_date": "2026-10-21",
+        "week_end_date": "2026-10-22",
         "takeaway": "Transporeon is signaling unknown around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
