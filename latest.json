@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-22T19:47:52+00:00",
-  "requested_date": "2026-10-23",
+  "built_at": "2026-10-23T19:47:30+00:00",
+  "requested_date": "2026-10-24",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-23",
+    "requested_date": "2026-10-24",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Transport and logistics news - 22 October 2026.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Norfolk Southern profits rise on higher volume and revenue.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-23",
+        "report_label": "2026-10-24",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-23",
+        "report_label": "2026-10-24",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W43",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Transporeon is signaling unknown around unknown.",
+        "summary": "Project44 is signaling AI positioning around in transit visibility.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,76 +64,63 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-23",
-    "last_updated": "2026-10-23 04:46",
+    "report_date": "2026-10-24",
+    "last_updated": "2026-10-24 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Transport and logistics news - 22 October 2026.",
+    "status_note": "Market watch is led by Norfolk Southern profits rise on higher volume and revenue.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Transport and logistics news - 22 October 2026.",
+      "Lead market story: Norfolk Southern profits rise on higher volume and revenue.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-23",
+      "report_date": "2026-10-24",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "TMS expands its reach; Container freight rates hit 15-week high; North American ports invest for the future",
+      "headline": "Norfolk Southern profits rise on higher volume and revenue; Hambantota Port Eyes Growth as Red Sea-Suez Shipping Recovery Approaches; New Drewry data shows import demand boosting trans-Pacific rates",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Transport and logistics news - 22 October 2026",
+    "headline": "Norfolk Southern profits rise on higher volume and revenue",
     "key_news_radar": [
       {
-        "title": "Transport and logistics news - 22 October 2026",
-        "summary": "Scania accelerates its electric truck plans in China Scania is speeding up plans to manufacture electric trucks in China, where rising diesel prices are driving a faster-than-expec",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-22T17:02:16+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-22-october-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "TMS expands its reach",
-        "summary": "Transportation management system (TMS) software has been a mainstay of logistics operations for years, helping users plan and arrange for the physical transport of goods across the",
-        "source": "DC Velocity",
-        "timestamp": "2026-10-21T20:17:44+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/technology/transportation-it/transportation-load-planning-tms/tms-expands-its-reach",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "dcvelocity",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "North American ports invest for the future",
-        "summary": "Huge investment projects are under way at several of North America’s container ports as they deepen their access channels and expand their terminals to provide additional capacity.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-22T12:09:40+00:00",
+        "title": "Norfolk Southern profits rise on higher volume and revenue",
+        "summary": "Norfolk Southern’s third-quarter profits rose as higher volume and rates, and fuel surcharges, produced record revenue.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-22T18:47:51+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/north-american-ports-invest-for-the-future/",
+        "link": "https://www.freightwaves.com/news/norfolk-southern-profits-rise-on-higher-volume-and-revenue",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DPA Kandla issues LoA to Essar Ports Ltd for development of multi-purpose cargo terminal at Tuna Tekra, Kandla",
-        "summary": "GANDHIDHAM: Deendayal Port Authority, Kandla, a Mega Port on India’s western coast, has issued the Letter of Award (LoA) to M/s Essar Ports Limited on 21st October 2026 for develop",
+        "title": "Hambantota Port Eyes Growth as Red Sea-Suez Shipping Recovery Approaches",
+        "summary": "Hambantota International Port Group (HIPG) is anticipating fresh growth opportunities from a sustained return of container shipping to the Red Sea and Suez Canal route, as it prepa",
+        "source": "India Seatrade News",
+        "timestamp": "2026-10-22T18:54:22+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/hambantota-port-eyes-growth-as-red-sea-suez-shipping-recovery-approaches/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "INTERVIEW: “Freight Forwarding is Evolving into End-to-End Supply Chain Orchestration”- Manisha Malhotra, DP World",
+        "summary": "As global trade patterns shift and supply chains face growing demands for greater visibility, flexibility and resilience, freight forwarding is taking on a far more strategic role",
         "source": "India Shipping News",
-        "timestamp": "2026-10-22T04:06:10+00:00",
+        "timestamp": "2026-10-23T03:44:23+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/ports/dpa-kandla-issues-loa-to-essar-ports-ltd-for-development-of-multi-purpose-cargo-terminal-at-tuna-tekra-kandla/",
+        "link": "https://indiashippingnews.com/company/interview-freight-forwarding-is-evolving-into-end-to-end-supply-chain-orchestration-manisha-malhotra-dp-world/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_shipping_news",
@@ -141,12 +128,25 @@
         "confirmed_by": []
       },
       {
-        "title": "CSX profit jumps on volume and revenue growth",
-        "summary": "CSX’s third-quarter profits increased due to a combination of volume growth, higher fuel surcharge revenue, and efficiency gains, the railroad said.",
+        "title": "Russian diesel tanker heads for U.S. following Trump-Putin deal",
+        "summary": "A tanker carrying 40,000 metric tons of Russian diesel is heading for New York under a new U.S.-Russia supply agreement, marking a reopening of a trade curtailed by Washington’s 20",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-22T10:00:00+00:00",
+        "timestamp": "2026-10-23T14:37:51+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/csx-profit-jumps-on-volume-and-revenue-growth",
+        "link": "https://www.freightwaves.com/news/russian-diesel-tanker-heads-for-u-s-following-trump-putin-deal",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "New Drewry data shows import demand boosting trans-Pacific rates",
+        "summary": "Drewry’s World Container Index rose 2% to $4,585 per 40-foot container, supported by higher rates on trans-Pacific and Asia-Europe routes as strong U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-23T18:55:28+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/new-drewry-data-shows-import-demand-boosting-trans-pacific-rates",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -161,11 +161,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -178,11 +178,11 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-24",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Norfolk Southern profits rise on higher volume and revenue; Hambantota Port Eyes Growth as Red Sea-Suez Shipping Recovery Approaches; New Drewry data shows import demand boosting trans-Pacific rates",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-23",
         "write_now": "Maybe",
@@ -239,49 +247,40 @@
         "worth_attention_today": "5",
         "headline": "French Navy Shoots Down Drone Near CMA CGM Ship In Bab el-Mandeb Strait; Singapore-Flagged Containership Sinks After Attack in Strait of Hormuz; Container Carriers Adjust Rates and Services to the Americas",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-17",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Deendayal Port Plans Emergency Capacity Measures Amid 70-Vessel Queue; ₹47,000-Crore Expansion Proposed; Container ship attacks escalate in Strait of Hormuz; New Long Beach record as volume nears 1M containers",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 318,
-      "high_trust": 87,
-      "trade_press": 231,
+      "total_items": 317,
+      "high_trust": 84,
+      "trade_press": 233,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-23.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-23.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-23.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-24.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-24.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-24.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-23",
-    "run_started_at": "2026-10-23T04:46:09+09:00",
+    "report_date": "2026-10-24",
+    "run_started_at": "2026-10-24T04:46:01+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Transporeon: Transporeon status page returned to all systems operational."
+      "Newest meaningful competitor move: Project44 Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -326,9 +325,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "Food & Beverage",
+          "Unilever cut detention and demurrage costs 20% by treating transportation data as a trigger for decisions, not a dashboard to watch. Here are five lessons from Reuters Events: Supply Chain Europe 2026 on moving from visibility to decision intelligence."
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-10-24",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
       {
         "detected_date": "2026-10-20",
         "company": "Transporeon",
@@ -368,49 +389,42 @@
         "signal_type": "press announcement",
         "summary": "GoComet press releases announced \"AI Workers Workers that watch, act and follow up before your team has to.",
         "source_url": "https://www.gocomet.com/ai-workers"
-      },
-      {
-        "detected_date": "2026-10-15",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261023T044609+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-23.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261024T044601+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-24.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W43",
-    "week_end_date": "2026-10-23",
+    "week_end_date": "2026-10-24",
     "freshness": "current",
-    "status_note": "Transporeon is signaling unknown around unknown.",
+    "status_note": "Project44 is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Transporeon is signaling unknown around unknown.",
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
+      "Project44 is signaling AI positioning around in transit visibility.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Transporeon is signaling unknown around unknown.",
-      "Transporeon is signaling AI positioning around unknown."
+      "Project44 is signaling AI positioning around in transit visibility.",
+      "Transporeon is signaling unknown around unknown."
     ],
     "strategic_movements": [
-      "Transporeon (direct competitor) is pushing unknown.",
-      "Transporeon (direct competitor) is pushing AI positioning."
+      "Project44 (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of faster decisions.",
+      "Transporeon (direct competitor) is pushing unknown."
     ],
     "team_implications": [
-      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
-      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+      "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -437,6 +451,20 @@
     "active_theses": [],
     "top_signals": [
       {
+        "entity_name": "Project44",
+        "source_title": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "in transit visibility",
+        "claimed_outcome": "faster decisions",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging -> suggests a shift from visibility toward AI-led execution...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/industries/"
+      },
+      {
         "entity_name": "Transporeon",
         "source_title": "Transporeon status page returned to all systems operational.",
         "source_layer": "direct competitor",
@@ -449,30 +477,16 @@
         "team_implication": "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own.",
         "emerging_motif": "unknown",
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
-      },
-      {
-        "entity_name": "Transporeon",
-        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance).",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "unknown",
-        "claimed_outcome": "unknown",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Transporeon status page shows degraded services: Data transmission (under maintenance) and Login (under maintenance). Service Under Maintenance",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "recent_history": [
       {
         "week_label": "2026-W43",
-        "week_end_date": "2026-10-23",
-        "takeaway": "Transporeon is signaling unknown around unknown.",
+        "week_end_date": "2026-10-24",
+        "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
         "signal_count": "2",
         "active_thesis_count": "0",
-        "signal_signature": "Transporeon|direct_competitor|status_change|80a08bc78590777cfd946448913364d3a2372299 || Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
+        "signal_signature": "Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac || Transporeon|direct_competitor|status_change|80a08bc78590777cfd946448913364d3a2372299",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
