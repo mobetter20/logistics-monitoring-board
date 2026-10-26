@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-25T19:47:28+00:00",
-  "requested_date": "2026-10-26",
+  "built_at": "2026-10-26T19:47:18+00:00",
+  "requested_date": "2026-10-27",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-26",
+    "requested_date": "2026-10-27",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-26",
+        "report_label": "2026-10-27",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-26",
+        "report_label": "2026-10-27",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,96 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-26",
-    "last_updated": "2026-10-26 04:46",
+    "report_date": "2026-10-27",
+    "last_updated": "2026-10-27 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027.",
+    "status_note": "Market watch is led by Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027.",
+      "Lead market story: Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-26",
+      "report_date": "2026-10-27",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027; Peel Ports CEO makes case for port-to-project approach; China tightens export oversight with new technology and drone controls",
+      "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say; Mexican truckers launch national strike over highway security, rising costs; The Barking Friday derailment aftermath continues",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027",
+    "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
     "key_news_radar": [
       {
-        "title": "USTR Moves to Extend China-Linked Ship Port Fee Suspension Into January 2027",
-        "summary": "government is proposing to keep port fees targeting China-linked vessels on hold until January 9, 2027, giving Washington and Beijing more time to negotiate over China’s dominance",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-25T08:26:37+00:00",
+        "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
+        "summary": "DUBAI : Tehran has drawn up detailed plans to target undersea communications cables in the Gulf if the United States and Israel attack Iran again, two senior Iranian security offic",
+        "source": "India Shipping News",
+        "timestamp": "2026-10-26T03:55:34+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/ustr-moves-to-extend-china-linked-ship-port-fee-suspension-into-january-2027/",
+        "link": "https://indiashippingnews.com/international-shipping/iran-has-detailed-plans-to-hit-gulf-undersea-cables-if-war-resumes-officials-say/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Peel Ports CEO makes case for port-to-project approach",
-        "summary": "Peel Ports Group Chief Executive Officer David Huck has articulated a strategic vision for ports as central enablers of the UK construction sector, arguing that port-centric supply",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-25T02:39:14+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/peel-ports-ceo-makes-case-for-port-to-project-approach/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Avocado imports generate $641M for US trucking, warehousing",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-25T13:40:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-avocado-imports-generate-641m-for-us-trucking-warehousing",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Eimskip, RAL expand fleets with Star Cool units",
-        "summary": "North Atlantic carriers Eimskip and Royal Arctic Line (RAL) have expanded their fleets with new Star Cool 1.1 refrigeration units from Maersk Container Industry (MCI).",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-25T07:55:42+00:00",
+        "title": "DSV 3Q profit rises 19.5% as Schenker integration lifts earnings",
+        "summary": "DSV reported a 19.5% increase in third-quarter operating profit before special items, as cost synergies from its Schenker acquisition and stronger results in air and sea, and contr",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-26T12:41:00+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/refrigeration/2026/10/eimskip-ral-expand-fleets-with-star-cool-units/",
-        "label": "Watch",
+        "link": "https://www.freightwaves.com/news/dsv-3q-profit-rises-19-5-as-schenker-integration-lifts-earnings",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "China tightens export oversight with new technology and drone controls",
-        "summary": "China has announced new export control measures covering selected advanced technologies and unmanned aerial vehicles (UAVs), introducing additional compliance requirements for expo",
+        "title": "C.H. Robinson expands AI automation across ocean and air freight",
+        "summary": "Robinson has introduced new artificial intelligence capabilities for ocean shipping, air freight and customs brokerage, expanding its Lean AI technology into global freight forward",
         "source": "Container News",
-        "timestamp": "2026-10-25T16:00:22+00:00",
+        "timestamp": "2026-10-26T15:00:45+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/china-tightens-export-oversight-with-new-technology-and-drone-controls/",
+        "link": "https://container-news.com/c-h-robinson-expands-ai-automation-across-ocean-and-air-freight/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Shipbuilding central to new US-Denmark maritime pact",
+        "summary": "The United States and Denmark have signed a maritime cooperation agreement aimed at expanding the U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-26T12:45:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/shipbuilding-central-to-new-us-denmark-maritime-pact",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Barking derailment disrupts rail services to London Gateway",
+        "summary": "The aftermath of a freight train derailment at Barking, east London, continues to disrupt railway services, with repairs expected to extend deep into this week.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-26T14:37:02+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/10/barking-derailment-disrupts-rail-services-to-london-gateway/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -165,7 +161,7 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -173,20 +169,20 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-27",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say; Mexican truckers launch national strike over highway security, rising costs; The Barking Friday derailment aftermath continues",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-26",
         "write_now": "Maybe",
@@ -243,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "How new capacity is raising rates in chaotic ocean market; Oman not renewing concession with APMT-linked Salalah Port Services; ATTs move from pilots to deployment",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-20",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Competition heats up as Central American ports develop into regional hubs; Trans-Pacific facing new booking risks as reliability sinks; Chaos In St. Petersburg As Massive Oil Terminal Reports Blasts During Ukrainian Drone Strikes",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 39,
-      "high_trust": 5,
-      "trade_press": 34,
+      "total_items": 310,
+      "high_trust": 76,
+      "trade_press": 234,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-26.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-26.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-26.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-27.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-27.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-27.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-26",
-    "run_started_at": "2026-10-26T04:46:02+09:00",
+    "report_date": "2026-10-27",
+    "run_started_at": "2026-10-27T04:45:53+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: LTL Carrier (under maintenance) and Ocean Carrier (under maintenance)."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,20 +327,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-10-25",
@@ -395,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261026T044602+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-26.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261027T044553+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-27.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W44",
-    "week_end_date": "2026-10-26",
+    "week_end_date": "2026-10-27",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -452,7 +436,7 @@
     "recent_history": [
       {
         "week_label": "2026-W44",
-        "week_end_date": "2026-10-26",
+        "week_end_date": "2026-10-27",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
