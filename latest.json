@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-27T19:47:26+00:00",
-  "requested_date": "2026-10-28",
+  "built_at": "2026-10-28T19:47:16+00:00",
+  "requested_date": "2026-10-29",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-28",
+    "requested_date": "2026-10-29",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Maghreb ports seek to replicate Tanger Med’s success.",
+      "Lead daily item: Diesel prices may stay elevated into spring 2027, fuel executives warn.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-28",
+        "report_label": "2026-10-29",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-28",
+        "report_label": "2026-10-29",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,67 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-28",
-    "last_updated": "2026-10-28 04:46",
+    "report_date": "2026-10-29",
+    "last_updated": "2026-10-29 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Maghreb ports seek to replicate Tanger Med’s success.",
+    "status_note": "Market watch is led by Diesel prices may stay elevated into spring 2027, fuel executives warn.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Maghreb ports seek to replicate Tanger Med’s success.",
+      "Lead market story: Diesel prices may stay elevated into spring 2027, fuel executives warn.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Maghreb ports seek to replicate Tanger Med’s success; Hambantota Port sees new opportunities as container ships return to Suez; How Real-World Supply Chain Disruptions Can Strengthen Student Learning",
+      "headline": "Diesel prices may stay elevated into spring 2027, fuel executives warn; Backlog grows as 35,000 containers await rail service at LA-Long Beach; Strike threat by port security workers at Los Angeles-Long Beach",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Maghreb ports seek to replicate Tanger Med’s success",
+    "headline": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
     "key_news_radar": [
       {
-        "title": "Maghreb ports seek to replicate Tanger Med’s success",
-        "summary": "Algeria, Morocco and Tunisia are all hopeful of having new gateways in operation within the next five years, with container terminals capable of handling substantial volumes of tra",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-27T07:21:28+00:00",
+        "title": "Diesel prices may stay elevated into spring 2027, fuel executives warn",
+        "summary": "trucking companies could face elevated diesel prices through at least spring 2027, according to energy and truck stop executives speaking Tuesday at the WEX OTR Summit.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-28T13:30:00+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/maghreb-ports-seek-to-replicate-tanger-meds-success/",
+        "link": "https://www.freightwaves.com/news/diesel-prices-may-stay-elevated-into-spring-2027-fuel-executives-warn",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Backlog grows as 35,000 containers await rail service at LA-Long Beach",
+        "summary": "Nearly 35,700 import containers were waiting for on-dock trains at the ports of Los Angeles and Long Beach this week, as record cargo volumes and reported railcar shortages slowed",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-28T14:01:08+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/backlog-grows-as-35000-containers-await-rail-service-at-la-long-beach",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Canadian ports key to export drive",
+        "summary": "The trade war with the US has left Canada scrambling to diversify its export partners and improve ports and infrastructure to get goods to new markets.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-10-28T07:16:25+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/10/canadian-ports-key-to-export-drive/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,54 +132,28 @@
         "confirmed_by": []
       },
       {
-        "title": "How Real-World Supply Chain Disruptions Can Strengthen Student Learning",
-        "summary": "Supply chains can look very tidy in a textbook.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-10-27T17:09:52+00:00",
-        "confidence": "medium",
-        "link": "https://www.globaltrademag.com/how-real-world-supply-chain-disruptions-can-strengthen-student-learning/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Transport and logistics news - 27 October 2026",
-        "summary": "Girteka invests in driver training Girteka has opened a new training centre for professional drivers in Poznań, Poland, aimed at improving cargo safety and service quality across E",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-10-27T17:09:50+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-27-october-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Hambantota Port sees new opportunities as container ships return to Suez",
-        "summary": "Hambantota International Port Group (HIPG) expects a sustained return of container shipping through the Red Sea and Suez Canal to create new commercial opportunities for the Sri La",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-10-27T01:23:10+00:00",
+        "title": "Strike threat by port security workers at Los Angeles-Long Beach",
+        "summary": "About 250 union watchmen at the ports of Los Angeles and Long Beach could strike as early as 5 p.m.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-28T13:23:00+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/hambantota-port-sees-new-opportunities-as-container-ships-return-to-suez/",
+        "link": "https://www.freightwaves.com/news/strike-threat-by-port-security-workers-at-los-angeles-long-beach",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "CMA’s Latakia International Terminal receives six Konecranes RTGs",
-        "summary": "Latakia Port has taken delivery of six RTG cranes from Konecranes as CMA CGM steps up the modernisation of the Latakia International Container Terminal (LICT) in Syria.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-27T08:08:04+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/cargo-handling-equipment/2026/10/cmas-latakia-international-terminal-receives-six-konecranes-rtgs/",
+        "title": "Middle Corridor trains keep increasing amid persisting challenges",
+        "summary": "Freight trains connecting China and Europe via the Middle Corridor continue to experience massive growth, with their number on par to more than double in 2026 compared to last year",
+        "source": "RailFreight.com",
+        "timestamp": "2026-10-28T10:38:40+00:00",
+        "confidence": "medium",
+        "link": "https://www.railfreight.com/beltandroad/2026/10/28/middle-corridor-trains-keep-increasing-amid-persisting-challenges/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,7 +161,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -165,16 +169,12 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -182,16 +182,20 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "Disruption language is no longer limited to ocean lanes; inland and intermodal knock-on effects are now part of the story.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       }
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-29",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Diesel prices may stay elevated into spring 2027, fuel executives warn; Backlog grows as 35,000 containers await rail service at LA-Long Beach; Strike threat by port security workers at Los Angeles-Long Beach",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-28",
         "write_now": "Maybe",
@@ -239,33 +243,25 @@
         "worth_attention_today": "5",
         "headline": "TMS expands its reach; Container freight rates hit 15-week high; North American ports invest for the future",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-22",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Red Sea container traffic set for full return in Q1 - October 20, 2026 Update; The empty container problem isn’t a shortage. It’s a data problem.; Project Cargo East of Suez: Routing Oversized Freight When the Short Way Is Not Simple",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 312,
+      "total_items": 337,
       "high_trust": 83,
-      "trade_press": 229,
+      "trade_press": 254,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-28.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-28.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-28.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-29.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-29.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-29.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-28",
-    "run_started_at": "2026-10-28T04:46:05+09:00",
+    "report_date": "2026-10-29",
+    "run_started_at": "2026-10-29T04:45:57+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +272,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows degraded services: LTL Carrier (under maintenance) and Ocean Carrier (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -362,31 +358,31 @@
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       },
       {
+        "detected_date": "2026-10-17",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-10-16",
         "company": "Project44",
         "importance": "important",
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-10-16",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261028T044605+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-28.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261029T044557+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-29.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W44",
-    "week_end_date": "2026-10-28",
+    "week_end_date": "2026-10-29",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -436,7 +432,7 @@
     "recent_history": [
       {
         "week_label": "2026-W44",
-        "week_end_date": "2026-10-28",
+        "week_end_date": "2026-10-29",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
