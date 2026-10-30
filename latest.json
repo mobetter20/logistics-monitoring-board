@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-10-29T19:48:10+00:00",
-  "requested_date": "2026-10-30",
+  "built_at": "2026-10-30T19:47:51+00:00",
+  "requested_date": "2026-10-31",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-10-30",
+    "requested_date": "2026-10-31",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Why container rates are climbing despite cooling demand.",
+      "Lead daily item: Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-10-30",
+        "report_label": "2026-10-31",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-10-30",
+        "report_label": "2026-10-31",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,63 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-10-30",
-    "last_updated": "2026-10-30 04:46",
+    "report_date": "2026-10-31",
+    "last_updated": "2026-10-31 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Why container rates are climbing despite cooling demand.",
+    "status_note": "Market watch is led by Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Why container rates are climbing despite cooling demand.",
+      "Lead market story: Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-10-30",
+      "report_date": "2026-10-31",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Why container rates are climbing despite cooling demand; Freightos Weekly Update: Union approves LA/Long Beach port strike; container rates still under pressure; Cyclone Arnab Disrupts Operations at India’s East Coast Ports, Raising Concerns Over Cargo Delays",
+      "headline": "East London extended disruption after Barking derailment; Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry; Mexico truckers halt protests, demand action on deadly highway crime",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Why container rates are climbing despite cooling demand",
+    "headline": "Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry",
     "key_news_radar": [
       {
-        "title": "Why container rates are climbing despite cooling demand",
-        "summary": "Container freight rates climbed on major Asia-Europe and trans-Pacific routes last week despite signs of cooling demand, as congestion and canceled sailings supported prices.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-10-29T18:39:34+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/why-container-rates-are-climbing-despite-cooling-demand",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Freightos Weekly Update: Union approves LA/Long Beach port strike; container rates still under pressure",
-        "summary": "The container carrier march back through the Red Sea continues, with Alphaliner estimating nearly two-thirds of total Asia - Europe capacity is now restored.",
-        "source": "Container News",
-        "timestamp": "2026-10-29T10:00:42+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-union-approves-la-long-beach-port-strike-container-rates-still-under-pressure/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Cyclone Arnab Disrupts Operations at India’s East Coast Ports, Raising Concerns Over Cargo Delays",
-        "summary": "Cyclone Arnab has disrupted port operations along India’s eastern coastline, with vessel-handling services suspended or restricted at several major ports amid severe weather warnin",
+        "title": "Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry",
+        "summary": "India’s chemical industry is closely monitoring diplomatic developments in West Asia, as any easing of tensions around the Strait of Hormuz could help reduce shipping disruptions a",
         "source": "India Seatrade News",
-        "timestamp": "2026-10-28T23:30:39+00:00",
+        "timestamp": "2026-10-30T00:00:41+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/cyclone-arnab-disrupts-operations-at-indias-east-coast-ports-raising-concerns-over-cargo-delays/",
+        "link": "https://indiaseatradenews.com/iran-peace-talks-may-ease-shipping-risks-offer-relief-to-indias-chemical-industry/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -128,40 +102,64 @@
         "confirmed_by": []
       },
       {
-        "title": "Kalmar’s Q3 orders rise as North American demand recovers, but profit slips",
-        "summary": "Kalmar’s orders received rose by 22% in the third quarter of 2026, supported by a continued recovery in North American equipment demand and increased orders for its eco portfolio,",
-        "source": "WorldCargo News",
-        "timestamp": "2026-10-29T10:55:23+00:00",
+        "title": "Jade Pacific Line Enters Asian Short-Haul Shipping Market with New India-Red Sea Service",
+        "summary": "Singapore-based Jade Pacific Line (JPL) has entered the regional container shipping market with a new shuttle service connecting India with the Red Sea, adding another player to th",
+        "source": "India Seatrade News",
+        "timestamp": "2026-10-30T00:00:58+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/10/kalmars-q3-orders-rise-as-north-american-demand-recovers-but-profit-slips/",
+        "link": "https://indiaseatradenews.com/jade-pacific-line-enters-asian-short-haul-shipping-market-with-new-india-red-sea-service/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Russia Reopens Sea Of Azov Passage For Grain Ships For First Time Since July",
-        "summary": "Image for representation purposes only Russia has resumed granting departure permits to grain ships in the Sea of Azov after a halt of more than three months, allowing vessels to p",
-        "source": "Marine Insight",
-        "timestamp": "2026-10-29T13:57:23+00:00",
+        "title": "East London extended disruption after Barking derailment",
+        "summary": "The cleanup and restoration of the railway near Barking after last Friday’s derailment will continue well into next week.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-10-30T06:51:44+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/russia-reopens-sea-of-azov-passage-for-grain-ships-for-first-time-since-july/?utm_source=rss&utm_medium=rss&utm_campaign=russia-reopens-sea-of-azov-passage-for-grain-ships-for-first-time-since-july",
+        "link": "https://www.railfreight.com/railfreight/2026/10/30/east-london-extended-disruption-after-barking-derailment/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
+      },
+      {
+        "title": "FedEx cashes in on premium logistics services, fuel surcharges",
+        "summary": "delivered strong third quarter results driven by higher volumes and pricing for premium B2B and B2C shipping services, but bullishness for peak holiday season demand was tempered b",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-29T19:49:41+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/fedex-cashes-in-on-premium-logistics-services-fuel-surcharges",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "New Georgia hub aims to take 26,000 containers off the road",
+        "summary": "Brian Kemp and Georgia Ports Authority officials celebrated the grand opening of the $134 million Gainesville Inland Port on Thursday, marking a new connection between Northeast Ge",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-10-30T11:20:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/new-georgia-hub-aims-to-take-26000-containers-off-the-road",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -169,20 +167,24 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-10-31",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "East London extended disruption after Barking derailment; Iran Peace Talks May Ease Shipping Risks, Offer Relief to India’s Chemical Industry; Mexico truckers halt protests, demand action on deadly highway crime",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-10-30",
         "write_now": "Maybe",
@@ -239,33 +249,25 @@
         "worth_attention_today": "5",
         "headline": "Adani Ports expands Middle East footprint with new Oman subsidiary; Rail Container Movement Picks Up at Vallarpadam ICTT After Years of Underutilisation; Canada backs Saint John Trade Corridor expansion",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-24",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Norfolk Southern profits rise on higher volume and revenue; Hambantota Port Eyes Growth as Red Sea-Suez Shipping Recovery Approaches; New Drewry data shows import demand boosting trans-Pacific rates",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 345,
-      "high_trust": 89,
-      "trade_press": 256,
+      "total_items": 355,
+      "high_trust": 85,
+      "trade_press": 270,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-10-30.md",
-      "news_pipeline/output/digests/daily-digest-2026-10-30.md",
-      "news_pipeline/output/trends/daily-trends-2026-10-30.json"
+      "news_pipeline/output/reports/daily-brief-2026-10-31.md",
+      "news_pipeline/output/digests/daily-digest-2026-10-31.md",
+      "news_pipeline/output/trends/daily-trends-2026-10-31.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-10-30",
-    "run_started_at": "2026-10-30T04:46:30+09:00",
+    "report_date": "2026-10-31",
+    "run_started_at": "2026-10-31T04:46:05+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -276,12 +278,12 @@
       "Latest lower-signal item came from Project44: Project44 status page shows degraded services: LTL Carrier (under maintenance) and Ocean Carrier (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 6 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
+    "last_signal_label": "6 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -362,31 +364,31 @@
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       },
       {
+        "detected_date": "2026-10-19",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page returned to all systems operational.",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-10-18",
         "company": "Project44",
         "importance": "watch",
         "signal_type": "status change",
         "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-10-17",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261030T044630+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-10-30.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261031T044605+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-10-31.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W44",
-    "week_end_date": "2026-10-30",
+    "week_end_date": "2026-10-31",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -436,7 +438,7 @@
     "recent_history": [
       {
         "week_label": "2026-W44",
-        "week_end_date": "2026-10-30",
+        "week_end_date": "2026-10-31",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
