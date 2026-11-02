@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-01T19:47:35+00:00",
-  "requested_date": "2026-11-02",
+  "built_at": "2026-11-02T19:47:23+00:00",
+  "requested_date": "2026-11-03",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-02",
+    "requested_date": "2026-11-03",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: BIMCO warns of growing pressure on dry bulk market.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: From Hormuz to the Red Sea: Can rail arrive before the next disruption?.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-02",
+        "report_label": "2026-11-03",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-02",
+        "report_label": "2026-11-03",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,106 +64,106 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-02",
-    "last_updated": "2026-11-02 04:45",
+    "report_date": "2026-11-03",
+    "last_updated": "2026-11-03 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by BIMCO warns of growing pressure on dry bulk market.",
+    "status_note": "Market watch is led by From Hormuz to the Red Sea: Can rail arrive before the next disruption?.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: BIMCO warns of growing pressure on dry bulk market.",
+      "Lead market story: From Hormuz to the Red Sea: Can rail arrive before the next disruption?.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-02",
+      "report_date": "2026-11-03",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "BIMCO warns of growing pressure on dry bulk market; Georgia Ports opens Gainesville inland port; Georgia Ports opens Gainesville inland port",
+      "headline": "From Hormuz to the Red Sea: Can rail arrive before the next disruption?; Flexport forwarding volumes up 40% as headcount grows only 5%; Strike at busiest US port just days away as talks continue",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "BIMCO warns of growing pressure on dry bulk market",
+    "headline": "From Hormuz to the Red Sea: Can rail arrive before the next disruption?",
     "key_news_radar": [
       {
-        "title": "BIMCO warns of growing pressure on dry bulk market",
-        "summary": "BIMCO warns that geopolitical uncertainty and ongoing disruptions are clouding the dry bulk market outlook for 2027 and 2028.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-01T07:31:30+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/bimco-warns-of-growing-pressure-on-dry-bulk-market/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Georgia Ports opens Gainesville inland port",
-        "summary": "Georgia Ports Authority has opened the Gainesville Inland Port in a grand opening ceremony attended by Governor Brian Kemp, Hall County dignitaries and Georgia Ports leadership.",
-        "source": "Container News",
-        "timestamp": "2026-11-01T11:00:42+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/georgia-ports-opens-gainesville-inland-port/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Beyond the AI Hype: The Operational Blueprint for Freight Forwarding Intelligence",
-        "summary": "With over 25 years of global technology, digital trade, and supply chain leadership—including scaling Western tech enterprises across Asia and leading an e-commerce infrastructure",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-01T15:35:32+00:00",
+        "title": "From Hormuz to the Red Sea: Can rail arrive before the next disruption?",
+        "summary": "The Strait of Hormuz and Bab el-Mandeb are testing the resilience of Middle Eastern trade routes at the same time.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-11-02T11:04:13+00:00",
         "confidence": "medium",
-        "link": "https://www.freightos.com/freight-resources/beyond-the-ai-hype-the-operational-blueprint-for-freight-forwarding-intelligence/",
+        "link": "https://www.railfreight.com/beltandroad/2026/11/02/from-hormuz-to-the-red-sea-can-rail-arrive-before-the-next-disruption/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "railfreight",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: Cabotage enforcements threatening cross-border trucking",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-01T12:58:04+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-cabotage-enforcements-threatening-cross-border-trucking",
+        "title": "Flexport forwarding volumes up 40% as headcount grows only 5%",
+        "summary": "Flexport’s freight volumes are up 40% from a year ago while its headcount has grown 5%, founder and CEO Ryan Petersen told FreightWaves.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-02T12:00:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/flexport-volumes-up-40-ai-headcount",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Container ship orderbook-to-fleet ratio highest since 2009",
+        "summary": "Container ships under construction or awaiting keel-laying at shipyards worldwide now total 16.2 million TEU, equivalent to 46.5% of the active fleet, the highest ratio since the 2",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-11-02T11:29:38+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/container-ship-orderbook-to-fleet-ratio-highest-since-2009/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Strike at busiest US port just days away as talks continue",
+        "summary": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have signed a contract extension through 5 p.m.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-02T13:48:55+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/strike-at-busiest-us-port-just-days-away-as-talks-continue",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Ocean line sale expands Europe logistics reach for US shippers",
+        "summary": "Spain’s Boluda Shipping has agreed to acquire Samskip in a deal aimed at building a broader European short-sea and inland freight network, potentially giving U.S.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-02T11:54:00+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/ocean-line-sale-expands-europe-logistics-reach-for-u-s-shippers",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "freightwaves_news"
+          "s_news_via_shippers_association_on_inoreader"
         ]
-      },
-      {
-        "title": "Rhenus expands China logistics operations with new Fuzhou office",
-        "summary": "Rhenus Group has expanded its logistics operations in China with a new office in Fuzhou, focusing on renewable energy equipment and e-commerce supply chains.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-01T01:48:00+00:00",
-        "confidence": "medium",
-        "link": "https://container-news.com/rhenus-expands-china-logistics-operations-with-new-fuzhou-office/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
       }
     ],
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
@@ -171,20 +171,20 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -194,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-03",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "From Hormuz to the Red Sea: Can rail arrive before the next disruption?; Flexport forwarding volumes up 40% as headcount grows only 5%; Strike at busiest US port just days away as talks continue",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-02",
         "write_now": "Maybe",
@@ -241,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Maghreb ports seek to replicate Tanger Med’s success; Hambantota Port sees new opportunities as container ships return to Suez; How Real-World Supply Chain Disruptions Can Strengthen Student Learning",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-10-27",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say; Mexican truckers launch national strike over highway security, rising costs; The Barking Friday derailment aftermath continues",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 59,
-      "high_trust": 8,
-      "trade_press": 51,
+      "total_items": 299,
+      "high_trust": 80,
+      "trade_press": 219,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-02.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-02.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-02.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-03.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-03.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-03.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-02",
-    "run_started_at": "2026-11-02T04:45:57+09:00",
+    "report_date": "2026-11-03",
+    "run_started_at": "2026-11-03T04:45:59+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance)."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -328,20 +329,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-01",
@@ -374,25 +362,17 @@
         "signal_type": "website change",
         "summary": "Project44 solutions page added stronger visibility, AI and automation, and analytics and decision intelligence language and introduced analytics messaging",
         "source_url": "https://www.project44.com/industries/"
-      },
-      {
-        "detected_date": "2026-10-20",
-        "company": "Transporeon",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Transporeon status page returned to all systems operational.",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261102T044557+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-02.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261103T044559+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-03.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W45",
-    "week_end_date": "2026-11-02",
+    "week_end_date": "2026-11-03",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -442,7 +422,7 @@
     "recent_history": [
       {
         "week_label": "2026-W45",
-        "week_end_date": "2026-11-02",
+        "week_end_date": "2026-11-03",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
