@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-06T19:49:20+00:00",
-  "requested_date": "2026-11-07",
+  "built_at": "2026-11-07T19:47:31+00:00",
+  "requested_date": "2026-11-08",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-07",
+    "requested_date": "2026-11-08",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back.",
+      "Competitor watch: Watch-level movement detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-07",
+        "report_label": "2026-11-08",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-07",
+        "report_label": "2026-11-08",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Watch-level movement detected",
+        "summary": "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,92 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-07",
-    "last_updated": "2026-11-07 04:46",
+    "report_date": "2026-11-08",
+    "last_updated": "2026-11-08 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027.",
+    "status_note": "Market watch is led by Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027.",
+      "Lead market story: Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-07",
+      "report_date": "2026-11-08",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027; Container freight rates edge down on 5 November 2026; Maersk Market Update Shows “Uneven” Conditions",
+      "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back; IMO Council urges stronger protection of seafarers amid threats to global shipping; IMO Council Urges Stronger Protection Of Seafarers Amid Threats To Global Shipping",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027",
+    "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back",
     "key_news_radar": [
       {
-        "title": "Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027",
-        "summary": "Global ocean container shipping spot rates are projected to decline 30% in 2027, according to the Xeneta Ocean Outlook Report presented by Chief Analyst Peter Sand at the annual Xe",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-06T09:34:56+00:00",
+        "title": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back",
+        "summary": "MUNICH: Global ocean container shipping spot rates are forecast to fall 30% in 2027, according to the Xeneta Ocean Outlook Report unveiled on Thursday by Chief Analyst Peter Sand t",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-07T03:49:37+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/xeneta-forecasts-30-drop-in-ocean-freight-spot-rates-for-2027/",
+        "link": "https://indiashippingnews.com/international-shipping/xeneta-summit-analysts-forecast-ocean-freight-spot-rates-to-fall-30-in-2027-as-red-sea-return-sees-capacity-flooding-back/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maersk Market Update Shows “Uneven” Conditions",
-        "summary": "The extended import peak season is beginning to ease, according to integrated logistics provider Maersk, but transportation networks continue to experience localized capacity const",
-        "source": "SupplyChainBrain",
-        "timestamp": "2026-11-06T07:00:00+00:00",
-        "confidence": "medium",
-        "link": "https://www.supplychainbrain.com/home/top-stories/article/16424535/maersk-market-update-shows-uneven-conditions",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "supplychainbrain_articles",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Container freight rates edge down on 5 November 2026",
-        "summary": "November 2026 has begun with largely calm conditions in spot container freight rates.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-11-06T11:35:06+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/container-freight-rates-edge-down-on-5-november-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Mexico cargo thieves shift tactics as Q3 truck parking thefts surge",
-        "summary": "Cargo thieves in Mexico are increasingly targeting parked trucks, shifting operations toward the country’s industrial heartland and exploiting nighttime security vulnerabilities.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-05T20:11:22+00:00",
+        "title": "IMO Council urges stronger protection of seafarers amid threats to global shipping",
+        "summary": "LONDON: The Council of the International Maritime Organization (IMO) has reaffirmed its commitment to protecting the safety, security, health and well-being of seafarers amid conti",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-07T03:50:17+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/mexico-cargo-thieves-shift-tactics-as-q3-truck-parking-thefts-surge",
+        "link": "https://indiashippingnews.com/international-shipping/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "What a Container Actually Costs You: Inside the Terminal’s Cost Puzzle",
-        "summary": "When a shipping container starts its journey, it passes through various stages, with different parties handling it for different reasons.",
+        "title": "IMO Council Urges Stronger Protection Of Seafarers Amid Threats To Global Shipping",
+        "summary": "Image Credits: IMO The Council of the International Maritime Organization (IMO) has reaffirmed its commitment to protecting the safety, security, health and well-being of seafarers",
         "source": "Marine Insight",
-        "timestamp": "2026-11-06T08:57:51+00:00",
+        "timestamp": "2026-11-07T12:41:25+00:00",
         "confidence": "medium",
-        "link": "https://www.marineinsight.com/what-a-container-actually-costs-you-inside-the-terminals-cost-puzzle/?utm_source=rss&utm_medium=rss&utm_campaign=what-a-container-actually-costs-you-inside-the-terminals-cost-puzzle",
+        "link": "https://www.marineinsight.com/imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping/?utm_source=rss&utm_medium=rss&utm_campaign=imo-council-urges-stronger-protection-of-seafarers-amid-threats-to-global-shipping",
         "label": "Operational",
         "question_signal": "",
         "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Oman, Iran seek “resuming navigation” through Hormuz “without obstacles” amid regional tensions",
+        "summary": "MUSCAT/OMAN: Oman and Iran discussed efforts to resume navigation through the Strait of Hormuz without obstacles during a telephone conversation between their Foreign Ministers on",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-07T03:51:14+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/international-shipping/oman-iran-seek-resuming-navigation-through-hormuz-without-obstacles-amid-regional-tensions/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India Seeks Direct Rail Access for Private Container Train Operators into Bangladesh",
+        "summary": "India has sought permission for private container train operators to run freight trains directly into Bangladesh and transport containers to inland destinations using the neighbour",
+        "source": "India Seatrade News",
+        "timestamp": "2026-11-07T00:16:09+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/india-seeks-direct-rail-access-for-private-container-train-operators-into-bangladesh/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,11 +157,11 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -169,20 +169,20 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-08",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back; IMO Council urges stronger protection of seafarers amid threats to global shipping; IMO Council Urges Stronger Protection Of Seafarers Amid Threats To Global Shipping",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-07",
         "write_now": "Maybe",
@@ -239,53 +247,44 @@
         "worth_attention_today": "5",
         "headline": "BIMCO warns of growing pressure on dry bulk market; Georgia Ports opens Gainesville inland port; Georgia Ports opens Gainesville inland port",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-01",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Why Facility Resilience Is Becoming a Supply Chain Priority; Russia-India Oil Shipping Costs Hit Record Highs as Black Sea Disruptions Tighten Tanker Supply; Tanker Struck By Limpet Mines In Strait of Hormuz In First Such Attack Since 2019",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 323,
-      "high_trust": 91,
-      "trade_press": 232,
+      "total_items": 111,
+      "high_trust": 33,
+      "trade_press": 78,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-07.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-07.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-07.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-08.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-08.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-08.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-07",
-    "run_started_at": "2026-11-07T04:46:47+09:00",
+    "report_date": "2026-11-08",
+    "run_started_at": "2026-11-08T04:46:01+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Wakeo: Wakeo homepage added stronger AI and automation, execution and workflow, and sustainability language and introduced carbon / sustainability messaging"
+      "Closest current peer watch item: Project44 Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Watch-level movement detected",
+    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
-        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement."
+        "summary": "Current narrative leans toward AI and automation, data quality / connectivity, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "FourKites",
@@ -327,7 +326,21 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [],
+    "watch_items": [
+      {
+        "company": "Project44",
+        "importance": "watch",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Ocean Carrier (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-05",
@@ -368,25 +381,17 @@
         "signal_type": "status change",
         "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-10-25",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: LTL Carrier (under maintenance) and Ocean Carrier (under maintenance).",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261107T044647+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-07.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261108T044601+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-08.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W45",
-    "week_end_date": "2026-11-07",
+    "week_end_date": "2026-11-08",
     "freshness": "current",
     "status_note": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
     "sparse_explanation": "",
@@ -411,8 +416,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -470,7 +474,7 @@
     "recent_history": [
       {
         "week_label": "2026-W45",
-        "week_end_date": "2026-11-07",
+        "week_end_date": "2026-11-08",
         "takeaway": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
         "signal_count": "3",
         "active_thesis_count": "0",
