@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-08T19:47:39+00:00",
-  "requested_date": "2026-11-09",
+  "built_at": "2026-11-09T19:47:32+00:00",
+  "requested_date": "2026-11-10",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-09",
+    "requested_date": "2026-11-10",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Low-change week."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-09",
+        "report_label": "2026-11-10",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-09",
+        "report_label": "2026-11-10",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-        "supporting_note": "Project44 is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,96 +64,98 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-09",
-    "last_updated": "2026-11-09 04:46",
+    "report_date": "2026-11-10",
+    "last_updated": "2026-11-10 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs.",
+    "status_note": "Market watch is led by Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs.",
+      "Lead market story: Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-09",
+      "report_date": "2026-11-10",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Hapag-Lloyd Suspends New Scrap Shipments to Thailand, Introduces Security Deposit; IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs",
+      "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta; Bangkok airport cargo congestion frustrates freight forwarders; Energy and speed shape logistics property decisions",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs",
+    "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
     "key_news_radar": [
       {
-        "title": "IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs",
-        "summary": "Indian Oil Corporation (IOC), the country’s largest oil refiner, is planning to acquire its own crude oil and liquefied petroleum gas (LPG) carriers as geopolitical tensions around",
-        "source": "India Seatrade News",
-        "timestamp": "2026-11-08T13:03:42+00:00",
+        "title": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
+        "summary": "Global ocean container spot rates could fall 30% in 2027 as fleet growth outpaces cargo demand and more ships return to shorter routes through the Red Sea, according to Xeneta’s la",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-09T18:35:00+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/ioc-plans-to-acquire-own-crude-oil-and-lpg-carriers-amid-rising-shipping-costs/",
+        "link": "https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Transport and logistics news - 9 November 2026",
+        "summary": "Gemini expands its return to Suez Maersk and Hapag-Lloyd have decided to reroute the Gemini Cooperation’s shipping service between India and Northern Europe through the Red Sea and",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-11-09T18:49:24+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-9-november-2026/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "QTerminals Kramer starts construction of ZESpack charging station",
-        "summary": "QTerminals Kramer Rotterdam has started construction of a charging station for ZESpacks at the RCT depot on the Maasvlakte.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-08T07:27:57+00:00",
+        "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
+        "summary": "#fwtv_rCsvbkWM .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_rCsvbkWM .fwtv-panel p{margin:0 0 12px}#fwtv_rCsvbkWM .fwtv-note{font-style",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-09T19:03:09+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/qterminals-kramer-starts-construction-of-zespack-charging-station/",
-        "label": "Watch",
+        "link": "https://www.freightwaves.com/news/ai-in-logistics-how-to-get-real-roi-not-just-hype",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles",
-        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-08T13:17:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/borderlands-mexico-us-foreign-trade-zones-push-to-fix-usmca-tariff-obstacles",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Intermodal rates coming in hot this fall; mostly fuel driven",
-        "summary": "Chart of the Week: Intermodal Contract Rate per Mile - Transcontinental and East Coast lanes SONAR: IMCRPM.TRANSCON, IMCRPM.LOCALEAST Intermodal contract rates, including fuel, hav",
-        "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-08T02:37:02+00:00",
-        "confidence": "medium",
-        "link": "https://www.freightwaves.com/news/intermodal-rates-coming-in-hot-this-fall-mostly-fuel-driven",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "s_news_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "freightwaves_news"
-        ]
-      },
-      {
-        "title": "Hapag-Lloyd Suspends New Scrap Shipments to Thailand, Introduces Security Deposit",
-        "summary": "Hapag-Lloyd has temporarily suspended new bookings for selected metal and rubber scrap shipments to Thailand, effective immediately and until further notice.",
-        "source": "India Seatrade News",
-        "timestamp": "2026-11-08T13:03:21+00:00",
+        "title": "DHL calls out air cargo contribution to 16% Q3 profit gain",
+        "summary": "DHL Group recorded strong earnings growth during the third quarter, reflecting the continued resilience of global trade despite geopolitical headwinds, the ability to pass through",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-09T18:29:01+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/hapag-lloyd-suspends-new-scrap-shipments-to-thailand-introduces-security-deposit/",
+        "link": "https://www.freightwaves.com/news/dhl-calls-out-air-cargo-contribution-to-16-q3-profit-gain",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_seatrade_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": [
+          "monitoring_feeds_via_shippers_association_on_inoreader",
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "Week of attacks on merchant ships in Hormuz and the Black Sea",
+        "summary": "On 7 November 2026, a US aircraft struck the stern of the bulk carrier Huda with precision-guided munitions.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-11-09T10:36:36+00:00",
+        "confidence": "medium",
+        "link": "https://www.trasportoeuropa.it/english/week-of-attacks-on-merchant-ships-in-hormuz-and-the-black-sea/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -165,11 +167,11 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -178,15 +180,15 @@
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -196,6 +198,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-10",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta; Bangkok airport cargo congestion frustrates freight forwarders; Energy and speed shape logistics property decisions",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-09",
         "write_now": "Maybe",
@@ -243,48 +253,41 @@
         "worth_attention_today": "5",
         "headline": "How Global Traders Can Respond Faster When Shipping Routes Are Disrupted; Gemini’s Suez return puts network flexibility to the test; Successful quarter at Expeditors boosted by hyperscaler business",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-03",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "From Hormuz to the Red Sea: Can rail arrive before the next disruption?; Flexport forwarding volumes up 40% as headcount grows only 5%; Strike at busiest US port just days away as talks continue",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 55,
-      "high_trust": 15,
-      "trade_press": 40,
+      "total_items": 285,
+      "high_trust": 59,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-09.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-09.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-09.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-10.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-10.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-10.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-09",
-    "run_started_at": "2026-11-09T04:46:04+09:00",
+    "report_date": "2026-11-10",
+    "run_started_at": "2026-11-10T04:46:05+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Project44 Project44 status page returned to all systems operational.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Wakeo: Wakeo homepage added stronger AI and automation, execution and workflow, and sustainability language and introduced carbon / sustainability messaging"
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Project44 is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "5 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -330,20 +333,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Project44",
-        "importance": "watch",
-        "summary": "Project44 status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-05",
@@ -387,14 +377,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261109T044604+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-09.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261110T044605+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-10.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W46",
-    "week_end_date": "2026-11-09",
+    "week_end_date": "2026-11-10",
     "freshness": "current",
     "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
     "sparse_explanation": "",
@@ -444,7 +434,7 @@
     "recent_history": [
       {
         "week_label": "2026-W46",
-        "week_end_date": "2026-11-09",
+        "week_end_date": "2026-11-10",
         "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
         "signal_count": "0",
         "active_thesis_count": "0",
