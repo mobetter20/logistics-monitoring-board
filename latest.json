@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-09T19:47:32+00:00",
-  "requested_date": "2026-11-10",
+  "built_at": "2026-11-10T19:47:21+00:00",
+  "requested_date": "2026-11-11",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-10",
+    "requested_date": "2026-11-11",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
-      "Competitor watch: Baseline unchanged.",
-      "Weekly strategy: Low-change week."
+      "Lead daily item: Delays test the resilience of Southeast Asia’s hub ports.",
+      "Competitor watch: Important change detected.",
+      "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-10",
+        "report_label": "2026-11-11",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-10",
+        "report_label": "2026-11-11",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -48,9 +48,9 @@
         "cadence": "Weekly",
         "report_label": "2026-W46",
         "freshness": "current",
-        "change_label": "Low-change week",
-        "summary": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "supporting_note": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+        "change_label": "Signal set changed",
+        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
+        "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
@@ -64,103 +64,101 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-10",
-    "last_updated": "2026-11-10 04:46",
+    "report_date": "2026-11-11",
+    "last_updated": "2026-11-11 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
+    "status_note": "Market watch is led by Delays test the resilience of Southeast Asia’s hub ports.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta.",
+      "Lead market story: Delays test the resilience of Southeast Asia’s hub ports.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-10",
+      "report_date": "2026-11-11",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta; Bangkok airport cargo congestion frustrates freight forwarders; Energy and speed shape logistics property decisions",
+      "headline": "Delays test the resilience of Southeast Asia’s hub ports; Suez return could limit November freight rate increases, Sogese warns; How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
+    "headline": "Delays test the resilience of Southeast Asia’s hub ports",
     "key_news_radar": [
       {
-        "title": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta",
-        "summary": "Global ocean container spot rates could fall 30% in 2027 as fleet growth outpaces cargo demand and more ships return to shorter routes through the Red Sea, according to Xeneta’s la",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-09T18:35:00+00:00",
+        "title": "Delays test the resilience of Southeast Asia’s hub ports",
+        "summary": "The knock-on effects of the Strait of Hormuz crisis, followed by typhoon-related disruption at Chinese ports, are testing the resilience of Southeast Asia’s transhipment network.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-09T22:15:47+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/asia-u-s-west-coast-ocean-container-spot-rates-up-343-since-start-of-iran-war-says-xeneta",
+        "link": "https://www.worldcargonews.com/ports-terminals/2026/11/delays-test-the-resilience-of-southeast-asias-hub-ports/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Transport and logistics news - 9 November 2026",
-        "summary": "Gemini expands its return to Suez Maersk and Hapag-Lloyd have decided to reroute the Gemini Cooperation’s shipping service between India and Northern Europe through the Red Sea and",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-11-09T18:49:24+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/transport-and-logistics-news-9-november-2026/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "AI in Logistics: How to Get Real ROI, Not Just Hype",
-        "summary": "#fwtv_rCsvbkWM .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_rCsvbkWM .fwtv-panel p{margin:0 0 12px}#fwtv_rCsvbkWM .fwtv-note{font-style",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-09T19:03:09+00:00",
+        "title": "Boom rolls on for dry box builders",
+        "summary": "There appears to be no end to the appetite of ocean carriers to order new containers, with almost 8 million TEU expected to be manufactured this year.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-10T09:04:22+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/ai-in-logistics-how-to-get-real-roi-not-just-hype",
+        "link": "https://www.worldcargonews.com/container-industry/2026/11/boom-rolls-on-for-dry-box-builders/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "DHL calls out air cargo contribution to 16% Q3 profit gain",
-        "summary": "DHL Group recorded strong earnings growth during the third quarter, reflecting the continued resilience of global trade despite geopolitical headwinds, the ability to pass through",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-09T18:29:01+00:00",
+        "title": "Suez return could limit November freight rate increases, Sogese warns",
+        "summary": "Container shipping lines may struggle to secure the full freight rate increases announced for November as more vessel capacity returns to the Asia-Europe trade through the Suez Can",
+        "source": "Container News",
+        "timestamp": "2026-11-10T13:00:49+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/dhl-calls-out-air-cargo-contribution-to-16-q3-profit-gain",
+        "link": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "container_news",
         "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader",
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Week of attacks on merchant ships in Hormuz and the Black Sea",
-        "summary": "On 7 November 2026, a US aircraft struck the stern of the bulk carrier Huda with precision-guided munitions.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-11-09T10:36:36+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/week-of-attacks-on-merchant-ships-in-hormuz-and-the-black-sea/",
+        "title": "Iran claims two oil tankers are burning in Strait of Hormuz",
+        "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, 10 November, that two oil tankers had caught fire following explosions while attempting to transit the Strait of Ho",
+        "source": "Container News",
+        "timestamp": "2026-11-10T14:49:44+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/iran-claims-two-oil-tankers-are-burning-in-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
+        "summary": "After a decade of supply chain disruption, building resilience has become table stakes for U.S.",
+        "source": "SupplyChainBrain",
+        "timestamp": "2026-11-10T08:00:00+00:00",
+        "confidence": "medium",
+        "link": "https://www.supplychainbrain.com/technology/inventory-planning-optimization/blog/15883276/how-supply-chain-leaders-can-turn-fast-decisionmaking-into-competitive-advantage",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "supplychainbrain_articles",
         "paywalled": false,
         "confirmed_by": []
       }
     ],
     "hot_topics": [
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
@@ -171,24 +169,20 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "summary": ""
+      },
+      {
         "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -198,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-11",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Delays test the resilience of Southeast Asia’s hub ports; Suez return could limit November freight rate increases, Sogese warns; How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-10",
         "write_now": "Maybe",
@@ -245,49 +247,40 @@
         "worth_attention_today": "5",
         "headline": "Asia-US container rates hold as carriers seek $3,000 November rate hikes; Barking reopening recedes into mid November; Trucking group’s lawsuit threatens to upend federal carrier registration system",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-04",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "How Global Traders Can Respond Faster When Shipping Routes Are Disrupted; Gemini’s Suez return puts network flexibility to the test; Successful quarter at Expeditors boosted by hyperscaler business",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 285,
-      "high_trust": 59,
-      "trade_press": 226,
+      "total_items": 323,
+      "high_trust": 79,
+      "trade_press": 244,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-10.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-10.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-10.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-11.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-11.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-11.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-10",
-    "run_started_at": "2026-11-10T04:46:05+09:00",
+    "report_date": "2026-11-11",
+    "run_started_at": "2026-11-11T04:45:57+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Wakeo: Wakeo homepage added stronger AI and automation, execution and workflow, and sustainability language and introduced carbon / sustainability messaging"
+      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 5 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "5 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -332,9 +325,30 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
+        "evidence": [
+          "AI Analyst Mo combines project44’s logistics intelligence and network data with Snowflake Cortex AI to deliver consistent, data-grounded answers to complex supply chain questions. CHICAGO, November 10, 2026 – project44, the Decision Intelligence Platform for the modern supply chain, today announced an integration with Snowflake, the AI Data Cloud company, to advance reliable AI-powered supply…"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-11-11",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/"
+      },
       {
         "detected_date": "2026-11-05",
         "company": "Wakeo",
@@ -377,38 +391,39 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261110T044605+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-10.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261111T044557+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-11.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W46",
-    "week_end_date": "2026-11-10",
+    "week_end_date": "2026-11-11",
     "freshness": "current",
-    "status_note": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
+    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
-    "change_label": "Low-change week",
-    "change_detail": "The strategic layer is current, but nothing crossed the important threshold in this weekly run.",
+    "change_label": "Signal set changed",
+    "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn."
+      "Project44 is signaling AI positioning around end to end orchestration."
     ],
     "strategic_movements": [
-      "No competitor, adjacent-platform, analyst, or macro signal crossed the current importance threshold this week."
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions."
     ],
     "team_implications": [
-      "Continue accumulating weekly history so the system can separate stable market posture from real directional change."
+      "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Keep the source registry tight and review whether any external source deserves a higher or lower priority after the next 2-3 weekly runs."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
-    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain. Nothing meaningful crossed the current strategic threshold.",
+    "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
     "watch_gap_notes": [
       "Freightos baltic index is not seeded yet, so live watch coverage is incomplete this week.",
       "New York Fed gscpi is not seeded yet, so live watch coverage is incomplete this week.",
@@ -428,17 +443,32 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 0,
+    "important_signal_count": 1,
     "active_theses": [],
-    "top_signals": [],
+    "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "faster decisions",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/"
+      }
+    ],
     "recent_history": [
       {
         "week_label": "2026-W46",
-        "week_end_date": "2026-11-10",
-        "takeaway": "No meaningful strategic movement stood out this week; this currently looks more like a stable or low-change week than a new category turn.",
-        "signal_count": "0",
+        "week_end_date": "2026-11-11",
+        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
+        "signal_count": "1",
         "active_thesis_count": "0",
-        "signal_signature": "",
+        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
