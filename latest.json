@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-10T19:47:21+00:00",
-  "requested_date": "2026-11-11",
+  "built_at": "2026-11-11T19:47:26+00:00",
+  "requested_date": "2026-11-12",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-11",
+    "requested_date": "2026-11-12",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Delays test the resilience of Southeast Asia’s hub ports.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: West Asia crisis drives India’s crude oil shipping costs up nearly fivefold; Strait of Hormuz remains in focus.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-11",
+        "report_label": "2026-11-12",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-11",
+        "report_label": "2026-11-12",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,92 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-11",
-    "last_updated": "2026-11-11 04:45",
+    "report_date": "2026-11-12",
+    "last_updated": "2026-11-12 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Delays test the resilience of Southeast Asia’s hub ports.",
+    "status_note": "Market watch is led by West Asia crisis drives India’s crude oil shipping costs up nearly fivefold; Strait of Hormuz remains in focus.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Delays test the resilience of Southeast Asia’s hub ports.",
+      "Lead market story: West Asia crisis drives India’s crude oil shipping costs up nearly fivefold; Strait of Hormuz remains in focus.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-11",
+      "report_date": "2026-11-12",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Delays test the resilience of Southeast Asia’s hub ports; Suez return could limit November freight rate increases, Sogese warns; How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
+      "headline": "US postpones ‘million-dollar’ China ship tax until January; ‘Port congestion is the next major challenge, interoperability across the supply chain can help’; Are Smart Options the New Oil?",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Delays test the resilience of Southeast Asia’s hub ports",
+    "headline": "West Asia crisis drives India’s crude oil shipping costs up nearly fivefold; Strait of Hormuz remains in focus",
     "key_news_radar": [
       {
-        "title": "Delays test the resilience of Southeast Asia’s hub ports",
-        "summary": "The knock-on effects of the Strait of Hormuz crisis, followed by typhoon-related disruption at Chinese ports, are testing the resilience of Southeast Asia’s transhipment network.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-09T22:15:47+00:00",
+        "title": "West Asia crisis drives India’s crude oil shipping costs up nearly fivefold; Strait of Hormuz remains in focus",
+        "summary": "NEW DELHI: The escalating geopolitical crisis in West Asia has significantly disrupted India’s crude oil shipping economics, with tanker freight rates on some Gulf-to-India routes",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-11T03:00:11+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/11/delays-test-the-resilience-of-southeast-asias-hub-ports/",
+        "link": "https://indiashippingnews.com/maritime/west-asia-crisis-drives-indias-crude-oil-shipping-costs-up-nearly-fivefold-strait-of-hormuz-remains-in-focus/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Boom rolls on for dry box builders",
-        "summary": "There appears to be no end to the appetite of ocean carriers to order new containers, with almost 8 million TEU expected to be manufactured this year.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-10T09:04:22+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/container-industry/2026/11/boom-rolls-on-for-dry-box-builders/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Suez return could limit November freight rate increases, Sogese warns",
-        "summary": "Container shipping lines may struggle to secure the full freight rate increases announced for November as more vessel capacity returns to the Asia-Europe trade through the Suez Can",
-        "source": "Container News",
-        "timestamp": "2026-11-10T13:00:49+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/suez-return-could-limit-november-freight-rate-increases-sogese-warns/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Iran claims two oil tankers are burning in Strait of Hormuz",
-        "summary": "Iran’s Islamic Revolutionary Guard Corps (IRGC) said on Tuesday, 10 November, that two oil tankers had caught fire following explosions while attempting to transit the Strait of Ho",
-        "source": "Container News",
-        "timestamp": "2026-11-10T14:49:44+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/iran-claims-two-oil-tankers-are-burning-in-strait-of-hormuz/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "container_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
-        "summary": "After a decade of supply chain disruption, building resilience has become table stakes for U.S.",
-        "source": "SupplyChainBrain",
-        "timestamp": "2026-11-10T08:00:00+00:00",
+        "title": "‘Port congestion is the next major challenge, interoperability across the supply chain can help’",
+        "summary": "Over half of the EU’s import (by value) enters the continent via maritime routes.",
+        "source": "RailFreight.com",
+        "timestamp": "2026-11-11T10:09:04+00:00",
         "confidence": "medium",
-        "link": "https://www.supplychainbrain.com/technology/inventory-planning-optimization/blog/15883276/how-supply-chain-leaders-can-turn-fast-decisionmaking-into-competitive-advantage",
+        "link": "https://www.railfreight.com/railfreight/2026/11/11/port-congestion-is-the-next-major-challenge-interoperability-across-the-supply-chain-can-help/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "supplychainbrain_articles",
+        "source_id": "railfreight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Are Smart Options the New Oil?",
+        "summary": "Ongoing disruption in the Middle East is showing companies what their supply chain resilience plans are really worth.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-11T11:20:38+00:00",
+        "confidence": "high",
+        "link": "https://www.globaltrademag.com/are-smart-options-the-new-oil/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "US postpones ‘million-dollar’ China ship tax until January",
+        "summary": "The United States has extended the suspension of port fees targeting China-linked shipping for another two months, keeping the measures on hold through January 9, 2027, according t",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-11T17:08:34+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/us-postpones-million-dollar-china-ship-tax-until-january",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
+      },
+      {
+        "title": "Rising Q3 transportation costs squeeze manufacturers, reward railroads and reshape trade",
+        "summary": "Rising fuel prices and freight rates are putting pressure on corporate supply chains, but sharply with different consequences: Higher costs for automakers, a competitive opening fo",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-10T19:22:13+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/rising-q3-transportation-costs-squeeze-manufacturers-reward-railroads-and-reshape-trade",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -157,11 +159,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -169,20 +167,24 @@
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+      },
+      {
+        "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
         "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
+      {
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-12",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "US postpones ‘million-dollar’ China ship tax until January; ‘Port congestion is the next major challenge, interoperability across the supply chain can help’; Are Smart Options the New Oil?",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-11",
         "write_now": "Maybe",
@@ -239,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "8 Inches of Rain Shut Down Busiest US Rail Line for 60 Hours; Maersk raises 2026 guidance as Ocean earnings surge in third quarter; Maersk cashes in on congestion-driven capacity squeeze, lifts 2026 outlook",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-05",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Asia-US container rates hold as carriers seek $3,000 November rate hikes; Barking reopening recedes into mid November; Trucking group’s lawsuit threatens to upend federal carrier registration system",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 323,
-      "high_trust": 79,
-      "trade_press": 244,
+      "total_items": 308,
+      "high_trust": 82,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-11.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-11.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-11.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-12.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-12.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-12.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-11",
-    "run_started_at": "2026-11-11T04:45:57+09:00",
+    "report_date": "2026-11-12",
+    "run_started_at": "2026-11-12T04:45:57+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,20 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "AI Analyst Mo combines project44’s logistics intelligence and network data with Snowflake Cortex AI to deliver consistent, data-grounded answers to complex supply chain questions. CHICAGO, November 10, 2026 – project44, the Decision Intelligence Platform for the modern supply chain, today announced an integration with Snowflake, the AI Data Cloud company, to advance reliable AI-powered supply…"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -391,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261111T044557+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-11.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261112T044557+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-12.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W46",
-    "week_end_date": "2026-11-11",
+    "week_end_date": "2026-11-12",
     "freshness": "current",
     "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
@@ -419,8 +409,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -464,7 +453,7 @@
     "recent_history": [
       {
         "week_label": "2026-W46",
-        "week_end_date": "2026-11-11",
+        "week_end_date": "2026-11-12",
         "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
         "signal_count": "1",
         "active_thesis_count": "0",
