@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-12T19:47:31+00:00",
-  "requested_date": "2026-11-13",
+  "built_at": "2026-11-13T19:47:33+00:00",
+  "requested_date": "2026-11-14",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-13",
+    "requested_date": "2026-11-14",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Reefer box production stays strong.",
+      "Lead daily item: ONE reduces inland fuel charges in Thailand by 18%.",
       "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-13",
+        "report_label": "2026-11-14",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-13",
+        "report_label": "2026-11-14",
         "freshness": "current",
         "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "summary": "Newest meaningful competitor move: FourKites FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
+        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,7 +49,7 @@
         "report_label": "2026-W46",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
+        "summary": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,37 +64,76 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-13",
-    "last_updated": "2026-11-13 04:45",
+    "report_date": "2026-11-14",
+    "last_updated": "2026-11-14 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Reefer box production stays strong.",
+    "status_note": "Market watch is led by ONE reduces inland fuel charges in Thailand by 18%.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Reefer box production stays strong.",
+      "Lead market story: ONE reduces inland fuel charges in Thailand by 18%.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-13",
+      "report_date": "2026-11-14",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated; Reefer box production stays strong; Use of Maersk’s Saudi landbridge grows",
+      "headline": "How Geopolitical Friction Is Redefining Cyber Resilience; Maersk reports Cybersecurity incident involving legacy IT System; investigation underway; Eco Rail becomes sole owner of Algeciras-Zaragoza rail highway operator",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Reefer box production stays strong",
+    "headline": "ONE reduces inland fuel charges in Thailand by 18%",
     "key_news_radar": [
       {
-        "title": "Reefer box production stays strong",
-        "summary": "While this year’s output of reefer containers is expected to be lower than that of 2025, the need to replace ageing containers, strong demand for perishable cargoes and competitive",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-12T07:14:44+00:00",
+        "title": "ONE reduces inland fuel charges in Thailand by 18%",
+        "summary": "Ocean Network Express (ONE) has announced a reduction of approximately 18.2% in its Inland Fuel Charges (IFL/IFD) for carrier haulage operations in Thailand, effective from 20 Nove",
+        "source": "Container News",
+        "timestamp": "2026-11-13T11:00:07+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/refrigeration/2026/11/reefer-box-production-stays-strong/",
+        "link": "https://container-news.com/one-reduces-inland-fuel-charges-in-thailand-by-18/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "India demands unimpeded Hormuz shipping, pledges full support for detained Captain Ajay Pant",
+        "summary": "NEW DELHI: India reiterated its call for safe, free, and unimpeded navigation through the Strait of Hormuz amid ongoing regional tensions and risks to civilian shipping, as well as",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-13T03:44:57+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/government/india-demands-unimpeded-hormuz-shipping-pledges-full-support-for-detained-captain-ajay-pant/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "How Geopolitical Friction Is Redefining Cyber Resilience",
+        "summary": "Hyperconnectivity underpins globalization and brings economies closer.",
+        "source": "SupplyChainBrain",
+        "timestamp": "2026-11-12T20:18:27+00:00",
+        "confidence": "medium",
+        "link": "https://www.supplychainbrain.com/blogs/think-tank/blog/15883288/how-geopolitical-friction-is-redefining-cyber-resilience",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "supplychainbrain_articles",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "A softer outlook for container demand",
+        "summary": "That was the clear message from Christian Roeloffs, co-founder and CEO of the Hamburg-based container trading platform Container xChange.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-13T05:55:30+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/11/a-softer-outlook-for-container-demand/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,56 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated",
-        "summary": "The Democratic sweep of both houses of Congress in last week’s U.S.",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-12T14:25:28+00:00",
+        "title": "Maersk reports Cybersecurity incident involving legacy IT System; investigation underway",
+        "summary": "Moller-Maersk, one of the world’s leading integrated shipping and logistics companies, has confirmed a cybersecurity incident involving unauthorised access to and extraction of dat",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-13T03:42:10+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/us-midterm-shift-adds-trade-uncertainty-as-trans-pacific-ocean-freight-rates-stay-elevated",
+        "link": "https://indiashippingnews.com/international-shipping/maersk-reports-cybersecurity-incident-involving-legacy-it-system-investigation-underway/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
-        ]
-      },
-      {
-        "title": "Use of Maersk’s Saudi landbridge grows",
-        "summary": "Use of Maersk’s Saudi Landbridge services increased in October 2026, a trend the company expects could continue into November.",
-        "source": "English Archives - TrasportoEuropa",
-        "timestamp": "2026-11-12T16:01:03+00:00",
-        "confidence": "medium",
-        "link": "https://www.trasportoeuropa.it/english/use-of-maersks-saudi-landbridge-grows/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "english_archives_trasportoeuropa",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Xeneta Schedule Reliability Scorecard - October 2026",
-        "summary": "Figures in this month’s edition use data pulled on 9 November and differ from our Outlook pulled on 26 October.",
-        "source": "Xeneta — Blog",
-        "timestamp": "2026-11-12T13:54:54+00:00",
-        "confidence": "medium",
-        "link": "https://www.xeneta.com/blog/xeneta-schedule-reliability-scorecard-october-2026",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "xeneta_blog",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Bangladesh moves to unlock its port potential",
-        "summary": "Bangladesh is accelerating the modernisation of its ports, bringing global operators into a sector traditionally dominated by state-owned facilities and domestic companies.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-12T02:01:03+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/11/bangladesh-moves-to-unlock-its-port-potential/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,7 +157,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
@@ -167,16 +165,16 @@
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -184,7 +182,7 @@
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-14",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "How Geopolitical Friction Is Redefining Cyber Resilience; Maersk reports Cybersecurity incident involving legacy IT System; investigation underway; Eco Rail becomes sole owner of Algeciras-Zaragoza rail highway operator",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-13",
         "write_now": "Maybe",
@@ -241,46 +247,38 @@
         "worth_attention_today": "5",
         "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back; IMO Council urges stronger protection of seafarers amid threats to global shipping; IMO Council Urges Stronger Protection Of Seafarers Amid Threats To Global Shipping",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-07",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Xeneta Forecasts 30% Drop in Ocean Freight Spot Rates for 2027; Container freight rates edge down on 5 November 2026; Maersk Market Update Shows “Uneven” Conditions",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 337,
-      "high_trust": 91,
-      "trade_press": 246,
+      "total_items": 262,
+      "high_trust": 70,
+      "trade_press": 192,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-13.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-13.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-13.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-14.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-14.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-14.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-13",
-    "run_started_at": "2026-11-13T04:45:57+09:00",
+    "report_date": "2026-11-14",
+    "run_started_at": "2026-11-14T04:45:59+09:00",
     "freshness": "current",
     "status_note": "Meaningful competitor movement is present in the latest monitor run.",
     "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
+      "Newest meaningful competitor move: FourKites FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
     ],
     "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
+    "important_count": 3,
     "watch_count": 0,
     "last_signal_label": "Today",
     "company_summaries": [
@@ -329,6 +327,19 @@
     ],
     "important_changes": [
       {
+        "company": "FourKites",
+        "importance": "important",
+        "summary": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.fourkites.com/",
+        "evidence": [
+          "Browse by domain",
+          "Gate & Arrival Automation"
+        ]
+      },
+      {
         "company": "Project44",
         "importance": "important",
         "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
@@ -337,12 +348,40 @@
         "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
         "source_url": "https://www.project44.com/",
         "evidence": [
-          "Intelligent TMS included in prominent 2026 evaluations including IDC MarketScape, Nucleus Research, G2, and Better Supply Chains CHICAGO — November 12, 2026 — project44, the Decision Intelligence Platform for the modern supply chain, today announced that four market insight firms recognized the company in their 2026 assessments of the transportation management system marketplace. iTMS appeared…"
+          "project44, the Decision Intelligence Platform for the modern supply chain, today announced that four market insight firms recognized the company in their 2026 assessments of the transportation management system marketplace. iTMS appeared in reports by IDC, Nucleus Research, G2, and Better Supply Chains within the span of three months."
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests expansion into operational execution workflows",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "Improve delivery experience with visibility, exception management, and insights"
         ]
       }
     ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-11-14",
+        "company": "FourKites",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
+        "source_url": "https://www.fourkites.com/"
+      },
+      {
+        "detected_date": "2026-11-14",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
       {
         "detected_date": "2026-11-13",
         "company": "Project44",
@@ -374,49 +413,37 @@
         "signal_type": "website change",
         "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
         "source_url": "https://www.project44.com/"
-      },
-      {
-        "detected_date": "2026-11-04",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Wakeo launches Supply Chain Advisor Wakeo launches Supply Chain Advisor: AI recommendations to build a better transport plan",
-        "source_url": "https://wakeo.co/news/wakeo-launches-supply-chain-advisor"
-      },
-      {
-        "detected_date": "2026-11-02",
-        "company": "Project44",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Project44 status page returned to all systems operational.",
-        "source_url": "https://status.project44.com/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261113T044557+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-13.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261114T044559+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-14.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W46",
-    "week_end_date": "2026-11-13",
+    "week_end_date": "2026-11-14",
     "freshness": "current",
-    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
+    "status_note": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is signaling AI positioning around end to end orchestration.",
+      "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
       "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is signaling AI positioning around end to end orchestration."
+      "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
+      "Project44 is signaling AI positioning around end to end orchestration.",
+      "Project44 is signaling AI positioning around decision support."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions."
+      "FourKites (direct competitor) is pushing AI positioning around facility execution with the claimed outcome of faster decisions.",
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions.",
+      "Project44 (direct competitor) is pushing AI positioning around decision support with the claimed outcome of faster decisions."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
@@ -446,11 +473,25 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 2,
+    "important_signal_count": 4,
     "active_theses": [
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
     "top_signals": [
+      {
+        "entity_name": "FourKites",
+        "source_title": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "facility execution",
+        "claimed_outcome": "faster decisions",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "automation optimization procurement execution",
+        "source_url": "https://www.fourkites.com/"
+      },
       {
         "entity_name": "Project44",
         "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
@@ -469,11 +510,11 @@
     "recent_history": [
       {
         "week_label": "2026-W46",
-        "week_end_date": "2026-11-13",
-        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
-        "signal_count": "2",
+        "week_end_date": "2026-11-14",
+        "takeaway": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
+        "signal_count": "4",
         "active_thesis_count": "1",
-        "signal_signature": "Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5",
+        "signal_signature": "FourKites|direct_competitor|ai_positioning|f6cb8aedb4af4ce4ff3beff438942afcedbc2a41 || Project44|direct_competitor|partnership|a900b300a15057ca205785d57b2f3ea077f762c3 || Project44|direct_competitor|ai_positioning|c2414dece48d921b66c586ad3f8381d22ca158d5 || Project44|direct_competitor|website_change|0e1adc0b0212a6afd304609e045f640d03a732a2",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
