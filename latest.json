@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-13T19:47:33+00:00",
-  "requested_date": "2026-11-14",
+  "built_at": "2026-11-14T19:47:26+00:00",
+  "requested_date": "2026-11-15",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-14",
+    "requested_date": "2026-11-15",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: ONE reduces inland fuel charges in Thailand by 18%.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-14",
+        "report_label": "2026-11-15",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-14",
+        "report_label": "2026-11-15",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: FourKites FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
-        "supporting_note": "FourKites is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -55,59 +55,72 @@
       }
     ],
     "shared_warnings": [
+      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1077)>",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-14",
-    "last_updated": "2026-11-14 04:45",
+    "report_date": "2026-11-15",
+    "last_updated": "2026-11-15 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by ONE reduces inland fuel charges in Thailand by 18%.",
+    "status_note": "Market watch is led by Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: ONE reduces inland fuel charges in Thailand by 18%.",
+      "Lead market story: Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-14",
+      "report_date": "2026-11-15",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "How Geopolitical Friction Is Redefining Cyber Resilience; Maersk reports Cybersecurity incident involving legacy IT System; investigation underway; Eco Rail becomes sole owner of Algeciras-Zaragoza rail highway operator",
+      "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal; Tariffs Hit Cash Flow Before They Hit Margins: How Importers Are Financing Equipment and Inventory in 2026; Microsoft Outage a Reminder of Fragility of Web Technology",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "ONE reduces inland fuel charges in Thailand by 18%",
+    "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal",
     "key_news_radar": [
       {
-        "title": "ONE reduces inland fuel charges in Thailand by 18%",
-        "summary": "Ocean Network Express (ONE) has announced a reduction of approximately 18.2% in its Inland Fuel Charges (IFL/IFD) for carrier haulage operations in Thailand, effective from 20 Nove",
-        "source": "Container News",
-        "timestamp": "2026-11-13T11:00:07+00:00",
+        "title": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal",
+        "summary": "Container movement at the International Container Transshipment Terminal (ICTT) at Vallarpadam, Kochi, has been disrupted since November 9 following a boycott by trailer crew membe",
+        "source": "India Seatrade News",
+        "timestamp": "2026-11-14T02:12:51+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/one-reduces-inland-fuel-charges-in-thailand-by-18/",
+        "link": "https://indiaseatradenews.com/trailer-crew-boycott-of-customs-scanner-disrupts-container-movement-at-vallarpadam-terminal/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "container_news",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "India demands unimpeded Hormuz shipping, pledges full support for detained Captain Ajay Pant",
-        "summary": "NEW DELHI: India reiterated its call for safe, free, and unimpeded navigation through the Strait of Hormuz amid ongoing regional tensions and risks to civilian shipping, as well as",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-13T03:44:57+00:00",
+        "title": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future",
+        "summary": "#fwtv_Z6Z9OBNMBIw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_Z6Z9OBNMBIw .fwtv-panel p{margin:0 0 12px}#fwtv_Z6Z9OBNMBIw .fwtv-note{f",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-13T19:45:23+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/government/india-demands-unimpeded-hormuz-shipping-pledges-full-support-for-detained-captain-ajay-pant/",
+        "link": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Kirloskar Ferrous plant gets GreenLine electric trucks",
+        "summary": "MUMBAI: GreenLine Mobility Solutions, the Essar Group logistics venture, has put electric trucks into service for Kirloskar Ferrous Industries, with trucks flagged off at its plant",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-14T04:10:20+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/logistics/kirloskar-ferrous-plant-gets-greenline-electric-trucks/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_shipping_news",
@@ -115,50 +128,35 @@
         "confirmed_by": []
       },
       {
-        "title": "How Geopolitical Friction Is Redefining Cyber Resilience",
-        "summary": "Hyperconnectivity underpins globalization and brings economies closer.",
-        "source": "SupplyChainBrain",
-        "timestamp": "2026-11-12T20:18:27+00:00",
+        "title": "Vietnam Logistics Executive Says Tariff Whiplash Has Companies Planning for Uncertainty",
+        "summary": "A logistics executive in Vietnam is expressing frustration over the shifting state of U.S.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-11-14T15:24:42+00:00",
         "confidence": "medium",
-        "link": "https://www.supplychainbrain.com/blogs/think-tank/blog/15883288/how-geopolitical-friction-is-redefining-cyber-resilience",
+        "link": "https://www.globaltrademag.com/vietnam-logistics-executive-says-tariff-whiplash-has-companies-planning-for-uncertainty/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "supplychainbrain_articles",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "A softer outlook for container demand",
-        "summary": "That was the clear message from Christian Roeloffs, co-founder and CEO of the Hamburg-based container trading platform Container xChange.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-13T05:55:30+00:00",
+        "title": "CMA CGM triples profit as Q3 freight rates and cargo volumes rise",
+        "summary": "CMA CGM reported a sharp increase in third-quarter earnings today as higher freight rates and growing container volumes strengthened its ocean container business.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-13T21:02:19+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/a-softer-outlook-for-container-demand/",
-        "label": "Operational",
+        "link": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
+        "label": "Watch",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Maersk reports Cybersecurity incident involving legacy IT System; investigation underway",
-        "summary": "Moller-Maersk, one of the world’s leading integrated shipping and logistics companies, has confirmed a cybersecurity incident involving unauthorised access to and extraction of dat",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-13T03:42:10+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/maersk-reports-cybersecurity-incident-involving-legacy-it-system-investigation-underway/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
@@ -169,20 +167,24 @@
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       }
     ],
     "business_angles": [
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
         "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-15",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal; Tariffs Hit Cash Flow Before They Hit Margins: How Importers Are Financing Equipment and Inventory in 2026; Microsoft Outage a Reminder of Fragility of Web Technology",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-14",
         "write_now": "Maybe",
@@ -239,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Hapag-Lloyd Suspends New Scrap Shipments to Thailand, Introduces Security Deposit; IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-08",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Xeneta Summit: Analysts forecast ocean freight spot rates to fall 30% in 2027 as Red Sea return sees capacity flooding back; IMO Council urges stronger protection of seafarers amid threats to global shipping; IMO Council Urges Stronger Protection Of Seafarers Amid Threats To Global Shipping",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 262,
-      "high_trust": 70,
-      "trade_press": 192,
+      "total_items": 127,
+      "high_trust": 45,
+      "trade_press": 82,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-14.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-14.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-14.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-15.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-15.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-15.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-14",
-    "run_started_at": "2026-11-14T04:45:59+09:00",
+    "report_date": "2026-11-15",
+    "run_started_at": "2026-11-15T04:45:52+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: FourKites FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
-      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
+      "Latest lower-signal item came from FourKites: FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "FourKites is driving the newest meaningful change in the peer set.",
-    "targets_fetched": 28,
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+    "targets_fetched": 27,
     "target_count": 28,
-    "important_count": 3,
+    "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "Today",
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -325,45 +328,7 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "FourKites",
-        "importance": "important",
-        "summary": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.fourkites.com/",
-        "evidence": [
-          "Browse by domain",
-          "Gate & Arrival Automation"
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, and analytics and decision intelligence language and introduced TMS and analytics messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "project44, the Decision Intelligence Platform for the modern supply chain, today announced that four market insight firms recognized the company in their 2026 assessments of the transportation management system marketplace. iTMS appeared in reports by IDC, Nucleus Research, G2, and Better Supply Chains within the span of three months."
-        ]
-      },
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Project44 solutions page added stronger visibility, execution and workflow, and analytics and decision intelligence language and introduced analytics messaging -> suggests expansion into operational execution workflows",
-        "source_url": "https://www.project44.com/industries/",
-        "evidence": [
-          "Improve delivery experience with visibility, exception management, and insights"
-        ]
-      }
-    ],
+    "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
       {
@@ -399,31 +364,33 @@
         "source_url": "https://www.project44.com/"
       },
       {
+        "detected_date": "2026-11-08",
+        "company": "Project44",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "source_url": "https://status.project44.com/api/v2/summary.json"
+      },
+      {
         "detected_date": "2026-11-05",
         "company": "Wakeo",
         "importance": "important",
         "signal_type": "website change",
         "summary": "Wakeo homepage added stronger AI and automation, execution and workflow, and sustainability language and introduced carbon / sustainability messaging",
         "source_url": "https://wakeo.co/"
-      },
-      {
-        "detected_date": "2026-11-04",
-        "company": "Project44",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "source_url": "https://www.project44.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261114T044559+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-14.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261115T044552+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-15.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1077)>"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W46",
-    "week_end_date": "2026-11-14",
+    "week_end_date": "2026-11-15",
     "freshness": "current",
     "status_note": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
     "sparse_explanation": "",
@@ -449,8 +416,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -510,7 +476,7 @@
     "recent_history": [
       {
         "week_label": "2026-W46",
-        "week_end_date": "2026-11-14",
+        "week_end_date": "2026-11-15",
         "takeaway": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
         "signal_count": "4",
         "active_thesis_count": "1",
