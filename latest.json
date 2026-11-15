@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-14T19:47:26+00:00",
-  "requested_date": "2026-11-15",
+  "built_at": "2026-11-15T19:47:19+00:00",
+  "requested_date": "2026-11-16",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-15",
+    "requested_date": "2026-11-16",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
+      "Lead daily item: Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-15",
+        "report_label": "2026-11-16",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,155 +36,145 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-15",
+        "report_label": "2026-11-16",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was today.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W46",
+        "report_label": "2026-W47",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
+        "summary": "Transporeon is signaling AI positioning around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
-      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1077)>",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
+      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-15",
-    "last_updated": "2026-11-15 04:45",
+    "report_date": "2026-11-16",
+    "last_updated": "2026-11-16 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
+    "status_note": "Market watch is led by Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal.",
+      "Lead market story: Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-15",
+      "report_date": "2026-11-16",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal; Tariffs Hit Cash Flow Before They Hit Margins: How Importers Are Financing Equipment and Inventory in 2026; Microsoft Outage a Reminder of Fragility of Web Technology",
+      "headline": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Spot rates jump ahead of holidays; Oil Tanker Catches Fire After Hitting Naval Mine In Strait Of Hormuz, Iran Says",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal",
+    "headline": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
     "key_news_radar": [
       {
-        "title": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal",
-        "summary": "Container movement at the International Container Transshipment Terminal (ICTT) at Vallarpadam, Kochi, has been disrupted since November 9 following a boycott by trailer crew membe",
-        "source": "India Seatrade News",
-        "timestamp": "2026-11-14T02:12:51+00:00",
-        "confidence": "high",
-        "link": "https://indiaseatradenews.com/trailer-crew-boycott-of-customs-scanner-disrupts-container-movement-at-vallarpadam-terminal/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_seatrade_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Humble Robotics: $51M Fuels Autonomous Electric Freight Future",
-        "summary": "#fwtv_Z6Z9OBNMBIw .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_Z6Z9OBNMBIw .fwtv-panel p{margin:0 0 12px}#fwtv_Z6Z9OBNMBIw .fwtv-note{f",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-13T19:45:23+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/humble-robotics-51m-fuels-autonomous-electric-freight-future",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Kirloskar Ferrous plant gets GreenLine electric trucks",
-        "summary": "MUMBAI: GreenLine Mobility Solutions, the Essar Group logistics venture, has put electric trucks into service for Kirloskar Ferrous Industries, with trucks flagged off at its plant",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-14T04:10:20+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/logistics/kirloskar-ferrous-plant-gets-greenline-electric-trucks/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Vietnam Logistics Executive Says Tariff Whiplash Has Companies Planning for Uncertainty",
-        "summary": "A logistics executive in Vietnam is expressing frustration over the shifting state of U.S.",
+        "title": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
         "source": "S - News via Shippers Association on Inoreader",
-        "timestamp": "2026-11-14T15:24:42+00:00",
+        "timestamp": "2026-11-15T13:45:30+00:00",
         "confidence": "medium",
-        "link": "https://www.globaltrademag.com/vietnam-logistics-executive-says-tariff-whiplash-has-companies-planning-for-uncertainty/",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-texas-cross-border-traffic-rises-by-400-trucks-through-saturday-pilot",
         "label": "Operational",
         "question_signal": "",
         "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
-        "confirmed_by": []
+        "confirmed_by": [
+          "freightwaves_news"
+        ]
       },
       {
-        "title": "CMA CGM triples profit as Q3 freight rates and cargo volumes rise",
-        "summary": "CMA CGM reported a sharp increase in third-quarter earnings today as higher freight rates and growing container volumes strengthened its ocean container business.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-13T21:02:19+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/cma-cgm-triples-profit-as-q3-freight-rates-and-cargo-volumes-rise",
-        "label": "Watch",
+        "title": "Spot rates jump ahead of holidays",
+        "summary": "Chart of the Week: National Truckload Index - USA SONAR: NTI.USA The National Truckload Index (NTI), which measures dry van spot rate movement across the U.S., jumped to its highes",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-11-15T02:57:33+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/spot-rates-jump-ahead-of-holidays",
+        "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
           "freightwaves_news"
         ]
+      },
+      {
+        "title": "Oil Tanker Catches Fire After Hitting Naval Mine In Strait Of Hormuz, Iran Says",
+        "summary": "Representation image An oil tanker caught fire by a naval mine in the eastern Strait of Hormuz on Saturday morning, November 14, 2026, according to a claim by Iran’s navy.",
+        "source": "Marine Insight",
+        "timestamp": "2026-11-15T14:48:43+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/oil-tanker-fire-naval-mine-strait-hormuz/?utm_source=rss&utm_medium=rss&utm_campaign=oil-tanker-fire-naval-mine-strait-hormuz",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Hapag-Lloyd raises Far East-Europe freight rates from December",
+        "summary": "Hapag-Lloyd has announced an increase in its Freight All Kinds (FAK) ocean tariff rates for shipments from the Far East to Europe, effective from 1 December 2026, with the highest",
+        "source": "Container News",
+        "timestamp": "2026-11-15T06:00:11+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/hapag-lloyd-raises-far-east-europe-freight-rates-from-december/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "USS Spruance Completes US Navy’s Longest Ship Deployment Since World War II",
+        "summary": "Credits: Wikipedia / US Navy USS Spruance returned to Naval Base San Diego on November 13, 2026, after a 357-day combat deployment that took the Arleigh Burke-class destroyer acros",
+        "source": "Marine Insight",
+        "timestamp": "2026-11-15T12:50:27+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/uss-spruance-357-day-combat-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=uss-spruance-357-day-combat-deployment",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
+        "paywalled": false,
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
-      },
       {
         "title": "",
         "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
+        "title": "`Hormuz / Middle East disruption` is still present across trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
         "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
-        "summary": ""
-      },
-      {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +184,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-16",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Spot rates jump ahead of holidays; Oil Tanker Catches Fire After Hitting Naval Mine In Strait Of Hormuz, Iran Says",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-15",
         "write_now": "Maybe",
@@ -241,33 +239,25 @@
         "worth_attention_today": "5",
         "headline": "Asia-U.S. West Coast ocean container spot rates up 343% since start of Iran war, says Xeneta; Bangkok airport cargo congestion frustrates freight forwarders; Energy and speed shape logistics property decisions",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-09",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Borderlands Mexico: US foreign-trade zones push to fix USMCA tariff obstacles; Hapag-Lloyd Suspends New Scrap Shipments to Thailand, Introduces Security Deposit; IOC Plans to Acquire Own Crude Oil and LPG Carriers Amid Rising Shipping Costs",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 127,
-      "high_trust": 45,
-      "trade_press": 82,
+      "total_items": 46,
+      "high_trust": 12,
+      "trade_press": 34,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-15.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-15.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-15.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-16.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-16.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-16.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-15",
-    "run_started_at": "2026-11-15T04:45:52+09:00",
+    "report_date": "2026-11-16",
+    "run_started_at": "2026-11-16T04:45:53+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -275,15 +265,15 @@
     "team_notes": [
       "No peer moved far enough to change the current competitive picture this run.",
       "Across peers, AI, automation, and data quality / connectivity remain the dominant narrative cluster.",
-      "Latest lower-signal item came from FourKites: FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging"
+      "Latest lower-signal item came from Transporeon: Transporeon status page shows degraded services: Data transmission (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
-    "targets_fetched": 27,
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was today.",
+    "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -299,7 +289,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow. Status page: Service Under Maintenance."
       },
       {
         "company": "Wakeo",
@@ -331,6 +321,14 @@
     "important_changes": [],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-11-16",
+        "company": "Transporeon",
+        "importance": "minor",
+        "signal_type": "status change",
+        "summary": "Transporeon status page shows degraded services: Data transmission (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-11-14",
         "company": "FourKites",
@@ -364,59 +362,45 @@
         "source_url": "https://www.project44.com/"
       },
       {
-        "detected_date": "2026-11-08",
+        "detected_date": "2026-11-09",
         "company": "Project44",
         "importance": "watch",
         "signal_type": "status change",
-        "summary": "Project44 status page shows degraded services: Ocean Carrier (under maintenance) and Upstream Network Providers (under maintenance).",
+        "summary": "Project44 status page returned to all systems operational.",
         "source_url": "https://status.project44.com/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-11-05",
-        "company": "Wakeo",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Wakeo homepage added stronger AI and automation, execution and workflow, and sustainability language and introduced carbon / sustainability messaging",
-        "source_url": "https://wakeo.co/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261115T044552+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-15.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261116T044553+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-16.md"
     ],
-    "warnings": [
-      "Project44 Status page: Network error for https://status.project44.com/api/v2/summary.json: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1077)>"
-    ]
+    "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W46",
-    "week_end_date": "2026-11-15",
+    "week_label": "2026-W47",
+    "week_end_date": "2026-11-16",
     "freshness": "current",
-    "status_note": "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
+    "status_note": "Transporeon is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Transporeon is signaling AI positioning around unknown.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "FourKites is reinforcing a automation optimization procurement execution motif through AI positioning.",
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "Project44 is signaling AI positioning around decision support."
+      "Transporeon is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "FourKites (direct competitor) is pushing AI positioning around facility execution with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning around decision support with the claimed outcome of faster decisions."
+      "Transporeon (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -439,41 +423,35 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 4,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
+    "important_signal_count": 1,
+    "active_theses": [],
     "top_signals": [
       {
-        "entity_name": "FourKites",
-        "source_title": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and yard / dock messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "entity_name": "Transporeon",
+        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance).",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
-        "workflow_scope": "facility execution",
-        "claimed_outcome": "faster decisions",
+        "workflow_scope": "unknown",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "FourKites homepage added stronger AI and automation, optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced procurement and...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "automation optimization procurement execution",
-        "source_url": "https://www.fourkites.com/"
-      },
-      {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "end to end orchestration",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger AI and automation, platform / control tower, analytics and decision intelligence, and data quality / connectivity language and introduced analytics and connectivity / integrations...",
+        "evidence_excerpt": "Transporeon status page shows degraded services: Data transmission (under maintenance). Service Under Maintenance",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
-        "source_url": "https://www.project44.com/"
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "recent_history": [
+      {
+        "week_label": "2026-W47",
+        "week_end_date": "2026-11-16",
+        "takeaway": "Transporeon is signaling AI positioning around unknown.",
+        "signal_count": "1",
+        "active_thesis_count": "0",
+        "signal_signature": "Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W46",
         "week_end_date": "2026-11-15",
@@ -503,21 +481,11 @@
         "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W43",
-        "week_end_date": "2026-10-25",
-        "takeaway": "Project44 is signaling AI positioning around in transit visibility.",
-        "signal_count": "3",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|bff8ef09df123abffe5d59f98a4267ae1f4581ac || Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1 || Transporeon|direct_competitor|status_change|80a08bc78590777cfd946448913364d3a2372299",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W46.json",
-      "strategic_intelligence/output/weekly-memo-2026-W46.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W47.json",
+      "strategic_intelligence/output/weekly-memo-2026-W47.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
