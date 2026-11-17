@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-16T19:47:22+00:00",
-  "requested_date": "2026-11-17",
+  "built_at": "2026-11-17T19:47:41+00:00",
+  "requested_date": "2026-11-18",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-17",
+    "requested_date": "2026-11-18",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: U.S. container imports hit record 2.67 million TEUs in October as port delays rise.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-17",
+        "report_label": "2026-11-18",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-17",
+        "report_label": "2026-11-18",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Shippeo Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging",
-        "supporting_note": "Shippeo is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-17",
-    "last_updated": "2026-11-17 04:45",
+    "report_date": "2026-11-18",
+    "last_updated": "2026-11-18 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by U.S. container imports hit record 2.67 million TEUs in October as port delays rise.",
+    "status_note": "Market watch is led by Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: U.S. container imports hit record 2.67 million TEUs in October as port delays rise.",
+      "Lead market story: Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-17",
+      "report_date": "2026-11-18",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise; ONE returns to Suez Canal as Premier Alliance plans further service shifts; ONE returns to Suez Canal as Premier Alliance plans further service shifts",
+      "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago; Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs; How IoT Sensors Boost Supply Chain Resilience",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
+    "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
     "key_news_radar": [
       {
-        "title": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise",
-        "summary": "Containerized imports through U.S ports reached a record 2.67 million twenty foot equivalent units (TEUs) in October, pushing volumes above the previous peak set during the pandemi",
+        "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+        "summary": "Ocean container freight rates remained elevated on major east-west trade lanes, even as container carriers’ growing return to the Red Sea and an expanding global fleet raised the p",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-16T14:41:06+00:00",
+        "timestamp": "2026-11-17T16:28:34+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/u-s-container-imports-hit-record-2-67-million-teus-in-october-as-port-delays-rise",
+        "link": "https://www.freightwaves.com/news/red-sea-overcapacity-looms-as-ocean-container-spot-rates-still-50-above-year-ago",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
@@ -102,40 +102,38 @@
         "confirmed_by": []
       },
       {
-        "title": "CMA CGM reports sharp earnings growth as freight rates and volumes rise",
-        "summary": "CMA CGM reported a strong increase in earnings during the third quarter of 2026, supported by higher container volumes and freight rates.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-16T10:22:04+00:00",
+        "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
+        "summary": "Maersk and Hapag-Lloyd announced today that their Gemini Cooperation’s AE1, AE2 and AE3 services will return to the trans-Suez route and Red Sea, replacing diverted voyages around",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-17T17:42:00+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/cma-cgm-reports-sharp-earnings-growth-as-freight-rates-and-volumes-rise/",
+        "link": "https://www.freightwaves.com/news/maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-watch-capacity-and-costs",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "Asyaport targets 4m TEU as expansion nears completion",
-        "summary": "Türkiye’s Asyaport is undertaking an expansion programme to increase its annual handling capacity from 2.5m to 4m TEU.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-16T10:58:16+00:00",
-        "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/asyaport-targets-4m-teu-as-expansion-nears-completion/",
-        "label": "Watch",
-        "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "US and China Extend Suspensions of Vessel Service Fees and Port Fees for Two Months",
-        "summary": "The United States and China have agreed to extend their respective suspensions of service fees on Chinese-linked vessels and special port fees on US-linked vessels, according to Sk",
+        "title": "How IoT Sensors Boost Supply Chain Resilience",
+        "summary": "Internet of things (IoT) sensors improve supply chain resilience by converting physical conditions into reliable operational signals.",
+        "source": "SupplyChainBrain",
+        "timestamp": "2026-11-17T08:00:00+00:00",
+        "confidence": "medium",
+        "link": "https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16095508/how-iot-sensors-boost-supply-chain-resilience",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "supplychainbrain_articles",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "US air cargo recovering from outage; new US-CN tensions ahead of talks - November 17, 2026 Update",
+        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 3%.",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-16T09:39:16+00:00",
+        "timestamp": "2026-11-17T13:04:27+00:00",
         "confidence": "high",
-        "link": "https://www.globaltrademag.com/us-and-china-extend-suspensions-of-vessel-service-fees-and-port-fees-for-two-months/",
+        "link": "https://www.freightos.com/freight-resources/us-air-cargo-recovering-from-outage-new-us-cn-tensions-ahead-of-talks-november-17-2026-update/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -143,15 +141,15 @@
         "confirmed_by": []
       },
       {
-        "title": "HHLA and Port of Hamburg post lower throughput in first nine months of 2026",
-        "summary": "Hamburger Hafen und Logistik AG (HHLA) reported a 7.3% year-on-year decline in container throughput in the first nine months of 2026, while total cargo handling at the Port of Hamb",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-16T07:24:10+00:00",
+        "title": "Suez Canal Reopening Unlikely to Ease Shipping Disruptions Until 2027, DHL Says",
+        "summary": "The return of container ships to the Suez Canal is expected to free up vessels previously diverted around Africa, but the shift may not bring immediate relief to global supply chai",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-17T09:57:08+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/hhla-and-port-of-hamburg-post-lower-throughput-in-first-nine-months-of-2026/",
+        "link": "https://www.globaltrademag.com/suez-canal-reopening-unlikely-to-ease-shipping-disruptions-until-2027-dhl-says/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -159,32 +157,32 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
-      {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
-        "summary": ""
-      },
       {
         "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "summary": ""
+      },
+      {
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
@@ -194,6 +192,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-18",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago; Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs; How IoT Sensors Boost Supply Chain Resilience",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-17",
         "write_now": "Maybe",
@@ -241,48 +247,41 @@
         "worth_attention_today": "5",
         "headline": "US postpones ‘million-dollar’ China ship tax until January; ‘Port congestion is the next major challenge, interoperability across the supply chain can help’; Are Smart Options the New Oil?",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-11",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Delays test the resilience of Southeast Asia’s hub ports; Suez return could limit November freight rate increases, Sogese warns; How Supply Chain Leaders Can Turn Fast Decision-Making Into Competitive Advantage",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 295,
-      "high_trust": 70,
-      "trade_press": 225,
+      "total_items": 351,
+      "high_trust": 83,
+      "trade_press": 268,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-17.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-17.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-17.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-18.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-18.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-18.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-17",
-    "run_started_at": "2026-11-17T04:45:47+09:00",
+    "report_date": "2026-11-18",
+    "run_started_at": "2026-11-18T04:45:55+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Shippeo Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging",
-      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Shippeo: Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Shippeo is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 3,
-    "watch_count": 2,
-    "last_signal_label": "Today",
+    "important_count": 0,
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -327,74 +326,8 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Shippeo",
-        "importance": "important",
-        "summary": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging -> suggests a shift from visibility toward AI-led execution and decision support",
-        "source_url": "https://www.shippeo.com/",
-        "evidence": [
-          "Tr a ck e very shipmen t , k now ev e ry ET A , a ct wi t h con f idence.",
-          "Trust e d visibili t y."
-        ]
-      },
-      {
-        "company": "Shippeo",
-        "importance": "important",
-        "summary": "Shippeo platform page added stronger platform / control tower, execution and workflow, sustainability, and data quality / connectivity language and introduced document automation, carbon / sustainability, and connectivity / integrations messaging",
-        "signal_type": "website_change",
-        "page_slug": "platform",
-        "source_title": "Shippeo platform page added stronger platform / control tower, execution and workflow, sustainability, and data quality / connectivity language and introduced document automation, carbon / sustainability, and connectivity / integrations messaging -> signals a broader platform / control tower story",
-        "source_url": "https://www.shippeo.com/solutions/ecmr",
-        "evidence": [
-          "Conn e cted e CMR M a nag e ment",
-          "Digi t ize y our consignmen t not e s"
-        ]
-      },
-      {
-        "company": "Shippeo",
-        "importance": "important",
-        "summary": "Shippeo press releases announced \"Platform overview The platform that turns visibility into confident action",
-        "signal_type": "press_announcement",
-        "page_slug": "press",
-        "source_title": "Platform overview The platform that turns visibility into confident action",
-        "source_url": "https://www.shippeo.com/platform-overview",
-        "evidence": [
-          "Platform overview The platform that turns visibility into confident action",
-          "Visibility only works if the data behind it is accurate. Shippeo’s platform combines connected networks, AI enrichment, and continuous validation to deliver reliable, real-time shipment data and predictive ETAs. This trusted foundation keeps your teams aligned, proactive, and rea"
-        ]
-      }
-    ],
-    "watch_items": [
-      {
-        "company": "Shippeo",
-        "importance": "watch",
-        "summary": "Shippeo solutions page added stronger sustainability language and introduced carbon / sustainability messaging",
-        "signal_type": "website_change",
-        "page_slug": "solutions",
-        "source_title": "Shippeo solutions page added stronger sustainability language and introduced carbon / sustainability messaging -> suggests a meaningful positioning refresh",
-        "source_url": "https://www.shippeo.com/solutions/ocean-visibility",
-        "evidence": [
-          "Oce a n",
-          "T rack any shipm e nt a nywhere, e nd to end"
-        ]
-      },
-      {
-        "company": "Transporeon",
-        "importance": "watch",
-        "summary": "Transporeon status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Transporeon status page returned to all systems operational.",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "important_changes": [],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-17",
@@ -446,14 +379,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261117T044547+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-17.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261118T044555+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-18.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W47",
-    "week_end_date": "2026-11-17",
+    "week_end_date": "2026-11-18",
     "freshness": "current",
     "status_note": "Shippeo is signaling AI positioning around in transit visibility.",
     "sparse_explanation": "",
@@ -482,8 +415,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -557,7 +489,7 @@
     "recent_history": [
       {
         "week_label": "2026-W47",
-        "week_end_date": "2026-11-17",
+        "week_end_date": "2026-11-18",
         "takeaway": "Shippeo is signaling AI positioning around in transit visibility.",
         "signal_count": "6",
         "active_thesis_count": "1",
