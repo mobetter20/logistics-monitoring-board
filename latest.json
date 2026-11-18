@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-17T19:47:41+00:00",
-  "requested_date": "2026-11-18",
+  "built_at": "2026-11-18T19:47:48+00:00",
+  "requested_date": "2026-11-19",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-18",
+    "requested_date": "2026-11-19",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Omni-shoring is changing the economics of ocean freight resilience.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-18",
+        "report_label": "2026-11-19",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-18",
+        "report_label": "2026-11-19",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Project44 Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
@@ -49,91 +49,93 @@
         "report_label": "2026-W47",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Shippeo is signaling AI positioning around in transit visibility.",
+        "summary": "Project44 is signaling AI positioning around end to end orchestration.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
     ],
     "shared_warnings": [
+      "Transporeon Press releases: HTTP 522 for https://www.transporeon.com/en_US/company/press",
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
       "Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
       "Watch coverage gap for Logistics Managers' Index logistics_managers_index: no seeded offline snapshot yet",
-      "Watch coverage gap for Cass cass_freight_index: no seeded offline snapshot yet",
       "Strategy reference layer still has 2 unseeded offline sources. This is a persistent setup gap, not a new daily freshness issue."
     ]
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-18",
-    "last_updated": "2026-11-18 04:45",
+    "report_date": "2026-11-19",
+    "last_updated": "2026-11-19 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
+    "status_note": "Market watch is led by Omni-shoring is changing the economics of ocean freight resilience.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago.",
+      "Lead market story: Omni-shoring is changing the economics of ocean freight resilience.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-18",
+      "report_date": "2026-11-19",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago; Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs; How IoT Sensors Boost Supply Chain Resilience",
+      "headline": "Omni-shoring is changing the economics of ocean freight resilience; How to Price Ocean Freight: A Forwarder’s Method; ROBOTICS ROUNDTABLE: Easing the pain",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+    "headline": "Omni-shoring is changing the economics of ocean freight resilience",
     "key_news_radar": [
       {
-        "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
-        "summary": "Ocean container freight rates remained elevated on major east-west trade lanes, even as container carriers’ growing return to the Red Sea and an expanding global fleet raised the p",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-17T16:28:34+00:00",
+        "title": "Omni-shoring is changing the economics of ocean freight resilience",
+        "summary": "After decades of optimizing long, linear supply chains around single-source production, geopolitical volatility, fluctuating tariffs, and shipping chokepoints have forced a shift i",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-18T12:12:37+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/red-sea-overcapacity-looms-as-ocean-container-spot-rates-still-50-above-year-ago",
+        "link": "https://container-news.com/omni-shoring-is-changing-the-economics-of-ocean-freight-resilience/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "container_news"
+        ]
+      },
+      {
+        "title": "Panama-flagged LPG ‘MT TARA GAS’ hit twice near Strait of Hormuz; One Indian Seafarer missing, Two injured",
+        "summary": "NEW DELHI / MUSCAT : A Panama-flagged liquefied petroleum gas (LPG) carrier, MT TARA GAS, came under repeated attacks near the Strait of Hormuz off the coast of Oman on November 16",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-18T03:43:07+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/maritime/panama-flagged-lpg-mt-tara-gas-hit-twice-near-strait-of-hormuz-one-indian-seafarer-missing-two-injured/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs",
-        "summary": "Maersk and Hapag-Lloyd announced today that their Gemini Cooperation’s AE1, AE2 and AE3 services will return to the trans-Suez route and Red Sea, replacing diverted voyages around",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-17T17:42:00+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/maersk-and-hapag-lloyd-restore-asia-europe-suez-routes-as-u-s-shippers-watch-capacity-and-costs",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "How IoT Sensors Boost Supply Chain Resilience",
-        "summary": "Internet of things (IoT) sensors improve supply chain resilience by converting physical conditions into reliable operational signals.",
-        "source": "SupplyChainBrain",
-        "timestamp": "2026-11-17T08:00:00+00:00",
+        "title": "Shipping safety deteriorates in the Strait of Hormuz",
+        "summary": "Shipping safety in the Strait of Hormuz deteriorated further between 10 and 17 November 2026.",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-11-18T15:50:15+00:00",
         "confidence": "medium",
-        "link": "https://www.supplychainbrain.com/technology/data-management-big-data-iot-blockchain/blog/16095508/how-iot-sensors-boost-supply-chain-resilience",
+        "link": "https://www.trasportoeuropa.it/english/shipping-safety-deteriorates-in-the-strait-of-hormuz/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "supplychainbrain_articles",
+        "source_id": "english_archives_trasportoeuropa",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "US air cargo recovering from outage; new US-CN tensions ahead of talks - November 17, 2026 Update",
-        "summary": "Weekly highlights Ocean rates - Freightos Baltic Index Asia-US West Coast prices (FBX01 Weekly) increased 3%.",
+        "title": "How to Price Ocean Freight: A Forwarder’s Method",
+        "summary": "How Freight Forwarders Price Ocean Freight: Margins, Markups and Forward Selling Here’s how to price ocean freight as a forwarder: take a cost basis (a spot, contract or index-refe",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-17T13:04:27+00:00",
+        "timestamp": "2026-11-18T13:55:07+00:00",
         "confidence": "high",
-        "link": "https://www.freightos.com/freight-resources/us-air-cargo-recovering-from-outage-new-us-cn-tensions-ahead-of-talks-november-17-2026-update/",
+        "link": "https://www.freightos.com/freight-resources/how-to-price-ocean-freight-a-forwarders-method/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
@@ -141,15 +143,15 @@
         "confirmed_by": []
       },
       {
-        "title": "Suez Canal Reopening Unlikely to Ease Shipping Disruptions Until 2027, DHL Says",
-        "summary": "The return of container ships to the Suez Canal is expected to free up vessels previously diverted around Africa, but the shift may not bring immediate relief to global supply chai",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-17T09:57:08+00:00",
-        "confidence": "high",
-        "link": "https://www.globaltrademag.com/suez-canal-reopening-unlikely-to-ease-shipping-disruptions-until-2027-dhl-says/",
+        "title": "ROBOTICS ROUNDTABLE: Easing the pain",
+        "summary": "Panelists:ADAM COLE, Director of Customer Strategy, Storage SolutionsART ELDRED, Senior Vice President, Sales & Software, AttaboticsOANA JINGA, Chief Commercial & Product Officer,",
+        "source": "DC Velocity",
+        "timestamp": "2026-11-18T15:05:44+00:00",
+        "confidence": "medium",
+        "link": "https://www.dcvelocity.com/material-handling/robotics/robotics-roundtable-easing-the-pain",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "dcvelocity",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,15 +163,15 @@
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
@@ -178,11 +180,11 @@
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -192,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-19",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Omni-shoring is changing the economics of ocean freight resilience; How to Price Ocean Freight: A Forwarder’s Method; ROBOTICS ROUNDTABLE: Easing the pain",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-18",
         "write_now": "Maybe",
@@ -239,49 +249,40 @@
         "worth_attention_today": "5",
         "headline": "US midterm shift adds trade uncertainty as trans-Pacific ocean freight rates stay elevated; Reefer box production stays strong; Use of Maersk’s Saudi landbridge grows",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-12",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "US postpones ‘million-dollar’ China ship tax until January; ‘Port congestion is the next major challenge, interoperability across the supply chain can help’; Are Smart Options the New Oil?",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 351,
-      "high_trust": 83,
-      "trade_press": 268,
+      "total_items": 326,
+      "high_trust": 79,
+      "trade_press": 247,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-18.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-18.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-18.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-19.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-19.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-19.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-18",
-    "run_started_at": "2026-11-18T04:45:55+09:00",
+    "report_date": "2026-11-19",
+    "run_started_at": "2026-11-19T04:45:59+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Shippeo: Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging"
+      "Newest meaningful competitor move: Project44 Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
-    "targets_fetched": 28,
+    "change_label": "Important change detected",
+    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "targets_fetched": 27,
     "target_count": 28,
-    "important_count": 0,
-    "watch_count": 0,
-    "last_signal_label": "1 day ago",
+    "important_count": 3,
+    "watch_count": 1,
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -297,7 +298,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, execution and workflow, and optimization / procurement. Status page: Service Under Maintenance."
       },
       {
         "company": "Wakeo",
@@ -326,9 +327,95 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
-    "watch_items": [],
+    "important_changes": [
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "solutions",
+        "source_title": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/industries/",
+        "evidence": [
+          "Manufacturing",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Agents"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "homepage",
+        "source_title": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/",
+        "evidence": [
+          "$12M",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Agents"
+        ]
+      },
+      {
+        "company": "Project44",
+        "importance": "important",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "signal_type": "website_change",
+        "page_slug": "platform",
+        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_url": "https://www.project44.com/platform/",
+        "evidence": [
+          "40% improvement",
+          "AI Orchestration Open AI Orchestration submenu AI Orchestration Put AI agents to work across every signal in your supply chain, from carrier outreach to exception resolution. Cut freight costs, improve data quality, optimize inventory, and accelerate cash flow, without adding headcount. AI Agents Purpose-built digital workers that turn real-time signals into autonomous action Agentic Workflow Manager The no-code platform for deploying AI agents across mission-critical supply chain workflows Mo The AI analyst with instant answers from your supply chain data AI Agents"
+        ]
+      }
+    ],
+    "watch_items": [
+      {
+        "company": "Transporeon",
+        "importance": "watch",
+        "summary": "Transporeon status page shows degraded services: Support Services (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Transporeon status page shows degraded services: Support Services (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Support Services (under maintenance)"
+        ]
+      }
+    ],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-11-19",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 solutions page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/industries/"
+      },
+      {
+        "detected_date": "2026-11-19",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 homepage added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/"
+      },
+      {
+        "detected_date": "2026-11-19",
+        "company": "Project44",
+        "importance": "important",
+        "signal_type": "website change",
+        "summary": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging",
+        "source_url": "https://www.project44.com/platform/"
+      },
+      {
+        "detected_date": "2026-11-19",
+        "company": "Transporeon",
+        "importance": "watch",
+        "signal_type": "status change",
+        "summary": "Transporeon status page shows degraded services: Support Services (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-11-17",
         "company": "Shippeo",
@@ -344,78 +431,49 @@
         "signal_type": "website change",
         "summary": "Shippeo platform page added stronger platform / control tower, execution and workflow, sustainability, and data quality / connectivity language and introduced document automation, carbon / sustainability, and connectivity / integrations messaging",
         "source_url": "https://www.shippeo.com/solutions/ecmr"
-      },
-      {
-        "detected_date": "2026-11-17",
-        "company": "Shippeo",
-        "importance": "important",
-        "signal_type": "press announcement",
-        "summary": "Shippeo press releases announced \"Platform overview The platform that turns visibility into confident action",
-        "source_url": "https://www.shippeo.com/platform-overview"
-      },
-      {
-        "detected_date": "2026-11-17",
-        "company": "Shippeo",
-        "importance": "watch",
-        "signal_type": "website change",
-        "summary": "Shippeo solutions page added stronger sustainability language and introduced carbon / sustainability messaging",
-        "source_url": "https://www.shippeo.com/solutions/ocean-visibility"
-      },
-      {
-        "detected_date": "2026-11-17",
-        "company": "Transporeon",
-        "importance": "watch",
-        "signal_type": "status change",
-        "summary": "Transporeon status page returned to all systems operational.",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-11-16",
-        "company": "Transporeon",
-        "importance": "minor",
-        "signal_type": "status change",
-        "summary": "Transporeon status page shows degraded services: Data transmission (under maintenance).",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261118T044555+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-18.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261119T044559+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-19.md"
     ],
-    "warnings": []
+    "warnings": [
+      "Transporeon Press releases: HTTP 522 for https://www.transporeon.com/en_US/company/press"
+    ]
   },
   "strategic_brief": {
     "week_label": "2026-W47",
-    "week_end_date": "2026-11-18",
+    "week_end_date": "2026-11-19",
     "freshness": "current",
-    "status_note": "Shippeo is signaling AI positioning around in transit visibility.",
+    "status_note": "Project44 is signaling AI positioning around end to end orchestration.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Shippeo is signaling AI positioning around in transit visibility.",
+      "Project44 is signaling AI positioning around end to end orchestration.",
       "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
+      "Project44 is signaling AI positioning around end to end orchestration.",
       "Shippeo is signaling AI positioning around in transit visibility.",
-      "Shippeo is reinforcing a decision intelligence sustainability and motif through AI positioning.",
-      "Shippeo is signaling AI positioning around unknown."
+      "Shippeo is reinforcing a decision intelligence sustainability and motif through AI positioning."
     ],
     "strategic_movements": [
+      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
       "Shippeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
       "Shippeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership.",
       "Shippeo (direct competitor) is pushing AI positioning.",
-      "Transporeon (direct competitor) is pushing unknown.",
-      "Transporeon (direct competitor) is pushing AI positioning."
+      "Transporeon (direct competitor) is pushing unknown."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -438,11 +496,25 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 6,
+    "important_signal_count": 9,
     "active_theses": [
       "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
     ],
     "top_signals": [
+      {
+        "entity_name": "Project44",
+        "source_title": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and connectivity / integrations messaging -> suggests a shift from visibility toward AI-led execution and decision support",
+        "source_layer": "direct competitor",
+        "strategic_move": "AI positioning",
+        "workflow_scope": "end to end orchestration",
+        "claimed_outcome": "reduced manual work",
+        "importance_tier": "important",
+        "confidence": "high",
+        "evidence_excerpt": "Project44 platform page added stronger AI and automation, platform / control tower, optimization / procurement, execution and workflow, and data quality / connectivity language and introduced order management and...",
+        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
+        "emerging_motif": "unknown",
+        "source_url": "https://www.project44.com/platform/"
+      },
       {
         "entity_name": "Shippeo",
         "source_title": "Platform overview The platform that turns visibility into confident action",
@@ -473,14 +545,14 @@
       },
       {
         "entity_name": "Transporeon",
-        "source_title": "Transporeon status page shows degraded services: Data transmission (under maintenance).",
+        "source_title": "Transporeon status page shows degraded services: Support Services (under maintenance).",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
         "workflow_scope": "unknown",
         "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Transporeon status page shows degraded services: Data transmission (under maintenance). Service Under Maintenance",
+        "evidence_excerpt": "Transporeon status page shows degraded services: Support Services (under maintenance). Service Under Maintenance",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
@@ -489,11 +561,11 @@
     "recent_history": [
       {
         "week_label": "2026-W47",
-        "week_end_date": "2026-11-18",
-        "takeaway": "Shippeo is signaling AI positioning around in transit visibility.",
-        "signal_count": "6",
-        "active_thesis_count": "1",
-        "signal_signature": "Shippeo|direct_competitor|product_update|79cc3a4e6d3eb4c9b048d319e9a1afc7149a2b10 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Shippeo|direct_competitor|partnership|e70683ab6e1cccae30dc5397f6bb9025bf084927 || Shippeo|direct_competitor|ai_positioning|b38c6e004c0ebbcb34a545035ec134b6dc424a0e || Transporeon|direct_competitor|status_change|80a08bc78590777cfd946448913364d3a2372299",
+        "week_end_date": "2026-11-19",
+        "takeaway": "Project44 is signaling AI positioning around end to end orchestration.",
+        "signal_count": "9",
+        "active_thesis_count": "2",
+        "signal_signature": "Project44|direct_competitor|partnership|83c67fa791098abd040a72de7f089f82f7047c06 || Project44|direct_competitor|partnership|a7a87ffd165b6225430aa8cd6e3de46e2818e85c || Shippeo|direct_competitor|product_update|79cc3a4e6d3eb4c9b048d319e9a1afc7149a2b10 || Shippeo|direct_competitor|ai_positioning|fe84095de453a05e4b71afde854558f2831f07cf || Shippeo|direct_competitor|partnership|e70683ab6e1cccae30dc5397f6bb9025bf084927",
         "observed_source_count": "6",
         "total_source_count": "17"
       },
