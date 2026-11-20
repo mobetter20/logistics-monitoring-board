@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-19T19:47:34+00:00",
-  "requested_date": "2026-11-20",
+  "built_at": "2026-11-20T19:47:22+00:00",
+  "requested_date": "2026-11-21",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-20",
+    "requested_date": "2026-11-21",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Red Sea returns are rewriting carrier reliability, not just transit times.",
-      "Competitor watch: Important change detected.",
+      "Lead daily item: Union Pacific-Norfolk Southern merger draws labor support, shipper concerns.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-20",
+        "report_label": "2026-11-21",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-20",
+        "report_label": "2026-11-21",
         "freshness": "current",
-        "change_label": "Important change detected",
-        "summary": "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "supporting_note": "Project44 is driving the newest meaningful change in the peer set.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,96 +64,94 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-20",
-    "last_updated": "2026-11-20 04:45",
+    "report_date": "2026-11-21",
+    "last_updated": "2026-11-21 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Red Sea returns are rewriting carrier reliability, not just transit times.",
+    "status_note": "Market watch is led by Union Pacific-Norfolk Southern merger draws labor support, shipper concerns.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Red Sea returns are rewriting carrier reliability, not just transit times.",
+      "Lead market story: Union Pacific-Norfolk Southern merger draws labor support, shipper concerns.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-20",
+      "report_date": "2026-11-21",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Red Sea returns are rewriting carrier reliability, not just transit times; Freightos Weekly Update: US air cargo recovering from outage; new US-CN tensions ahead of talks; As logistics operators and shippers look to 2027, high costs, constant disruption, and uncertainty roil their plans",
+      "headline": "Zim Q3 profit surges to $830 million as freight rates jump 55%; Union Pacific-Norfolk Southern merger draws labor support, shipper concerns; Shanghai-Genoa container rates buck downward trend",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Red Sea returns are rewriting carrier reliability, not just transit times",
+    "headline": "Union Pacific-Norfolk Southern merger draws labor support, shipper concerns",
     "key_news_radar": [
       {
-        "title": "Red Sea returns are rewriting carrier reliability, not just transit times",
-        "summary": "The return of container services to the Red Sea is changing Asia-Europe schedules again.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-19T15:08:05+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/red-sea-returns-are-rewriting-carrier-reliability-not-just-transit-times/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": [
-          "container_news"
-        ]
-      },
-      {
-        "title": "As logistics operators and shippers look to 2027, high costs, constant disruption, and uncertainty roil their plans",
-        "summary": "Operating in the uber-competitive market for logistics services, primarily for transportation, warehousing, and distribution of goods, has never been for the faint of heart.",
-        "source": "DC Velocity",
-        "timestamp": "2026-11-19T17:00:48+00:00",
-        "confidence": "medium",
-        "link": "https://www.dcvelocity.com/transportation/as-logistics-operators-and-shippers-look-to-2027-high-costs-constant-disruption-and-uncertainty-roil-their-plans",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "dcvelocity",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "Freightos Weekly Update: US air cargo recovering from outage; new US-CN tensions ahead of talks",
-        "summary": "Air cargo networks in the US are recovering from the major disruption over the weekend.",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-19T06:17:45+00:00",
-        "confidence": "high",
-        "link": "https://container-news.com/freightos-weekly-update-us-air-cargo-recovering-from-outage-new-us-cn-tensions-ahead-of-talks/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "LA-Long Beach port strike risk grows as employers say ILWU talks stalled",
-        "summary": "A contract dispute involving about 250 union watchmen could disrupt cargo movement at the ports of Los Angeles and Long Beach as early as this Saturday, with the Pacific Maritime A",
+        "title": "Union Pacific-Norfolk Southern merger draws labor support, shipper concerns",
+        "summary": "Union Pacific and Norfolk Southern have urged the Surface Transportation Board to continue reviewing their proposed merger, pushing back against Canadian Pacific Kansas City’s requ",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-18T22:37:39+00:00",
+        "timestamp": "2026-11-20T16:10:31+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/la-long-beach-port-strike-risk-grows-as-employers-say-ilwu-talks-stalled",
+        "link": "https://www.freightwaves.com/news/union-pacific-norfolk-southern-merger-draws-labor-support-shipper-concerns",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "Transnet responds to congestion in Durban with “urgent measures” and “interventions”",
-        "summary": "Transnet announces “interventions”, including deploying some of its own assets, as it moves to address congestion at Durban Gateway Terminal.",
-        "source": "WorldCargo News",
-        "timestamp": "2026-11-19T15:39:51+00:00",
+        "title": "Zim Q3 profit surges to $830 million as freight rates jump 55%",
+        "summary": "Zim Integrated Shipping Services reported third-quarter net income of $830 million, up from $123 million a year earlier, as sharply higher freight rates lifted revenue and prompted",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-20T16:26:00+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/ports-terminals/2026/11/transnet-responds-to-congestion-in-durban-with-urgent-measures-and-interventions/",
+        "link": "https://www.freightwaves.com/news/zim-q3-profit-surges-to-830-million-as-freight-rates-jump-55",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "worldcargo_news",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Sonowal Reviews Maritime Security; Nine Indian-Flagged and Indian-Interest Vessels Monitored West of Strait of Hormuz",
+        "summary": "Union Minister for Ports, Shipping and Waterways Sarbananda Sonowal has reviewed the prevailing maritime security situation amid repeated attacks on commercial vessels across vario",
+        "source": "India Seatrade News",
+        "timestamp": "2026-11-19T23:43:55+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/sonowal-reviews-maritime-security-nine-indian-flagged-and-indian-interest-vessels-monitored-west-of-strait-of-hormuz/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "On-dock Rail and the Reach of the Port of New York and New Jersey - The Intermodal Logistics Podcast",
+        "summary": "Getting a container off a ship is only part of its journey.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-11-20T17:04:48+00:00",
+        "confidence": "medium",
+        "link": "https://www.inteklogistics.com/blog/on-dock-rail-port-new-york-new-jersey-podcast",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Global Oil Prices Rise After Reports On Hormuz Tanker Blasts And Houthi Attack On Saudi Capital",
+        "summary": "AI Generated/Image for representation purposes only Oil prices moved up slightly on November 20, 2026 after a fresh round of tanker blasts in the Strait of Hormuz and Houthi missil",
+        "source": "Marine Insight",
+        "timestamp": "2026-11-20T12:44:14+00:00",
+        "confidence": "medium",
+        "link": "https://www.marineinsight.com/oil-prices-rise-hormuz-tanker-blasts-houthi-riyadh/?utm_source=rss&utm_medium=rss&utm_campaign=oil-prices-rise-hormuz-tanker-blasts-houthi-riyadh",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "marine_insight",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -161,32 +159,28 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
-      },
-      {
-        "title": "",
         "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
+        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` remains active across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Hormuz / Middle East disruption` remains active across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` remains active across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
         "summary": ""
       },
       {
@@ -196,6 +190,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-21",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Zim Q3 profit surges to $830 million as freight rates jump 55%; Union Pacific-Norfolk Southern merger draws labor support, shipper concerns; Shanghai-Genoa container rates buck downward trend",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-20",
         "write_now": "Maybe",
@@ -243,48 +245,41 @@
         "worth_attention_today": "5",
         "headline": "Trailer Crew Boycott of Customs Scanner Disrupts Container Movement at Vallarpadam Terminal; Tariffs Hit Cash Flow Before They Hit Margins: How Importers Are Financing Equipment and Inventory in 2026; Microsoft Outage a Reminder of Fragility of Web Technology",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-14",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "How Geopolitical Friction Is Redefining Cyber Resilience; Maersk reports Cybersecurity incident involving legacy IT System; investigation underway; Eco Rail becomes sole owner of Algeciras-Zaragoza rail highway operator",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 319,
-      "high_trust": 82,
-      "trade_press": 237,
+      "total_items": 310,
+      "high_trust": 84,
+      "trade_press": 226,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-20.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-20.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-20.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-21.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-21.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-21.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-20",
-    "run_started_at": "2026-11-20T04:45:58+09:00",
+    "report_date": "2026-11-21",
+    "run_started_at": "2026-11-21T04:45:54+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Newest meaningful competitor move: Project44 Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
     ],
-    "change_label": "Important change detected",
-    "change_detail": "Project44 is driving the newest meaningful change in the peer set.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 1 day ago.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 1,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "important_count": 0,
+    "watch_count": 0,
+    "last_signal_label": "1 day ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -329,35 +324,8 @@
         "count": "3"
       }
     ],
-    "important_changes": [
-      {
-        "company": "Project44",
-        "importance": "important",
-        "summary": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging",
-        "signal_type": "website_change",
-        "page_slug": "homepage",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_url": "https://www.project44.com/",
-        "evidence": [
-          "Our partnership with project44 has played an important role in helping Tailored Brands build a more connected and visible supply chain. As we introduce Intelligent TMS, the solution will enable us to further connect planning, execution, and analytics to drive smarter, more efficient operations across our network."
-        ]
-      }
-    ],
-    "watch_items": [
-      {
-        "company": "Transporeon",
-        "importance": "watch",
-        "summary": "Transporeon status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Transporeon status page returned to all systems operational.",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational",
-          "Maintenance Window for Transporeon platform - (2026-11-22, Sunday)"
-        ]
-      }
-    ],
+    "important_changes": [],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-20",
@@ -409,14 +377,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261120T044558+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-20.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261121T044554+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-21.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W47",
-    "week_end_date": "2026-11-20",
+    "week_end_date": "2026-11-21",
     "freshness": "current",
     "status_note": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
     "sparse_explanation": "",
@@ -444,8 +412,7 @@
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -519,7 +486,7 @@
     "recent_history": [
       {
         "week_label": "2026-W47",
-        "week_end_date": "2026-11-20",
+        "week_end_date": "2026-11-21",
         "takeaway": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
         "signal_count": "10",
         "active_thesis_count": "2",
