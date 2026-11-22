@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-21T19:47:42+00:00",
-  "requested_date": "2026-11-22",
+  "built_at": "2026-11-22T19:47:41+00:00",
+  "requested_date": "2026-11-23",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-22",
+    "requested_date": "2026-11-23",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Tentative union deal averts strike at Port of LA-Long Beach.",
-      "Competitor watch: Baseline unchanged.",
+      "Lead daily item: Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike.",
+      "Competitor watch: Important change detected.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-22",
+        "report_label": "2026-11-23",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,20 +36,20 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-22",
+        "report_label": "2026-11-23",
         "freshness": "current",
-        "change_label": "Baseline unchanged",
-        "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+        "change_label": "Important change detected",
+        "summary": "Newest meaningful competitor move: Transporeon Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
+        "supporting_note": "Transporeon is driving the newest meaningful change in the peer set.",
         "href": "competitor-watch.html"
       },
       {
         "title": "Weekly Strategy Brief",
         "cadence": "Weekly",
-        "report_label": "2026-W47",
+        "report_label": "2026-W48",
         "freshness": "current",
         "change_label": "Signal set changed",
-        "summary": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
+        "summary": "Transporeon is signaling AI positioning around unknown.",
         "supporting_note": "The underlying strategic signal set differs from the prior weekly run.",
         "href": "strategy-brief.html"
       }
@@ -64,66 +64,52 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-22",
-    "last_updated": "2026-11-22 04:45",
+    "report_date": "2026-11-23",
+    "last_updated": "2026-11-23 04:46",
     "freshness": "current",
-    "status_note": "Market watch is led by Tentative union deal averts strike at Port of LA-Long Beach.",
+    "status_note": "Market watch is led by Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Tentative union deal averts strike at Port of LA-Long Beach.",
+      "Lead market story: Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-22",
+      "report_date": "2026-11-23",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Tentative union deal averts strike at Port of LA-Long Beach; District Administration Intervenes to Resolve Vallarpadam Container Scanning Boycott; The Maritime Standard Tanker Conference 2026 concludes, addressing the industry’s evolving priorities",
+      "headline": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike; Caerus Shipping Introduces Direct Shipping Service Between Oman and India; The Importer’s File: What a Lender Actually Reads Before Approving Inventory Financing",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Tentative union deal averts strike at Port of LA-Long Beach",
+    "headline": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
     "key_news_radar": [
       {
-        "title": "Tentative union deal averts strike at Port of LA-Long Beach",
-        "summary": "The Pacific Maritime Association and International Longshore and Warehouse Union Local 26 have reached a tentative contract agreement covering about 250 watchmen at the ports of Lo",
-        "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-21T15:33:25+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/tentative-union-deal-averts-strike-at-port-of-la-long-beach",
+        "title": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike",
+        "summary": "Borderlands Mexico is a weekly rundown of developments in the world of United States-Mexico cross-border trucking and trade.",
+        "source": "S - News via Shippers Association on Inoreader",
+        "timestamp": "2026-11-22T13:32:58+00:00",
+        "confidence": "medium",
+        "link": "https://www.freightwaves.com/news/borderlands-mexico-truckers-secure-29-agreements-on-highway-safety-after-nationwide-strike",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "source_id": "s_news_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader",
           "freightwaves_news"
         ]
       },
       {
-        "title": "The Maritime Standard Tanker Conference 2026 concludes, addressing the industry’s evolving priorities",
-        "summary": "DUBAI: The Maritime Standard Tanker Conference 2026 concluded successfully at Atlantis, The Palm, Dubai, on 11 November, bringing together senior maritime executives, shipping prof",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-21T03:34:59+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/the-maritime-standard-tanker-conference-2026-concludes-addressing-the-industrys-evolving-priorities/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "District Administration Intervenes to Resolve Vallarpadam Container Scanning Boycott",
-        "summary": "The Ernakulam district administration has stepped in to address the disruption in container movement at the International Container Transshipment Terminal (ICTT) at Vallarpadam, Ko",
+        "title": "Caerus Shipping Introduces Direct Shipping Service Between Oman and India",
+        "summary": "Caerus Shipping has launched its Arab Sea Express (AXS) service, establishing direct container shipping connections between Sohar Port in Oman and two major Indian gateways, Nhava",
         "source": "India Seatrade News",
-        "timestamp": "2026-11-20T18:52:40+00:00",
+        "timestamp": "2026-11-22T18:56:44+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/district-administration-intervenes-to-resolve-vallarpadam-container-scanning-boycott/",
+        "link": "https://indiaseatradenews.com/caerus-shipping-introduces-direct-shipping-service-between-oman-and-india/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "india_seatrade_news",
@@ -131,26 +117,41 @@
         "confirmed_by": []
       },
       {
-        "title": "PM Modi announces ‘Seafarers’ Safety Initiative’ to strengthen international maritime cooperation",
-        "summary": "MANILA : Prime Minister Shri Narendra Modi has announced the Seafarers’ Safety Initiative at the 21st East Asia Summit (EAS) in Manila, Philippines, marking an important step towar",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-21T03:47:57+00:00",
+        "title": "IMO Net-Zero Framework: Compromise or Weakened Climate Rules?",
+        "summary": "The International Maritime Organization is confronting a tough decision in the coming month, ENGINE reports.",
+        "source": "Monitoring Feeds via Shippers Association on Inoreader",
+        "timestamp": "2026-11-21T21:04:48+00:00",
         "confidence": "high",
-        "link": "https://indiashippingnews.com/maritime/pm-modi-announces-seafarers-safety-initiative-to-strengthen-international-maritime-cooperation/",
+        "link": "https://www.globaltrademag.com/imo-net-zero-framework-compromise-or-weakened-climate-rules/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "india_shipping_news",
+        "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
+        "paywalled": false,
+        "confirmed_by": [
+          "s_news_via_shippers_association_on_inoreader"
+        ]
+      },
+      {
+        "title": "JNPA Awards Eight-Year Contract to Gateway Distriparks for Common Rail Yard Operations",
+        "summary": "Jawaharlal Nehru Port Authority (JNPA) has awarded an eight-year contract to Gateway Distriparks Limited (GDL) for operating its DFC-compliant common rail yard, strengthening rail-",
+        "source": "India Seatrade News",
+        "timestamp": "2026-11-22T18:56:32+00:00",
+        "confidence": "high",
+        "link": "https://indiaseatradenews.com/jnpa-awards-eight-year-contract-to-gateway-distriparks-for-common-rail-yard-operations/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "india_seatrade_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Centre Steps Up Security as Nine Indian-Linked Ships Remain Under Watch Near Hormuz",
-        "summary": "The Indian government has strengthened maritime security measures for Indian seafarers and commercial vessels operating in high-risk waters, with the Ministry of Ports, Shipping an",
+        "title": "MSC Strengthens Regional Connectivity with Launch of Two New Services",
+        "summary": "Mediterranean Shipping Company (MSC) is expanding its regional shipping network with two new services covering the Arabian Gulf and the Indian Subcontinent, strengthening connectio",
         "source": "India Seatrade News",
-        "timestamp": "2026-11-20T18:52:13+00:00",
+        "timestamp": "2026-11-22T18:57:08+00:00",
         "confidence": "high",
-        "link": "https://indiaseatradenews.com/centre-steps-up-security-as-nine-indian-linked-ships-remain-under-watch-near-hormuz/",
-        "label": "Operational",
+        "link": "https://indiaseatradenews.com/msc-strengthens-regional-connectivity-with-launch-of-two-new-services/",
+        "label": "Watch",
         "question_signal": "",
         "source_id": "india_seatrade_news",
         "paywalled": false,
@@ -195,6 +196,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-23",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Borderlands Mexico: Truckers secure 29 agreements on highway safety after nationwide strike; Caerus Shipping Introduces Direct Shipping Service Between Oman and India; The Importer’s File: What a Lender Actually Reads Before Approving Inventory Financing",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-22",
         "write_now": "Maybe",
@@ -242,49 +251,40 @@
         "worth_attention_today": "5",
         "headline": "U.S. container imports hit record 2.67 million TEUs in October as port delays rise; ONE returns to Suez Canal as Premier Alliance plans further service shifts; ONE returns to Suez Canal as Premier Alliance plans further service shifts",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-16",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Borderlands Mexico: Texas cross-border traffic rises by 400 trucks through Saturday pilot; Spot rates jump ahead of holidays; Oil Tanker Catches Fire After Hitting Naval Mine In Strait Of Hormuz, Iran Says",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 136,
-      "high_trust": 37,
-      "trade_press": 99,
+      "total_items": 53,
+      "high_trust": 13,
+      "trade_press": 40,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-22.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-22.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-22.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-23.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-23.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-23.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-22",
-    "run_started_at": "2026-11-22T04:45:58+09:00",
+    "report_date": "2026-11-23",
+    "run_started_at": "2026-11-23T04:46:00+09:00",
     "freshness": "current",
-    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
-    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
+    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
+    "sparse_explanation": "",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "No peer moved far enough to change the current competitive picture this run.",
-      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster.",
-      "Latest lower-signal item came from Project44: Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging"
+      "Newest meaningful competitor move: Transporeon Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
     ],
-    "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
+    "change_label": "Important change detected",
+    "change_detail": "Transporeon is driving the newest meaningful change in the peer set.",
     "targets_fetched": 28,
     "target_count": 28,
-    "important_count": 0,
+    "important_count": 1,
     "watch_count": 0,
-    "last_signal_label": "2 days ago",
+    "last_signal_label": "Today",
     "company_summaries": [
       {
         "company": "Project44",
@@ -300,7 +300,7 @@
       },
       {
         "company": "Transporeon",
-        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow."
+        "summary": "Current narrative leans toward data quality / connectivity, optimization / procurement, and execution and workflow. Status page: Service Under Maintenance."
       },
       {
         "company": "Wakeo",
@@ -329,9 +329,31 @@
         "count": "3"
       }
     ],
-    "important_changes": [],
+    "important_changes": [
+      {
+        "company": "Transporeon",
+        "importance": "important",
+        "summary": "Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
+        "signal_type": "status_change",
+        "page_slug": "status",
+        "source_title": "Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
+        "evidence": [
+          "Service Under Maintenance",
+          "Analytics (under maintenance)"
+        ]
+      }
+    ],
     "watch_items": [],
     "recent_signal_history": [
+      {
+        "detected_date": "2026-11-23",
+        "company": "Transporeon",
+        "importance": "important",
+        "signal_type": "status change",
+        "summary": "Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
+        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
+      },
       {
         "detected_date": "2026-11-20",
         "company": "Project44",
@@ -371,53 +393,39 @@
         "signal_type": "status change",
         "summary": "Transporeon status page shows degraded services: Support Services (under maintenance).",
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
-      },
-      {
-        "detected_date": "2026-11-17",
-        "company": "Shippeo",
-        "importance": "important",
-        "signal_type": "website change",
-        "summary": "Shippeo homepage added stronger visibility, AI and automation, platform / control tower, execution and workflow, analytics and decision intelligence, sustainability, and data quality / connectivity language and introduced control tower, analytics, and carbon / sustainability messaging",
-        "source_url": "https://www.shippeo.com/"
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261122T044558+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-22.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261123T044600+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-23.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
-    "week_label": "2026-W47",
-    "week_end_date": "2026-11-22",
+    "week_label": "2026-W48",
+    "week_end_date": "2026-11-23",
     "freshness": "current",
-    "status_note": "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
+    "status_note": "Transporeon is signaling AI positioning around unknown.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the weekly strategic read across competitors, adjacent platforms, analyst reports, and macro or regulatory signals.",
     "team_notes": [
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-      "Current working thesis: AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support.",
+      "Transporeon is signaling AI positioning around unknown.",
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "change_label": "Signal set changed",
     "change_detail": "The underlying strategic signal set differs from the prior weekly run.",
     "executive_takeaways": [
-      "Project44 is reinforcing a stronger optimization procurement execution motif through AI positioning.",
-      "Project44 is signaling AI positioning around end to end orchestration.",
-      "Shippeo is signaling AI positioning around in transit visibility."
+      "Transporeon is signaling AI positioning around unknown."
     ],
     "strategic_movements": [
-      "Project44 (direct competitor) is pushing AI positioning around procurement and tendering with the claimed outcome of faster decisions.",
-      "Project44 (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of reduced manual work.",
-      "Shippeo (direct competitor) is pushing AI positioning around in transit visibility with the claimed outcome of better visibility.",
-      "Shippeo (direct competitor) is pushing AI positioning around end to end orchestration with the claimed outcome of broader workflow ownership.",
-      "Shippeo (direct competitor) is pushing AI positioning."
+      "Transporeon (direct competitor) is pushing AI positioning."
     ],
     "team_implications": [
       "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
+      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -440,55 +448,35 @@
     "watch_source_total": 17,
     "reference_source_observed": 0,
     "reference_source_total": 2,
-    "important_signal_count": 10,
-    "active_theses": [
-      "AI-led positioning is increasingly being used to reframe logistics software from monitoring toward decision support."
-    ],
+    "important_signal_count": 1,
+    "active_theses": [],
     "top_signals": [
       {
-        "entity_name": "Project44",
-        "source_title": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging -> suggests expansion beyond tracking into procurement or optimization",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "procurement and tendering",
-        "claimed_outcome": "faster decisions",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Project44 homepage added stronger optimization / procurement, execution and workflow, analytics and decision intelligence, and data quality / connectivity language and introduced TMS and analytics messaging ->...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "stronger optimization procurement execution",
-        "source_url": "https://www.project44.com/"
-      },
-      {
-        "entity_name": "Shippeo",
-        "source_title": "Platform overview The platform that turns visibility into confident action",
-        "source_layer": "direct competitor",
-        "strategic_move": "AI positioning",
-        "workflow_scope": "in transit visibility",
-        "claimed_outcome": "better visibility",
-        "importance_tier": "important",
-        "confidence": "high",
-        "evidence_excerpt": "Shippeo press releases announced \"Platform overview The platform that turns visibility into confident action\" -> signals a stronger AI / automation narrative Platform overview The platform that turns visibility into...",
-        "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
-        "emerging_motif": "unknown",
-        "source_url": "https://www.shippeo.com/platform-overview"
-      },
-      {
         "entity_name": "Transporeon",
-        "source_title": "Transporeon status page returned to all systems operational.",
+        "source_title": "Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance).",
         "source_layer": "direct competitor",
         "strategic_move": "AI positioning",
         "workflow_scope": "unknown",
-        "claimed_outcome": "broader workflow ownership",
+        "claimed_outcome": "unknown",
         "importance_tier": "important",
         "confidence": "high",
-        "evidence_excerpt": "Transporeon status page returned to all systems operational. All Systems Operational",
+        "evidence_excerpt": "Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance). Service Under Maintenance",
         "team_implication": "AI claims are becoming table stakes; this raises the bar for specificity, credibility, and evidence in our decision-support story.",
         "emerging_motif": "unknown",
         "source_url": "https://transporeon.statuspage.io/api/v2/summary.json"
       }
     ],
     "recent_history": [
+      {
+        "week_label": "2026-W48",
+        "week_end_date": "2026-11-23",
+        "takeaway": "Transporeon is signaling AI positioning around unknown.",
+        "signal_count": "1",
+        "active_thesis_count": "0",
+        "signal_signature": "Transporeon|direct_competitor|ai_positioning|465858f3f2dbfba3df79749aeef9bf3ab8491374",
+        "observed_source_count": "6",
+        "total_source_count": "17"
+      },
       {
         "week_label": "2026-W47",
         "week_end_date": "2026-11-22",
@@ -518,21 +506,11 @@
         "signal_signature": "Project44|direct_competitor|workflow_expansion|c469815bcd2e26818cf231ffb31ee96e672edf1f || Wakeo|direct_competitor|ai_positioning|bdd6d05f0d9908e08161098fa00ee28e758c5d0d || Wakeo|direct_competitor|product_launch|2b62fae403d34046bee030de88005d2e2bb7760d",
         "observed_source_count": "6",
         "total_source_count": "17"
-      },
-      {
-        "week_label": "2026-W44",
-        "week_end_date": "2026-11-01",
-        "takeaway": "Project44 is signaling AI positioning around unknown.",
-        "signal_count": "1",
-        "active_thesis_count": "0",
-        "signal_signature": "Project44|direct_competitor|ai_positioning|45e916bc9dbba1e6feaca5cdfb16c5220a71f3f1",
-        "observed_source_count": "6",
-        "total_source_count": "17"
       }
     ],
     "source_artifacts": [
-      "strategic_intelligence/output/weekly-snapshot-2026-W47.json",
-      "strategic_intelligence/output/weekly-memo-2026-W47.md"
+      "strategic_intelligence/output/weekly-snapshot-2026-W48.json",
+      "strategic_intelligence/output/weekly-memo-2026-W48.md"
     ],
     "warnings": [
       "Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet",
