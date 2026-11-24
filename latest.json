@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-23T19:47:37+00:00",
-  "requested_date": "2026-11-24",
+  "built_at": "2026-11-24T19:47:31+00:00",
+  "requested_date": "2026-11-25",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,18 +15,18 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-24",
+    "requested_date": "2026-11-25",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Durban backlog delays medicine shipments.",
-      "Competitor watch: Watch-level movement detected.",
+      "Lead daily item: Duqm plans cargo handling and operational upgrades.",
+      "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
     "report_cards": [
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-24",
+        "report_label": "2026-11-25",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-24",
+        "report_label": "2026-11-25",
         "freshness": "current",
-        "change_label": "Watch-level movement detected",
-        "summary": "Closest current peer watch item: Transporeon Transporeon status page returned to all systems operational.",
-        "supporting_note": "Transporeon is the closest thing to a live watch item in the current run.",
+        "change_label": "Baseline unchanged",
+        "summary": "No peer moved far enough to change the current competitive picture this run.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,37 +64,37 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-24",
-    "last_updated": "2026-11-24 04:45",
+    "report_date": "2026-11-25",
+    "last_updated": "2026-11-25 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Durban backlog delays medicine shipments.",
+    "status_note": "Market watch is led by Duqm plans cargo handling and operational upgrades.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Durban backlog delays medicine shipments.",
+      "Lead market story: Duqm plans cargo handling and operational upgrades.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-24",
+      "report_date": "2026-11-25",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "Durban backlog delays medicine shipments; Asia-US East Coast ocean freight rates top $10,000, up 300% from a year ago; Prosecutors uncover trucking playbook in multimillion-dollar port smuggling scheme",
+      "headline": "Report from Containertrends conference: Automation is not a one-size-fits-all solution; How AI Creates Hidden Risks in Multi-Tier Supply Networks; ‘Istanbul bypass alone won’t fix the Middle Corridor’",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Durban backlog delays medicine shipments",
+    "headline": "Duqm plans cargo handling and operational upgrades",
     "key_news_radar": [
       {
-        "title": "Durban backlog delays medicine shipments",
-        "summary": "Around 30 shipments of medicines are awaiting clearance at the Port of Durban, causing shortages at public hospitals and clinics across South Africa.",
+        "title": "Duqm plans cargo handling and operational upgrades",
+        "summary": "Oman’s Duqm port is targeting cargo-handling equipment upgrades, additional storage and shorter general cargo and Ro-Ro dwell times under a package of 22 initiatives.",
         "source": "WorldCargo News",
-        "timestamp": "2026-11-23T13:22:12+00:00",
+        "timestamp": "2026-11-24T15:02:40+00:00",
         "confidence": "high",
-        "link": "https://www.worldcargonews.com/news/2026/11/durban-backlog-delays-medicine-shipments/",
+        "link": "https://www.worldcargonews.com/news/2026/11/duqm-targets-cargo-handling-upgrades/",
         "label": "Operational",
         "question_signal": "",
         "source_id": "worldcargo_news",
@@ -102,93 +102,89 @@
         "confirmed_by": []
       },
       {
-        "title": "Asia-US East Coast ocean freight rates top $10,000, up 300% from a year ago",
-        "summary": "Container shipping spot rates from Asia to the United States declined in the latest week as offered capacity increased on routes to both U.S.",
+        "title": "Port of Oakland charging up 300 Tesla Semi trucks for zero-emission freight corridor",
+        "summary": "The Port of Oakland and heavy-duty charging provider WattEV have opened a public electric truck charging depot, pairing new infrastructure with a planned purchase of 300 Tesla Semi",
         "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-23T14:35:03+00:00",
+        "timestamp": "2026-11-24T11:05:00+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/asia-us-east-coast-ocean-freight-rates-top-10000-up-300-from-a-year-ago",
+        "link": "https://www.freightwaves.com/news/port-of-oakland-buying-300-tesla-semi-trucks-for-zero-emission-freight-corridor",
         "label": "Operational",
         "question_signal": "",
         "source_id": "freightwaves_news",
         "paywalled": false,
         "confirmed_by": [
-          "monitoring_feeds_via_shippers_association_on_inoreader"
+          "s_news_via_shippers_association_on_inoreader"
         ]
       },
       {
-        "title": "US Port Blocks 120 Million Hacking Attempts In A Month As Cyberattacks On American Ports Surge",
-        "summary": "Image for representation purposes only US ports are facing a surge in cyberattacks, with the Port of Corpus Christi in Texas now fending off hundreds or even thousands of hacking a",
-        "source": "Marine Insight",
-        "timestamp": "2026-11-23T13:01:53+00:00",
-        "confidence": "medium",
-        "link": "https://www.marineinsight.com/us-ports-cyberattacks-120-million-hacking-attempts/?utm_source=rss&utm_medium=rss&utm_campaign=us-ports-cyberattacks-120-million-hacking-attempts",
+        "title": "India calls for end to attacks on commercial shipping, safe navigation in Black Sea at UNSC amid Russia-Ukraine conflict",
+        "summary": "NEW YORK: India has called for an immediate end to attacks on commercial shipping and seafarers in the Black Sea, stressing that safe navigation through international waterways mus",
+        "source": "India Shipping News",
+        "timestamp": "2026-11-24T04:08:29+00:00",
+        "confidence": "high",
+        "link": "https://indiashippingnews.com/shipping/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "marine_insight",
+        "source_id": "india_shipping_news",
         "paywalled": false,
         "confirmed_by": []
       },
       {
-        "title": "Lufthansa Cargo to buy out 2nd ground agent at Frankfurt airport",
-        "summary": "The cargo arm of Lufthansa Group said Monday it has agreed to purchase the Frankfurt operation of Fiege Air Cargo Logistics GmbH, bringing cargo handling operations at its Frankfur",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-23T17:32:21+00:00",
+        "title": "APMT MV II and Port of Rotterdam Authority advance terminal development",
+        "summary": "APM Terminals and the Port of Rotterdam Authority are preparing for the next phase of the expansion of APMT MV II.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-24T09:38:26+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/lufthansa-cargo-to-buy-out-2nd-ground-agent-at-frankfurt-airport",
+        "link": "https://www.worldcargonews.com/news/2026/11/apmt-mv-ii-and-port-of-rotterdam-authority-advance-terminal-development/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       },
       {
-        "title": "Savannah handles 565,366 TEUs in October, up 25% year-over-year on strong import demand",
-        "summary": "The Port of Savannah handled 565,366 twenty-foot equivalent units (TEUs) in October, a 25% increase from a year earlier and the second-highest monthly container total in its histor",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-23T17:12:43+00:00",
+        "title": "Report from Containertrends conference: Automation is not a one-size-fits-all solution",
+        "summary": "Automation can help terminals increase capacity without expanding their footprint.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-24T07:59:03+00:00",
         "confidence": "high",
-        "link": "https://www.freightwaves.com/news/savannah-handles-565366-teus-in-october-up-25-year-over-year-on-strong-import-demand",
+        "link": "https://www.worldcargonews.com/ict-automation/2026/11/report-from-containertrends-conference-automation-is-not-a-one-size-fits-all-solution/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "freightwaves_news",
+        "source_id": "worldcargo_news",
         "paywalled": false,
-        "confirmed_by": [
-          "s_news_via_shippers_association_on_inoreader"
-        ]
+        "confirmed_by": []
       }
     ],
     "hot_topics": [
-      {
-        "title": "",
-        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
-      },
-      {
-        "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
-      },
       {
         "title": "",
         "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       },
       {
         "title": "",
+        "summary": "Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations."
+      },
+      {
+        "title": "",
         "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+      },
+      {
+        "title": "",
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       }
     ],
     "business_angles": [
+      {
+        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "summary": ""
+      },
       {
         "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
-        "summary": ""
-      },
-      {
-        "title": "`Inland / intermodal spillover` is running above its recent baseline across high-trust, trade-press coverage. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
@@ -198,6 +194,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-25",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Report from Containertrends conference: Automation is not a one-size-fits-all solution; How AI Creates Hidden Risks in Multi-Tier Supply Networks; ‘Istanbul bypass alone won’t fix the Middle Corridor’",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-24",
         "write_now": "Maybe",
@@ -245,48 +249,41 @@
         "worth_attention_today": "5",
         "headline": "Omni-shoring is changing the economics of ocean freight resilience; How to Price Ocean Freight: A Forwarder’s Method; ROBOTICS ROUNDTABLE: Easing the pain",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-18",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago; Maersk and Hapag-Lloyd restore Asia-Europe Suez routes as U.S. shippers watch capacity and costs; How IoT Sensors Boost Supply Chain Resilience",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 312,
-      "high_trust": 65,
-      "trade_press": 247,
+      "total_items": 298,
+      "high_trust": 69,
+      "trade_press": 229,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-24.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-24.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-24.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-25.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-25.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-25.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-24",
-    "run_started_at": "2026-11-24T04:45:59+09:00",
+    "report_date": "2026-11-25",
+    "run_started_at": "2026-11-25T04:45:53+09:00",
     "freshness": "current",
-    "status_note": "Meaningful competitor movement is present in the latest monitor run.",
-    "sparse_explanation": "",
+    "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
+    "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
     "usage_note": "Use this page for direct-competitor monitoring across Project44, FourKites, Shippeo, Transporeon, Wakeo, and GoComet.",
     "team_notes": [
-      "Closest current peer watch item: Transporeon Transporeon status page returned to all systems operational.",
-      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster."
+      "No peer moved far enough to change the current competitive picture this run.",
+      "Across peers, analytics, decision intelligence, and AI remain the dominant narrative cluster.",
+      "Latest lower-signal item came from Transporeon: Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance)."
     ],
-    "change_label": "Watch-level movement detected",
-    "change_detail": "Transporeon is the closest thing to a live watch item in the current run.",
+    "change_label": "Baseline unchanged",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 2 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
-    "watch_count": 1,
-    "last_signal_label": "Today",
+    "watch_count": 0,
+    "last_signal_label": "2 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -332,20 +329,7 @@
       }
     ],
     "important_changes": [],
-    "watch_items": [
-      {
-        "company": "Transporeon",
-        "importance": "watch",
-        "summary": "Transporeon status page returned to all systems operational.",
-        "signal_type": "status_change",
-        "page_slug": "status",
-        "source_title": "Transporeon status page returned to all systems operational.",
-        "source_url": "https://transporeon.statuspage.io/api/v2/summary.json",
-        "evidence": [
-          "All Systems Operational"
-        ]
-      }
-    ],
+    "watch_items": [],
     "recent_signal_history": [
       {
         "detected_date": "2026-11-23",
@@ -397,14 +381,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261124T044559+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-24.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261125T044553+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-25.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W48",
-    "week_end_date": "2026-11-24",
+    "week_end_date": "2026-11-25",
     "freshness": "current",
     "status_note": "Transporeon is signaling AI positioning around unknown.",
     "sparse_explanation": "",
@@ -428,8 +412,7 @@
       "This should be watched for whether it changes buyer expectations, category language, or the scope we need to own."
     ],
     "open_questions": [
-      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?",
-      "Review the thesis register and confirm whether any newly active thesis should change current positioning, roadmap framing, or founder messaging."
+      "Does our AI and decision-support story read as specific, credible, and tied to real operator workflows rather than generic automation language?"
     ],
     "coverage_confidence": "Observed 6/17 watch sources this week. Reference coverage is 0/2. Confidence is reduced by coverage gaps: Watch coverage gap for Freightos freightos_baltic_index: no seeded offline snapshot yet Watch coverage gap for New York Fed gscpi: no seeded offline snapshot yet",
     "coverage_summary": "Observed 6/17 watch sources this week. 11 live watch gaps remain.",
@@ -487,7 +470,7 @@
     "recent_history": [
       {
         "week_label": "2026-W48",
-        "week_end_date": "2026-11-24",
+        "week_end_date": "2026-11-25",
         "takeaway": "Transporeon is signaling AI positioning around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
