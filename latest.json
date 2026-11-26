@@ -1,7 +1,7 @@
 {
   "schema_version": "internal-intelligence/snapshot/v1",
-  "built_at": "2026-11-25T21:40:40+00:00",
-  "requested_date": "2026-11-26",
+  "built_at": "2026-11-26T19:47:19+00:00",
+  "requested_date": "2026-11-27",
   "audience": "internal_team",
   "guardrails": {
     "editorial_included": false,
@@ -15,10 +15,10 @@
   },
   "overview": {
     "title": "Logistics Signals Board",
-    "requested_date": "2026-11-26",
+    "requested_date": "2026-11-27",
     "summary": "Live reference for daily logistics news, competitor monitoring, and weekly strategic context.",
     "latest_updates": [
-      "Lead daily item: Ningbo-Middle East freight rates surge 453.5% YoY as container shipping enters a two-speed market.",
+      "Lead daily item: Ocean rates still double last year as congestion idles 3.6 million TEUs.",
       "Competitor watch: Baseline unchanged.",
       "Weekly strategy: Signal set changed."
     ],
@@ -26,7 +26,7 @@
       {
         "title": "Daily Logistics Brief",
         "cadence": "Daily",
-        "report_label": "2026-11-26",
+        "report_label": "2026-11-27",
         "freshness": "current",
         "change_label": "Lead story changed",
         "summary": "Current market signals form a meaningful cluster, but not a single dominant story.",
@@ -36,11 +36,11 @@
       {
         "title": "Competitor Watch",
         "cadence": "Reference",
-        "report_label": "2026-11-26",
+        "report_label": "2026-11-27",
         "freshness": "current",
         "change_label": "Baseline unchanged",
         "summary": "No peer moved far enough to change the current competitive picture this run.",
-        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+        "supporting_note": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
         "href": "competitor-watch.html"
       },
       {
@@ -64,95 +64,95 @@
   },
   "market_watch": {
     "title": "Internal Logistics Signals Board",
-    "report_date": "2026-11-26",
-    "last_updated": "2026-11-26 06:39",
+    "report_date": "2026-11-27",
+    "last_updated": "2026-11-27 04:45",
     "freshness": "current",
-    "status_note": "Market watch is led by Ningbo-Middle East freight rates surge 453.5% YoY as container shipping enters a two-speed market.",
+    "status_note": "Market watch is led by Ocean rates still double last year as congestion idles 3.6 million TEUs.",
     "sparse_explanation": "",
     "usage_note": "Use this page for the fuller daily logistics and supply-chain news brief: radar items, topic clusters, recent history, and community questions.",
     "team_notes": [
       "Current market signals form a meaningful cluster, but not a single dominant story.",
-      "Lead market story: Ningbo-Middle East freight rates surge 453.5% YoY as container shipping enters a two-speed market.",
+      "Lead market story: Ocean rates still double last year as congestion idles 3.6 million TEUs.",
       "7 of the last 7 daily briefs showed meaningful operational activity, so recent movement is not just a one-day blip."
     ],
     "change_label": "Lead story changed",
     "change_detail": "The lead item changed versus the prior brief.",
     "current_brief": {
-      "report_date": "2026-11-26",
+      "report_date": "2026-11-27",
       "write_now": "Maybe",
       "highest_confidence_operational_items": "6",
       "worth_attention_today": "5",
-      "headline": "The Holiday Supply Chain Lesson: Plan to a Longer Horizon; J.B. Hunt urges STB to reject Union Pacific-Norfolk Southern merger; Vallarpadam Exporters Seek Waiver of Detention and Demurrage Charges After Scanning Boycott",
+      "headline": "Hormuz caught between Iranian mines and US blockade; Ocean rates still double last year as congestion idles 3.6 million TEUs; Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
       "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
     },
     "active_recent_days": 7,
-    "headline": "Ningbo-Middle East freight rates surge 453.5% YoY as container shipping enters a two-speed market",
+    "headline": "Ocean rates still double last year as congestion idles 3.6 million TEUs",
     "key_news_radar": [
       {
-        "title": "Ningbo-Middle East freight rates surge 453.5% YoY as container shipping enters a two-speed market",
-        "summary": "The global container shipping market is entering a period of increasingly uneven freight pricing, with the Middle East emerging as one of the most striking examples of how regional",
+        "title": "Ocean rates still double last year as congestion idles 3.6 million TEUs",
+        "summary": "Ocean freight rates remain far above year-ago levels, and relief is likely to be gradual, a new analysis finds, as the market moves from “disruption management” to “transition mana",
         "source": "Monitoring Feeds via Shippers Association on Inoreader",
-        "timestamp": "2026-11-25T04:10:25+00:00",
+        "timestamp": "2026-11-26T13:26:57+00:00",
         "confidence": "high",
-        "link": "https://container-news.com/ningbo-middle-east-freight-rates-surge-453-5-yoy-as-container-shipping-enters-a-two-speed-market/",
+        "link": "https://www.freightwaves.com/news/ocean-rates-still-double-last-year-as-congestion-idles-3-6-million-teus",
         "label": "Operational",
         "question_signal": "",
         "source_id": "monitoring_feeds_via_shippers_association_on_inoreader",
         "paywalled": false,
         "confirmed_by": [
           "s_news_via_shippers_association_on_inoreader",
-          "container_news"
+          "freightwaves_news"
         ]
       },
       {
-        "title": "Trucking Tightens as Rail Volume Surges",
-        "summary": "#fwtv_qYnbGsBohk .fwtv-panel{border:1px solid #d0d0d0;padding:18px;border-radius:6px;line-height:1.6}#fwtv_qYnbGsBohk .fwtv-panel p{margin:0 0 12px}#fwtv_qYnbGsBohk .fwtv-note{font",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-24T19:43:35+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/trucking-tightens-as-rail-volume-surges",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "J.B. Hunt urges STB to reject Union Pacific-Norfolk Southern merger",
-        "summary": "Hunt Transport is urging the Surface Transportation Board to reject Union Pacific’s (NYSE: UNP) proposed merger with Norfolk Southern (NYSE: NSC), arguing that the deal overstates",
-        "source": "FreightWaves — News Section (longer history)",
-        "timestamp": "2026-11-24T19:24:27+00:00",
-        "confidence": "high",
-        "link": "https://www.freightwaves.com/news/j-b-hunt-urges-stb-to-reject-union-pacific-norfolk-southern-merger",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "freightwaves_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "After COP31 Failure, World Gets Second Chance at Historic Shipping Climate Deal",
-        "summary": "LONDON: Two days after COP31 ended without an overarching climate agreement, international experts and advocates called on governments to seize a new opportunity for global climate",
-        "source": "India Shipping News",
-        "timestamp": "2026-11-25T03:54:34+00:00",
-        "confidence": "high",
-        "link": "https://indiashippingnews.com/international-shipping/after-cop31-failure-world-gets-second-chance-at-historic-shipping-climate-deal/",
-        "label": "Operational",
-        "question_signal": "",
-        "source_id": "india_shipping_news",
-        "paywalled": false,
-        "confirmed_by": []
-      },
-      {
-        "title": "The Holiday Supply Chain Lesson: Plan to a Longer Horizon",
-        "summary": "For years, companies have treated the holiday shipping season as a predictable annual cycle: Forecast demand, secure inventory, book transportation and move goods into position bef",
-        "source": "SupplyChainBrain",
-        "timestamp": "2026-11-25T08:00:00+00:00",
+        "title": "Hormuz caught between Iranian mines and US blockade",
+        "summary": "On Wednesday 25 November, the Islamic Revolutionary Guard Corps Navy stated that two oil tankers had struck mines in the southern and eastern sectors of the Strait of Hormuz, causi",
+        "source": "English Archives - TrasportoEuropa",
+        "timestamp": "2026-11-26T10:55:17+00:00",
         "confidence": "medium",
-        "link": "https://www.supplychainbrain.com/blogs/think-tank/article/16425350/the-holiday-supply-chain-lesson-plan-to-a-longer-horizon",
+        "link": "https://www.trasportoeuropa.it/english/hormuz-caught-between-iranian-mines-and-us-blockade/",
         "label": "Operational",
         "question_signal": "",
-        "source_id": "supplychainbrain_articles",
+        "source_id": "english_archives_trasportoeuropa",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
+        "summary": "Container spot rates from Asia to the United States are easing after months of elevated pricing.",
+        "source": "FreightWaves — News Section (longer history)",
+        "timestamp": "2026-11-25T17:18:32+00:00",
+        "confidence": "high",
+        "link": "https://www.freightwaves.com/news/asia-us-west-coast-container-spot-rates-fall-below-8000-as-us-avoids-la-long-beach-port-strike",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "freightwaves_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "ICTSI faces licence threat in Durban as DGT orders straddle carriers",
+        "summary": "International Container Terminal Services, Inc.",
+        "source": "WorldCargo News",
+        "timestamp": "2026-11-26T10:36:31+00:00",
+        "confidence": "high",
+        "link": "https://www.worldcargonews.com/news/2026/11/ictsi-faces-licence-threat-in-durban-as-dgt-orders-straddle-carriers/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "worldcargo_news",
+        "paywalled": false,
+        "confirmed_by": []
+      },
+      {
+        "title": "ONE updates inland fuel charges across Latin America",
+        "summary": "Ocean Network Express (ONE) has announced revised Inland Fuel Charges for carrier-arranged inland transportation across 14 Latin American countries.",
+        "source": "Container News",
+        "timestamp": "2026-11-26T18:00:53+00:00",
+        "confidence": "high",
+        "link": "https://container-news.com/one-updates-inland-fuel-charges-across-latin-america/",
+        "label": "Operational",
+        "question_signal": "",
+        "source_id": "container_news",
         "paywalled": false,
         "confirmed_by": []
       }
@@ -160,7 +160,7 @@
     "hot_topics": [
       {
         "title": "",
-        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
+        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
       },
       {
         "title": "",
@@ -168,24 +168,24 @@
       },
       {
         "title": "",
-        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
+        "summary": "Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk."
       },
       {
         "title": "",
-        "summary": "Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed."
+        "summary": "The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight."
       }
     ],
     "business_angles": [
       {
-        "title": "`Hormuz / Middle East disruption` is still present across high-trust, trade-press coverage, but below recent baseline. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
+        "title": "`Port / capacity moves` is running above its recent baseline across high-trust, trade-press coverage. Port and infrastructure developments are showing up alongside disruption coverage and can shape how stories are framed.",
         "summary": ""
       },
       {
-        "title": "`Fuel / energy pressure` is still present across high-trust, trade-press coverage, but below recent baseline. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
+        "title": "`Fuel / energy pressure` is running above its recent baseline across high-trust, trade-press coverage. Fuel and energy language can turn operational disruption into procurement, pricing, and margin pressure conversations.",
         "summary": ""
       },
       {
-        "title": "`Inland / intermodal spillover` is still present across high-trust, trade-press coverage, but below recent baseline. The story is moving inland, which makes it more relevant for shipper conversations beyond ocean freight.",
+        "title": "`Hormuz / Middle East disruption` is running above its recent baseline across high-trust, trade-press coverage. Regional disruption is broadening beyond the strait headline into carrier updates, energy flows, and network risk.",
         "summary": ""
       },
       {
@@ -195,6 +195,14 @@
     ],
     "community_questions": [],
     "recent_history": [
+      {
+        "report_date": "2026-11-27",
+        "write_now": "Maybe",
+        "highest_confidence_operational_items": "6",
+        "worth_attention_today": "5",
+        "headline": "Hormuz caught between Iranian mines and US blockade; Ocean rates still double last year as congestion idles 3.6 million TEUs; Asia-US West Coast container spot rates fall below $8,000 as US avoids LA-Long Beach port strike",
+        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
+      },
       {
         "report_date": "2026-11-26",
         "write_now": "Maybe",
@@ -242,33 +250,25 @@
         "worth_attention_today": "5",
         "headline": "Zim Q3 profit surges to $830 million as freight rates jump 55%; Union Pacific-Norfolk Southern merger draws labor support, shipper concerns; Shanghai-Genoa container rates buck downward trend",
         "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
-      },
-      {
-        "report_date": "2026-11-20",
-        "write_now": "Maybe",
-        "highest_confidence_operational_items": "6",
-        "worth_attention_today": "5",
-        "headline": "Red Sea returns are rewriting carrier reliability, not just transit times; Freightos Weekly Update: US air cargo recovering from outage; new US-CN tensions ahead of talks; As logistics operators and shippers look to 2027, high costs, constant disruption, and uncertainty roil their plans",
-        "summary": "There is a meaningful operational cluster today, but the report still does not prove a single must-write story on its own."
       }
     ],
     "source_snapshot": {
-      "total_items": 159,
-      "high_trust": 46,
-      "trade_press": 113,
+      "total_items": 381,
+      "high_trust": 73,
+      "trade_press": 308,
       "community": 0
     },
     "source_artifacts": [
       "news_pipeline/output/site/public-dashboard.json",
-      "news_pipeline/output/reports/daily-brief-2026-11-26.md",
-      "news_pipeline/output/digests/daily-digest-2026-11-26.md",
-      "news_pipeline/output/trends/daily-trends-2026-11-26.json"
+      "news_pipeline/output/reports/daily-brief-2026-11-27.md",
+      "news_pipeline/output/digests/daily-digest-2026-11-27.md",
+      "news_pipeline/output/trends/daily-trends-2026-11-27.json"
     ],
     "warnings": []
   },
   "competitor_watch": {
-    "report_date": "2026-11-26",
-    "run_started_at": "2026-11-26T06:39:08+09:00",
+    "report_date": "2026-11-27",
+    "run_started_at": "2026-11-27T04:45:52+09:00",
     "freshness": "current",
     "status_note": "No competitor changes cleared the current threshold in the latest monitor run; this currently reads as a stable watch period.",
     "sparse_explanation": "This view is quiet because nothing crossed the important or watch threshold. The recent signal history below still shows lower-signal movement while the current posture cards preserve baseline context.",
@@ -279,12 +279,12 @@
       "Latest lower-signal item came from Transporeon: Transporeon status page shows degraded services: Analytics (under maintenance) and Data transmission (under maintenance)."
     ],
     "change_label": "Baseline unchanged",
-    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 3 days ago.",
+    "change_detail": "No peer crossed the watch threshold this run; the last logged signal was 4 days ago.",
     "targets_fetched": 28,
     "target_count": 28,
     "important_count": 0,
     "watch_count": 0,
-    "last_signal_label": "3 days ago",
+    "last_signal_label": "4 days ago",
     "company_summaries": [
       {
         "company": "Project44",
@@ -382,14 +382,14 @@
       }
     ],
     "source_artifacts": [
-      "competitor_monitor/output/runs/competitor-monitor-20261126T063908+0900.json",
-      "competitor_monitor/output/reports/competitor-monitor-2026-11-26.md"
+      "competitor_monitor/output/runs/competitor-monitor-20261127T044552+0900.json",
+      "competitor_monitor/output/reports/competitor-monitor-2026-11-27.md"
     ],
     "warnings": []
   },
   "strategic_brief": {
     "week_label": "2026-W48",
-    "week_end_date": "2026-11-26",
+    "week_end_date": "2026-11-27",
     "freshness": "current",
     "status_note": "Transporeon is signaling AI positioning around unknown.",
     "sparse_explanation": "",
@@ -471,7 +471,7 @@
     "recent_history": [
       {
         "week_label": "2026-W48",
-        "week_end_date": "2026-11-26",
+        "week_end_date": "2026-11-27",
         "takeaway": "Transporeon is signaling AI positioning around unknown.",
         "signal_count": "2",
         "active_thesis_count": "0",
